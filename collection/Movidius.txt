@@ -1,0 +1,6 @@
+Movidius is a company based in San Mateo, California that designs specialised low-power processor chips for computer vision. The company was acquired by Intel in September 2016.
+
+Movidius was co-founded in Dublin in 2005 by Sean Mitchell and David Moloney. Between 2006 and 2016, it raised nearly $90 million in capital funding. In May, 2013 the company appointed Remi El-Ouazzane as CEO. In January, 2016 the company announced a partnership with Google. Movidius has been active in the Google Project Tango project. Movidius announced a planned acquisition by Intel in September 2016.
+
+The company's Myriad 2 chip is an always-on manycore Vision processing unit that can function on power-constrained devices. The "Fathom" is a USB stick containing a Myriad 2 processor, allowing a vision accelerator to be added to devices using ARM processors including PCs, drones, robots, IoT devices and video surveillance for tasks such as identifying people or objects. It can run at between 80 and 150 GFLOPS on little more than 1W of power.
+

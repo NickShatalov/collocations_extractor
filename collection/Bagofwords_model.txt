@@ -1,0 +1,51 @@
+The bag-of-words model is a simplifying representation used in natural language processing and information retrieval (IR). Also known as the vector space model. In this model, a text (such as a sentence or a document) is represented as the bag (multiset) of its words, disregarding grammar and even word order but keeping multiplicity. The bag-of-words model has also been used for computer vision.
+
+The bag-of-words model is commonly used in methods of document classification where the (frequency of) occurrence of each word is used as a feature for training a classifier.
+
+An early reference to "bag of words" in a linguistic context can be found in Zellig Harris's 1954 article on "Distributional Structure".
+
+The following models a text document using bag-of-words. Here are two simple text documents:
+(1) John likes to watch movies. Mary likes movies too.
+
+(2) John also likes to watch football games.
+Based on these two text documents, a list constructed as follows for each document:
+
+"John","likes","to","watch","movies","Mary","likes","movies","too"
+
+"John","also","likes","to","watch","football","games"
+Representing each bag-of-words as a JSON object, and attributing to the respective Javascript variable:
+
+BoW1 = {"John":1,"likes":2,"to":1,"watch":1,"movies":2,"Mary":1,"too":1};
+BoW2 = {"John":1,"also":1,"likes":1,"to":1,"watch":1,"football":1,"games":1};
+
+Each key is the word, and each value is the number of occurrences of that word in the given text document.
+
+The order of elements is free, so, for example codice_1 is also "BoW1". It is also what we expect from a strict "JSON object" representation.
+
+Note: if another document is like a union of these two, 
+(3) John likes to watch movies. Mary likes movies too. John also likes to watch football games.
+its Javascript representation will be:
+
+BoW3 = {"John":2,"likes":3,"to":2,"watch":2,"movies":2,"Mary":1,"too":1,"also":1,"football":1,"games":1};
+So, as we see in the bag algebra, the "union" of two documents in the bags-of-words representation is, formally, the disjoint union, summing the multiplicities of each element. formula_1.
+
+In practice, the Bag-of-words model is mainly used as a tool of feature generation. After transforming the text into a "bag of words", we can calculate various measures to characterize the text. The most common type of characteristics, or features calculated from the Bag-of-words model is term frequency, namely, the number of times a term appears in the text. For the example above, we can construct the following two lists to record the term frequencies of all the distinct words:
+
+(1) [1, 2, 1, 1, 2, 1, 1, 0, 0, 0]
+(2) [1, 1, 1, 1, 0, 0, 0, 1, 1, 1]
+Each entry of the lists refers to count of the corresponding entry in the list (this is also the histogram representation). For example, in the first list (which represents document 1), the first two entries are "1,2". The first entry corresponds to the word "John" which is the first word in the list, and its value is "1" because "John" appears in the first document 1 time. Similarly, the second entry corresponds to the word "likes" which is the second word in the list, and its value is "2" because "likes" appears in the first document 2 times. This list (or vector) representation does not preserve the order of the words in the original sentences, which is just the main feature of the Bag-of-words model. This kind of representation has several successful applications, for example email filtering.
+However, term frequencies are not necessarily the best representation for the text. Common words like "the", "a", "to" are almost always the terms with highest frequency in the text. Thus, having a high raw count does not necessarily mean that the corresponding word is more important. To address this problem, one of the most popular ways to "normalize" the term frequencies is to weight a term by the inverse of document frequency, or tf–idf. Additionally, for the specific purpose of classification, supervised alternatives have been developed that take into account the class label of a document. Lastly, binary (presence/absence or 1/0) weighting is used in place of frequencies for some problems. (For instance, this option is implemented in the WEKA machine learning software system.)
+
+Bag-of-word model is an orderless document representation—only the counts of words mattered. For instance, in the above example "John likes to watch movies. Mary likes movies too", the bag-of-words representation will not reveal the fact that a person's name is always followed by the verb "likes" in this text. As an alternative, the n-gram model can be used to store this spatial information within the text. Applying to the same example above, a bigram model will parse the text into following units and store the term frequency of each unit as before.
+[
+
+Conceptually, we can view bag-of-word model as a special case of the n-gram model, with n=1. For n>1 the model is named w-shingling (where "w" is equivalent to "n" denoting the number of grouped words). See language model for a more detailed discussion.
+
+A common alternative to the use of dictionaries is the hashing trick, where words are directly mapped to indices with a hashing function. By mapping words to indices directly with a hash function, no memory is required to store a dictionary. Hash collisions are typically dealt with by using freed-up memory to increase the number of hash buckets. In practice, hashing greatly simplifies the implementation of bag-of-words models and improves their scalability.
+
+In Bayesian spam filtering, an e-mail message is modeled as an unordered collection of words selected from one of two probability distributions: one representing spam and one representing legitimate e-mail ("ham"). 
+Imagine that there are two literal bags full of words. One bag is filled with words found in spam messages, and the other bag is filled with words found in legitimate e-mail. While any given word is likely to be found somewhere in both bags, the "spam" bag will contain spam-related words such as "stock", "Viagra", and "buy" much more frequently, while the "ham" bag will contain more words related to the user's friends or workplace.
+
+To classify an e-mail message, the Bayesian spam filter assumes that the message is a pile of words that has been poured out randomly from one of the two bags, and uses Bayesian probability to determine which bag it is more likely to be.
+
+

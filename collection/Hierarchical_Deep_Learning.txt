@@ -1,0 +1,11 @@
+Hierarchical Deep Learning is the machine learning task with the "hierarchical labeled" data (a classification or categorization). Since the examples given to the learner are hierarchical labeled, the evaluation is based on the accuracy or F1-measure based on multi level of the model hierarchy. This model have been used for text classification, as in Hierarchical Deep Learning employs stacks of deep learning architectures to provide specialized understanding at each level of the data hierarchy.
+
+Approaches as part of HDL include:
+
+
+The primary contribution of this technique is hierarchical classification of documents. A traditional multi-class classification technique can work well for a limited number classes, but performance drops with increasing number of categories or classes, as is present in hierarchically organized documents. Many techniques works on Hierarchical Attention for text classification, or Multimodel Deep Learning for classification task
+. Hence, they provide extensions over current methods for document classification that only consider the multi-class problem. The methods described as HDLTex can improved in multiple ways. Additional training and testing with other hierarchically structured document data sets will continue to identify architectures that work best for these problems. Also, it is possible to extend the hierarchy to more than two levels to capture more of the complexity in the hierarchical classification. For example, if keywords are treated as ordered then the hierarchy continues down multiple levels. HDLTex can also be applied to unlabeled (unsupervised) documents, such as those found in news or other media outlets. In hierarchical deep learning model, this problem is solved by creating architectures that specialize deep learning approaches for their level of the document hierarchy. The structure of Hierarchical Deep Learning for Text (HDLTex) architecture for each deep learning model is as follows:
+
+Hierarchical Deep Learning can be used for sentiment analysis in any languages for social networks of documents.
+
+

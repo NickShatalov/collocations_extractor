@@ -1,0 +1,21 @@
+Bayesian optimization is a sequential design strategy
+for global optimization of black-box functions that doesn't require derivatives.
+
+The term is generally attributed to Jonas Mockus and is coined in his work from a series of publications on global optimization in the 1970s and 1980s.
+
+Since the objective function is unknown, the Bayesian strategy is to treat it as a random function and place a prior over it.
+The prior captures our beliefs about the behaviour of the function.
+After gathering the function evaluations, which are treated as data, the prior is updated
+to form the posterior distribution over the objective function.
+The posterior distribution, in turn, is used to construct
+an acquisition function (often also referred to as infill sampling criteria) that determines what the next query point should be.
+
+Examples of acquisition functions include probability of improvement,
+expected improvement, Bayesian expected losses, upper confidence bounds (UCB), Thompson sampling
+and mixtures of these. They all trade-off exploration and exploitation so as to minimize the number of function queries. As such, Bayesian optimization is well suited for functions that are very expensive to evaluate.
+
+The maximum of the acquisition function is typically found by resorting to discretization or by means of an auxiliary optimizer.
+
+The approach has been applied to solve a wide range of problems, including learning to rank, interactive animation, robotics, sensor networks, automatic algorithm configuration, automatic machine learning toolboxes, reinforcement learning, planning, visual attention, architecture configuration in deep learning, static program analysis, experimental particle physics, etc.
+
+

@@ -1,0 +1,13 @@
+Dataiku is a computer software company headquartered in New York City. The company develops collaborative data science software marketed for big data.
+
+The company was founded in Paris in 2013 by 4 co-founders. Two of them met while working at French search engine company Exalead, including chief executive Florian Douetteau, and Clément Sténac.
+
+For its first two years, the company relied on its own capital. In January 2015, Dataiku raised $3.6 million from Serena Capital and Alven Capital, two French technology venture capital funds. This was followed by $14 million raised with FirstMark Capital, a New York City-based venture capital firm in October 2016. In September 2017 the company raised a $28 million Series B investment from Battery Ventures, as well as historic investors.
+
+Dataiku opened an office in New York City in 2015 which became the company headquarters. They opened an office in London in the summer of 2016.
+
+The software Dataiku Data Science Studio (DSS) was announced in 2014, supporting predictive modelling to build business applications. Later versions of DSS added other features.
+
+Dataiku offers a free edition and enterprise versions with additional features, such as multi-user collaboration or real-time scoring.
+
+In 2017, Dataiku entered the Gartner Magic Quadrant for Data Science Platforms as a "visionary".

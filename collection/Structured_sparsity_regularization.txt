@@ -1,0 +1,102 @@
+Structured sparsity regularization is a class of methods, and an area of research in statistical learning theory, that extend and generalize sparsity regularization learning methods. Both sparsity and structured sparsity regularization methods seek to exploit the assumption that the output variable formula_1 (i.e., response, or dependent variable) to be learned can be described by a reduced number of variables in the input space formula_2 (i.e., the domain, space of features or explanatory variables). "Sparsity regularization methods" focus on selecting the input variables that best describe the output. "Structured sparsity regularization methods" generalize and extend sparsity regularization methods, by allowing for optimal selection over structures like groups or networks of input variables in formula_2.
+
+Common motivation for the use of structured sparsity methods are model interpretability, high-dimensional learning (where dimensionality of formula_2 may be higher than the number of observations formula_5), and reduction of computational complexity. Moreover, structured sparsity methods allow to incorporate prior assumptions on the structure of the input variables, such as overlapping groups, non-overlapping groups, and acyclic graphs. Examples of uses of structured sparsity methods include face recognition, magnetic resonance image (MRI) processing, socio-linguistic analysis in natural language processing, and analysis of genetic expression in breast cancer.
+
+Consider the linear kernel regularized empirical risk minimization problem with a loss function formula_6 and the formula_7 "norm" as the regularization penalty:
+where formula_9, and formula_10 denotes the formula_7 "norm", defined as the number of nonzero entries of the vector formula_12. formula_13 is said to be sparse if formula_14. Which means that the output formula_15 can be described by a small subset of input variables.
+
+More generally, assume a dictionary formula_16 with formula_17 is given, such that the target function formula_18 of a learning problem can be written as:
+The formula_7 norm formula_22 as the number of non-zero components of formula_12 is defined as 
+formula_27 is said to be sparse if formula_28.
+
+However, while using the formula_7 norm for regularization favors sparser solutions, it is computationally difficult to use and additionally is not convex. A computationally more feasible norm that favors sparser solutions is the formula_30 norm; this has been shown to still favor sparser solutions and is additionally convex.
+
+Structured sparsity regularization extends and generalizes the variable selection problem that characterizes sparsity regularization. Consider the above regularized empirical risk minimization problem with a general kernel and associated feature map formula_16 with formula_17.
+The regularization term formula_34 penalizes each formula_35 component independently, which means that the algorithm will suppress input variables independently from each other.
+
+In several situations we may want to impose more structure in the regularization process, so that, for example, input variables are suppressed according to predefined groups. Structured sparsity regularization methods allow to impose such structure by adding structure to the norms defining the regularization term.
+
+The non-overlapping group case is the most basic instance of structured sparsity. In it, an "a priori" partition of the coefficient vector formula_12 in formula_37 non-overlapping groups is assumed. Let formula_38 be the vector of coefficients in group formula_39, we can define a regularization term and its group norm as
+where formula_41 is the group formula_42 norm formula_43 , formula_44 is group formula_39, and formula_46 is the "j-th" component of group formula_44.
+
+The above norm is also referred to as group Lasso. This regularizer will force entire coefficient groups towards zero, rather than individual coefficients. As the groups are non-overlapping, the set of non-zero coefficients can be obtained as the union of the groups that were not set to zero, and conversely for the set of zero coefficients.
+
+Overlapping groups is the structure sparsity case where a variable can belong to more than one group formula_39. This case is often of interest as it can represent a more general class of relationships among variables than non-overlapping groups can, such as tree structures or other type of graphs.
+
+There are two types of overlapping group sparsity regularization approaches, which are used to model different types of input variable relationships:
+
+The "intersection of complements" approach is used in cases when we want to select only those input variables that have positive coefficients in all groups they belong to. Consider again the group Lasso for a regularized empirical risk minimization problem:
+where formula_41 is the group formula_42 norm, formula_44 is group formula_39, and formula_46 is the "j-th" component of group formula_44.
+
+As in the non-overlapping groups case, the "group Lasso" regularizer will potentially set entire groups of coefficients to zero. Selected variables are those with coefficients formula_56. However, as in this case groups may overlap, we take the intersection of the complements of those groups that are not set to zero.
+
+This "intersection of complements" selection criteria implies the modeling choice that we allow some coefficients within a particular group formula_39 to be set to zero, while others within the same group formula_39 may remain positive. In other words, coefficients within a group may differ depending on the several group memberships that each variable within the group may have.
+
+A different approach is to consider union of groups for variable selection. This approach captures the modeling situation where variables can be selected as long as they belong at least to one group with positive coefficients. This modeling perspective implies that we want to preserve group structure.
+
+The formulation of the union of groups approach is also referred to as latent group Lasso, and requires to modify the group formula_42 norm considered above and introduce the following regularizer 
+where formula_61, formula_62 is the vector of coefficients of group g, and formula_63 is a vector with coefficients formula_46 for all variables formula_65 in group formula_39 , and formula_67 in all others, i.e., formula_68 if formula_65 in group formula_39 and formula_71 otherwise.
+
+This regularizer can be interpreted as effectively replicating variables that belong to more than one group, therefore conserving group structure. As intended by the union of groups approach, requiring formula_72 produces a vector of weights w that effectively sums up the weights of all variables across all groups they belong to.
+
+The objective function using group lasso consists of an error function, which is generally required to be convex but not necessarily strongly convex, and a group formula_30 regularization term. An issue with this objective function is that it is convex but not necessarily strongly convex, and thus generally does not lead to unique solutions.
+
+An example of a way to fix this is to introduce the squared formula_42 norm of the weight vector as an additional regularization term while keeping the formula_30 regularization term from the group lasso approach. If the coefficient of the squared formula_42 norm term is greater than formula_67, then because the squared formula_42 norm term is strongly convex, the resulting objective function will also be strongly convex. Provided that the formula_42 coefficient is suitably small but still positive, the weight vector minimizing the resulting objective function is generally very close to a weight vector that minimizes the objective function that would result from removing the group formula_42 regularization term altogether from the original objective function; the latter scenario corresponds to the group Lasso approach. Thus this approach allows for simpler optimization while maintaining sparsity.
+
+"See: Submodular set function"
+
+Besides the norms discussed above, other norms used in structured sparsity methods include hierarchical norms and norms defined on grids. These norms arise from submodular functions and allow the incorporation of prior assumptions on the structure of the input variables. In the context of hierarchical norms, this structure can be represented as a directed acyclic graph over the variables while in the context of grid-based norms, the structure can be represented using a grid.
+
+"See:" Unsupervised learning
+
+Unsupervised learning methods are often used to learn the parameters of latent variable models. Latent variable models are statistical models where in addition to the observed variables, a set of latent variables also exists which is not observed. Often in such models, "hierarchies" are assumed between the variables of the system; this system of hierarchies can be represented using directed acyclic graphs.
+
+Hierarchies of latent variables have emerged as a natural structure in several applications, notably to model text documents. Hierarchical models using Bayesian non-parametric methods have been used to learn topic models, which are statistical models for discovering the abstract "topics" that occur in a collection of documents. Hierarchies have also been considered in the context of kernel methods. Hierarchical norms have been applied to bioinformatics, computer vision and topic models.
+
+If the structure assumed over variables is in the form of a 1D, 2D or 3D grid, then submodular functions based on overlapping groups can be considered as norms, leading to stable sets equal to rectangular or convex shapes. Such methods have applications in computer vision
+
+The problem of choosing the best subset of input variables can be naturally formulated under a penalization framework as:
+Where formula_10 denotes the formula_7 "norm", defined as the number of nonzero entries of the vector formula_12.
+
+Although this formulation makes sense from a modeling perspective, it is computationally unfeasible, as it is equivalent to an exhaustive search evaluating all possible subsets of variables.
+
+Two main approaches for solving the optimization problem are: 1) greedy methods, such as step-wise regression in statistics, or matching pursuit in signal processing; and 2) convex relaxation formulation approaches and proximal gradient optimization methods.
+
+A natural approximation for the best subset selection problem is the formula_30 norm regularization:
+Such as scheme is called basis pursuit or the Lasso, which substitutes the formula_7 "norm" for the convex, non-differentiable formula_30 norm.
+
+Proximal gradient methods, also called forward-backward splitting, are optimization methods useful for minimizing functions with a convex and differentiable component, and a convex potentially non-differentiable component.
+
+As such, proximal gradient methods are useful for solving sparsity and structured sparsity regularization problems of the following form: 
+Where formula_90 is a convex and differentiable loss function like the quadratic loss, and formula_91 is a convex potentially non-differentiable regularizer such as the formula_30 norm.
+
+Structured Sparsity regularization can be applied in the context of multiple kernel learning. Multiple kernel learning refers to a set of machine learning methods that use a predefined set of kernels and learn an optimal linear or non-linear combination of kernels as part of the algorithm.
+
+In the algorithms mentioned above, a whole space was taken into consideration at once and was partitioned into groups, i.e. subspaces. A complementary point of view is to consider the case in which distinct spaces are combined to obtain a new one. It is useful to discuss this idea considering finite dictionaries. Finite dictionaries with linearly independent elements - these elements are also known as atoms - refer to finite sets of linearly independent basis functions, the linear combinations of which define hypothesis spaces. Finite dictionaries can be used to define specific kernels, as will be shown. Assume for this example that rather than only one dictionary, several finite dictionaries are considered.
+
+For simplicity, the case in which there are only two dictionaries formula_93 and formula_94 where formula_95 and formula_96 are integers, will be considered. The atoms in formula_26 as well as the atoms in formula_98 are assumed to be linearly independent. Let formula_99 be the union of the two dictionaries. Consider the linear space of functions formula_100 given by linear combinations of the form
+
+formula_101
+
+for some coefficient vectors formula_102, where formula_103. Assume the atoms in formula_104 to still be linearly independent, or equivalently, that the map formula_105 is one to one. The functions in the space formula_100 can be seen as the sums of two components, one in the space formula_107, the linear combinations of atoms in formula_26 and one in formula_109, the linear combinations of the atoms in formula_98.
+
+One choice of norm on this space is formula_111. Note that we can now view formula_100 as a function space in which formula_107, formula_109 are subspaces. In view of the linear independence assumption, formula_100 can be identified with formula_116 and formula_117 with formula_118 respectively. The norm mentioned above can be seen as the group norm in formula_100associated to the subspaces formula_107, formula_109, providing a connection to structured sparsity regularization.
+
+Here, formula_107, formula_109 and formula_100 can be seen to be the reproducing kernel Hilbert spaces with corresponding feature maps formula_125, given by formula_126, formula_127, given by formula_128, and formula_129, given by the concatenation of formula_130, respectively.
+
+In the structured sparsity regularization approach to this scenario, the relevant groups of variables which the group norms consider correspond to the subspaces formula_107 and formula_109. This approach promotes setting the groups of coefficients corresponding to these subspaces to zero as opposed to only individual coefficients, promoting sparse multiple kernel learning.
+
+The above reasoning directly generalizes to any finite number of dictionaries, or feature maps. It can be extended to feature maps inducing infinite dimensional hypothesis
+
+spaces.
+
+Considering sparse multiple kernel learning is useful in several situations including the following:
+
+• Data fusion: When each kernel corresponds to a different kind of modality/feature.
+
+• Nonlinear variable selection: Consider kernels formula_133 depending only one dimension of the input.
+
+Generally sparse multiple kernel learning is particularly useful when there are many kernels and model selection and interpretability are important.
+
+Structured sparsity regularization methods have been used in a number of settings where it is desired to impose an "a priori" input variable structure to the regularization process. Some such applications are:
+

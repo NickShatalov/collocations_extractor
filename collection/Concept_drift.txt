@@ -1,0 +1,29 @@
+In predictive analytics and machine learning, the concept drift means that the statistical properties of the target variable, which the model is trying to predict, change over time in unforeseen ways. This causes problems because the predictions become less accurate as time passes.
+
+The term "concept" refers to the quantity to be predicted. More generally, it can also refer to other phenomena of interest besides the target concept, such as an input, but, in the context of concept drift, the term commonly refers to the target variable.
+
+In a fraud detection application the target concept may be a binary attribute FRAUDULENT with values "yes" or "no" that indicates whether a given transaction is fraudulent. Or, in a weather prediction application, there may be several target concepts such as TEMPERATURE, PRESSURE, and HUMIDITY.
+
+The behavior of the customers in an online shop may change over time. For example, if weekly merchandise sales are to be predicted, and a predictive model has been developed that works satisfactorily. The model may use inputs such as the amount of money spent on advertising, promotions being run, and other metrics that may affect sales. The model is likely to become less and less accurate over time – this is concept drift. In the merchandise sales application, one reason for concept drift may be seasonality, which means that shopping behavior changes seasonally. Perhaps there will be higher sales in the winter holiday season than during the summer, for example.
+
+To prevent deterioration in prediction accuracy because of concept drift, both active and passive solutions can be adopted. Active solutions rely on triggering mechanisms, e.g., change-detection tests (Basseville and Nikiforov 1993; Alippi and Roveri, 2007) to explicitly detect concept drift as a change in the statistics of the data-generating process. In stationary conditions, any fresh information made available can be integrated to improve the model. Differently, when concept drift is detected, the current model is no more up-to-date and must be substituted with a new one to maintain the prediction accuracy (Gama et al., 2004; Alippi et al., 2011). On the contrary, in passive solutions the model is continuously updated, e.g., by retraining the model on the most recently observed samples (Widmer and Kubat, 1996), or enforcing an ensemble of classifiers (Elwell and Polikar 2011).
+
+Contextual information, when available, can be used to better explain the causes of the concept drift: for instance, in the sales prediction application, concept drift might be compensated by adding information about the season to the model. By providing information about the time of the year, the rate of deterioration of your model is likely to decrease, concept drift is unlikely to be eliminated altogether. This is because actual shopping behavior does not follow any static, finite model. New factors may arise at any time that influence shopping behavior, the influence of the known factors or their interactions may change.
+
+Concept drift cannot be avoided for complex phenomena that are not governed by fixed laws of nature. All processes that arise from human activity, such as socioeconomic processes, and biological processes are likely to experience concept drift. Therefore, periodic retraining, also known as refreshing, of any model is necessary.
+
+
+
+
+
+
+
+
+Announcements, discussions, job postings related to the topic of concept drift
+in data mining / machine learning. Posts are moderated.
+
+To subscribe go to the group home page: https://groups.google.com/group/conceptdrift
+
+Many papers have been published describing algorithms for concept drift detection. Only reviews, surveys and overviews are here:
+
+

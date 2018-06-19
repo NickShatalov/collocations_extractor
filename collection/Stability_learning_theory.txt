@@ -1,0 +1,85 @@
+Stability, also known as algorithmic stability, is a notion in computational learning theory of how a machine learning algorithm is perturbed by small changes to its inputs. A stable learning algorithm is one for which the prediction does not change much when the training data is modified slightly. For instance, consider a machine learning algorithm that is being trained to recognize handwritten letters of the alphabet, using 1000 examples of handwritten letters and their labels ("A" to "Z") as a training set. One way to modify this training set is to leave out an example, so that only 999 examples of handwritten letters and their labels are available. A stable learning algorithm would produce a similar classifier with both the 1000-element and 999-element training sets.
+
+Stability can be studied for many types of learning problems, from language learning to inverse problems in physics and engineering, as it is a property of the learning process rather than the type of information being learned. The study of stability gained importance in computational learning theory in the 2000s when it was shown to have a connection with generalization. It was shown that for large classes of learning algorithms, notably empirical risk minimization algorithms, certain types of stability ensure good generalization.
+
+A central goal in designing a machine learning system is to guarantee that the learning algorithm will generalize, or perform accurately on new examples after being trained on a finite number of them. In the 1990s, milestones were reached in obtaining generalization bounds for supervised learning algorithms. The technique historically used to prove generalization was to show that an algorithm was consistent, using the uniform convergence properties of empirical quantities to their means. This technique was used to obtain generalization bounds for the large class of empirical risk minimization (ERM) algorithms. An ERM algorithm is one that selects a solution from a hypothesis space formula_1 in such a way to minimize the empirical error on a training set formula_2.
+
+A general result, proved by Vladimir Vapnik for an ERM binary classification algorithms, is that for any target function and input distribution, any hypothesis space formula_1 with VC-dimension formula_4, and formula_5 training examples, the algorithm is consistent and will produce a training error that is at most formula_6 (plus logarithmic factors) from the true training error. The result was later extended to almost-ERM algorithms with function classes that do not have unique minimizers.
+
+Vapnik's work, using what became known as VC theory, established a relationship between generalization of a learning algorithm and properties of the hypothesis space formula_1 of functions being learned. However, these results could not be applied to algorithms with hypothesis spaces of unbounded VC-dimension. Put another way, these results could not be applied when the information being learned had a complexity that was too large to measure. Some of the simplest machine learning algorithms—for instance, for regression—have hypothesis spaces with unbounded VC-dimension. Another example is language learning algorithms that can produce sentences of arbitrary length.
+
+Stability analysis was developed in the 2000s for computational learning theory and is an alternative method for obtaining generalization bounds. The stability of an algorithm is a property of the learning process, rather than a direct property of the hypothesis space formula_1, and it can be assessed in algorithms that have hypothesis spaces with unbounded or undefined VC-dimension such as nearest neighbor. A stable learning algorithm is one for which the learned function does not change much when the training set is slightly modified, for instance by leaving out an example. A measure of Leave one out error is used in a Cross Validation Leave One Out (CVloo) algorithm to evaluate a learning algorithm's stability with respect to the loss function. As such, stability analysis is the application of sensitivity analysis to machine learning.
+
+
+We define several terms related to learning algorithms training sets, so that we can then define stability in multiple ways and present theorems from the field.
+
+A machine learning algorithm, also known as a learning map formula_9, maps a training data set, which is a set of labeled examples formula_11, onto a function formula_12 from formula_13 to formula_14, where formula_13 and formula_14 are in the same space of the training examples. The functions formula_12 are selected from a hypothesis space of functions called formula_1.
+
+The training set from which an algorithm learns is defined as
+
+formula_19
+
+and is of size formula_20 in formula_21
+
+drawn i.i.d. from an unknown distribution D.
+
+Thus, the learning map formula_9 is defined as a mapping from formula_23 into formula_1, mapping a training set formula_2 onto a function formula_26 from formula_13 to formula_14. Here, we consider only deterministic algorithms where formula_9 is symmetric with respect to formula_2, i.e. it does not depend on the order of the elements in the training set. Furthermore, we assume that all functions are measurable and all sets are countable.
+
+The loss formula_31 of a hypothesis formula_12 with respect to an example formula_33 is then defined as formula_34.
+
+The empirical error of formula_12 is formula_36.
+
+The true error of formula_12 is formula_38
+
+Given a training set S of size m, we will build, for all i = 1...,m, modified training sets as follows:
+formula_39
+formula_40
+
+An algorithm formula_9 has hypothesis stability β with respect to the loss function V if the following holds:
+
+formula_42
+
+An algorithm formula_9 has point-wise hypothesis stability β with respect to the loss function V if the following holds:
+
+formula_44
+
+An algorithm formula_9 has error stability β with respect to the loss function V if the following holds:
+
+formula_46
+
+An algorithm formula_9 has uniform stability β with respect to the loss function V if the following holds:
+
+formula_48
+
+A probabilistic version of uniform stability β is:
+
+formula_49
+
+An algorithm is said to be stable, when the value of formula_50 decreases as formula_51.
+
+An algorithm formula_9 has CVloo stability β with respect to the loss function V if the following holds:
+
+formula_53
+
+The definition of (CVloo) Stability is equivalent to Pointwise-hypothesis stability seen earlier.
+
+An algorithm formula_9 has formula_54 stability if for each n there exists a formula_57 and a formula_58 such that:
+
+formula_59, with formula_57 and formula_58 going to zero for formula_62
+
+From Bousquet and Elisseeff (02):
+
+For symmetric learning algorithms with bounded loss, if the algorithm has Uniform Stability with the probabilistic definition above, then the algorithm generalizes.
+
+Uniform Stability is a strong condition which is not met by all algorithms but is, surprisingly, met by the large and important class of Regularization algorithms.
+The generalization bound is given in the article.
+
+From Mukherjee et al. (06):
+
+
+This is an important result for the foundations of learning theory, because it shows that two previously unrelated properties of an algorithm, stability and consistency, are equivalent for ERM (and certain loss functions).
+The generalization bound is given in the article.
+
+This is a list of algorithms that have been shown to be stable, and the article where the associated generalization bounds are provided.
+
+

@@ -1,0 +1,32 @@
+Adversarial machine learning is a research field that lies at the intersection of machine learning and computer security. It aims to enable the safe adoption of machine learning techniques in adversarial settings like spam filtering, malware detection and biometric recognition.
+
+The problem arises from the fact that machine learning techniques were originally designed for stationary environments in which the training and test data are assumed to be generated from the same (although possibly unknown) distribution. In the presence of intelligent and adaptive adversaries, however, this working hypothesis is likely to be violated to at least some degree (depending on the adversary). In fact, a malicious adversary can carefully manipulate the input data exploiting specific vulnerabilities of learning algorithms to compromise the whole system security.
+
+Examples include: attacks in spam filtering, where spam messages are obfuscated through misspelling of bad words or insertion of good words; attacks in computer security, e.g., to obfuscate malware code within network packets or mislead signature detection; attacks in biometric recognition, where fake biometric traits may be exploited to impersonate a legitimate user (biometric spoofing) or to compromise users' template galleries that are adaptively updated over time.
+
+In 2017 MIT researchers 3-D printed a toy turtle with a texture engineered to make Google's object detection AI classify it as a rifle, no matter the angle the turtle was viewed from. Creating the turtle required only low-cost commercially available 3-D printing technology. In 2018 Google Brain published a machine-tweaked image of a dog that looked like a cat both to computers and to humans.
+
+To understand the security properties of learning algorithms in adversarial settings, one should address the following main issues:
+
+This process amounts to simulating a proactive arms race (instead of a reactive one, as depicted in Figures 1 and 2), where system designers try to anticipate the adversary in order to understand whether there are potential vulnerabilities that should be fixed in advance; for instance, by means of specific countermeasures such as additional features or different learning algorithms. However proactive approaches are not necessarily superior to reactive ones. For instance, in, the authors showed that under some circumstances, reactive approaches are more suitable for improving system security.
+The first step of the above-sketched arms race is identifying potential attacks against machine learning algorithms. A substantial amount of work has been done in this direction.
+
+Attacks against (supervised) machine learning algorithms have been categorized along three primary axes: their "influence" on the classifier, the "security violation" they cause, and their "specificity".
+
+
+This taxonomy has been extended into a more comprehensive threat model that allows one to make explicit assumptions on the adversary's goal, knowledge of the attacked system, capability of manipulating the input data and/or the system components, and on the corresponding (potentially, formally-defined) attack strategy. Details can be found here. Two of the main attack scenarios identified according to this threat model are sketched below.
+
+Evasion attacks are the most prevalent type of attack that may be encountered in adversarial settings during system operation. For instance, spammers and hackers often attempt to evade detection by obfuscating the content of spam emails and malware code. In the evasion setting, malicious samples are modified at test time to evade detection; that is, to be misclassified as legitimate. No influence over the training data is assumed.
+A clear example of evasion is image-based spam in which the spam content is embedded within an attached image to evade the textual analysis performed by anti-spam filters.
+Another example of evasion is given by spoofing attacks against biometric verification systems.
+
+Machine learning algorithms are often re-trained on data collected during operation to adapt to changes in the underlying data distribution. For instance, intrusion detection systems (IDSs) are often re-trained on a set of samples collected during network operation. Within this scenario, an attacker may poison the training data by injecting carefully designed samples to eventually compromise the whole learning process. Poisoning may thus be regarded as an adversarial contamination of the training data. Examples of poisoning attacks against machine learning algorithms (including learning in the presence of worst-case adversarial label flips in the training data) can be found in.
+
+Clustering algorithms have been increasingly adopted in security applications to find dangerous or illicit activities. For instance, clustering of malware and computer viruses aims to identify and categorize different existing malware families, and to generate specific signatures for their detection by anti-viruses, or signature-based intrusion detection systems like Snort.
+However, clustering algorithms have not been originally devised to deal with deliberate attack attempts that are designed to subvert the clustering process itself. Whether clustering can be safely adopted in such settings thus remains questionable. Preliminary work reporting some vulnerability of clustering can be found in.
+
+A number of defense mechanisms against evasion, poisoning and privacy attacks have been proposed in the field of adversarial machine learning, including:
+
+
+Some software libraries are available, mainly for testing purposes and research.
+

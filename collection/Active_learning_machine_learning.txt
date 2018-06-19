@@ -1,0 +1,22 @@
+Active learning is a special case of semi-supervised machine learning in which a learning algorithm is able to interactively query the user (or some other information source) to obtain the desired outputs at new data points. In statistics literature it is sometimes also called optimal experimental design. 
+
+There are situations in which unlabeled data is abundant but manually labeling is expensive. In such a scenario, learning algorithms can actively query the user/teacher for labels. This type of iterative supervised learning is called active learning. Since the learner chooses the examples, the number of examples to learn a concept can often be much lower than the number required in normal supervised learning. With this approach, there is a risk that the algorithm be overwhelmed by uninformative examples.
+Recent developments are dedicated to multi-label active learning, hybrid active learning and active learning in a single-pass (on-line) context, combining concepts from the field of Machine Learning (e.g., conflict and ignorance) with adaptive, incremental learning policies in the field of Online machine learning.
+
+Let be the total set of all data under consideration. For example, in a protein engineering problem, would include all proteins that are known to have a certain interesting activity and all additional proteins that one might want to test for that activity.
+
+During each iteration, , is broken up into three subsets
+
+Most of the current research in active learning involves the best method to choose the data points for .
+
+Algorithms for determining which data points should be labeled can be organized into a number of different categories:
+
+
+A wide variety of algorithms have been studied that fall into these categories.
+
+Some active learning algorithms are built upon Support vector machines (SVMs) and exploit the structure of the SVM to determine which data points to label. Such methods usually calculate the margin, , of each unlabeled datum in and treat as an -dimensional distance from that datum to the separating hyperplane.
+
+Minimum Marginal Hyperplane methods assume that the data with the smallest are those that the SVM is most uncertain about and therefore should be placed in to be labeled. Other similar methods, such as Maximum Marginal Hyperplane, choose data with the largest . Tradeoff methods choose a mix of the smallest and largest s.
+
+
+

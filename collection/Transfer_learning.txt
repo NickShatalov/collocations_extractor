@@ -1,0 +1,11 @@
+Transfer learning or inductive transfer is a research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem. For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks. This area of research bears some relation to the long history of psychological literature on transfer of learning, although formal ties between the two fields are limited.
+
+The earliest cited work on transfer in machine learning is attributed to Lorien Pratt, who formulated the discriminability-based transfer (DBT) algorithm in 1993. 
+
+In 1997, the journal "Machine Learning" published a special issue devoted to transfer learning, and by 1998, the field had advanced to include multi-task learning, along with a more formal analysis of its theoretical foundations. "Learning to Learn", edited by Pratt and Sebastian Thrun, is a 1998 review of the subject.
+
+Transfer learning has also been applied in cognitive science, with the journal "Connection Science"
+publishing a special issue on reuse of neural networks through transfer in 1996.
+
+Notably, scientists have developed algorithms for transfer learning in Markov logic networks and Bayesian networks. Researchers have also applied techniques for transfer to problems in building utilization, text classification, and spam filtering.
+

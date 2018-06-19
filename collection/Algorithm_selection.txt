@@ -1,0 +1,51 @@
+Algorithm selection (sometimes also called per-instance algorithm selection or offline algorithm selection) is a meta-algorithmic technique to choose an algorithm from a portfolio on an instance-by-instance basis. It is motivated by the observation that on many practical problems, algorithms have different performances. That is, while one algorithm performs well on some instances, it performs poorly on others and vice versa for another algorithm. If we can identify when to use which algorithm, we can get the best of both worlds and improve overall performance. This is what algorithm selection aims to do. The only prerequisite for applying algorithm selection techniques is that there exists (or that there can be constructed) a set of complementary algorithms.
+
+Given a portfolio formula_1 of algorithms formula_2, a set of instances formula_3 and a cost metric formula_4, the algorithm selection problem consists of finding a mapping formula_5 from instances formula_6 to algorithms formula_1 such that the cost formula_8 across all instances is optimized.
+
+A well-known application of algorithm selection is the Boolean satisfiability problem. Here, the portfolio of algorithms is a set of (complementary) SAT solvers, the instances are Boolean formulas, the cost metric is for example average runtime or number of unsolved instances. So, the goal is to select a well-performing SAT solver for each individual instance. In the same way, algorithm selection can be applied to many other formula_9-hard problems (such as mixed integer programming, CSP, AI planning, TSP, MAXSAT, QBF and answer set programming). Competition-winning systems in SAT are SATzilla, 3S and CSHC
+
+In machine learning, algorithm selection is better known as meta-learning. The portfolio of algorithms consists of machine learning algorithms (e.g., Random Forest, SVM, DNN), the instances are data sets and the cost metric is for example the error rate. So, the goal is to predict which machine learning algorithm will have a small error on each data set.
+
+The algorithm selection problem is mainly solved with machine learning techniques. By representing the problem instances by numerical features formula_10, algorithm selection can be seen as a multi-class classification problem by learning a mapping formula_11 for a given instance formula_12.
+
+Instance features are numerical representations of instances. For example, we can count the number of variables, clauses, average clause length for Boolean formulas, or number of samples, features, class balance for ML data sets to get an impression about their characteristics.
+
+We distinguish between two kinds of features: 
+
+Depending on the used performance metric formula_13, feature computation can be associated with costs.
+For example, if we use running time as performance metric, we include the time to compute our instance features into the performance of an algorithm selection system.
+SAT solving is a concrete example, where such feature costs cannot be neglected, since instance features for CNF formulas can be either very cheap (e.g., to get the number of variables can be done in constant time for CNFs in the DIMACs format) or very expensive (e.g., graph features which can cost tens or hundreds of seconds).
+
+It is important to take the overhead of feature computation into account in practice in such scenarios; otherwise a misleading impression of the performance of the algorithm selection approach is created. For example, if the decision which algorithm to choose can be made with prefect accuracy, but the features are the running time of the portfolio algorithms, there is no benefit to the portfolio approach. This would not be obvious if feature costs were omitted.
+
+One of the first successful algorithm selection approaches predicted the performance of each algorithm formula_14 and selecting the algorithm with the best predicted performance formula_15 for a new instance formula_12.
+
+A common assumption is that the given set of instances formula_6 can be clustered into homogeneous subsets 
+and for each of these subsets, there is one well-performing algorithm for all instances in there.
+So, the training consists of identifying the homogeneous clusters via an unsupervised clustering approach and associating an algorithm with each cluster.
+A new instance is assigned to a cluster and the associated algorithm selected.
+
+A more modern approach is cost-sensitive hierarchical clustering using supervised learning to identify the homogeneous instance subsets.
+
+A common approach for multi-class classification is to learn pairwise models between every pair of classes (here algorithms) 
+and choose the class that was predicted most often by the pairwise models.
+We can weight the instances of the pairwise prediction problem by the performance difference between the two algorithms.
+This is motivated by the fact that we care most about getting predictions with large differences correct, but the penalty for an incorrect prediction is small if there is almost no performance difference.
+Therefore, each instance formula_12 for training a classification model formula_19 vs formula_20 is associated with a cost formula_21.
+
+The algorithm selection problem can be effectively applied under the following assumptions:
+
+Algorithm selection is not limited to single domains but can be applied to any kind of algorithm if the above requirements are satisfied.
+Application domains include:
+
+
+For an extensive list of literature about algorithm selection, we refer to a literature overview.
+
+Online algorithm selection in Hyper-heuristic refers to switching between different algorithms during the solving process. In contrast, (offline) algorithm selection is an one-shot game where we select an algorithm for a given instance only once.
+
+An extension of algorithm selection is the per-instance algorithm scheduling problem, in which we do not select only one solver, but we select a time budget for each algorithm on a per-instance base. This approach improves the performance of selection systems in particular if the instance features are not very informative and a wrong selection of a single solver is likely.
+
+Given the increasing importance of parallel computation,
+an extension of algorithm selection for parallel computation is parallel portfolio selection,
+in which we select a subset of the algorithms to simultaneously run in a parallel portfolio.
+

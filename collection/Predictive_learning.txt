@@ -1,0 +1,3 @@
+Predictive learning is a technique of machine learning in which an agent tries to build a model of its environment by trying out different actions in various circumstances. It uses knowledge of the effects its actions appear to have, turning them into planning operators. These allow the agent to act purposefully in its world. Predictive learning is one attempt to learn with a minimum of pre-existing mental structure. It may have been inspired by Piaget's account of how children construct knowledge of the world by interacting with it. Gary Drescher's book 'Made-up Minds' was seminal for the area.
+
+Another more recent predictive learning theory is Jeff Hawkins' memory-prediction framework, which is laid out in his On Intelligence.

@@ -1,0 +1,8 @@
+In machine learning, semantic analysis of a corpus is the task of building structures that approximate concepts from a large set of documents. It generally does not involve prior semantic understanding of the documents.
+
+Latent semantic analysis (sometimes latent semantic indexing), is a class of techniques where documents are represented as vectors in term space. A prominent example is PLSI.
+
+Latent Dirichlet allocation involves attributing document terms to topics.
+
+n-grams and hidden Markov models work by representing the term stream as a markov chain where each term is derived from the few terms before it.
+

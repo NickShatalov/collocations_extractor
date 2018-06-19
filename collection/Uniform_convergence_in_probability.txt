@@ -1,0 +1,38 @@
+Uniform convergence in probability is a form of convergence in probability in statistical asymptotic theory and probability theory. It means that, under certain conditions, the "empirical frequencies" of all events in a certain event-family converge to their "theoretical probabilities". Uniform convergence in probability has applications to statistics as well as machine learning as part of statistical learning theory.
+
+The law of large numbers says that, for each "single" event, its empirical frequency in a sequence of independent trials converges (with high probability) to its theoretical probability. But in some applications, we are interested not in a single event but in a whole "family of events". We would like to know whether the empirical frequency of every event in the family converges to its theoretical probability "simultaneously". The Uniform Convergence Theorem gives a sufficient condition for this convergence to hold. Roughly, if the event-family is sufficiently simple (its VC dimension is sufficiently small) then uniform convergence holds.
+
+For a class of predicates formula_1 defined on a set formula_2 and a set of samples formula_3, where formula_4, the "empirical frequency" of formula_5 on formula_6 is
+
+The "theoretical probability" of formula_5 is defined as formula_9
+
+The Uniform Convergence Theorem states, roughly, that if formula_1 is "simple" and we draw samples independently (with replacement) from formula_2 according to any distribution formula_12, then with high probability, the empirical frequency will be close to its expected value, which is the theoretical probability.
+
+Here "simple" means that the Vapnik–Chervonenkis dimension of the class formula_1 is small relative to the size of the sample. In other words, a sufficiently simple collection of functions behaves roughly the same on a small random sample as it does on the distribution as a whole.
+
+The Uniform Convergence Theorem was first proved by Vapnik and Chervonenkis using the concept of growth function.
+
+The statement of the uniform convergence theorem is as follows:
+
+If formula_1 is a set of formula_15-valued functions defined on a set formula_2 and formula_12 is a probability distribution on formula_2 then for formula_19 and formula_20 a positive integer, we have:
+
+The maximum is guaranteed to exist since there is only a finite set of values that probability under a random permutation can take.
+
+Lemma: Basing on the previous lemma,
+
+Proof:
+Let us define formula_23 and formula_24 which is at most formula_25. This means there are functions formula_26 such that for any formula_27 between formula_28 and formula_29 with formula_30 for formula_31
+
+We see that formula_32 iff for some formula_33 in formula_1 satisfies,
+formula_35. 
+Hence if we define formula_36 if formula_37 and formula_38 otherwise.
+
+For formula_39 and formula_40, we have that formula_32 iff for some formula_42 in formula_43 satisfies formula_44. By union bound we get
+
+Since, the distribution over the permutations formula_47 is uniform for each formula_48, so formula_49 equals formula_50, with equal probability.
+
+Thus,
+
+where the probability on the right is over formula_52 and both the possibilities are equally likely. By Hoeffding's inequality, this is at most formula_53.
+
+Finally, combining all the three parts of the proof we get the Uniform Convergence Theorem.

@@ -1,0 +1,40 @@
+The cross-entropy (CE) method developed by Reuven Rubinstein is a general Monte Carlo approach to
+combinatorial and continuous multi-extremal optimization and importance sampling. 
+The method originated from the field of "rare event simulation", where
+very small probabilities need to be accurately estimated, for example in network reliability analysis, queueing models, or performance analysis of telecommunication systems.
+The CE method can be applied to static and noisy combinatorial optimization problems such as the traveling salesman problem, the quadratic assignment problem, DNA sequence alignment, the max-cut problem and the buffer allocation problem, as well as continuous global optimization problems with many local extrema.
+
+In a nutshell, the CE method consists of two phases 
+
+Consider the general problem of estimating the quantity 
+
+where formula_2 is some "performance function" and formula_3 is a member of some parametric family of distributions. Using importance sampling this quantity can be estimated as 
+
+where formula_5 is a random sample from formula_6. For positive formula_2, the theoretically "optimal" importance sampling density (pdf) is given by 
+
+This, however, depends on the unknown formula_9. The CE method aims to approximate the optimal PDF by adaptively selecting members of the parametric family that are closest (in the Kullback–Leibler sense) to the optimal PDF formula_10.
+
+
+In several cases, the solution to step 3 can be found "analytically". Situations in which this occurs are
+
+The same CE algorithm can be used for optimization, rather than estimation. 
+Suppose the problem is to maximize some function formula_22, for example, 
+formula_23. 
+To apply CE, one considers first the "associated stochastic problem" of estimating
+formula_24
+for a given "level" formula_25, and parametric family formula_26, for example the 1-dimensional 
+Gaussian distribution,
+parameterized by its mean formula_27 and variance formula_28 (so formula_29 here).
+Hence, for a given formula_25, the goal is to find formula_31 so that
+formula_32
+is minimized. This is done by solving the sample version (stochastic counterpart) of the KL divergence minimization problem, as in step 3 above.
+It turns out that parameters that minimize the stochastic counterpart for this choice of target distribution and
+parametric family are the sample mean and sample variance corresponding to the "elite samples", which are those samples that have objective function value formula_33.
+The worst of the elite samples is then used as the level parameter for the next iteration.
+This yields the following randomized algorithm that happens to coincide with the so-called Estimation of Multivariate Normal Algorithm (EMNA), an estimation of distribution algorithm.
+
+ 1. mu:=-6; sigma2:=100; t:=0; maxits=100; // Initialize parameters
+
+
+
+

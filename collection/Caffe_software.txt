@@ -1,0 +1,12 @@
+CAFFE (Convolutional Architecture for Fast Feature Embedding) is a deep learning framework, originally developed at UC Berkeley. It is open source, under a BSD license. It is written in C++, with a Python interface.
+
+Yangqing Jia created the caffe project during his PhD at UC Berkeley. Now there are many contributors to the project, and it is hosted at GitHub.
+
+Caffe supports many different types of deep learning architectures geared towards image classification and image segmentation. It supports CNN, RCNN, LSTM and fully connected neural network designs. Caffe supports GPU- and CPU-based acceleration computational kernel libraries such as NVIDIA cuDNN and Intel MKL.
+
+Caffe is being used in academic research projects, startup prototypes, and even large-scale industrial applications in vision, speech, and multimedia. Yahoo! has also integrated caffe with Apache Spark to create CaffeOnSpark, a distributed deep learning framework.
+
+In April 2017, Facebook announced Caffe2, which includes new features such as Recurrent Neural Networks.
+End of March 2018, Caffe2 was merged into PyTorch.
+
+

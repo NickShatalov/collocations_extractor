@@ -1,0 +1,3 @@
+BigDL is a distributed deep learning framework for Apache Spark, created by Jason Dai at Intel.
+It is hosted at GitHub.
+

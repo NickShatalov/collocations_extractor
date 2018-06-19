@@ -1,0 +1,20 @@
+Multilinear principal component analysis (MPCA) is a multilinear extension of principal component analysis (PCA). MPCA is employed in the analysis of n-way arrays, i.e. a cube or hyper-cube of numbers, also informally referred to as a "data tensor". N-way arrays may be decomposed, analyzed, or modeled by 
+The origin of MPCA can be traced back to the Tucker decomposition and Peter Kroonenberg's "M-mode PCA/3-mode PCA" work. In 2000, De Lathauwer et al. restated Tucker and Kroonenberg's work in clear and concise numerical computational terms in their SIAM paper entitled "Multilinear Singular Value Decomposition", (HOSVD) and in their paper "On the Best Rank-1 and Rank-(R, R, ..., R ) Approximation of Higher-order Tensors".
+
+Circa 2001, Vasilescu reframed the data analysis, recognition and synthesis problems as multilinear tensor problems based on the insight that most observed data are the compositional consequence of several causal factors of data formation, and are well suited for multi-modal data tensor analysis. The power of the tensor framework was showcased by analyzing human motion joint angles, facial images or textures in terms of their causal factors of data formation in the following works: Human Motion Signatures
+(CVPR 2001, ICPR 2002), face recognition – TensorFaces,
+(ECCV 2002, CVPR 2003, etc.) and computer graphics – TensorTextures (Siggraph 2004).
+
+Historically, MPCA has been referred to as "M-mode PCA", a terminology which was coined by Peter Kroonenberg in 1980. In 2005, Vasilescu and Terzopoulos introduced the Multilinear PCA terminology as a way to better differentiate between linear and multilinear tensor decomposition, as well as, to better differentiate between the work that computed 2nd order statistics associated with each data tensor mode(axis), and subsequent work on Multilinear Independent Component Analysis that computed higher order statistics associated with each tensor mode/axis.
+
+Multilinear PCA may be applied to compute the causal factors of data formation, or as signal processing tool on data tensors whose individual observation have either been vectorized, or whose observations are treated as matrix and concatenated into a data tensor.
+
+MPCA computes a set of orthonormal matrices associated with each mode of the data tensor which are analogous to the orthonormal row and column space of a matrix computed by the matrix SVD. This transformation aims to capture as high a variance as possible, accounting for as much of the variability in the data associated with each data tensor mode(axis).
+
+The MPCA solution follows the alternating least square (ALS) approach. It is iterative in nature.
+As in PCA, MPCA works on centered data. Centering is a little more complicated for tensors, and it is problem dependent.
+
+MPCA features: Supervised MPCA feature selection is used in object recognition while unsupervised MPCA feature selection is employed in visualization task.
+
+Various extensions of MPCA have been developed:
+

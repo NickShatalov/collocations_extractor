@@ -1,0 +1,87 @@
+Multiplicative weight update method is a meta-algorithm. It is an algorithmic technique which "maintains a distribution on a certain set of interest, and updates it iteratively by multiplying the probability mass of elements by suitably chosen factors based on feedback obtained by running another algorithm on the distribution". It was discovered repeatedly in very diverse fields such as machine learning (AdaBoost, Winnow, Hedge), optimization (solving linear programs), theoretical computer science (devising fast algorithm for LPs and SDPs), and game theory.
+
+"Multiplicative weights" implies the iterative rule used in algorithms derived from the multiplicative weight update method. It is given with different names in the different fields where it was discovered or rediscovered.
+
+The earliest known version of this technique was in an algorithm named "fictitious play" which was proposed in game theory in the early 1950s. Grigoriadis and Khachiyan applied a randomized variant of "fictitious play" to solve two-player zero-sum games efficiently using the multiplicative weights algorithm. In this case, player allocates higher weight to the actions that had a better outcome and choose his strategy relying on these weights. In machine learning, Littlestone applied the earliest form of the multiplicative weights update rule in his famous winnow algorithm, which is similar to Minsky and Papert's earlier perceptron learning algorithm. Later, he generalized the winnow algorithm to weighted majority algorithm. Freund and Schapire followed his steps and generalized the winnow algorithm in the form of hedge algorithm.
+
+The multiplicative weights algorithm is also widely applied in computational geometry such as Clarkson's algorithm for linear programming (LP) with a bounded number of variables in linear time. Later, Bronnimann and Goodrich employed analogous methods to find set covers for hypergraphs with small VC dimension.
+
+In operation research and on-line statistical decision making problem field, the weighted majority algorithm and its more complicated versions have been found independently.
+
+In computer science field, some researchers have previously observed the close relationships between multiplicative update algorithms used in different contexts. Young discovered the similarities between fast LP algorithms and Raghavan's method of pessimistic estimators for derandomization of randomized rounding algorithms; Klivans and Servedio linked boosting algorithms in learning theory to proofs of Yao's XOR Lemma; Garg and Khandekar defined a common framework for convex optimization problems that contains Garg-Konemann and Plotkin-Shmoys-Tardos as subcases.
+
+A binary decision needs to be made based on n experts’ opinions to attain an associated payoff. In the first round, all experts’ opinions have the same weight. The decision maker will make the first decision based on the majority of the experts' prediction. Then, in each successive round, the decision maker will repeatedly update the weight of each expert's opinion depending on the correctness of his prior predictions. Real life examples includes predicting if it is rainy tomorrow or if the stock market will go up or go down.
+
+Given a sequential game played between an adversary and an aggregator who is advised by N experts, the goal is for the aggregator to make as few mistakes as possible. Assume there is an expert among the N experts who always gives the correct prediction. In the halving algorithm, only the consistent experts are retained. Experts who make mistake will all be dismissed. For every decision, the aggregator decides by taking a majority vote among the remaining experts. Therefore, every time the aggregator makes a mistake, at least half of the remaining experts are dismissed. The aggregator makes at most mistakes.
+
+Unlike halving algorithm which dismisses experts who have made mistakes, weighted majority algorithm discounts their advice. Given the same "expert advice" setup, suppose we have n decisions, and we need to select one decision for each loop. In each loop, every decision incurs a cost. All costs will be revealed after making the choice. The cost is 0 if the expert is correct, and 1 otherwise. this algorithm's goal is to limit its cumulative losses to roughly the same as the best of experts.
+The very first algorithm that makes choice based on majority vote every iteration does not work since the majority of the experts can be wrong consistently every time. The weighted majority algorithm corrects above trivial algorithm by keeping a weight of experts instead of fixing the cost at either 1 or 0. This would make fewer mistakes compared to halving algorithm.
+
+If formula_10, the weight of the expert's advice will remain the same. When formula_1 increases, the weight of the expert's advice will decrease. Note that some researchers fix formula_12 in weighted majority algorithm.
+
+After formula_6 steps, let formula_14 be the number of mistakes of expert i and formula_15 be the number of mistakes our algorithm has made. Then we have the following bound for every formula_16:
+
+In particular, this holds for i which is the best expert. Since the best expert will have the least formula_14, it will give the best bound on the number of mistakes made by the algorithm as a whole.
+
+Given the same setup with N experts. Consider the special situation where the proportions of experts predicting positive and negative, counting the weights, are both close to 50%. Then, there might be a tie. Following the weight update rule in weighted majority algorithm, the predictions made by the algorithm would be randomized. The algorithm calculates the probabilities of experts predicting positive or negatives, and then makes a random decision based on the computed fraction:
+
+predict 
+
+where 
+
+The number of mistakes made by the randomized weighted majority algorithm is bounded as: 
+
+where formula_22 and formula_23.
+
+Note that only the learning algorithm is randomized. The underlying assumption is that the examples and experts' predictions are not random. The only randomness is the randomness where the learner makes his own prediction.
+In this randomized algorithm, formula_24 if formula_25. Compared to weighted algorithm, this randomness halved the number of mistakes the algorithm is going to make. However, it is important to note that in some research, people define formula_12 in weighted majority algorithm and allow formula_27 in randomized weighted majority algorithm.
+
+The multiplicative weights method is usually used to solve a constrained optimization problem. Let each expert be the constraint in the problem, and the events represent the points in the area of interest. The punishment of the expert corresponds to how well its corresponding constraint is satisfied on the point represented by an event.
+
+Suppose we were given the distribution formula_28 on experts. Let formula_29 = payoff matrix of a finite two-player zero-sum game, with formula_30 rows.
+
+When the row player formula_31 uses plan formula_16 and the column player formula_33 uses plan formula_34, the payoff of player formula_33 is formula_36≔formula_37, assuming formula_38.
+
+If player formula_31 chooses action formula_16 from a distribution formula_28 over the rows, then the expected result for player formula_33 selecting action formula_34 is formula_44.
+
+To maximize formula_45, player formula_33 is should choose plan formula_34. Similarly, the expected payoff for player formula_48 is formula_49. Choosing plan formula_16 would minimize this payoff. By John Von Neumann's Min-Max Theorem, we obtain:
+
+where P and i changes over the distributions over rows, Q and j changes over the columns.
+
+Then, let formula_52 denote the common value of above quantities, also named as the "value of the game". Let formula_53 be an error parameter. To solve the zero-sum game bounded by additive error of formula_54,
+
+So there is an algorithm solving zero-sum game up to an additive factor of δ using O(/formula_57) calls to ORACLE, with an additional processing time of O(n) per call
+
+In machine learning, Littlestone and Warmuth generalized the winnow algorithm to the weighted majority algorithm. Later, Freund and Schapire generalized it in the form of hedge algorithm. AdaBoost Algorithm formulated by Yoav Freund and Robert Schapire also employed the Multiplicative Weight Update Method.
+
+Based on current knowledge in algorithms, multiplicative weight update method was first used in Littlestone's winnow algorithm. It is used in machine learning to solve a linear program.
+
+Given formula_58 labeled examples formula_59 where formula_60 are feature vectors, and formula_61 are their labels.
+
+The aim is to find non-negative weights such that for all examples, the sign of the weighted combination of the features matches its labels. That is, require that formula_62 for all formula_34. Without loss of generality, assume the total weight is 1 so that they form a distribution. Thus, for notational convenience, redefine formula_64 to be formula_65, the problem reduces to finding a solution to the following LP:
+
+This is general form of LP.
+
+The hedge algorithm is similar to the weighted majority algorithm. However, their exponential update rules are different.
+It is generally used to solve the problem of binary allocation in which we need to allocate different portion of resources into N different options. The loss with every option is available at the end of every iteration. The goal is to reduce the total loss suffered for a particular allocation. The allocation for the following iteration is then revised, based on the total loss suffered in the current iteration using multiplicative update.
+
+Assume the learning rate formula_69 and for formula_70, formula_71 is picked by Hedge. Then for all experts formula_16,
+
+Initialization: Fix an formula_69. For each expert, associate the weight formula_75 ≔1
+For t=1,2,…,T:
+
+This algorithm maintains a set of weights formula_80 over the training examples. On every iteration formula_3, a distribution formula_71 is computed by normalizing these weights. This distribution is fed to the weak learner WeakLearn which generates a hypothesis formula_83 that (hopefully) has small error with respect to the distribution. Using the new hypothesis formula_83, AdaBoost generates the next weight vector formula_85. The process repeats. After T such iterations, the final hypothesis formula_86 is the output. The hypothesis formula_86 combines the outputs of the T weak hypotheses using a weighted majority vote.
+
+Given a formula_109 matrix formula_29 and formula_111, is there a formula_112 such that formula_113?
+
+Using the oracle algorithm in solving zero-sum problem, with an error parameter formula_115, the output would either be a point formula_112 such that formula_117 or a proof that formula_112 does not exist, i.e., there is no solution to this linear system of inequalities.
+
+Given vector formula_119, solves the following relaxed problem
+
+If there exists a x satisfying (1), then x satisfies (2) for all formula_121. The contrapositive of this statement is also true.
+Suppose if oracle returns a feasible solution for a formula_122, the solution formula_112 it returns has bounded width formula_124.
+So if there is a solution to (1), then there is an algorithm that its output x satisfies the system (2) up to an additive error of formula_125. The algorithm makes at most formula_126 calls to a width-bounded oracle for the problem (2). The contrapositive stands true as well. The multiplicative updates is applied in the algorithm in this case.
+
+In operations research and on-line statistical decision making problem field, the weighted majority algorithm and its more complicated versions have been found independently.
+
+The multiplicative weights algorithm is also widely applied in computational geometry, such as Clarkson's algorithm for linear programming (LP) with a bounded number of variables in linear time. Later, Bronnimann and Goodrich employed analogous methods to find Set Covers for hypergraphs with small VC dimension.

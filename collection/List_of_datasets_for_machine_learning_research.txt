@@ -1,0 +1,22 @@
+These datasets are used for machine-learning research and have been cited in peer-reviewed academic journals. Datasets are an integral part of the field of machine learning. Major advances in this field can result from advances in learning algorithms (such as deep learning), computer hardware, and, less-intuitively, the availability of high-quality training datasets. High-quality labeled training datasets for supervised and semi-supervised machine learning algorithms are usually difficult and expensive to produce because of the large amount of time needed to label the data. Although they do not need to be labeled, high-quality datasets for unsupervised learning can also be difficult and costly to produce.
+
+Datasets consisting primarily of images or videos for tasks such as object detection, facial recognition, and multi-label classification.
+
+In computer vision, face images have been used extensively to develop facial recognition systems, face detection, and many other projects that use images of faces.
+Datasets consisting primarily of text for tasks such as natural language processing, sentiment analysis, translation, and cluster analysis.
+
+Datasets of sounds and sound features.
+
+Datasets containing electric signal information requiring some sort of Signal processing for further analysis.
+
+Datasets from physical systems
+
+Datasets from biological systems.
+
+This section includes datasets that deals with structured data.
+
+Datasets consisting of rows of observations and columns of attributes characterizing those observations. Typically used for regression analysis or classification but other types of algorithms can also be used. This section includes datasets that do not fit in the above categories.
+
+As datasets come in myriad formats and can sometimes be difficult to use, there has been considerable work put into curating and standardizing the format of datasets to make them easier to use for machine learning research.
+
+

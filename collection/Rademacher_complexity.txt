@@ -1,0 +1,69 @@
+In computational learning theory (machine learning and theory of computation), Rademacher complexity, named after Hans Rademacher, measures richness of a class of real-valued functions with respect to a probability distribution.
+
+Given a set formula_1, the Rademacher complexity of A is defined as follows:
+
+where formula_3 are independent random variables drawn from the Rademacher distribution i.e.
+formula_4 for formula_5.
+
+Given a sample formula_6, and a class formula_7 of real-valued functions defined on a domain space formula_8, the empirical Rademacher complexity of formula_7 given formula_10 is defined as:
+
+This can also be written using the previous definition:
+where formula_13 denotes function composition, i.e.:
+
+Let formula_15 be a probability distribution over formula_8. 
+The Rademacher complexity of the function class formula_7 with respect to formula_15 for sample size formula_19 is:
+
+where the above expectation is taken over an identically independently distributed (i.i.d.) sample formula_21 generated according to formula_15.
+
+1. formula_23 contains a single vector, e.g., formula_24. Then:
+The same is true for every singleton hypothesis class.
+
+2. formula_23 contains two vectors, e.g., formula_27. Then:
+
+The Rademacher complexity can be used to derive data-dependent upper-bounds on the learnability of function classes. Intuitively, a function-class with smaller Rademacher complexity is easier to learn.
+
+In machine learning, it is desired to have a training set that represents the true distribution of samples. This can be quantified using the notion of representativeness. Denote by P the probability distribution from which the samples are drawn. Denote by formula_30 the set of hypotheses (potential classifiers) and denote by formula_7 the corresponding set of error functions, i.e., for every formula_32, there is a function formula_33, that maps each training sample (features,label) to the error of the classifier formula_34 on that sample (for example, if we do binary classification and the error function is the simple 0-1 loss, then formula_35 is a function that returns 0 for each training sample on which formula_34 is correct and 1 for each training sample on which formula_34 is wrong). Define:
+The representativeness of the sample formula_10, with respect to formula_15 and formula_7, is defined as:
+Smaller representativeness is better, since it means that the empirical error of a classifier on the training set is not much lower than its true error.
+
+The expected representativeness of a sample can be bounded by the expected Rademacher complexity of the function class:
+
+When the Rademacher complexity is small, it is possible to learn the hypothesis class H using empirical risk minimization.
+
+For example, (with binary error function), for every formula_45, with probability at least formula_46, for every hypothesis formula_32:
+
+Since smaller Rademacher complexity is better, it is useful to have upper bounds on the Rademacher complexity of various function sets. The following rules can be used to upper-bound the Rademacher complexity of a set formula_49.
+
+1. If all vectors in formula_23 are translated by a constant vector formula_51, then Rad(A) does not change.
+
+2. If all vectors in formula_23 are multiplied by a scalar formula_53, then Rad(A) is multiplied by formula_54.
+
+3. Rad(A+B) = Rad(A) + Rad(B).
+
+4. (Kakade&Tewari Lemma) If all vectors in formula_23 are operated by a Lipschitz function, then Rad(A) is (at most) multiplied by the Lipschitz constant of the function. In particular, if all vectors in formula_23 are operated by a contraction mapping, then Rad(A) strictly decreases.
+
+5. The Rademacher complexity of the convex hull of formula_23 equals Rad(A).
+
+6. (Massart Lemma) The Rademacher complexity of a finite set grows logarithmically with the set size. Formally, let formula_23 be a set of formula_59 vectors in formula_60, and let formula_61 be the mean of the vectors in formula_23. Then:
+In particular, if formula_23 is a set of binary vectors, the norm is at most formula_65, so:
+
+Let formula_30 be a set family whose VC dimension is formula_68. It is known that the growth function of formula_30 is bounded as:
+This means that, for every set formula_34 with at most formula_19 elements, formula_74. The set-family formula_75 can be considered as a set of binary vectors over formula_60. Substituting this in Massart's lemma gives:
+
+With more advanced techniques (Dudley's entropy bound and Haussler's upper bound) one can show, for example, that there exists a constant formula_78, such that any class of formula_79-indicator functions with Vapnik-Chervonenkis dimension formula_68 has Rademacher complexity upper-bounded by formula_81.
+
+The following bounds are related to linear operations on formula_10 - a constant set of formula_19 vectors in formula_84.
+
+1. Define formula_85 the set of dot-products of the vectors in formula_10 with vectors in the unit ball. Then:
+
+2. Define formula_88 the set of dot-products of the vectors in formula_10 with vectors in the unit ball of the 1-norm. Then:
+
+The following bound relates the Rademacher complexity of a set formula_23 to its external covering number - the number of balls of a given radius formula_92 whose union contains formula_23. The bound is attributed to Dudley.
+
+Suppose formula_94 is a set of vectors whose length (norm) is at most formula_95. Then, for every integer formula_96:
+
+In particular, if formula_23 lies in a "d"-dimensional subspace of formula_60, then:
+Substituting this in the previous bound gives the following bound on the Rademacher complexity:
+
+Gaussian complexity is a similar complexity with similar physical meanings, and can be obtained from the Rademacher complexity using the random variables formula_102 instead of formula_103, where formula_102 are Gaussian i.i.d. random variables with zero-mean and variance 1, i.e. formula_105.
+
