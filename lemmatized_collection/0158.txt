@@ -1,0 +1,1 @@
+a querylevel feature or qlf be a rank feature utilize in a machinelearned rank algorithm . example qlfs .

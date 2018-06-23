@@ -1,0 +1,1 @@
+bigdl be a distribute deep learn framework for apache spark create by jason dai at intel . it is host at github .

@@ -1,0 +1,1 @@
+elastic matching be one of the pattern recognition technique in computer science . elastic matching em be also known a deformable template flexible matching or nonlinear template match . elastic matching can be define a an optimization problem of twodimensional warping specify corresponding pixel between subject image .

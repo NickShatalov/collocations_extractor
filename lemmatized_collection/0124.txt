@@ -1,0 +1,1 @@
+expectation propagation ep be a technique in bayesian machine learn . ep find approximation to a probability distribution . it use an iterative approach that leverage the factorization structure of the target distribution . it differ from other bayesian approximation approach such a variational bayesian method .
