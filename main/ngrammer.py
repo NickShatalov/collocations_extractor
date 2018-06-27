@@ -14,7 +14,7 @@ class NGrammer(object):
     _delimiters = None
     _delimiters_regex = None
     _lengthInWords = 0
-    
+
     def __init__(self):
         self._phrase2freq = {}
         self._delimiters = {}
