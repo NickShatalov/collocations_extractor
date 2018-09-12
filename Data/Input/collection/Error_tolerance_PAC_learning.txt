@@ -1,0 +1,36 @@
+In PAC learning, error tolerance refers to the ability of an algorithm to learn when the examples received have been corrupted in some way. In fact, this is a very common and important issue since in many applications it is not possible to access noise-free data. Noise can interfere with the learning process at different levels: the algorithm may receive data that have been occasionally mislabeled, or the inputs may have some false information, or the classification of the examples may have been maliciously adulterated.
+
+In the following, let formula_1 be our formula_2-dimensional input space. Let formula_3 be a class of functions that we wish to use in order to learn a formula_4-valued target function formula_5 defined over formula_1. Let formula_7 be the distribution of the inputs over formula_1. The goal of a learning algorithm formula_9 is to choose the best function formula_10 such that it minimizes formula_11. Let us suppose we have a function formula_12 that can measure the complexity of formula_5. Let formula_14 be an oracle that, whenever called, returns an example formula_15 and its correct label formula_16.
+
+When no noise corrupts the data, we can define learning in the Valiant setting:
+
+Definition:
+We say that formula_5 is efficiently learnable using formula_3 in the Valiant setting if there exists a learning algorithm formula_9 that has access to formula_14 and a polynomial formula_21 such that for any formula_22 and formula_23 it outputs, in a number of calls to the oracle bounded by formula_24 , a function formula_10 that satisfies with probability at least formula_26 the condition formula_27.
+
+In the following we will define learnability of formula_5 when data have suffered some modification.
+
+In the classification noise model a noise rate formula_29 is introduced. Then, instead of formula_30 that returns always the correct label of example formula_15, algorithm formula_32 can only call a faulty oracle formula_33 that will flip the label of formula_15 with probability formula_35. As in the Valiant case, the goal of a learning algorithm formula_9 is to choose the best function formula_10 such that it minimizes formula_11. In applications it is difficult to have access to the real value of formula_35, but we assume we have access to its upperbound formula_40. Note that if we allow the noise rate to be formula_41, then learning becomes impossible in any amount of computation time, because every label conveys no information about the target function.
+
+Definition:
+We say that formula_5 is efficiently learnable using formula_3 in the classification noise model if there exists a learning algorithm formula_9 that has access to formula_33 and a polynomial formula_21 such that for any formula_47, formula_48 and formula_49 it outputs, in a number of calls to the oracle bounded by formula_50 , a function formula_10 that satisfies with probability at least formula_26 the condition formula_27.
+
+Statistical Query Learning is a kind of active learning problem in which the learning algorithm formula_9 can decide if to request information about the likelihood formula_55 that a function formula_5 correctly labels example formula_15, and receives an answer accurate within a tolerance formula_58. Formally, whenever the learning algorithm formula_9 calls the oracle formula_60, it receives as feedback probability formula_61, such that formula_62.
+
+Definition:
+We say that formula_5 is efficiently learnable using formula_3 in the statistical query learning model if there exists a learning algorithm formula_9 that has access to formula_60 and polynomials formula_67, formula_68, and formula_69 such that for any formula_22 the following hold:
+
+Note that the confidence parameter formula_80 does not appear in the definition of learning. This is because the main purpose of formula_80 is to allow the learning algorithm a small probability of failure due to an unrepresentative sample. Since now formula_60 always guarantees to meet the approximation criterion formula_62, the failure probability is no longer needed.
+
+The statistical query model is strictly weaker than the PAC model: any efficiently SQ-learnable class is efficiently PAC learnable in the presence of classification noise, but there exist efficient PAC-learnable problems such as parity that are not efficiently SQ-learnable.
+
+In the malicious classification model an adversary generates errors to foil the learning algorithm. This setting describes situations of error burst, which may occur when for a limited time transmission equipment malfunctions repeatedly. Formally, algorithm formula_9 calls an oracle formula_85 that returns a correctly labeled example formula_15 drawn, as usual, from distribution formula_7 over the input space with probability formula_88, but it returns with probability formula_89 an example drawn from a distribution that is not related to formula_7. 
+Moreover, this maliciously chosen example may strategically selected by an adversary who has knowledge of formula_5, formula_89, formula_7, or the current progress of the learning algorithm.
+
+Definition:
+Given a bound formula_94 for formula_95, we say that formula_5 is efficiently learnable using formula_3 in the malicious classification model, if there exist a learning algorithm formula_9 that has access to formula_85 and a polynomial formula_100 such that for any formula_22, formula_23 it outputs, in a number of calls to the oracle bounded by formula_103 , a function formula_10 that satisfies with probability at least formula_26 the condition formula_27.
+
+In the nonuniform random attribute noise model the algorithm is learning a Boolean function, a malicious oracle formula_107 may flip each formula_108-th bit of example formula_109 independently with probability formula_110.
+
+This type of error can irreparably foil the algorithm, in fact the following theorem holds:
+
+In the nonuniform random attribute noise setting, an algorithm formula_9 can output a function formula_10 such that formula_113 only if formula_114.

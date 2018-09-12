@@ -1,0 +1,15 @@
+AIVA (Artificial Intelligence Virtual Artist) is a deep learning algorithm applied to music composition. In June 2016, it became the first system of algorithmic composition to be registered, as a composer, in an authors' right Society SACEM.
+
+Created in February 2016, AIVA specializes in Classical and Symphonic music composition. It became the world’s first virtual composer to be recognized by a music society (SACEM).
+By reading a large collection of existing works of classical music (written by human composers such as Bach, Beethoven, Mozart) AIVA is capable of understanding concepts of music theory and composing on its own. The algorithm AIVA is based on deep learning and reinforcement learning architectures
+
+AIVA is a published composer; its first studio album “Genesis” was released in November 2016 and counts 20 original and 4 orchestrated works composed by AIVA. The tracks were recorded by human musicians:
+Olivier Hecho as the Conductor of the Aiva Sinfonietta Orchestra and Eric Breton as a Pianist. 
+
+
+Track listing:
+
+Avignon Symphonic Orchestra [ORAP] also performed Aiva's compositions in April 2017.
+
+This is the preview of the score Op. n°3 for piano solo "A little chamber music", composed by AIVA.
+

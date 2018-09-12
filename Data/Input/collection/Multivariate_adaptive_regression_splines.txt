@@ -1,0 +1,230 @@
+In statistics, multivariate adaptive regression splines (MARS) is a form of regression analysis introduced by Jerome H. Friedman in 1991. It is a non-parametric regression technique
+and can be seen as an extension of linear models that automatically models nonlinearities and interactions between variables.
+
+The term "MARS" is trademarked and licensed to Salford Systems. In order to avoid trademark infringements, many open source implementations of MARS are called "Earth".
+
+This section introduces MARS using a few examples. We start with a set of data: a matrix of input variables "x", and a vector of the observed responses "y", with a response for each row in "x". For example, the data could be:
+
+Here there is only one independent variable, so the "x" matrix is just a single column. Given these measurements, we would like to build a model which predicts the expected "y" for a given "x".
+A linear model for the above data is
+
+The hat on the formula_2 indicates that formula_2 is estimated from the data. The figure on the right shows a plot of this function: 
+a line giving the predicted formula_2 versus "x", with the original values of "y" shown as red dots.
+
+The data at the extremes of "x" indicates that the relationship between "y" and "x" may be non-linear (look at the red dots relative to the regression line at low and high values of "x"). We thus turn to MARS to automatically build a model taking into account non-linearities. MARS software constructs a model from the given "x" and "y" as follows
+
+The figure on the right shows a plot of this function: the predicted formula_2 versus "x", with the original values of y once again shown as red dots. The predicted response is now a better fit to the original "y" values.
+
+MARS has automatically produced a kink
+in the predicted "y" to take into account non-linearity.
+The kink is produced by "hinge functions".
+The hinge functions are the expressions starting with formula_7
+(where formula_8 
+is formula_9 if formula_10, else formula_11).
+Hinge functions are described in more detail below.
+
+In this simple example, we can easily see from the plot that
+"y" has a non-linear relationship with "x"
+(and might perhaps guess that y varies with the square of "x").
+However, in general there will be multiple 
+independent variables,
+and the relationship between "y" and these variables will be unclear
+and not easily visible by plotting.
+We can use MARS to discover that non-linear relationship.
+
+An example MARS expression with multiple variables is
+
+This expression models air pollution (the ozone level)
+as a function of the temperature and a few other variables.
+Note that the last term in the formula (on the last line)
+incorporates an interaction between formula_13
+and formula_14.
+
+The figure on the right plots the predicted 
+formula_15 as formula_13 and 
+formula_14 vary,
+with the other variables fixed at their median values.
+The figure shows that wind does not affect the ozone
+level unless visibility is low.
+We see that MARS can build quite flexible regression surfaces
+by combining hinge functions.
+
+To obtain the above expression, the MARS model building procedure
+automatically selects which variables to use (some variables are
+important, others not), the positions of the kinks in the hinge
+functions, and how the hinge functions are combined.
+
+MARS builds models of the form
+
+The model is a weighted sum of basis functions
+formula_19.
+Each formula_20 is a constant coefficient.
+For example, each line in the formula for ozone above is one basis function
+multiplied by its coefficient.
+
+Each basis function
+formula_19
+takes one of the following three forms:
+
+1) a constant 1. There is just one such term, the intercept.
+In the ozone formula above, the intercept term is 5.2.
+
+2) a "hinge" function.
+A hinge function has the form 
+formula_22
+or 
+formula_23.
+MARS automatically selects variables
+and values of those variables for knots of the hinge functions.
+Examples of such basis functions can be seen
+in the middle three lines of the ozone formula.
+
+3) a product of two or more hinge functions.
+These basis functions can model interaction between two or more variables.
+An example is the last line of the ozone formula.
+
+Hinge functions are a key part of MARS models. A hinge function takes the form
+or 
+where formula_26 is a constant, called the "knot".
+The figure on the right shows a mirrored pair of hinge functions with a knot at 3.1.
+
+A hinge function is zero for part of its range, so can be used to partition the data into disjoint regions, each of which can be treated independently. Thus for example a mirrored pair of hinge functions in the expression
+creates the piecewise linear graph shown for the simple MARS model in the previous section.
+
+One might assume that only piecewise linear functions can be formed from hinge functions, but hinge functions can be multiplied together to form non-linear functions.
+
+Hinge functions are also called ramp, hockey stick, or rectifier functions. Instead of the formula_7 notation used in this article, hinge functions are often represented by formula_29 where formula_30 means take the positive part.
+
+MARS builds a model in two phases:
+the forward and the backward pass.
+This two-stage approach is the same as that used by 
+recursive partitioning trees.
+
+MARS starts with a model which consists of just the intercept term
+(which is the mean of the response values).
+
+MARS then repeatedly adds basis function in pairs to the model.
+At each step it finds the pair of basis functions that 
+gives the maximum reduction in sum-of-squares
+residual error
+(it is a greedy algorithm).
+The two basis functions in the pair
+are identical except that a different
+side of a mirrored hinge function is used for each function.
+Each new basis function consists of 
+a term already in the model 
+multiplied by a new hinge function.
+A hinge function is defined by a variable and a knot,
+so to add a new basis function, MARS must search over
+all combinations of the following:
+
+1) existing terms (called "parent terms" in this context)
+
+2) all variables (to select one for the new basis function)
+
+3) all values of each variable (for the knot of the new hinge function).
+
+To calculate the coefficient of each term
+MARS applies a linear regression over the terms.
+
+This process of adding terms continues until
+the change in residual error is too small to continue
+or until the maximum number of terms is reached.
+The maximum number of terms
+is specified by the user before model building starts.
+
+The search at each step is done in a brute force fashion,
+but a key aspect of MARS is that
+because of the nature of hinge functions
+the search can be done relatively
+quickly using a fast least-squares update technique.
+Actually, the search is not quite brute force.
+The search can be sped up with a heuristic 
+that reduces the number
+of parent terms to consider at each step
+("Fast MARS"
+
+The forward pass usually builds an overfit model.
+(An overfit model has a good fit to the data used to build
+the model but will not generalize well to new data.)
+To build a model with better generalization ability,
+the backward pass prunes the model.
+It removes terms one by one, 
+deleting the least effective term at each step
+until it finds the best submodel.
+Model subsets are compared using the GCV criterion described below.
+
+The backward pass has an advantage over the forward pass:
+at any step it can choose any term to delete,
+whereas the forward pass 
+at each step can only see the next pair of terms.
+
+The forward pass adds terms in pairs,
+but the backward pass typically discards one side of the pair
+and so terms are often not seen in pairs in the final model.
+A paired hinge can be seen in 
+the equation for formula_2 in the
+first MARS example above;
+there are no complete pairs retained in the ozone example.
+
+The backward pass uses generalized cross validation (GCV) to compare the performance of model subsets in order to choose the best subset: lower values of GCV are better. 
+The GCV is a form of
+regularization:
+it trades off goodness-of-fit against model complexity.
+
+The formula for the GCV is
+where RSS is the residual sum-of-squares
+measured on the training data and N is the
+number of observations (the number of rows in the x matrix).
+
+The "EffectiveNumberOfParameters" is defined in
+the MARS context as
+where Penalty is about 2 or 3 (the
+MARS software allows the user to preset Penalty).
+
+Note that 
+is the number of hinge-function knots, 
+so the formula penalizes the addition of knots.
+Thus the GCV formula adjusts (i.e. increases) the training RSS to take into
+account the flexibility of the model.
+We penalize flexibility because models that are too flexible will model the specific realization of noise in the data instead of just the systematic structure of the data.
+
+Generalized Cross Validation is so named because
+it uses a formula to approximate the error
+that would be determined by leave-one-out validation.
+It is just an approximation but works well in practice.
+GCVs were introduced by Craven and
+Wahba and extended by Friedman for MARS.
+
+One constraint has already been mentioned: the user
+can specify the maximum number of terms in the forward pass.
+
+A further constraint can be placed on the forward pass
+by specifying a maximum allowable degree of interaction.
+Typically only one or two degrees of interaction are allowed,
+but higher degrees can be used when the data warrants it.
+The maximum degree of interaction in the first MARS example
+above is one (i.e. no interactions or an "additive model"); 
+in the ozone example it is two.
+
+Other constraints on the forward pass are possible.
+For example, the user can specify that interactions are allowed 
+only for certain input variables.
+Such constraints could make sense because of knowledge
+of the process that generated the data.
+
+No regression modeling technique is best for all situations.
+The guidelines below are intended to give an idea of the pros and cons of MARS, 
+but there will be exceptions to the guidelines.
+It is useful to compare MARS to recursive partitioning and this is done below.
+(Recursive partitioning is also commonly called "regression trees",
+"decision trees", or CART;
+see the recursive partitioning article for details).
+
+
+
+
+
+Several free and commercial software packages are available for fitting MARS-type models.
+
+

@@ -1,0 +1,19 @@
+
+formula_1
+
+formula_6, with formula_4and formula_5 going to zero for formula_9
+
+X and Y ⊂ R being respectively an input and an output space, we consider a training set 
+
+formula_10
+of size m in formula_11 drawn i.i.d. from an unknown distribution D. A learning algorithm is a function formula_12 from formula_13 into formula_14which maps a learning set S onto a function formula_15 from X to Y. To avoid complex notation, we consider only deterministic algorithms. It is also assumed that the algorithm formula_16 is symmetric with respect to S, i.e. it does not depend on the order of the elements in the training set. Furthermore, we assume that all functions are measurable and all sets are countable which does not limit the interest of the results presented here.
+
+The loss of an hypothesis f with respect to an example formula_17 is then defined as formula_18.
+The empirical error of f is formula_19.
+
+The true error of f is formula_20
+
+Given a training set S of size m, we will build, for all i = 1...,m, modified training sets as follows:
+formula_21
+formula_22
+

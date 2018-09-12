@@ -1,0 +1,31 @@
+The term evolvability is used for a recent framework of computational learning introduced by Leslie Valiant in his paper of the same name and described below. The aim of this theory is to model biological evolution and categorize which types of mechanisms are evolvable. Evolution is an extension of PAC learning and learning from statistical queries.
+
+Let formula_1 and formula_2 be collections of functions on formula_3 variables. Given an "ideal function" formula_4, the goal is to find by local search a "representation" formula_5 that closely approximates formula_6. This closeness is measured by the "performance" formula_7 of formula_8 with respect to formula_6.
+
+As is the case in the biological world, there is a difference between genotype and phenotype. In general, there can be multiple representations (genotypes) that correspond to the same function (phenotype). That is, for some formula_10, with formula_11, still formula_12 for all formula_13. However, this need not be the case. The goal then, is to find a representation that closely matches the phenotype of the ideal function, and the spirit of the local search is to allow only small changes in the genotype. Let the "neighborhood" formula_14 of a representation formula_8 be the set of possible mutations of formula_8.
+
+For simplicity, consider Boolean functions on formula_17, and let formula_18 be a probability distribution on formula_19. Define the performance in terms of this. Specifically,
+Note that formula_21 In general, for non-Boolean functions, the performance will not correspond directly to the probability that the functions agree, although it will have some relationship.
+
+Throughout an organism's life, it will only experience a limited number of environments, so its performance cannot be determined exactly. The "empirical performance" is defined by
+formula_22
+where formula_23 is a multiset of formula_24 independent selections from formula_19 according to formula_18. If formula_24 is large enough, evidently formula_28 will be close to the actual performance formula_7.
+
+Given an ideal function formula_4, initial representation formula_5, "sample size" formula_24, and "tolerance" formula_33, the "mutator" formula_34 is a random variable defined as follows. Each formula_35 is classified as beneficial, neutral, or deleterious, depending on its empirical performance. Specifically,
+
+If there are any beneficial mutations, then formula_34 is equal to one of these at random. If there are no beneficial mutations, then formula_34 is equal to a random neutral mutation. In light of the similarity to biology, formula_8 itself is required to be available as a mutation, so there will always be at least one neutral mutation.
+
+The intention of this definition is that at each stage of evolution, all possible mutations of the current genome are tested in the environment. Out of the ones who thrive, or at least survive, one is chosen to be the candidate for the next stage. Given formula_45, we define the sequence formula_46 by formula_47. Thus formula_48 is a random variable representing what formula_49 has evolved to after formula_50 "generations".
+
+Let formula_51 be a class of functions, formula_52 be a class of representations, and formula_53 a class of distributions on formula_54. We say that formula_51 is "evolvable by formula_52 over formula_53" if there exists polynomials formula_58, formula_59, formula_60, and formula_61 such that for all formula_3 and all formula_63, for all ideal functions formula_4 and representations formula_45, with probability at least formula_66,
+where the sizes of neighborhoods formula_14 for formula_69 are at most formula_70, the sample size is formula_71, the tolerance is formula_72, and the generation size is formula_73.
+
+formula_51 is "evolvable over formula_53" if it is evolvable by some formula_52 over formula_53.
+
+formula_51 is "evolvable" if it is evolvable over all distributions formula_53.
+
+The class of conjunctions and the class of disjunctions are evolvable over the uniform distribution for short conjunctions and disjunctions, respectively.
+
+The class of parity functions (which evaluate to the parity of the number of true literals in a given subset of literals) are not evolvable, even for the uniform distribution.
+
+Evolvability implies PAC learnability.

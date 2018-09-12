@@ -1,0 +1,8 @@
+Deep reinforcement learning (DRL) is a machine learning method that extends reinforcement learning approach to learning of the entire process from sensors to motors (end-to-end) using deep learning techniques. Therefore it is often called end-to-end reinforcement learning from the point of the aim.
+
+The traditional Reinforcement learning aims to solve problems of how agents can learn to take the best actions on the environment to get the maximum cumulative reward over time. A major part of this process is carefully engineering feature representations. The recent advances of deep learning for learning feature representations have paved the way for end-to-end reinforcement learning.
+
+Some of the main algorithms include:
+
+
+

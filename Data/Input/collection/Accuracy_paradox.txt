@@ -1,0 +1,32 @@
+The accuracy paradox for predictive analytics states that predictive models with a given level of accuracy may have greater predictive power than models with higher accuracy. It may be better to avoid the accuracy metric in favor of other metrics such as precision and recall.
+
+Accuracy is often the starting point for analyzing the quality of a predictive model, as well as an obvious criterion for prediction. Accuracy measures the ratio of correct predictions to the total number of cases evaluated. It may seem obvious that the ratio of correct predictions to cases should be a key metric. A predictive model may have high accuracy, but be useless.
+
+In an example predictive model for an insurance fraud application, all cases that are predicted as high-risk by the model will be investigated. To evaluate the performance of the model, the insurance company has created a sample data set of 10,000 claims. All 10,000 cases in the validation sample have been carefully checked and it is known which cases are fraudulent. A table of confusion assists analyzing the quality of the model. The definition of accuracy, the table of confusion for model M, and the calculation of accuracy for model M is shown below.
+
+formula_1
+where
+
+"Formula 1: Definition of Accuracy"
+
+"Table 1: Table of Confusion for Fraud Model M."
+
+formula_2
+
+"Formula 2: Accuracy for model M"
+
+With an accuracy of 98.0% model M appears to perform fairly well. The paradox lies in the fact that accuracy can be easily improved to 98.5% by always predicting "no fraud". The table of confusion and the accuracy for this trivial “always predict negative” model M and the accuracy of this model are shown below.
+
+"Table 2: Table of Confusion for Fraud Model M."
+
+formula_3
+
+"Formula 3: Accuracy for model M"
+
+Model Mreduces the rate of inaccurate predictions from 2% to 1.5%. This is an apparent improvement of 25%. The new model M shows fewer incorrect predictions and markedly improved accuracy, as compared to the original model M, but is obviously useless. 
+
+The alternative model M does not offer any value to the company for preventing fraud. The less accurate model is more useful than the more accurate model. 
+
+Caution is advised when using accuracy in the evaluation of predictive models; it is appropriate only if the cost of a false positive (false alarm) is equal to the cost of a false negative (missed prediction). Otherwise, a more appropriate loss function should be determined.
+
+

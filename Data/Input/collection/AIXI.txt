@@ -1,0 +1,44 @@
+AIXI is a theoretical mathematical formalism for artificial general intelligence.
+It combines Solomonoff induction with sequential decision theory.
+AIXI was first proposed by Marcus Hutter in 2000 and the results below are proved in Hutter's 2005 book "Universal Artificial Intelligence".
+
+AIXI is a reinforcement learning agent;
+it maximizes the expected total rewards received from the environment.
+Intuitively, it simultaneously considers every computable hypothesis.
+In each time step, it looks at every possible program and evaluates how many rewards that program generates depending on the next action taken.
+The promised rewards are then weighted by the subjective belief that this program constitutes the true environment.
+This belief is computed from the length of the program: longer programs are considered less likely, in line with Occam's razor. 
+AIXI then selects the action that has the highest expected total reward in the weighted sum of all these programs.
+
+The AIXI agent interacts sequentially with some (stochastic and unknown to AIXI) environment formula_1.
+In step "t", the agent outputs an action formula_2 and
+the environment responds with an observation formula_3 and a reward formula_4 distributed according to the conditional probability
+formula_5.
+Then this cycle repeats for "t + 1".
+The agent tries to maximize cumulative future reward formula_6 for a fixed lifetime "m".
+
+Given a current time "t" and history formula_7,
+the action AIXI outputs is defined as
+
+where "U" denotes a monotone universal Turing machine, and
+"q" ranges over all programs on the universal machine "U".
+
+The parameters to AIXI are the universal Turing machine and the agent's lifetime "m".
+The latter dependence can be removed by the use of discounting.
+
+AIXI's performance is measured by the expected total number of rewards it receives.
+AIXI has been proven to be optimal in the following ways.
+
+
+It was later shown that balanced Pareto optimality is subjective and that any policy can be considered Pareto optimal, which undermines all previous optimality claims for AIXI.
+
+However, AIXI does have limitations. It is restricted to maximizing rewards based on percepts as opposed to external states. It also assumes it interacts with the environment solely through action and percept channels, preventing it from considering the possibility of being damaged or modified. Colloquially, this means that it doesn't consider itself to be contained by the environment it interacts with. It also assumes the environment is computable. Since AIXI is incomputable (see below), it assigns zero probability to its own existence.
+
+Like Solomonoff induction, AIXI is incomputable.
+However, there are computable approximations of it.
+One such approximation is AIXI"tl",
+which performs at least as well as the provably best time "t" and space "l" limited agent.
+Another approximation to AIXI with a restricted environment class is MC-AIXI(FAC-CTW),
+which has had some success playing simple games such as partially observable Pac-Man.
+
+

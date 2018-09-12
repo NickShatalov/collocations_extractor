@@ -1,0 +1,3651 @@
+computer scientist
+mikhail moiseevich bongard
+pattern recognition
+gdel escher bach
+douglas hofstadter
+harry foundalis
+fluid concepts
+creative analogies
+artificial intelligence
+machine learning
+cognitive science
+cognitive psychology
+computer-related introductions in
+statistical classification
+classification rule
+statistical model
+observable variable
+target variable
+joint probability distribution
+discriminative model
+conditional probability
+linear classifier
+naive bayes classifier
+linear discriminant analysis
+logistic regression
+support vector machine
+continuous variable
+discrete variable
+target function
+marginal distribution
+probability distribution
+bayes rule
+regression analysis
+gaussian mixture model
+mixture model
+hidden markov model
+stochastic context-free grammar
+probabilistic context-free grammar
+naive bayes
+averaged one-dependence estimators
+latent dirichlet allocation
+restricted boltzmann machine
+generative adversarial networks
+maximum likelihood estimation
+maximize the data likelihood
+support vector machines
+maximum-entropy markov model
+conditional random field
+neural network
+empirical measure
+graphical model
+bell system technical journal
+massachusetts institute of technology
+statistical models
+probabilistic models
+learning algorithm
+occams razor
+mathematical logic
+artificial neural networks
+conditional independence
+bayesian inference
+no free lunch
+minimum description length
+feature space
+feature selection
+k-nearest neighbors algorithm
+cognitive bias
+graphical models
+bayesian statistics
+categorical data
+statistical classificationalgorithms
+data mining algorithms
+program optimization
+organic evolution
+genetic recombination
+natural selection
+optimization algorithms and methods
+evolutionary computation
+artificial life models
+digital organisms
+cluster analysis
+supervised learning
+labeled data
+unsupervised learning
+independent identically distributed
+independently identically distributed
+transductive learning
+inductive reasoning
+inductive learning
+vapniks principle
+decision boundary
+decision boundaries
+feature learning
+curse of dimensionality
+vladimir vapnik
+probably approximately correct learning
+bayes theorem
+joint distribution
+chain rule
+transductive support vector machine
+hinge loss
+reproducing kernel hilbert space
+empirical risk minimization
+empirical risk
+convex function
+manifold regularization
+tikhonov regularization
+laplacian matrix
+graph laplacian
+distance metric
+kernelin non-parametric statistics
+concept learning
+pu learning
+stochastic process
+markov decision process
+michael lvovitch tsetlin
+reinforcement learning
+markov decision processpolicy iteration
+policy iterators
+evolutionary algorithm
+computable function
+markov process
+real numbers
+game theory
+automata theory
+control theory
+machine learningresearchers
+artificial intelligence researchers
+statistical modeling method
+structured prediction
+natural language processing
+markov random field
+sequence labeling
+biological sequences
+computer vision
+shallow parsing
+named entity recognition
+gene prediction
+gene finding
+andrew mccallum
+random variable
+markov property
+undirected graphical model
+markov random fieldinference
+forward-backward algorithm
+viterbi algorithm
+loopy belief propagation
+linear programming relaxation
+maximum likelihood
+gradient descent
+quasi-newton method
+likelihood function
+structured svm
+structured support vector machine
+latent variable model
+chain rule of probability
+structured perceptron
+gesture recognition
+c sharp
+net framework
+association for computational linguistics
+hammersleyclifford theorem
+maximum entropy markov model
+lise getoor
+mathematical model
+neural net
+stochastic gradient descent
+array data structure
+variable selection
+estimation theory
+early stopping
+mean squared error
+datasets in machine learning
+validity statistics
+reuven rubinstein
+monte carlo method
+monte carlo
+combinatorial optimization
+continuous optimization
+importance sampling
+traveling salesman problem
+quadratic assignment problem
+sequence alignment
+dna sequence alignment
+global optimization
+cross entropy
+kullbackleibler divergence
+parametric family
+probability density function
+exponential family
+natural exponential family
+discrete space
+maximum likelihood estimator
+gaussian distribution
+estimation of distribution algorithm
+simulated annealing
+genetic algorithms
+harmony search
+tabu search
+randomized algorithm
+monte carlo methods
+predictive analytics
+fraud detection
+binary numeral system
+weather prediction
+online shop
+predictive modelling
+predictive model
+finite model
+physical law
+laws of nature
+biological processes
+ecml pkdd
+data stream mining
+data mining
+predictive models
+predictive power
+insurance fraud
+table of confusion
+loss function
+receiver operating characteristic
+university of twente
+statistical paradoxes
+jerome bruner
+exemplar theory
+version spaces
+statistical learning theory
+pac learning
+information theory
+algorithmic information theory
+data compression
+classical conditioning
+ivan pavlov
+clark hull
+behavioral psychology
+george armitage miller
+george miller
+factor analysis
+karl lashley
+donald hebb
+perceptual learning
+prototype theory
+mental representation
+john robert anderson
+joshua tenenbaum
+sample exclusion dimension
+learning theory education
+adaptive control
+developmental robotics
+university of washington
+object recognition
+stanford university
+world wide web
+european union
+google x
+cognitive robotics
+evolutionary robotics
+juergen schmidhuber
+technical university of munich
+peter nordin
+chalmers university of technology
+university of massachusetts amherst
+carnegie mellon university
+university of bonn
+cornell university
+italian institute of technology
+delft university of technology
+robot controllearning
+imageversion spacepng
+symbolic artificial intelligence
+binary classification
+logical sentences
+logical disjunction
+state space search
+solution search
+formal concept analysis
+inductive logic programming
+rough set
+inductive logic
+leslie valiant
+pac learnability
+character recognition
+no free lunch theorem
+information processing
+knowledge extraction
+derivation of knowledge
+similarity measure
+satellite images
+arithmetic precision
+domain knowledge
+logical implication
+information entropy
+principal component analysis
+multidimensional scaling
+structural equation modeling
+dimensionality reduction
+projection pursuit
+independent component analysis
+data clustering
+measure of similarity
+linear correlation
+mutual information
+joint entropy
+database systems
+olap aggregation
+business intelligence
+rough sets
+fuzzy sets
+value-attribute system
+value granulation
+lotfi zadeh
+akaike information criterion
+bayesian information criterion
+model regularization
+type- fuzzy sets
+beijing china
+porto portugal
+toronto ontario
+journal of experimental
+theoretical artificial intelligence
+cambridge ma
+tahoe city ca
+new york city
+chambry france
+lyon france
+fort lauderdale fl
+dasarathy belur v
+knowledge-based systems
+theoretical computer science
+decision strategy
+base rates
+bayesian decision theory
+bayesian decision strategy
+thompson sampling
+new york
+alexey chervonenkis
+vc dimension
+vapnikchervonenkis theory
+model selection
+occam learning
+training data
+eager learning
+case-based reasoning
+k-nearest neighbor algorithm
+lazy learning
+artificial neural network
+offline learning
+conditional probability distribution
+generative model
+generalized linear model
+generalized linear regression
+bernoulli distribution
+categorical distribution
+maximum entropy classifier
+linear regression
+random forest
+regression models
+garbage in garbage out
+range error
+missing values
+data quality
+quality of data
+los altos california
+computational biology
+knowledge discovery
+data cleaning
+instance selection
+data normalization
+data transformation
+feature extraction
+training set
+data cleansing
+data editing
+data reduction
+data wrangling
+computer science
+dynamical system
+dynamical systems
+kernel methods
+bayesian machine learning
+variational bayesian methods
+thomas minka
+numerical digit
+optical character recognition
+multiple instance learning
+multi-label classification
+logical connective
+identity of indiscernibles
+hans christian andersen
+the ugly duckling
+satosi watanabe
+exclusive or
+denote false true negation
+not conjunction
+extension ref namewatanaberp
+w respectivelyref
+power set
+bit array
+binary encoded
+propositional function
+hamming distance
+nelson goodman
+metaphors referring to animals
+metaphors referring to birds
+computational learning theory
+theory of computation
+hans rademacher
+rademacher distribution
+function composition
+identically independently distributed
+lipschitz function
+lipschitz constant
+contraction mapping
+convex hull
+set family
+growth function
+dudleys theorem
+dudleys entropy bound
+vapnik-chervonenkis dimension
+unit ball
+covering number
+normal distribution
+identically distributed random variables
+measures of complexity
+high-dimensional space
+three-dimensional space
+physical space
+dynamic optimization
+numerical analysis
+combinatorial explosion
+mathematical space
+unit interval
+unit hypercube
+backward induction
+euclidean distance
+gamma function
+chi-squared distribution
+real number
+identically distributed
+signal-to-noise ratio
+nearest neighbor search
+time series analysis
+data set
+directed graph
+k-nn classifier
+semi-supervised learning
+information retrieval
+anomaly detection
+data snooping
+bellman equation
+clustering high-dimensional data
+concentration of measure
+dimension reduction
+model order reduction
+dynamic programming
+fourier-related transforms
+linear least squares
+multilinear principal component analysis
+multilinear pca
+multilinear subspace learning
+singular value decomposition
+measurement error
+big data
+sensor networks
+noisy text
+statistical independence
+probabilistic database
+statistical theory
+knowledge model
+information integration
+knowledge engineers
+knowledge base
+semantic matching
+minimal mappings
+university of waterloo
+undergraduate degree
+knowledge value chain
+knowledge representation
+online machine learning
+online learning
+incremental learning
+statistical classifiers
+classification algorithms
+neural networks
+fuzzy logic
+model based recognition
+leonid perlovsky
+aesthetic emotions
+penalty method
+dynamic logic
+latent semantic analysis
+linear algebra
+probabilistic latent semantic indexing
+hidden markov models
+markov chain
+semantic analysis
+statistical inference
+granular computing
+distribution laws
+fiducial distribution
+random variables
+gaussian variable
+posterior distribution
+confidence intervals
+random sample
+students t distribution
+central limit theorem
+neuro-fuzzy system
+computational learning
+degrees of freedom
+confidence level
+complexity index
+complexity indices
+complexity indexdetail
+detail of a class
+uniform distribution
+pareto distribution
+sufficient statistics
+well-behaved statistic
+bootstrapping populations
+population bootstrap
+twisting propertiestwisting argument
+twisting argument
+algorithmic inferencesampling mechanism
+sampling mechanism
+cumulative distribution function
+standard normal distribution
+confidence interval
+algorithmic inference
+disjunctive normal form
+conjunctive normal form
+decision tree
+attribute efficient learning
+boolean data type
+scientific model
+association rule learning
+decision rules
+decision rule
+hypothesis testing
+horn clause
+cn algorithm
+stuart russell
+peter norvig
+big o notation
+kernel method
+kernel machines
+radial basis function network
+rbf networks
+clinical decision support system
+diagnostic tools
+knowledge discovery in databases
+analogical modeling
+imageoverfitted datapng
+a polynomial
+statistical noise
+selecting the model
+cambridge university press
+coefficient of determination
+model comparison
+prior distribution
+bayesian priors
+principle of parsimony
+google scholar
+journal of clinical epidemiology
+proportional hazards models
+american journal of epidemiology
+john wiley  sons
+one in ten rule
+biasvariance tradeoff
+freedmans paradox
+explanatory variable
+dependent variable
+statistically significant
+imageoverfitting svgsvg
+journal of chemical information
+causal relation
+function approximation
+robustness robust machine learning
+minimum spanning tree
+life-time of correlation
+curve fitting
+data dredging
+the journal of investing
+biodata mining
+convergence in probability
+asymptotic theory
+statistical asymptotic theory
+probability theory
+law of large numbers
+with high probability
+expected value
+vapnikchervonenkis dimension
+shattering number
+concept class
+sauershelah lemma
+chebyshevs inequality
+national science foundation
+mit computer science
+artificial intelligence laboratory
+computational neuroscience
+ventral stream
+visual cortex
+tomaso poggio
+visual perception
+neuroscience research centers
+cognitive neuroscience
+brian matthews
+phi coefficient
+pearsons chi-square test
+chi-square statistic
+contingency table
+confusion matrix
+true positive
+true negative
+false positive
+false negative
+correlation coefficient
+geometric mean
+regression coefficient
+youdens j statistic
+cohens kappa
+cramrs v
+f score
+pierre baldi
+baldi p
+information retrieval evaluation
+computational chemistry
+statistical ratios
+oded regev
+gdel prize
+parity learning
+lattice problems
+computational hardness assumption
+hardness assumption
+public-key cryptography
+public-key cryptosystems
+modular arithmetic
+linear function
+field of reals
+chinese remainder theorem
+random self-reducibility
+lattice problemsgapsvp
+public-key cryptosystem
+chosen-ciphertext attack
+lattice-based cryptography
+short integer solution problem
+post-quantum cryptography
+computational intelligence
+virtual scientific community
+jacek zurada
+international research institutes
+world wide web conference
+ranking function
+ranking models
+mehryar mohri
+partial order
+document retrieval
+collaborative filtering
+sentiment analysis
+online advertising
+google searchwiki
+vector space model
+standard boolean model
+boolean model
+okapi bm
+machine translation
+recommender system
+feature vector
+bag of words
+query level feature
+language modeling
+inverse document frequency
+hits algorithm
+feature engineering
+information retrievalmean average precision
+mean average precision
+discounted cumulative gain
+normalized discounted cumulative gain
+mean reciprocal rank
+kendalls tau
+spearmans rank correlation coefficient
+spearmans rho
+microsoft research asia
+ordinal regression
+binary classifier
+norbert fuhr
+polynomial regression
+text retrieval conference
+neural information processing systems
+web search engine
+overture services inc
+gradient boosting
+microsoft research
+search quality
+oblivious decision tree
+tom costello
+open-source software
+open source
+apache solr
+information retrieval techniques
+ranking functions
+bertrand russell
+bayesian committee machine
+manifold learning
+max flow min cut
+model validation
+validation set
+validation dataset
+partition of a set
+statistical sample
+statistical population
+euclidean vector
+least squares
+binomial coefficient
+jackknife resampling
+positive predictive value
+root mean squared error
+median absolute deviation
+kernel regression
+shermanmorrison formula
+closed-form expression
+press statistic
+stock market prediction
+predicting stock values
+medical diagnosis
+scientific reports
+sci rep
+forward chaining
+k nearest neighbors
+gene expression
+bootstrap aggregating
+regression variable selection
+jean piaget
+gary drescher
+jeff hawkins
+memory-prediction framework
+on intelligence
+learning algorithms
+conditional distribution
+- loss function
+indicator notation
+agnostic learning
+mathematical optimization
+linearly separable
+geoff hinton
+density estimation
+mixture models
+hierarchical clustering
+deep belief network
+deep belief nets
+hebbian learning
+self-organizing map
+expectationmaximization algorithm
+method of moments
+blind signal separation
+non-negative matrix factorization
+ranjan acharyya
+acharyya ranjan
+spike-timing-dependent plasticity
+adaptive resonance theory
+automatic target recognition
+topic modeling
+generative topographic map
+multivariate analysis
+hebbian theory
+duda richard o
+hart peter e
+pattern classification
+geoffrey hinton
+hinton geoffrey
+sejnowski terrence j
+mit press
+optimal decisions
+inductive bias
+bias-variance dilemma
+inductive transfer
+learning to learn
+learning classifier system
+constraint satisfaction
+applied behavioral analysis
+slot machines
+annals of applied probability
+stochastic scheduling
+pharmaceutical industry
+pharmaceutical company
+herbert robbins
+gittins index
+clinical trial
+adaptive routing
+financial portfolio design
+world war ii
+peter whittle
+siam journal on computing
+michael katehakis
+greedy algorithm
+softmax function
+medical ethics
+physicians duty
+nonparametric regression
+voting paradoxes
+condorcet winner
+optimal stopping
+search theory
+annals of statistics
+operations research
+katehakis m
+sequential methods
+sequential experiments
+stochastic optimization
+logic programming
+information gain
+data analysis
+nonlinear dimensionality reduction
+eigenvalue eigenvector
+sequential nmf
+methods of detecting exoplanets
+circumstellar disks
+kernel trick
+kernel pca
+locally linear embedding
+local tangent space alignment
+semidefinite programming
+maximum variance unfolding
+diffusion map
+t-distributed stochastic neighbor embedding
+canonical correlation analysis
+feature vectors
+time series
+locality sensitive hashing
+random projection
+maximally informative dimensions
+semidefinite embedding
+multifactor dimensionality reduction
+semantic mapping
+topological data analysis
+sufficient dimension reduction
+weighted correlation network analysis
+hyperparameter optimization
+cur matrix approximation
+sammon mapping
+johnsonlindenstrauss lemma
+part of speech tagging
+part of speech
+bayesian network
+linear dynamical system
+sequence mining
+probabilistic model
+mixture distribution
+compositional data
+total size
+hierarchical bayes model
+hierarchical model
+zipfs law
+latent variable
+bayesian setting
+dirichlet distribution
+conjugate prior
+binomial distribution
+multinomial distribution
+negative binomial distribution
+poisson distribution
+exponential distribution
+log-normal distribution
+multivariate normal distribution
+multivariate gaussian distribution
+multivariate students-t distribution
+multivariate t-distribution
+posterior probability
+expectation-maximization algorithm
+em algorithm
+k-means clustering
+jump-diffusion model
+financial economicschallenges
+exponential growth
+topic model
+expectation maximization
+excessive number of parameters
+concentration parameter
+circular error probable
+dynamical consistency
+financial derivatives
+volatility smile
+local volatility
+image segmentation
+minimum message length
+iterative algorithm
+expectation value
+plug-in estimates
+arithmetic mean
+posterior sampling
+gibbs sampling
+method of moment matching
+spectral method
+real coordinate space
+real space
+logarithmically concave function
+linear subspace
+mathematical proof
+heavy-tailed distribution
+recent papers
+links to papers
+karl pearson
+walter frank raphael weldon
+mixture density
+flexible mixture model
+signal processing
+latent variable models
+spam filtering
+spam or non-spam
+explanatory variables
+blood type
+ordinal data
+blood pressure
+similarity function
+independent variable
+community ecology
+parse tree
+syntactic structure
+probabilistic classification
+ronald fisher
+fisher ra
+fishers linear discriminant
+rao cr
+anderson tw
+mahalanobis distance
+markov chain monte carlo
+class membership probabilities
+group membership probabilities
+multiclass classification
+statistically independent
+binary data
+linear combination
+dot product
+linear predictor function
+discrete choice
+multinomial logistic regression
+probit regression
+quadratic classifier
+kernel estimation
+k-nearest neighbor
+decision tree learning
+learning vector quantization
+no-free-lunch theorem
+uncertainty coefficient
+medical imaging
+video tracking
+drug discovery
+drug development
+quantitative structure-activity relationship
+speech recognition
+handwriting recognition
+biological classification
+statistical natural language processing
+document classification
+search engines
+credit scoring
+compound term processing
+data warehouse
+deep learning
+university of california berkeley
+electrical engineering
+andrew ng
+aerobatic maneuver
+robot software
+humanmachine system
+human operator
+stefan schaal
+pendulum swingup task
+optimal control
+brute-force search
+brute-force solver
+spline animation
+pid control
+inverse reinforcement learning
+class of concepts
+qualitative property
+medical test
+test method
+quality control
+gono go
+result set
+type i
+type ii errors
+types of errors
+false positives
+false negativesfalse positive error
+false negativesfalse negative error
+decision trees
+random forests
+probit model
+the left
+true positive rate
+false negative rate
+true negative rate
+false positive rate
+false discovery rate
+negative predictive value
+false omission rate
+likelihood ratio
+likelihood ratios
+diagnostic odds ratio
+odds ratio
+precisionin binary classification
+matthews correlation coefficient
+blood values
+cutoff value
+positive or negative test
+positive or negative
+predictive value
+human chorionic gonadotropin
+pregnancy test
+bayesian inferenceexamples
+examples of bayesian inference
+detection theory
+one-class classification
+prosecutors fallacy
+nello cristianini
+john shawe-taylor
+domain theory
+combinatoric explosion
+one-shot learning
+cue validity
+marginal probability
+prior probability
+weighted average
+cartesian product
+joint probability
+gestalt psychology
+middle ages
+william of ockham
+js mill
+basic categories
+conceptual clustering
+hillsdale new jersey
+ithaca ny
+machine learningcategory utility
+cognitive sciencecategory utility
+optimization problem
+donald knuth
+metric space
+triangle inequality
+vector space
+taxicab geometry
+manhattan distance
+statistical distance
+bregman divergence
+computational geometry
+content-based image retrieval
+coding theory
+decoding methods
+maximum likelihood decoding
+recommendation systems
+internet marketing
+contextual advertising
+behavioral targeting
+dna sequencing
+spell checking
+plagiarism detection
+similarity score
+chemical similarity
+motion planningsampling-based algorithms
+sampling-based motion planning
+running time
+spatial index
+space partitioning
+k-d tree
+r tree
+metric trees
+binary space partitioning
+bsp tree
+cover tree
+doubling constant
+expansivity constant
+expansion constant
+vector quantization
+k-nearest neighbor search
+-approximate nearest neighbor search
+locality-sensitive hashing
+best bin first
+balanced box-decomposition tree
+nearest neighbor distance ratio
+pattern matching
+fixed-radius near neighbors
+euclidean space
+entropy estimation
+lp space
+lsuppsup norm
+ball tree
+digital signal processing
+fourier analysis
+instance-based learning
+multidimensional analysis
+nearest-neighbor interpolation
+neighbor joining
+range search
+set cover problem
+similarity learning
+sparse distributed memory
+voronoi diagram
+approximation algorithms
+discrete geometry
+geometric algorithms
+search algorithms
+deterministic noise
+generalization error
+statistical significance
+nearest neighbor methods
+distance based methods
+cross validation
+multilayer perceptron
+structural risk minimization
+identically-distributed random variables
+identically distributed pairs
+optimization algorithm
+regularization penalty
+euclidean norm
+posterior probabability
+active learning
+learning to rank
+analytical learning
+gaussian process regression
+genetic programming
+kernel estimators
+learning automata
+learning classifier systems
+nearest neighbor
+nearest neighbor algorithm
+ripple down rules
+symbolic machine learning
+subsymbolic machine learning
+ensembles of classifiers
+ordinal classification
+data pre-processing
+handling imbalanced datasets
+statistical relational learning
+quantitative structureactivity relationship
+database marketing
+information extraction
+spam detection
+downward causation
+version space
+non-parametric regression
+linear model
+independent variables
+basis function
+ramp function
+ice hockey stick
+hockey stick
+recursive partitioning
+residuals in statistics
+brute force
+residual sum of squares
+residual sum-of-squares
+grace wahba
+predictive analyticsclassification
+regression trees
+nonlinear regression
+non-linear regression
+inverse problem
+well-posed problem
+generalized additive model
+local regression
+rational function modeling
+segmented regression
+spline interpolation
+spline regression
+domain model
+ben taskar
+first-order logic
+universal quantification
+probabilistic graphical model
+markov network
+probabilistic inference
+collective classification
+prediction of the class
+link prediction
+link-based clustering
+social network
+record linkage
+object identificationentity resolutionrecord linkage
+bayesian logic program
+blog model
+markov logic network
+multi-entity bayesian network
+probabilistic soft logic
+recursive random field
+relational bayesian network
+relational dependency network
+relational markov network
+relational kalman filtering
+grammar induction
+computational statistics
+ordinary least squares
+long short-term memory
+random seed
+replication crisis
+dynamic time warping
+library science
+information science
+subject indexing
+frederick wilfrid lancaster
+controlled vocabulary
+document clustering
+instantaneously trained neural networks
+latent semantic indexing
+hierarchical deep learning
+k-nearest neighbour algorithms
+id algorithm
+c algorithm
+concept mining
+soft set
+multiple-instance learning
+spam filter
+e-mail spam
+language identification
+readability assessment
+text simplification
+concept-based image indexing
+knowledge organization
+knowledge organization system
+library classification
+native language identification
+string metrics
+text mining
+web mining
+categorydata analysis software
+categorystatistical software
+statistical software
+artificial intelligence applications
+stochastic models
+markov processes
+multivariate statistics
+hidden variables
+spatial data analysis
+equivalence classes
+tucker decomposition
+multilinear singular value decomposition
+m alex o vasilescu
+demetri terzopoulos
+prior probabilities
+control group
+base rate fallacy
+base-rate neglect
+keith devlin
+learning process
+data storage device
+mutually exclusive
+text corpus
+never-ending language learning
+data processing
+imagebefore fspng
+imageafter fspng
+standard deviation
+euclidean length
+statistical data transformation
+classification in machine learning
+utility function
+recommender systems
+knowledge management
+napa county california
+napa valley
+budget constraint
+polynomial time
+p versus np problem
+p ne np
+one-way function
+frequency probability
+bayesian probability
+exact learning
+dana angluin
+vc theory
+algorithmic learning theory
+e mark gold
+belief networks
+judea pearl
+error tolerance
+oded goldreich
+dana ron
+m warmuth
+distribution learning theory
+computational fields of study
+demaschinelles lernen
+the mountain car problem
+test bed
+eligibility traces
+reward function
+start state
+tile coding
+inverted pendulumexternal links
+deterministic algorithm
+empirical risk function
+bernhard schlkopf
+reproducing property
+mercers theorem
+hilbert space
+parity function
+gaussian elimination
+learning with errors
+syntactic pattern recognition
+scalar product
+nearest neighbor classification
+statistical techniques
+bayesian approaches
+emotion recognition
+domain expert
+hashing trick
+hash function
+associative array
+typetoken distinction
+term-document matrix
+sparse matrix
+hash table
+yahoo research
+hash tablecollision resolution
+hash collision
+inner product
+positive-definite matrix
+positive semi-definite
+multi-task learning
+apache mahout
+vowpal wabbit
+apache spark
+bloom filter
+countmin sketch
+heaps law
+metric learning
+pseudometric space
+convex optimization
+leave-one-out error
+mahalanobis metric
+slack variable
+working set
+polynomial transformations
+data classification
+neighbourhood components analysis
+functional analysis
+trevor hastie
+ohms law
+facial recognition system
+facial recognition
+expected risk
+ordinary least squares regression
+indicator function
+heaviside step function
+reproducing kernel hilbert spaces
+generalized linear models
+conference on computer vision
+discriminant analysis
+regular expression
+text editor
+word processor
+multidimensional space
+nominal data
+branch-and-bound algorithm
+principal components analysis
+decision theory
+zero-one loss function
+bayes error rate
+error rate
+covariance matrix
+continuous distribution
+continuously distributed
+maximum a posteriori
+fisher discriminant analysis
+frequentist inference
+a priori
+a posteriori
+a posterioriimmanuel kant
+beta distribution
+conjugate prior distribution
+face recognition
+computer-aided diagnosis
+image recognition
+recognition of images
+image analysis
+license plate recognition
+face detection
+quadratic discriminant analysis
+decision list
+gene expression programming
+deep learning methods
+correlation clustering
+kernel principal component analysis
+ensemble learning
+ensemble averaging
+mixture of experts
+hierarchical mixture of experts
+kalman filter
+particle filter
+recurrent neural networks
+black box
+cache language model
+list of numerical libraries
+template matching
+contextual image classification
+formal sciences
+column vector
+matrix transpose
+row vector
+matrix multiplication
+error variable
+design matrix
+method of least squares
+moore-penrose pseudoinverse
+matrix inverse
+full rank
+data analyst
+interaction variable
+radial basis function
+gaussian function
+nearest neighbor interpolation
+nearest neighbor method
+statistical data type
+binary variable
+categorical variable
+dummy variable
+indicator variable
+distributional semantics
+pentti kanerva
+bit vector
+used for computer vision
+zellig harris
+json object
+bag algebra
+disjoint union
+email filtering
+association for computing machinery
+language model
+bayesian spam filtering
+spam e-mail
+additive smoothing
+document-term matrix
+bilinear form
+distance function
+large margin nearest neighbor
+supervised feature learning
+supervised neural networks
+dictionary learning
+unsupervised feature learning
+matrix decomposition
+matrix factorization
+l regularization
+semisupervised learning
+only if
+rbf network
+sparse coding
+named-entity recognition
+brown clustering
+right singular vectors
+sample mean
+sample covariance
+sample covariance matrix
+local linear embedding
+k nearest neighbor
+distributed representation
+boltzmann machine
+energy function
+contrastive divergence
+automated machine learning
+feature detection
+applied statistics
+network approach
+connectionist approach
+lookup table
+machine learninggeneralization
+standard backpropagation network
+human memory
+feedforward neural network
+herman ebbinghaus
+delta rule
+short term memory
+long term memory
+hot codes
+latent learning
+practopoietic theory
+social relation
+social interaction
+developmental psychology
+developmental biology
+evolutionary biology
+artificial life
+cumulative learning
+evolutionary developmental robotics
+robot learning
+michigan state university
+bryn mawr college
+feelix growing project
+swarthmore college
+iowa state university
+semi-supervised machine learning
+optimal experimental design
+proactive learning
+formal grammar
+finite state machine
+induction of regular languages
+context-free grammars
+regular languages
+tree structures
+john koza
+extended backusnaur form
+grammatical function
+terminal symbol
+noun phrase
+verb phrase
+context-free grammar
+lempel-ziv-welch algorithm
+sequitur algorithm
+byte pair encoding
+mildly context-sensitive language
+pattern language
+pattern languages
+pumping lemma
+pattern theory
+ulf grenander
+natural language understanding
+example-based translation
+lossless data compression
+artificial grammar learningartificial intelligence
+example-based machine translation
+inductive programming
+kolmogorov complexity
+straight-line grammar
+englewood cliffs nj
+computational linguistics
+formal language
+term formal definition
+empty string
+string substitution
+monoid homomorphism
+string concatenation
+kleene plus
+binary number
+reduction from the np-complete
+np-complete booleansatisfiabilityproblemexactly--satisfiability
+-in--sat problem
+inverse homomorphism
+common generalization
+chomsky hierarchy
+indexed language
+finite language
+regular language
+context-free language
+regular languageformal definition
+indexed grammar
+identified in the limit
+formal languages
+derivative-free optimization
+doesnt require derivatives
+jonas mockus
+nando de freitas
+particle physics
+multi-armed bandit
+bayesian experimental design
+principal component regression
+spectral regularization
+bias-variance tradeoff
+holdout method
+klaus-robert mller
+automatic programming
+computer programming
+declarative programming
+functional programming
+description logics
+constraint programming
+probabilistic programming language
+probabilistic programming
+formal specification
+data type
+turing completeness
+program synthesis
+structure mining
+functional logic programming
+abductive logic programming
+modal logic
+action language
+imperative languages
+relational data mining
+end-user development
+end-user programming
+programming by example
+programming by demonstration
+intelligent tutoring system
+knowledge acquisition
+artificial general intelligence
+evolutionary programming
+inductive functional programming
+test-driven development
+programming paradigms
+convex functiondefinition
+differentiable function
+lasso group lasso
+group lasso
+proximal gradient method
+lipschitz continuity
+lipschitz continuous
+semicontinuous function
+lower semicontinuous
+convex conjugate
+fenchel conjugate
+mathellmath norm
+least absolute shrinkage
+selection operator
+soft thresholding
+gradient descentextensions
+accelerated methods
+elastic net regularization
+lasso method
+moreau decomposition
+dual norm
+directed acyclic graph
+convex analysis
+regularization regularization in statistics
+random numbers
+random number generator
+non-parametric statistics
+emanuel parzen
+murray rosenblatt
+kernel in non-parametric statistics
+kernel functions
+standard normal
+heat kernel
+heat equation
+discrete laplace operator
+free parameter
+rug plot
+risk function
+mean integrated squared error
+little o notation
+variable kernel density estimation
+bernard silverman
+characteristic function
+fourier transform
+microsoft excel
+nag numerical library
+nag library
+gnu octave
+kernel smoothing
+scale space
+multivariate kernel density estimation
+headtail breaks
+estimation of densities
+nonparametric statistics
+euclidean geometry
+euclidean plane
+disjoint sets
+boolean function
+imagesvm separating hyperplanes svg
+classifying data
+maximum-margin hyperplane
+margin classifier
+normal vector
+radial basis functions
+statistical parameter
+bias of an estimator
+structured output learning
+choose a model
+ridge regression
+- loss
+k-nearest neighbors regression
+human cognition
+gerd gigerenzer
+stuart geman
+gaussmarkov theorem
+minimum-variance unbiased estimator
+regression model validation
+ray solomonoff
+principle of multiple explanations
+universal prior
+zero probability
+marcus hutter
+universal artificial intelligence
+countable set
+algorithmic probability
+universal computer
+learning in the limit
+super-recursive algorithm
+turing machine
+stephen kleene
+event loop
+inductive inference
+inductive probability
+mills methods
+problem of induction
+new riddle of induction
+martin davis
+davis martin
+william gasarch
+gasarch w
+carl herbert smith
+datasetsmachine learning
+bayess theorem
+thomas bayes
+chris wallace
+jorma rissanen
+andrey kolmogorov
+pareto efficiency
+pareto optimal
+intelligent agent
+computer program
+halting problem
+marcus hutters
+principle of indifference
+frequentist probability
+possible world
+boolean algebra
+huffman coding
+huffman code
+probability measure
+frequentist approach
+law of total probability
+bayes theoremextended form
+encoding length
+abductive reasoningprobabilistic abduction
+abductive inference
+abductive reasoning
+carl linnaeus
+stereo image pairs
+isaac newton
+law of universal gravitation
+philosophiae naturalis principia mathematica
+galileo galilei
+newtons third law
+condition probability
+implication determines condition probability
+condition probability law
+cs wallace
+philosophy of statistics
+algorithmic trading
+portfolio theories
+linear transformation
+spectral theory
+spectral analysis
+kernel function
+network theory
+mixture modelgaussian mixture model
+gaussian mixture models
+kernel density estimation
+gramian matrix
+moore-aronszajn theorem
+hilbertschmidt integral operator
+tensor product
+linear map
+identity matrix
+incomplete cholesky factorization
+continuous function
+bounded function
+compact space
+dense set
+hilbertschmidt operator
+hilbert-schmidt norm
+positive definite
+kl divergence
+gaussian process
+conditional random fields
+exponential families
+pearson correlation
+belief propagation
+markov random fieldclique factorization
+hidden markov modelfiltering
+kernel sum rule
+kernel bayes rule
+support vector machinedual form
+dual optimization problem
+domain adaptation
+location parameter
+scale parameter
+orthogonal matrix
+orthogonal transform
+multi-instance learning
+point estimation
+minimax estimator
+minimax optimal
+separable space
+probability distributiondiscrete probability distribution
+discrete random variables
+kronecker delta
+standard basis
+kernel chain rule
+theory of probability distributions
+machine learning algorithm
+language learning
+machine learning system
+supervised learning algorithms
+consistent estimator
+uniform convergence
+leave one out error
+sensitivity analysis
+andrey nikolayevich tikhonov
+d ron
+nature journal
+mathematical modeling
+mathematical psychology
+gaussian processes
+multiple outputs
+kernel matrix
+symmetry in mathematics
+positive-definite function
+academic conference
+artificial intelligenceconferences
+machine learningconferences
+computer science conferences
+springer sciencebusiness media
+united states
+scientific journal
+editorial board
+computer science journals
+delayed open access journals
+publications established in
+open access
+leslie kaelbling
+publication subvention
+academic publishing
+conference on learning theory
+times higher education
+open access journals
+mathematical formalism
+solomonoff induction
+sequential decision theory
+reinforcement learning agent
+subjective logic
+subjective belief
+monotone class theorem
+universal turing machine
+pareto optimality
+undecidable problem
+partially observable system
+partially observable
+gdel machine
+probabilistically approximately correct learning
+rademacher complexity
+glivenko-cantelli class
+vc dimensiongeneralizations
+pollards pseudo-dimension
+false alarm
+type i error
+type ii error
+hit rate
+information retrievalrecall
+information retrievalprecision
+type ii errorsfalse positive
+false negative rates
+balanced accuracy
+harmonic mean
+from the confusion matrix
+gold standard
+cross tabulation
+cross tabulates
+summary statistic
+scale invariant
+homogeneous function
+homogeneous linear
+homogeneous quadratic
+grand total
+marginal total
+surrogate endpoint
+surrogate marker
+population impact measures
+attributable risk
+attributable risk percent
+in machine learning
+gradient-based learning methods
+error function
+activation function
+hyperbolic tangent
+sepp hochreiter
+s hochreiter
+jrgen schmidhuber
+j schmidhuber
+feedforward networks
+recurrent neural network
+recurrent network
+feature detectors
+lower bound
+log likelihood
+neural computation
+xeon processor
+neural abstraction pyramid
+random guess
+genetic algorithm
+spectral radius
+machine-learned ranking
+probabilistic relevance model
+machine learning algorithms
+reduce the dimensionality
+random indexing
+discrete cosine transform
+johnson-lindenstrauss lemma
+journal of the acm
+inner product space
+inner products
+database index
+random mapping
+software agent
+action description language
+automated planning
+automated planners
+architecture description language
+computational logic
+sat solver
+satisfiability solver
+answer set programming
+perceptron algorithm
+greedy search
+probability model
+pairwise comparison
+ernst zermelo
+mathematische zeitschrift
+search engine
+web search query
+maximum likelihood estimate
+rasch model
+quantum physics
+quantum computing
+quantum computation
+quantum computer
+quantum algorithm
+probability amplitude
+matrix inversion
+system of linear equations
+linear system of equations
+amplitude amplification
+grovers algorithm
+grovers search
+k-medians clustering
+k-nearest neighbour
+k-nearest neighbors algorithms
+quantum walk
+quantum superposition
+boltzmann distribution
+quantum annealing
+quantum annealers
+deep neural networks
+quantum neural network
+natural-language processing
+density matrix
+density matrices
+bayes net
+probabilistic graphical models
+quantum information
+quantum information theory
+algorithmic learning
+unitary matrix
+unitary transformation
+npj quantum information
+quantum metrology
+quantum clustering
+d-wave systems
+universities space research association
+quantum artificial intelligence lab
+nuclear magnetic resonance
+hopfield network
+quantum tomography
+quantum image
+quantum information science
+emerging technologies
+two-streams hypothesis
+compressed sensing
+sample complexity
+unitary group
+compact group
+locally compact group
+locally compact
+gabor function
+see also
+subhash kak
+unary coding
+web search
+time series prediction
+classification of documents
+hamming weight
+computer security
+biometric recognition
+working hypothesis
+-d print
+google brain
+image spam
+image-based spam
+transfer learning
+anti-spam techniques
+spam filtering problem
+adversarial machine learning
+ordered variables
+machine learningmachine learning
+first language
+native language
+second language
+second-language acquisition
+forensic linguistics
+language transfer
+learner corpus
+crosslinguistic influence
+foreign language writing aid
+computer-assisted language learning
+language education
+applied linguistics
+semantic role labeling
+joint information
+approximate inference
+software testing
+principled way
+mathematical object
+rudolf wille
+lattice theory
+order theory
+ordered sets
+garrett birkhoff
+semantic web
+software development
+binary relations
+partially ordered set
+technische universitt darmstadt
+port-royal logic
+logic of port-royal
+formal logic
+model theory
+pragmatic maxim
+minor premise
+logical possibility
+body of water
+bodies of water
+filefca body of watersvg
+closure operator
+galois connection
+maximal element
+greatest common subconcept
+complete lattice
+concept algebra
+concept algebras
+armstrong axioms
+armstrong rules
+orthocomplemented lattice
+boolean algebras
+shaker verlag
+association rules
+lattice miner
+bipartite graph
+bipartite dimension
+order dimension
+knowledge space
+closure system
+cell biology
+software engineering
+deuniversitt leipzig
+uni leipzig
+information management
+office administration
+debernhard ganter
+derudolf wille
+political science
+commonsense reasoning
+correspondence analysis
+description logic
+grounded theory
+ontology information science
+adam gibson
+chris nicholson
+microsoft windows
+machine vision
+apache license
+java virtual machine
+bloomberg businessweek
+deep belief net
+recursive neural networktensor
+recursive neural tensor network
+distributed computing
+parallel computing
+apache hadoop
+san francisco
+eclipse foundation
+application programming interface
+central processing unit
+graphics processing unit
+applied machine learning
+cluster computing
+neural network software
+free data analysis software
+free science software
+free statistical software
+image processing
+java programming language libraries
+java platform
+java programming language family
+jvm programming languages
+numerical programming languages
+open-source artificial intelligence
+scala programming language
+logistic regressioncase-control sampling
+case control sampling
+model misspecification
+arthur samuel
+program instructions
+data breach
+ieee signal processing society
+ieee signal processing magazine
+exploratory data analysis
+data analytics
+data science
+data scientists
+operational definition
+alan turing
+computing machinery
+stevan harnad
+autonomous car
+driving a vehicle
+linear boundary
+white circles
+natural language
+human language
+meta learning
+developmental learning
+computer gaming
+other models
+logical knowledge-based approach
+expert system
+john hopfield
+david rumelhart
+leo breiman
+biasvariance decomposition
+time complexitypolynomial time
+time complexity
+biological neural networks
+artificial neuron
+data modeling
+find patterns
+functional programs
+conditional independencies
+yoshua bengio
+strongly np-hard
+image de-noising
+search algorithm
+rule-based machine learning
+artificial immune system
+precision agriculture
+automated theorem proving
+adaptive website
+affective computing
+brainmachine interface
+dna sequence
+computational anatomy
+network simulation
+computer networks
+credit-card fraud
+general game playing
+internet fraud
+machine learning control
+machine perception
+robot locomotion
+financial market
+structural health monitoring
+time series forecasting
+user behavior analytics
+netflix prize
+att labs
+ensemble model
+sun microsystems
+vinod khosla
+test set
+total operating characteristic
+machine ethics
+ethical questions
+algorithmic bias
+data collection
+collection of data
+software suite
+microsoft cognitive toolkit
+spark mllib
+amazon machine learning
+ibm data science experience
+google apis
+google prediction api
+spss modeler
+ibm spss modeler
+kxen inc
+kxen modeler
+azure machine learning studio
+microsoft azure machine learning
+neural designer
+oracle data mining
+sap cloud platformcapabilities
+sap leonardo machine learning
+sas components
+sas enterprise miner
+automatic reasoning
+ethics of artificial intelligence
+explanation-based learning
+quantum machine learning
+machine learning in bioinformatics
+machine-learning applications in bioinformatics
+robert tibshirani
+pedro domingos
+the master algorithm
+david j c mackay
+christopher bishop
+dartmouth workshop
+software library
+programming language
+universal approximation theorem
+universal approximation
+computer performance
+startup company
+c libraries
+data structure
+binary tree
+on disk
+vantage-point tree
+off-line algorithm
+priority queue
+trees data structures
+articles with example pseudocode
+threat detection
+detection of insider threats
+human behavior
+insider threat
+advanced persistent threat
+nemertes research
+security system
+intrusion detection system
+system log
+buying pattern
+ip address
+cloud computing
+software as a service
+network behavior anomaly detection
+behavioral analytics
+word embedding
+corpus of text
+corpus linguistics
+word vectors
+continuous bag-of-words
+negative sampling
+conditional log-likelihood
+huffman tree
+cosine similarity
+distributional hypothesis
+language modelneural language models
+thought vector
+natural language processing toolkits
+consumer packaged goods
+chief commercial officer
+fast-moving consumer goods
+anheuser-busch inbev
+tel aviv
+nielsen corporation
+computer vision software
+network science
+community structure
+erdsrnyi model
+erdos-renyi model
+threshold effect
+percolation threshold
+spectral clustering
+random graphs
+rollo carpenter
+alexa internet
+web application
+windows phone
+turing test
+google home
+list of chatterbots
+propositional patterns
+relational patterns
+regression tree
+association rule
+database mining
+structured data mining
+relational model
+popular science
+basic books
+analogical modelling
+bill gates
+nick bostrom
+xi jinping
+the economist
+kirkus reviews
+new scientist
+non-fiction books
+computer science books
+philosophy of computer science
+philosophy of artificial intelligence
+matrix completion
+multivariate regression
+multiple kernel learning
+frobenius inner product
+regularization by spectral filtering
+schatten norm
+schatten p-norms
+matching pursuit
+semi-supervised learningmanifold assumption
+manifold assumption
+differential geometry
+gradient on the manifold
+probability density
+laplace-beltrami operator
+representer theorem
+least squaresregularized versions
+regularized least squares
+regression algorithms
+linear program
+dual problem
+brain-computer interfaces
+spectral graph theory
+burst error
+error burst
+axis-aligned object
+axis parallel rectangle
+dual form
+empirical process
+glivenkocantelli class
+stochastic convex optimization
+general setting of learning
+random matrix theory
+convex body
+whitening transformation
+journal of functional analysis
+random matrices
+independent variablesdependent variable
+domain of a function
+independent variablesindependent variable
+high-dimensional learning
+computational complexity
+magnetic resonance imaging
+magnetic resonance image
+submodular set function
+stepwise regression
+step-wise regression
+proximal gradient
+basis pursuit
+proximal gradient methods
+loss functionquadratic loss function
+quadratic loss
+compressive sensing
+sparse approximation
+training test
+validation setsvalidation set
+representation learning
+orthogonal basis
+signal recovery
+wavelet transform
+noise reduction
+image classification
+audio signal processing
+audio processing
+l norm
+approximate dictionary learning
+frobenius norm
+moorepenrose pseudoinverse
+matching pursuitextensions
+orthogonal matching pursuit
+low-rank approximation
+rank- approximation
+dual lagrangian problem
+newtons method in optimization
+newtons method
+conjugate gradient method
+conjugate gradient
+least-angle regression
+coordinate descent
+sparse pca
+neural sparse coding
+computer go
+convolutional neural network
+monte carlo tree search
+crazy stone
+computer go uec cup
+uec cup
+liu cixin
+the dark forest
+branching factor
+evaluation function
+go ranks
+d ranking
+kgs go server
+fan hui
+convolution neural networks
+list of go termsliberty
+list of go termsko
+rectified linear unit
+kyu rating system
+go software game
+spam blog
+dissociated press
+flarf poetry
+noam chomsky
+indiana university
+scraper site
+scientific misconduct
+difference in differences
+spike-and-slab variable selection
+bayesian model averaging
+binary representation
+binary vector
+semantic space
+hierarchical temporal memory
+cartesian coordinate system
+cartesian coordinates
+noise resistance
+arithmetical operations
+semantic similarity
+jaccard index
+jaccard distance
+levenshtein distance
+srensendice coefficient
+srensen-dice index
+vocabulary mismatch
+rule-based system
+keyword research
+hyperspace analogue to language
+university of california riverside
+university of california
+explicit semantic analysis
+neural networking
+bernoulli prior
+bayesian structural time series
+abstract data type
+accelerating change
+action model learning
+action selection
+adaptive algorithm
+admissible heuristic
+agent architecture
+ai accelerator
+algorithmic efficiency
+ambient intelligence
+analysis of algorithms
+anytime algorithm
+approximate string matching
+approximation error
+argumentation framework
+artificial intelligence markup language
+asymptotic computational complexity
+attributional calculus
+augmented reality
+automated reasoning
+autonomic computing
+autonomous robot
+backward chaining
+batch normalization
+bayesian programming
+bees algorithm
+behavior informatics
+behavior tree
+belief-desire-intention software model
+bio-inspired computing
+blackboard system
+boolean satisfiability problem
+brain technology
+cloud robotics
+cognitive architecture
+cognitive computing
+committee machine
+commonsense knowledge
+computational complexity theory
+computational creativity
+computational humor
+computational mathematics
+computational number theory
+number theory
+number theoretic
+computational problem
+computational vision
+computer-automated design
+consistent heuristic
+constrained conditional model
+constraint logic programming
+constructed language
+data fusion
+data integration
+decision support system
+deductive classifier
+deep blue
+default logic
+dialog system
+discrete system
+distributed artificial intelligence
+dynamic epistemic logic
+embodied agent
+embodied cognitive science
+evolving classification function
+existential risk
+expert systems
+frame language
+frame problem
+friendly artificial intelligence
+futures studies
+fuzzy control system
+fuzzy set
+genetic operator
+glowworm swarm optimization
+google deepmind
+graph database
+graph theory
+graph traversal
+ieee computational intelligence society
+inference engine
+information processing language
+intelligence amplification
+intelligence explosion
+intelligent control
+intelligent personal assistant
+issue trees
+knowledge engineering
+knowledge interchange format
+linked data
+machine listening
+mechanism design
+metabolic network modelling
+model checking
+modus ponens
+modus tollens
+multi-agent system
+multi-swarm optimization
+name binding
+named graph
+natural language programming
+network motif
+nondeterministic algorithm
+nouvelle ai
+ontology engineering
+ontology learning
+open mind common sense
+partial order reduction
+particle swarm optimization
+predicate logic
+principle of rationality
+production rule representation
+production system
+propositional calculus
+qualification problem
+query language
+r programming language
+reasoning system
+region connection calculus
+resource description framework
+rete algorithm
+semantic network
+semantic reasoner
+semantic query
+sensor fusion
+separation logic
+artificial intelligence situated approach
+situated approach
+situation calculus
+sld resolution
+soft computing
+spatial-temporal reasoning
+spiking neural network
+stochastic semantic analysis
+subject-matter expert
+swarm intelligence
+synthetic intelligence
+systems neuroscience
+technological singularity
+temporal difference learning
+tensor network theory
+transition system
+tree traversal
+true quantified boolean formula
+type system
+vision processing unit
+weak ai
+world wide web consortium
+glossary of machine vision
+glossaries of scienceartificial intelligence
+wikipedia glossariesartificial intelligence
+hyperspectral imaging
+hyperspectral cubes
+high-dimensional vector space
+vector spaces
+multilinear subspace learningmultilinear projection
+multilinear projection
+multilinear subspace learningalgorithms
+multilinear subspace learning algorithms
+canonical correlation
+data acquisition
+computer data storage
+storage technology
+high-dimensional data
+coordinate vector
+linear mapping
+multilinear independent component analysis
+higher-order singular value decomposition
+ledyard r tucker
+cp decomposition
+canonical decomposition
+parallel factors
+local optimum
+sandia national laboratories
+multilinear algebra
+tensor decomposition
+tensor software
+social media
+market sentiment
+political election
+reality show
+sporting event
+weather forecast
+the voice
+american idol
+dancing with the stars
+united states senate elections
+united states gubernatorial elections
+san mateo california
+low-power processor
+monolithic integrated circuit
+remi el-ouazzane
+project tango
+usb stick
+arm architecture
+unmanned aerial vehicle
+internet of things
+video surveillance
+opencl compute devices
+bayesian method
+ai winter
+ken jennings watson
+brad rutter
+richard price
+adrien-marie legendre
+data fitting
+pierre-simon laplace
+andrey markov
+markov chains
+marvin minsky
+frank rosenblatt
+cornell aeronautical laboratory
+donald michie
+seymour papert
+seppo linnainmaa
+schmidhuber jrgen
+karen sprck jones
+kunihiko fukushima
+hopfield networks
+content-addressable memory
+temporal-difference learning
+random decision forests
+corinna cortes
+yann lecun
+mnist database
+american census bureau
+fei-fei li
+jeff dean
+alphago zero
+history of artificial intelligence
+timeline of artificial intelligence
+timeline of machine translation
+computing timelinesmachine learning
+alexandria virginia
+supply chain
+operational intelligence
+asset tracking
+enterprise resource planning
+radio-frequency identification
+supply chain software companies
+supply chain analytics
+embodied embedded cognition
+philosophy of perception
+motor cognition
+symbolic representation
+motor babbling
+epigenetic robotics
+hybrid intelligent system
+privately held company
+computer software
+venture capital
+firstmark capital
+battery ventures
+big data companies
+data analysis software
+companies based in paris
+american companies established in
+french companies established in
+establishments in france
+proprietary software
+linear programming
+mixed integer programming
+constraint satisfaction problem
+ai planning
+travelling salesman problem
+transfer of learning
+sebastian thrun
+bayesian networks
+building utilization
+text classification
+e-mail filtering
+biological evolution
+computer programs
+fitness landscape
+evolutionary algorithms
+geneticsprogramming genetic
+finite-state machine
+evolutionary computing
+genetic representation
+evolution strategy
+evolutionary strategies
+survivor selection
+deevolutionre programmierung
+imagest -xband-antennajpg
+space technology
+evolved antenna
+imageesa jaxa humies trajectorypng
+search problem
+candidate solution
+iterative process
+objective function
+fitness function
+array of bits
+knapsack problem
+computer simulation
+computational fluid dynamics
+interactive evolutionary computation
+interactive genetic algorithms
+genetic drift
+elitist selection
+fitness approximation
+approximated fitness
+approximate models
+local optima
+global optimum
+evolution strategies
+decision problem
+gaussian adaptation
+hill climbing
+ant colony optimization
+integer linear programming
+bit string
+floating point
+john henry holland
+linked list
+gray coding
+online optimization
+chromosomal inversion
+inversion operator
+edge recombination operator
+steven skiena
+nils aall barricelli
+institute for advanced study
+princeton new jersey
+alex fraser
+artificial selection
+hans-joachim bremermann
+artificial evolution
+ingo rechenberg
+hans-paul schwefel
+john holland
+cellular automata
+university of michigan
+hollands schema theorem
+pittsburgh pennsylvania
+the new york times
+john markoff
+grouping genetic algorithm
+emanuel falkenauer
+bin packing problem
+bin packing
+interactive evolutionary algorithm
+memetic algorithm
+bacteriologic algorithm
+evolutionary ecology
+jean-marc jzquel
+cultural algorithm
+differential search algorithm
+average information
+mean fitness
+extremal optimization
+local search
+cross-entropy method
+active or query learning
+propagation of schema
+universal darwinism
+degenetische algorithmen
+svgenetisk programmeringgenetisk algoritm
+linear programs
+fictitious play
+zero-sum game
+winnow algorithm
+perceptron learning algorithm
+set covers
+operation research
+randomized weighted majority algorithm
+this algorithm
+gradient descent method
+packing problems
+covering problems
+covering lps
+multi-commodity flow problem
+np-hard problems
+learning theory
+randomized algorithms
+thrun s
+sparse array
+complete metric space
+vector-valued function
+reproducing kernel
+coercive function
+spectral penalties
+human-based genetic algorithm
+classical music
+algorithmic composition
+symphonic music
+eric breton
+applications of artificial intelligence
+computer music
+computer music software
+european commission
+robotics projects
+fp projects
+european commission projects
+supervised training
+cascading style sheets
+web browser
+comma-separated values
+multimedia software
+datasets in computer vision
+object recognition and categorization
+quantum walks
+leonardo dicaprio
+elton john
+barry sternlicht
+pierre lagrange
+usa today
+cedric the entertainer
+danny masterson
+wall street journal
+cross creek pictures
+the hollywood reporter
+crains new york business
+tablet computer
+axa strategic ventures
+tech crunch
+crain communications
+daily trojan
+business software companies
+linear control theory
+pid controller
+full state feedback
+physics of fluids
+current opinion in neurobiology
+robot control
+applied mechanics reviews
+bernd noack
+protein structure prediction
+systems biology
+multiple sequence alignment
+amino acid
+protein folding
+protein primary structure
+primary structure
+protein secondary structure
+secondary structure
+alpha helix
+alpha helices
+beta sheet
+protein tertiary structure
+tertiary structure
+protein quaternary structure
+quartenary structure
+side chain
+protein side-chain
+protein loop
+protein contact map
+bayesian classification
+dna binding site
+transcription factor binding sites
+markov chain optimization
+text nailing
+protein targeting
+dna-expression arrays
+list of protein interactions
+protein interaction
+stack overflow
+bsd license
+math kernel library
+intel mkl
+occams razorscience
+the scientific method
+individual right
+credit bureau
+legal right
+equal credit opportunity act
+code of federal regulations
+consumer financial protection bureau
+general data protection regulation
+data protection directive
+deep neural network
+explainable ai
+gut feeling
+human rights
+forwardbackward algorithm
+text sequence labeling
+hate crime
+bias incident
+united states presidential election
+data visualization
+the boston globe
+boston globe
+new york times
+georgetown university
+the hoya
+the daily caller
+daily caller
+information technology
+innovation foundation
+fast company
+campus reform
+latino usa
+nieman foundation for journalism
+nieman lab
+data journalism
+knowledge bases
+prejudice and discrimination
+social statistics
+tin kam ho
+random subspace method
+annals of mathematics
+donald geman
+out-of-bag error
+random sample with replacement
+biasvariance dilemma
+gini impurity
+partial permutation
+orange data mining
+kernel random forest
+social biases
+online hate speech
+algorithm characterizations
+difficult to define
+social science
+social scientists
+credit score
+joseph weizenbaum
+clay shirky
+scott lash
+british nationality act
+random number generation
+visual field
+field of vision
+proof of concept
+british nationality law
+british citizenship
+automated teller machine
+bank branch
+feedback loop
+predictive policing
+lisa nakamura
+census machines
+punched card
+risk assessment
+criminal sentencing
+parole board
+parole hearings
+ethnic stereotype
+biometric data
+google play
+android app store
+the atlantic
+gay men
+brokeback mountain
+trade secrets
+bruno latour
+harvard university press
+cambridge massachusetts
+complex system
+anti-discrimination law
+device fingerprint
+ubiquitous computing
+ground truth
+ab tests
+member state
+right to an explanation
+european court of justice
+federal trade commission
+information ethics
+computing and society
+algorithm selection
+data preparation
+stratified sampling
+fuzzy classification
+discretization of continuous features
+multicriteria classification
+k-fold cross validation
+leave p-out cross validation
+leave one-out cross validation
+john tukey
+power bi
+tableau software
+data profiling
+data management
+peer review
+object detection
+university of york
+binghamton university
+face recognition grand challenge
+national institute of standards
+king juan carlos university
+royal military academy
+university of massachusetts
+daimler ag
+kannada alphabet
+digitalglobe inc
+grouplens research
+international monetary fund
+dominique strauss-kahn
+automatic summarization
+australian broadcasting corporation
+web feed
+social network analysis
+network analysis
+email spam
+federal court of australia
+urban dictionary
+mel-frequency cepstrum
+arabic speech corpus
+modern standard arabic
+university of southampton
+free music archive
+creative commons license
+creative commons
+witty worm
+human services
+iris flower data set
+iris dataset
+attribute-relation file format
+pacific marine environmental laboratory
+mauna loa observatory
+johns hopkins university
+current population survey
+current population surveys
+united states census bureau
+new york city taxi
+limousine commission
+getty center
+british oceanographic data centre
+university of mainz
+academic discipline
+applied science
+applications of machine learning
+biomedical informatics
+customer relationship management
+inverted pendulum
+automatic taxonomy construction
+grammar checker
+question answering
+speech synthesis
+term frequencyinverse document frequency
+recommendation system
+content-based filtering
+recommender systemhybrid recommender systems
+hybrid recommender systems
+search engine optimization
+tensor processing unit
+machine learning tools
+apache singa
+almeidapineda recurrent backpropagation
+constructing skill trees
+dehaenechangeux model
+dominance-based rough set approach
+error-driven learning
+evolutionary multimodal optimization
+growing self-organizing map
+hyper basis function network
+lindebuzogray algorithm
+local outlier factor
+logic learning machine
+manifold alignment
+minimum redundancy feature selection
+quadratic unconstrained binary optimization
+query-level feature
+skill chaining
+structured knn
+wake-sleep algorithm
+weighted majority algorithm
+machine learning method
+multivariate adaptive regression splines
+elastic net
+probabilistic classifier
+hierarchical classifier
+partial least squares regression
+gradient boosted decision tree
+stacked generalization
+apriori algorithm
+eclat algorithm
+logistic model tree
+information fuzzy networks
+hierarchical hidden markov model
+gaussian naive bayes
+multinomial naive bayes
+bayesian belief network
+iterative dichotomiser
+chi-squared automatic interaction detection
+decision stump
+information bottleneck method
+extreme learning machine
+association rule learningfp-growth algorithm
+fp-growth algorithm
+single-linkage clustering
+fuzzy clustering
+k-means algorithm
+optics algorithm
+k-nearest neighbors classification
+semi-supervised learninggenerative models
+generative models
+semi-supervised learninglow-density separation
+low-density separation
+semi-supervised learninggraph-based methods
+graph-based methods
+deep boltzmann machine
+stacked auto-encoders
+statistical learning
+history of machine learning
+timeline of machine learning
+machine learning group
+alberto broggi
+andrei knyazev
+ayanna howard
+barney pell
+ben goertzel
+demis hassabis
+douglas lenat
+eric xing
+ernst dickmanns
+hans-peter kriegel
+hartmut neven
+heikki mannila
+ian goodfellow
+jaime carbonell
+john platt
+julie beth lovins
+karl steinbuch
+katia sycara
+luca maria gambardella
+lon bottou
+michael collins
+ofer dekel
+oren etzioni
+peter flach
+pushmeet kohli
+ray kurzweil
+rayid ghani
+ross quinlan
+selmer bringsjord
+shane legg
+stephen muggleton
+steve omohundro
+vasant honavar
+yasuo matsuyama
+zoubin ghahramani
+outline of artificial intelligence
+outline of computer vision
+outline of robotics
+accuracy paradox
+activity recognition
+adjusted mutual information
+alternating decision tree
+apprenticeship learning
+causal markov condition
+competitive learning
+end-to-end reinforcement learning
+ibm machine learning hub
+inferential theory of learning
+learning rule
+markov chain geostatistics
+markov information source
+markov model
+markovian discrimination
+multimodal learning
+population-based incremental learning
+predictive learning
+preference learning
+sparse dictionary learning
+variable-order markov model
+version space learning
+loss functions for classification
+mean squared prediction error
+taguchi loss function
+low-energy adaptive clustering hierarchy
+anne otate
+ant colony optimization algorithms
+anthony levandowski
+apache flume
+apache giraph
+apache systemml
+archetypal analysis
+arthur zimek
+artificial ants
+artificial bee colony algorithm
+artificial development
+bag-of-words model
+balanced clustering
+base rate
+bat algorithm
+baumwelch algorithm
+bayesian hierarchical modeling
+bayesian optimization
+behavioral clustering
+bernoulli scheme
+bing predicts
+biogeography-based optimization
+bondys theorem
+bongard problem
+bradleyterry model
+ciml community portal
+cure data clustering algorithm
+canonical correspondence analysis
+canopy clustering algorithm
+cascading classifiers
+category utility
+cellular evolutionary algorithm
+chi-square automatic interaction detection
+classifier chains
+clonal selection algorithm
+cluster-weighted modeling
+clustering illusion
+cognitive computer
+collostructional analysis
+common-method variance
+complete-linkage clustering
+concept drift
+conference on knowledge discovery
+confirmatory factor analysis
+congruence coefficient
+consensus clustering
+constrained clustering
+constructive cooperative coevolution
+coupled pattern learner
+cuckoo search
+cultural consensus theory
+darpa lagr program
+data mining extensions
+data exploration
+data stream clustering
+daviesbouldin index
+decision tree model
+deep web technologies
+defining length
+dependability state model
+detailed balance
+detrended correspondence analysis
+differential evolution
+discrete phase-type distribution
+distributed r
+documenting hate
+doubly stochastic model
+dual-phase evolution
+dunn index
+dynamic bayesian network
+dynamic markov compression
+dynamic topic model
+dynamic unobserved effects model
+effective fitness
+elastic map
+elastic matching
+elbow method
+entropy rate
+erkki oja
+evaluation of binary classifiers
+evolution window
+evolutionary art
+evolutionary music
+expectation propagation
+exploratory factor analysis
+flame clustering
+factor graph
+factor regression model
+factored language model
+farthest-first traversal
+fast-and-frugal trees
+feature selection toolbox
+feature hashing
+feature scaling
+firefly algorithm
+first-difference estimator
+first-order inductive learner
+fish school search
+fisher kernel
+fitness proportionate selection
+forward algorithm
+fowlkesmallows index
+frederick jelinek
+functional principal component analysis
+gary bryce fogel
+gaussian process emulator
+generalized canonical correlation
+generalized filtering
+generalized iterative scaling
+generalized multidimensional scaling
+generative adversarial network
+genetic algorithm scheduling
+genetic algorithms in economics
+genetic fuzzy systems
+genetic memory
+geographical cluster
+gesture description language
+glossary of artificial intelligence
+google matrix
+grammatical evolution
+graph kernel
+humant algorithm
+hidden markov random field
+hidden semi-markov model
+higher-order factor analysis
+highway network
+hopkins statistic
+hoshenkopelman algorithm
+huber loss
+ilya sutskever
+imperialist competitive algorithm
+inauthentic text
+incremental decision tree
+influence diagram
+information harvesting
+information gain ratio
+intel realsense
+interacting particle system
+interactive machine translation
+international semantic web conference
+island algorithm
+isotropic position
+item response theory
+iterative viterbi decoding
+java grammatical evolution
+joseph nechvatal
+junction tree algorithm
+k q-flats
+katzs back-off model
+kernel adaptive filter
+kernel eigenvoice
+kernel embedding of distributions
+kernel perceptron
+kneserney smoothing
+knowledge vault
+knowledge integration
+language acquisition device
+latent class model
+layered hidden markov model
+learnable function class
+linear genetic programming
+linear separability
+lingyun gu
+lior ron
+list of metaphor-based metaheuristics
+local case-control sampling
+local independence
+log-linear model
+low-rank matrix approximations
+margin-infused relaxed algorithm
+massive online analysis
+matrix regularization
+mean shift
+measurement invariance
+michael kearns
+models of dna evolution
+moral graph
+mountain car problem
+multi expression programming
+multiple correspondence analysis
+multiple discriminant analysis
+multiple factor analysis
+multiplicative weight update method
+multispectral pattern recognition
+native-language identification
+natural language toolkit
+natural evolution strategy
+nearest-neighbor chain algorithm
+nearest centroid classifier
+nest labs
+neural engineering object
+neural lab
+neural modeling fields
+neuro laboratory
+noisy channel model
+noisy text analytics
+novelty detection
+nuisance variable
+optimal discriminant analysis
+pachinko allocation
+parallel metaheuristic
+parity benchmark
+part-of-speech tagging
+path dependence
+peltarion synapse
+persian speech corpus
+pietro perona
+pipeline pilot
+pitmanyor process
+plate notation
+polynomial kernel
+pop music automation
+population process
+portable format for analytics
+predictive model markup language
+predictive state representation
+preference regression
+premature convergence
+principal geodesic analysis
+probabilistic action cores
+probabilistic latent semantic analysis
+probability matching
+product of experts
+proper generalized decomposition
+pushpak bhattacharyya
+q methodology
+queueing theory
+quick draw
+rada mihalcea
+radial basis function kernel
+rand index
+ranking svm
+rattle gui
+raymond cattell
+relationship square
+relevance vector machine
+repertory grid
+reward-based selection
+richard zemel
+right to explanation
+robust principal component analysis
+ruleml symposium
+rule induction
+rules extraction system family
+santa fe trail problem
+savi technology
+search-based software engineering
+self-service semantic suite
+semantic folding
+sense networks
+sensorium project
+sequential minimal optimization
+shattered set
+simple matching coefficient
+simultaneous localization
+sinkov statistic
+sliced inverse regression
+soft output viterbi algorithm
+solveit software
+statistical machine translation
+statistical parsing
+statistical semantics
+stefano soatto
+stephen wolfram
+stochastic block model
+stochastic cellular automaton
+stochastic diffusion search
+stochastic grammar
+stochastic matrix
+stochastic universal sampling
+stress majorization
+string kernel
+structured sparsity regularization
+subclass reachability
+sukhotins algorithm
+sum of absolute differences
+switching kalman filter
+symbolic regression
+synchronous context-free grammar
+teaching dimension
+teuvo kohonen
+textual case-based reasoning
+theory of conjoint measurement
+thurstonian model
+tournament selection
+validation sets
+trax image recognition
+trigram tagger
+truncation selection
+ugly duckling theorem
+uncertain data
+uniform convergence in probability
+unique negative dimension
+universal portfolio algorithm
+vgg image annotator
+variable-order bayesian network
+variable rules analysis
+variational message passing
+varimax rotation
+waca clustering algorithm
+wards method
+weasel program
+winstay loseswitch
+witness set
+wolfram language
+wolfram mathematica
+writer invariant
+dartmouth conferences
+wikipedia outlinesmachine learning
+computing-related lists
+artificial intelligencemachine learning
+data miningmachine learning
+exhaustive searching
+national taiwan university
+rbf kernel
+embarrassingly parallel
+automatic differentiation
+tree of parzen estimators
+surrogate model
+data point
+dow jones industrial average
+line chart
+mathematical finance
+weather forecasting
+earthquake prediction
+control engineering
+communications engineering
+interrupted time series
+cross-sectional study
+cross-sectional studies
+time reversibility
+data typenumeric types
+english language
+frequency spectrumspectrum analysis
+wavelet analysis
+scaled correlation
+parametric estimation
+parametric approaches
+stationary process
+stationary stochastic process
+moving average
+non-parametric approaches
+univariate analysis
+panel data
+cross-sectional data
+quantitative finance
+communication engineering
+serial dependence
+trend estimation
+decomposition of time series
+mathematical function
+the signal
+the noise
+jaan kiusalaas
+degree of uncertainty
+polynomial interpolation
+approximation theory
+special function
+rational function
+predictive inference
+stochastic simulation
+sign language
+harmonic analysis
+frequency domain
+spectral density estimation
+norbert wiener
+dennis gabor
+change detection
+change-point detection
+stochastic processes
+moving average model
+autoregressive moving average
+autoregressive integrated moving average
+vector autoregression
+chaos theory
+nonlinear autoregressive exogenous model
+autoregressive conditional heteroskedasticity
+markov switching multifractal
+natural number
+index set
+ergodic process
+strict stationarity
+second-order stationarity
+cyclostationary process
+seasonally stationary
+time-frequency analysis
+timefrequency representation
+autocorrelation function
+spectral density
+spectral density function
+cross-correlation function
+digital filter
+empirical orthogonal function
+singular spectrum analysis
+state space model
+control chart
+shewhart individuals control chart
+ewma chart
+detrended fluctuation analysis
+time-frequency representation
+time-frequency analysis techniques
+fast fourier transform
+continuous wavelet transform
+short-time fourier transform
+chirplet transform
+fractional fourier transform
+chaotic analysis
+correlation dimension
+recurrence plot
+recurrence quantification analysis
+lyapunov exponent
+entropy encoding
+spectral band power
+spectral edge frequency
+hjorth parameters
+autoregressive model
+mannkendall test
+correlation integral
+correlation density
+correlation entropy
+approximate entropy
+sample entropy
+rnyi entropy
+marginal predictability
+dynamical similarity
+state space
+local flow
+algorithmic complexity
+rough pathsignature
+rough path signature
+phase synchronization
+phase locking
+edit distance
+total correlation
+neweywest estimator
+praiswinsten estimation
+praiswinsten transformation
+minkowski distance
+pearson product-moment correlation coefficient
+kolmogorovsmirnov test
+cramrvon mises criterion
+horizon graphs
+ibm spss statistics
+anomaly time series
+distributed lag
+hurst exponent
+panel analysis
+random walk
+seasonal adjustment
+sequence analysis
+unevenly spaced time series
+time series database
+james durbin
+durbin j
+oxford university press
+princeton university press
+maurice priestley
+academic press
+wiener n
+crc press
+statistical data types
+text summarization
+parallel text
+parallel corpora
+multi-sequence alignment
+statistical machine translationphrase-based translation
+phrase-based translation
+pivot language
+vanishing gradient problemresidual networks
+convolutional neural networkpooling layer
+pooling layer
+skip gram model
+recursive neural network
+roc curve
+multi-class classification
+cross correlation

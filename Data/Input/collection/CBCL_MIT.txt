@@ -1,0 +1,12 @@
+The Center for Biological & Computational Learning is a research lab at the Massachusetts Institute of Technology.
+
+CBCL was established in 1992 with support from the National Science Foundation. It is based in the Department of Brain & Cognitive Sciences at MIT, and is associated with the McGovern Institute for Brain Research, and the MIT Computer Science and Artificial Intelligence Laboratory.
+
+It was founded with the belief that learning is at the very core of the problem of intelligence, both biological and artificial. Learning is thus the gateway to understanding how the human brain works and for making intelligent machines. CBCL studies the problem of learning within a multidisciplinary approach. Its main goal is to nurture serious research on the mathematics, the engineering and the neuroscience of learning. 
+
+Research is focused on the problem of learning in theory, engineering applications, and neuroscience.
+
+In computational neuroscience, the center has developed a model of the ventral stream in the visual cortex which accounts for much of the physiological data, and psychophysical experiments in difficult object recognition tasks. The model performs at the level of the best computer vision systems.
+
+Tomaso Poggio director of CBCL
+

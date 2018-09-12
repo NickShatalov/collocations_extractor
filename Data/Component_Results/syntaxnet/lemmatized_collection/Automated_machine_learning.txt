@@ -1,0 +1,1 @@
+vgg image annotator via be an open source project develop at the visual geometry group and release under the bsd clause license . with this standalone application you can define region in an image and create a textual description of those region . such image region and description be useful for supervise training of machine learn algorithm .

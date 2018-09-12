@@ -1,0 +1,32 @@
+Large margin nearest neighbor (LMNN) classification is a statistical machine learning algorithm for metric learning. It learns a pseudometric designed for k-nearest neighbor classification. The algorithm is based on semidefinite programming, a sub-class of convex optimization.
+
+The goal of supervised learning (more specifically classification) is to learn a decision rule that can categorize data instances into pre-defined classes. The k-nearest neighbor rule assumes a "training" data set of labeled instances (i.e. the classes are known). It classifies a new data instance with the class obtained from the majority vote of the k closest (labeled) training instances. Closeness is measured with a pre-defined metric. Large margin nearest neighbors is an algorithm that learns this global (pseudo-)metric in a supervised fashion to improve the classification accuracy of the k-nearest neighbor rule.
+
+The main intuition behind LMNN is to learn a pseudometric under which all data instances in the training set are surrounded by at least k instances that share the same class label. If this is achieved, the leave-one-out error (a special case of cross validation) is minimized. Let the training data consist of a data set formula_1, where the set of possible class categories is formula_2.
+
+The algorithm learns a pseudometric of the type 
+For formula_4 to be well defined, the matrix formula_5 needs to be positive semi-definite. The Euclidean metric is a special case, where formula_5 is the identity matrix. This generalization is often (falsely) referred to as Mahalanobis metric.
+
+Figure 1 illustrates the effect of the metric under varying formula_5. The two circles show the set of points with equal distance to the center formula_8. In the Euclidean case this set is a circle, whereas under the modified (Mahalanobis) metric it becomes an ellipsoid.
+
+The algorithm distinguishes between two types of special data points: "target neighbors" and "impostors".
+
+Target neighbors are selected before learning. Each instance formula_8 has exactly formula_10 different target neighbors within formula_11, which all share the same class label formula_12. The target neighbors are the data points that "should become" nearest neighbors "under the learned metric". Let us denote the set of target neighbors for a data point formula_8 as formula_14.
+
+An impostor of a data point formula_8 is another data point formula_16 with a different class label (i.e. formula_17) which is one of the nearest neighbors of formula_8. During learning the algorithm tries to minimize the number of impostors for all data instances in the training set.
+
+Large margin nearest neighbors optimizes the matrix formula_5 with the help of semidefinite programming. The objective is twofold: For every data point formula_8, the "target neighbors" should be "close" and the "impostors" should be "far away". Figure 1 shows the effect of such an optimization on an illustrative example. The learned metric causes the input vector formula_8 to be surrounded by training instances of the same class. If it was a test point, it would be classified correctly under the formula_22 nearest neighbor rule.
+
+The first optimization goal is achieved by minimizing the average distance between instances and their target neighbors
+The second goal is achieved by constraining impostors formula_24 to be one unit further away than target neighbors formula_16 (and therefore pushing them out of the local neighborhood of formula_8). The resulting inequality constraint can be stated as:
+The margin of exactly one unit fixes the scale of the matrix formula_28. Any alternative choice formula_29 would result in a rescaling of formula_28 by a factor of formula_31.
+
+The final optimization problem becomes:
+
+Here the slack variables formula_37 absorb the amount of violations of the impostor constraints. Their overall sum is minimized. The last constraint ensures that formula_5 is positive semi-definite. The optimization problem is an instance of semidefinite programming (SDP). Although SDPs tend to suffer from high computational complexity, this particular SDP instance can be solved very efficiently due to the underlying geometric properties of the problem. In particular, most impostor constraints are naturally satisfied and do not need to be enforced during runtime. A particularly well suited solver technique is the working set method, which keeps a small set of constraints that are actively enforced and monitors the remaining (likely satisfied) constraints only occasionally to ensure correctness.
+
+LMNN was extended to multiple local metrics in the 2008 paper. 
+This extension significantly improves the classification error, but involves a more expensive optimization problem. In their 2009 publication in the Journal of Machine Learning Research, Weinberger and Saul derive an efficient solver for the semi-definite program. It can learn a metric for the MNIST handwritten digit data set in several hours, involving billions of pairwise constraints. An open source Matlab implementation is freely available at the authors web page.
+
+Kumal et al. extended the algorithm to incorporate local invariances to multivariate polynomial transformations and improved regularization.
+

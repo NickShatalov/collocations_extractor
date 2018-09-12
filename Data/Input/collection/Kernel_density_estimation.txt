@@ -1,0 +1,58 @@
+In statistics, kernel density estimation (KDE) is a non-parametric way to estimate the probability density function of a random variable. Kernel density estimation is a fundamental data smoothing problem where inferences about the population are made, based on a finite data sample. In some fields such as signal processing and econometrics it is also termed the Parzen–Rosenblatt window method, after Emanuel Parzen and Murray Rosenblatt, who are usually credited with independently creating it in its current form.
+
+Let ("x", "x", …, "x") be a univariate independent and identically distributed sample drawn from some distribution with an unknown density "ƒ". We are interested in estimating the shape of this function "ƒ". Its "kernel density estimator" is
+where "K" is the kernel — a non-negative function that integrates to one — and is a smoothing parameter called the "bandwidth". A kernel with subscript "h" is called the "scaled kernel" and defined as . Intuitively one wants to choose "h" as small as the data will allow; however, there is always a trade-off between the bias of the estimator and its variance. The choice of bandwidth is discussed in more detail below.
+
+A range of kernel functions are commonly used: uniform, triangular, biweight, triweight, Epanechnikov, normal, and others. The Epanechnikov kernel is optimal in a mean square error sense, though the loss of efficiency is small for the kernels listed previously, and due to its convenient mathematical properties, the normal kernel is often used, which means , where "ϕ" is the standard normal density function.
+
+The construction of a kernel density estimate finds interpretations in fields outside of density estimation. For example, in thermodynamics, this is equivalent to the amount of heat generated when heat kernels (the fundamental solution to the heat equation) are placed at each data point locations "x". Similar methods are used to construct discrete Laplace operators on point clouds for manifold learning.
+
+Kernel density estimates are closely related to histograms, but can be endowed with properties such as smoothness or continuity by using a suitable kernel. To see this, we compare the construction of histogram and kernel density estimators, using these 6 data points:
+
+For the histogram, first the horizontal axis is divided into sub-intervals or bins which cover the range of the data. In this case, we have 6 bins each of width 2. Whenever a data point falls inside this interval, we place a box of height 1/12. If more than one data point falls inside the same bin, we stack the boxes on top of each other.
+
+For the kernel density estimate, we place a normal kernel with variance 2.25 (indicated by the red dashed lines) on each of the data points "x". The kernels are summed to make the kernel density estimate (solid blue curve). The smoothness of the kernel density estimate is evident compared to the discreteness of the histogram, as kernel density estimates converge faster to the true underlying density for continuous random variables.
+
+The bandwidth of the kernel is a free parameter which exhibits a strong influence on the resulting estimate. To illustrate its effect, we take a simulated random sample from the standard normal distribution (plotted at the blue spikes in the rug plot on the horizontal axis). The grey curve is the true density (a normal density with mean 0 and variance 1). In comparison, the red curve is "undersmoothed" since it contains too many spurious data artifacts arising from using a bandwidth "h" = 0.05, which is too small. The green curve is "oversmoothed" since using the bandwidth "h" = 2 obscures much of the underlying structure. The black curve with a bandwidth of "h" = 0.337 is considered to be optimally smoothed since its density estimate is close to the true density.
+
+The most common optimality criterion used to select this parameter is the expected "L" risk function, also termed the mean integrated squared error:
+
+Under weak assumptions on "ƒ" and "K", -("ƒ" is the, generally unknown, real density function),
+MISE ("h") = AMISE("h") + "o(1/(nh) + h)" where "o" is the little o notation.
+The AMISE is the Asymptotic MISE which consists of the two leading terms
+
+where formula_4 for a function "g", formula_5
+and "ƒ"" is the second derivative of "ƒ". The minimum of this AMISE is the solution to this differential equation
+
+or
+
+Neither the AMISE nor the "h" formulas are able to be used directly since they involve the unknown density function "ƒ" or its second derivative "ƒ"", so a variety of automatic, data-based methods have been developed for selecting the bandwidth. Many review studies have been carried out to compare their efficacies, with the general consensus that the plug-in selectors
+
+Substituting any bandwidth "h" which has the same asymptotic order "n" as "h" into the AMISE
+gives that AMISE("h") = "O"("n"), where "O" is the big o notation. It can be shown that, under weak assumptions, there cannot exist a non-parametric estimator that converges at a faster rate than the kernel estimator. Note that the "n" rate is slower than the typical "n" convergence rate of parametric methods.
+
+If the bandwidth is not held fixed, but is varied depending upon the location of either the estimate (balloon estimator) or the samples (pointwise estimator), this produces a particularly powerful method termed adaptive or variable bandwidth kernel density estimation.
+
+Bandwidth selection for kernel density estimation of heavy-tailed distributions is said to be relatively difficult.
+
+If Gaussian basis functions are used to approximate univariate data, and the underlying density being estimated is Gaussian, the optimal choice for "h" (that is, the bandwidth that minimises the mean integrated squared error) is
+
+where formula_9 is the standard deviation of the samples.
+This approximation is termed the "normal distribution approximation", Gaussian approximation, or "Silverman's (1986) rule of thumb".
+While this rule of thumb is easy to compute, it should be used with caution as it can yield widely inaccurate estimates when the density is not close to being normal. For example, consider estimating the bimodal Gaussian mixture:
+
+from a sample of 200 points. The figure on the right below shows the true density and two kernel density estimates --- one using the rule-of-thumb bandwidth, and the other using 
+a solve-the-equation bandwidth. The estimate based on the rule-of-thumb bandwidth is significantly oversmoothed. 
+The Matlab script for this example uses 
+kde.m and is given below.
+
+Given the sample ("x", "x", …, "x"), it is natural to estimate the characteristic function as
+Knowing the characteristic function, it is possible to find the corresponding probability density function through the Fourier transform formula. One difficulty with applying this inversion formula is that it leads to a diverging integral, since the estimate formula_12 is unreliable for large "t"’s. To circumvent this problem, the estimator formula_12 is multiplied by a damping function , which is equal to 1 at the origin and then falls to 0 at infinity. The “bandwidth parameter” "h" controls how fast we try to dampen the function formula_12. In particular when "h" is small, then "ψ"("t") will be approximately one for a large range of "t"’s, which means that formula_12 remains practically unaltered in the most important region of "t"’s.
+
+The most common choice for function "ψ" is either the uniform function }, which effectively means truncating the interval of integration in the inversion formula to , or the gaussian function . Once the function "ψ" has been chosen, the inversion formula may be applied, and the density estimator will be
+where "K" is the Fourier transform of the damping function "ψ". Thus the kernel density estimator coincides with the characteristic function density estimator.
+
+A non-exhaustive list of software implementations of kernel density estimators includes:
+
+
+

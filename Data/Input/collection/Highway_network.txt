@@ -1,0 +1,3 @@
+In machine learning, a highway network is an approach to optimizing networks and increasing their depth. Highway networks use learned gating mechanisms to regulate information flow, inspired by Long Short-Term Memory (LSTM) recurrent neural networks. The gating mechanisms allow neural networks to have paths for information to follow across different layers ("information highways").
+
+Highway networks have been used as part of text sequence labeling and speech recognition tasks.

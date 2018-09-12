@@ -1,0 +1,6 @@
+Discriminative models, also called conditional models, are a class of models used in machine learning for modeling the dependence of unobserved (target) variables formula_1 on observed variables formula_2. Within a probabilistic framework, this is done by modeling the conditional probability distribution formula_3, which can be used for predicting formula_1 from formula_2.
+
+Discriminative models, as opposed to generative models, do not allow one to generate samples from the joint distribution of observed and target variables. However, for tasks such as classification and regression that do not require the joint distribution, discriminative models can yield superior performance (in part because they have fewer variables to compute). On the other hand, generative models are typically more flexible than discriminative models in expressing dependencies in complex learning tasks. In addition, most discriminative models are inherently supervised and cannot easily support unsupervised learning. Application-specific details ultimately dictate the suitability of selecting a discriminative versus generative model.
+
+Examples of discriminative models used in machine learning include:
+

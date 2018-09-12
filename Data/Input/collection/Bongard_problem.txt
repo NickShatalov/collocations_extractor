@@ -1,0 +1,7 @@
+A Bongard problem is a kind of puzzle invented by the Russian computer scientist Mikhail Moiseevich Bongard (Михаил Моисеевич Бонгард, 1924–1971), probably in the mid-1960s. They were published in his 1967 book on pattern recognition. Bongard, in the introduction of the book (which deals with a number of topics including perceptrons) credits the ideas in it to a group including M. N. Vaintsvaig, V. V. Maksimov, and M. S. Smirnov.
+
+The idea of a Bongard problem is to present two sets of relatively simple diagrams, say "A" and "B". All the diagrams from set "A" have a common factor or attribute, which is lacking in all the diagrams of set "B". The problem is to find, or to formulate, convincingly, the common factor. The problems were popularised by their occurrence in the 1979 book "Gödel, Escher, Bach" by Douglas Hofstadter, himself a composer of Bongard problems. Bongard problems are also at the heart of the game Zendo.
+
+Many computational architectures have been devised to solve Bongard problems, the most extensive of which being Phaeaco, by Harry Foundalis, who left the field in 2008 due to ethical concerns regarding machines that can pass as human.
+
+

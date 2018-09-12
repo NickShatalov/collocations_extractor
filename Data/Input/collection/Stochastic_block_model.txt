@@ -1,0 +1,31 @@
+The stochastic block model is a generative model for random graphs. This model tends to produce graphs containing "communities", subsets characterized by being connected with one another with particular edge densities. For example, edges may be more common within communities than between communities. The stochastic block model is important in statistics, machine learning, and network science, where it serves as a useful benchmark for the task of recovering community structure in graph data.
+
+The stochastic block model takes the following parameters:
+The edge set is then sampled at random as follows: any two vertices formula_6 and formula_7 are connected by an edge with probability formula_8.
+
+If the probability matrix is a constant, in the sense that formula_9 for all formula_10, then the result is the Erdős–Rényi model formula_11. This case is degenerate—the partition into communities becomes irrelevant—but it illustrates a close relationship to the Erdős–Rényi model.
+
+The "planted partition model" is the special case that the values of the probability matrix formula_5 are a constant formula_13 on the diagonal and another constant formula_14 off the diagonal. Thus two vertices within the same community share an edge with probability formula_13, while two vertices in different communities share an edge with probability formula_14. Sometimes it is this restricted model that is called the stochastic block model. The case where formula_17 is called an "assortative" model, while the case formula_18 is called "dissortative".
+
+Returning to the general stochastic block model, a model is called "strongly assortative" if formula_19 whenever formula_20: all diagonal entries dominate all off-diagonal entries. A model is called "weakly assortative" if formula_21 whenever formula_22: each diagonal entry is only required to dominate the rest of its own row and column. "Dissortative" forms of this terminology exist, by reversing all inequalities. Algorithmic recovery is often easier against block models with assortative or dissortative conditions of this form.
+
+Much of the literature on algorithmic community detection addresses three statistical tasks: detection, partial recovery, and exact recovery.
+
+The goal of detection algorithms is simply to determine, given a sampled graph, whether the graph has latent community structure. More precisely, a graph might be generated, with some known prior probability, from a known stochastic block model, and otherwise from a similar Erdos-Renyi model. The algorithmic task is to correctly identify which of these two underlying models generated the graph.
+
+In partial recovery, the goal is to approximately determine the latent partition into communities, in the sense of finding a partition that is correlated with the true partition significantly better than a random guess.
+
+In exact recovery, the goal is to recover the latent partition into communities exactly. The community sizes and probability matrix may be known or unknown.
+
+Stochastic block models exhibit a sharp threshold effect reminiscent of percolation thresholds. Suppose that we allow the size formula_1 of the graph to grow, keeping the community sizes in fixed proportions. If the probability matrix remains fixed, tasks such as partial and exact recovery become feasible for all non-degenerate parameter settings. However, if we scale down the probability matrix at a suitable rate as formula_1 increases, we observe a sharp phase transition: for certain settings of the parameters, it will become possible to achieve recovery with probability tending to 1, whereas on the opposite side of the parameter threshold, the probability of recovery tends to 0 no matter what algorithm is used.
+
+For partial recovery, the appropriate scaling is to take formula_25 for fixed formula_26, resulting in graphs of constant average degree. In the case of two equal-sized communities, in the assortative planted partition model with probability matrix
+formula_27
+partial recovery is feasible with probability formula_28 whenever formula_29, whereas any estimator fails partial recovery with probability formula_30 whenever formula_31.
+
+For exact recovery, the appropriate scaling is to take formula_32, resulting in graphs of logarithmic average degree. Here a similar threshold exists: for the assortative planted partition model with formula_33 equal-sized communities, the threshold lies at formula_34. In fact, the exact recovery threshold is known for the fully general stochastic block model.
+In principle, exact recovery can be solved in its feasible range using maximum likelihood, but this amounts to solving a constrained or regularized cut problem such as minimum bisection that is typically NP-complete. Hence, no known efficient algorithms will correctly compute the maximum-likelihood estimate in the worst case.
+
+However, a wide variety of algorithms perform well in the average case, and many high-probability performance guarantees have been proven for algorithms in both the partial and exact recovery settings. Successful algorithms include spectral clustering of the vertices, semidefinite programming, and forms of belief propagation, among others.
+
+Several variants of the model exist. One minor tweak allocates vertices to communities randomly, according to a categorical distribution, rather than in a fixed partition. More significant variants include the censored block model and the mixed-membership block model.

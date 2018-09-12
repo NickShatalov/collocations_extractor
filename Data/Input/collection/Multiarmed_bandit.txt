@@ -1,0 +1,83 @@
+In probability theory, the multi-armed bandit problem (sometimes called the "K"-<ref name="doi10.1023/A:1013689704352"></ref> or "N"-armed bandit problem) is a problem in which a fixed limited set of resources must be allocated between competing (alternative) choices in a way that maximizes their expected gain, when each choice's properties are only partially known at the time of allocation, and may become better understood as time passes or by allocating resources to the choice. The name comes from imagining a gambler at a row of slot machines (sometimes known as "one-armed bandits"), who has to decide which machines to play, how many times to play each machine and in which order to play them, and whether to continue with the current machine or try a different machine. The multi-armed bandit problem also falls into the broad category of Stochastic scheduling.
+
+In the problem, each machine provides a random reward from a probability distribution specific to that machine. The objective of the gambler is to maximize the sum of rewards earned through a sequence of lever pulls. The crucial tradeoff the gambler faces at each trial is between "exploitation" of the machine that has the highest expected payoff and "exploration" to get more information about the expected payoffs of the other machines. The trade-off between exploration and exploitation is also faced in reinforcement learning. In practice, multi-armed bandits have been used to model problems such as managing research projects in a large organization like a science foundation or a pharmaceutical company. In early versions of the problem, the gambler begins with no initial knowledge about the machines.
+
+Herbert Robbins in 1952, realizing the importance of the problem, constructed convergent population selection strategies in "some aspects of the sequential design of experiments". A theorem, the Gittins index, first published by John C. Gittins, gives an optimal policy for maximizing the expected discounted reward.
+
+The multi-armed bandit problem models an agent that simultaneously attempts to acquire new knowledge (called "exploration") and optimize his or her decisions based on existing knowledge (called "exploitation"). The agent attempts to balance these competing tasks in order to maximize his total value over the period of time considered. There are many practical applications of the bandit model, for example:
+
+
+In these practical examples, the problem requires balancing reward maximization based on the knowledge already acquired with attempting new actions to further increase knowledge. This is known as the "exploitation vs. exploration tradeoff" in reinforcement learning.
+
+The model has also been used to control dynamic allocation of resources to different projects, answering the question of which project to work on, given uncertainty about the difficulty and payoff of each possibility.
+
+Originally considered by Allied scientists in World War II, it proved so intractable that, according to Peter Whittle, the problem was proposed to be dropped over Germany so that German scientists could also waste their time on it.
+
+The version of the problem now commonly analyzed was formulated by Herbert Robbins in 1952.
+
+The multi-armed bandit (short: "bandit" or MAB) can be seen as a set of real distributions formula_1, each distribution being associated with the rewards delivered by one of the formula_2 levers. Let formula_3 be the mean values associated with these reward distributions. The gambler iteratively plays one lever per round and observes the associated reward. The objective is to maximize the sum of the collected rewards. The horizon formula_4 is the number of rounds that remain to be played. The bandit problem is formally equivalent to a one-state Markov decision process. The regret formula_5 after formula_6 rounds is defined as the expected difference between the reward sum associated with an optimal strategy and the sum of the collected rewards: formula_7, where formula_8 is the maximal reward mean, formula_9, and formula_10 is the reward in round "t".
+
+A "zero-regret strategy" is a strategy whose average regret per round formula_11 tends to zero with probability 1 when the number of played rounds tends to infinity. Intuitively, zero-regret strategies are guaranteed to converge to a (not necessarily unique) optimal strategy if enough rounds are played.
+
+A common formulation is the "Binary multi-armed bandit" or "Bernoulli multi-armed bandit," which issues a reward of one with probability formula_12, and otherwise a reward of zero.
+
+Another formulation of the multi-armed bandit has each arm representing an independent Markov machine. Each time a particular arm is played, the state of that machine advances to a new one, chosen according to the Markov state evolution probabilities. There is a reward depending on the current state of the machine. In a generalisation called the "restless bandit problem", the states of non-played arms can also evolve over time. There has also been discussion of systems where the number of choices (about which arm to play) increases over time.
+
+Computer science researchers have studied multi-armed bandits under worst-case assumptions, obtaining algorithms to minimize regret in both finite and infinite (asymptotic) time horizons for both stochastic and non-stochastic arm payoffs.
+
+A major breakthrough was the construction of optimal population selection strategies, or policies (that possess uniformly maximum convergence rate to the population with highest mean) in the work described below.
+
+In the paper "Asymptotically efficient adaptive allocation rules", Lai and Robbins (following papers of Robbins and his co-workers going back to Robbins in the year 1952) constructed convergent population selection policies that possess the fastest rate of convergence (to the population with highest mean) for the case that the population reward distributions are the one-parameter exponential family. Then, in Katehakis and Robbins simplifications of the policy and the main proof were given for the case of normal populations with known variances. The next notable progress was obtained by Burnetas and Katehakis in the paper "Optimal adaptive policies for sequential allocation problems", where index based policies with uniformly maximum convergence rate were constructed, under more general conditions that include the case in which the distributions of outcomes from each population depend on a vector of unknown parameters. Burnetas and Katehakis (1996) also provided an explicit solution for the important case in which the distributions of outcomes follow arbitrary (i.e., non-parametric) discrete, univariate distributions.
+
+Later in "Optimal adaptive policies for Markov decision processes" Burnetas and Katehakis studied the much larger model of Markov Decision Processes under partial information, where the transition law and/or the expected one period rewards may depend on unknown parameters. In this work the explicit form for a class of adaptive policies that possess uniformly maximum convergence rate properties for the total expected finite horizon reward, were constructed under sufficient assumptions of finite state-action spaces and irreducibility of the transition law. A main feature of these policies is that the choice of actions, at each state and time period, is based on indices that are inflations of the right-hand side of the estimated average reward optimality equations. These inflations have recently been called the optimistic approach in the work of Tewari and Bartlett, Ortner Filippi, Cappé, and Garivier, and Honda and Takemura.
+
+Many strategies exist which provide an approximate solution to the bandit problem, and can be put into the four broad categories detailed below.
+
+Semi-uniform strategies were the earliest (and simplest) strategies discovered to approximately solve the bandit problem. All those strategies have in common a greedy behavior where the "best" lever (based on previous observations) is always pulled except when a (uniformly) random action is taken.
+
+
+Probability matching strategies reflect the idea that the number of pulls for a given lever should "match" its actual probability of being the optimal lever. Probability matching strategies are also known as Thompson sampling or Bayesian Bandits, and are surprisingly easy to implement if you can sample from the posterior for the mean value of each alternative.
+
+Probability matching strategies also admit solutions to so-called contextual bandit problems.
+
+Pricing strategies establish a "price" for each lever. For example, as illustrated with the POKER algorithm, the price can be the sum of the expected reward plus an estimation of extra future rewards that will gain through the additional knowledge. The lever of highest price is always pulled.
+
+These strategies minimize the assignment of any patient to an inferior arm ("physician's duty"). In a typical case, they minimize expected successes lost (ESL), that is, the expected number of favorable outcomes that were missed because of assignment to an arm later proved to be inferior. Another version minimizes resources wasted on any inferior, more expensive, treatment.
+
+A particularly useful version of the multi-armed bandit is the contextual multi-armed bandit problem. In this problem, in each iteration an agent has to choose between arms. Before making the choice, the agent sees a d-dimensional feature vector (context vector),
+associated with the current iteration. The learner uses these context vectors along with the rewards of the arms played in the past to make the choice of the arm to play in
+the current iteration. Over time, the learner's aim is to collect enough information about how the context vectors and rewards relate to each other, so that it can predict the next best arm to play by looking at the feature vectors.
+
+Many strategies exist that provide an approximate solution to the contextual bandit problem, and can be put into two broad categories detailed below.
+
+
+
+In practice, there is usually a cost associated with the resource consumed by each action and the total cost is limited by a budget in many applications such as crowdsourcing and clinical trials. Constrained contextual bandit (CCB) is such a model that considers both the time and budget constraints in a multi-armed bandit setting.
+A. Badanidiyuru et al. first studied contextual bandits with budget constraints, also referred to as Resourceful Contextual Bandits, and show that a formula_21 regret is achievable. However, their work focuses on a finite set of policies, and the algorithm is computationally inefficient.
+A simple algorithm with logarithmic regret is proposed in:
+
+Another variant of the multi-armed bandit problem is called the adversarial bandit, first introduced by Auer and Cesa-Bianchi (1998). In this variant, at each iteration an agent chooses an arm and an adversary simultaneously chooses the payoff structure for each arm. This is one of the strongest generalizations of the bandit problem as it removes all assumptions of the distribution and a solution to the adversarial bandit problem is a generalized solution to the more specific bandit problems.
+
+In the original specification and in the above variants, the bandit problem is specified with a discrete and finite number of arms, often indicated by the variable formula_22. In the infinite armed case, introduced by Agarwal (1995), the "arms" are a continuous variable in formula_22 dimensions.
+
+Garivier and Moulines derive some of the first results with respect to bandit problems where the underlying model can change during play. A number of algorithms were presented to deal with this case, including Discounted UCB and Sliding-Window UCB.
+
+Another work by Burtini et al. introduces a weighted least squares Thompson sampling approach (WLS-TS), which proves beneficial in both the known and unknown non-stationary cases . In the known non-stationary case, the authors in produce an alternative solution, a variant of UCB named Adjusted Upper Confidence Bound (A-UCB) which assumes a stochastic model and provide upper-bounds of the regret.
+
+Many variants of the problem have been proposed in recent years. 
+
+The dueling bandit variant was introduced by Yue et al. (2012) to model the exploration-versus-exploitation tradeoff for relative feedback.
+In this variant the gambler is allowed to pull two levers at the same time, but they only get a binary feedback telling which lever provided the best reward. The difficulty of this problem stems from the fact that the gambler has no way of directly observing the reward of their actions.
+The earliest algorithms for this problem are InterleaveFiltering, Beat-The-Mean.
+The relative feedback of dueling bandits can also lead to voting paradoxes. A solution is to take the Condorcet winner as a reference.
+
+More recently, researchers have generalized algorithms from traditional MAB to dueling bandits: Relative Upper Confidence Bounds (RUCB), Relative EXponential weighing (REX3), 
+Copeland Confidence Bounds (CCB), Relative Minimum Empirical Divergence (RMED), and Double Thompson Sampling (DTS).
+
+The collaborative filtering bandits (i.e., COFIBA) was introduced by Li and Karatzoglou and Gentile (SIGIR 2016), where the classical collaborative filtering, and content-based filtering methods try to learn a static recommendation model given training data. These approaches are far from ideal in highly dynamic recommendation domains such as news recommendation and computational advertisement, where the set of items and users is very fluid. In this work, they investigate an adaptive clustering technique for content recommendation based on exploration-exploitation strategies in contextual multi-armed bandit settings. Their algorithm (COFIBA, pronounced as "Coffee Bar") takes into account the collaborative effects that arise due to the interaction of the users with the items, by dynamically grouping users based on the items under consideration and, at the same time, grouping items based on the similarity of the clusterings induced over the users. The resulting algorithm thus takes advantage of preference patterns in the data in a way akin to collaborative filtering methods. They provide an empirical analysis on medium-size real-world datasets, showing scalability and increased prediction performance (as measured by click-through rate) over state-of-the-art methods for clustering bandits. They also provide a regret analysis within a standard linear stochastic noise setting.
+
+The Combinatorial Multiarmed Bandit (CMAB) problem arises when instead of a single discrete variable to choose from, an agent needs to choose values for a set of variables. Assuming each variable is discrete, the number of possible choices per iteration is exponential in the number of variables. Several CMAB settings have been studied in the literature, from settings where the variables are binary to more general setting where each variable can take an arbitrary set of values.
+
+
+
+

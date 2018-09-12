@@ -1,0 +1,29 @@
+In computational learning theory, Occam learning is a model of algorithmic learning where the objective of the learner is to output a succinct representation of received training data. This is closely related to probably approximately correct (PAC) learning, where the learner is evaluated on its predictive power of a test set.
+
+Occam learnability implies PAC learning, and for a wide variety of concept classes, the converse is also true: PAC learnability implies Occam learnability.
+
+Occam Learning is named after Occam's razor, which is a principle stating that, given all other things being equal, a shorter explanation for observed data should be favored over a lengthier explanation. The theory of Occam learning is a formal and mathematical justification for this principle. It was first shown by Blumer, et al. that Occam learning implies PAC learning, which is the standard model of learning in computational learning theory. In other words, "parsimony" (of the output hypothesis) implies "predictive power".
+
+The succinctness of a concept formula_1 in concept class formula_2 can be expressed by the length formula_3 of the shortest bit string that can represent formula_1 in formula_2. Occam learning connects the succinctness of a learning algorithm's output to its predictive power on unseen data.
+
+Let formula_2 and formula_7 be concept classes containing target concepts and hypotheses respectively. Then, for constants formula_8 and formula_9, a learning algorithm formula_10 is an formula_11-Occam algorithm for formula_2 using formula_7 iff, given a set formula_14 of formula_15 samples labeled according to a concept formula_16, formula_10 outputs a hypothesis formula_18 such that
+where formula_24 is the maximum length of any sample formula_25. An Occam algorithm is called "efficient" if it runs in time polynomial in formula_24, formula_15, and formula_28 We say a concept class formula_2 is "Occam learnable" with respect to a hypothesis class formula_7 if there exists an efficient Occam algorithm for formula_2 using formula_32
+
+Occam learnability implies PAC learnability, as the following theorem of Blumer, et al. shows:
+
+Let formula_10 be an efficient formula_11-Occam algorithm for formula_2 using formula_7. Then there exists a constant formula_37 such that for any formula_38, for any distribution formula_39, given formula_40 samples drawn from formula_39 and labelled according to a concept formula_42 of length formula_24 bits each, the algorithm formula_10 will output a hypothesis formula_45 such that formula_46 with probability at least formula_47 .Here, formula_48 is with respect to the concept formula_1 and distribution formula_39. This implies that the algorithm formula_10 is also a PAC learner for the concept class formula_2 using hypothesis class formula_7. A slightly more general formulation is as follows:
+
+Let formula_38. Let formula_10 be an algorithm such that, given formula_15 samples drawn from a fixed but unknown distribution formula_57 and labeled according to a concept formula_42 of length formula_24 bits each, outputs a hypothesis formula_60 that is consistent with the labeled samples. Then, there exists a constant formula_61 such that if formula_62, then formula_10 is guaranteed to output a hypothesis formula_60 such that formula_46 with probability at least formula_47.
+
+While the above theorems show that Occam learning is sufficient for PAC learning, it doesn't say anything about "necessity." Board and Pitt show that, for a wide variety of concept classes, Occam learning is in fact necessary for PAC learning. They proved that for any concept class that is "polynomially closed under exception lists," PAC learnability implies the existence of an Occam algorithm for that concept class. Concept classes that are polynomially closed under exception lists include Boolean formulas, circuits, deterministic finite automata, decision-lists, decision-trees, and other geometrically-defined concept classes.
+
+A concept class formula_2 is polynomially closed under exception lists if there exists a polynomial-time algorithm formula_68 such that, when given the representation of a concept formula_42 and a finite list formula_70 of "exceptions", outputs a representation of a concept formula_71 such that the concepts formula_1 and formula_73 agree except on the set formula_70.
+
+We first prove the Cardinality version. Call a hypothesis formula_75 "bad" if formula_76, where again formula_48 is with respect to the true concept formula_1 and the underlying distribution formula_57. The probability that a set of samples formula_21 is consistent with formula_19 is at most formula_82, by the independence of the samples. By the union bound, the probability that there exists a bad hypothesis in formula_83 is at most formula_84, which is less than formula_85 if formula_86. This concludes the proof of the second theorem above.
+
+Using the second theorem, we can prove the first theorem. Since we have a formula_11-Occam algorithm, this means that any hypothesis output by formula_10 can be represented by at most formula_89 bits, and thus formula_90. This is less than formula_91 if we set formula_92 for some constant formula_37. Thus, by the Cardinality version Theorem, formula_10 will output a consistent hypothesis formula_19 with probability at least formula_96. This concludes the proof of the first theorem above.
+
+Though Occam and PAC learnability are equivalent, the Occam framework can be used to produce tighter bounds on the sample complexity of classical problems including conjunctions, conjunctions with few relevant variables, and decision lists.
+
+Occam algorithms have also been shown to be successful for PAC learning in the presence of errors, probabilistic concepts, function learning and Markovian non-independent examples.
+

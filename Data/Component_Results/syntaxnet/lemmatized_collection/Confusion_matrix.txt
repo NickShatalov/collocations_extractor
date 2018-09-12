@@ -1,0 +1,1 @@
+in computational learning theory in mathematics give a class of concept c a subclass d be reachable if there exist a partial approximation s of some concept such that d contains exactly those concept in c that be extension to s i . dc .

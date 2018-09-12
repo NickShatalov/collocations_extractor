@@ -1,0 +1,4 @@
+VGG Image Annotator (VIA) is an open source project developed at the Visual Geometry Group and released under the BSD-2 clause license. With this standalone application, you can define regions in an image and create a textual description of those regions. Such image regions and descriptions are useful for supervised training of machine learning algorithms.
+
+
+

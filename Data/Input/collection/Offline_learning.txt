@@ -1,0 +1,4 @@
+In machine learning, systems which employ offline learning do not change their approximation of the target function when the initial training phase has been completed. These systems are also typically examples of eager learning.
+
+While in online learning, only the set of possible elements is known, in offline learning, the identity of the elements as well as the order in which they are presented is known to the learner.
+

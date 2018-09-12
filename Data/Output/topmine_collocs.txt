@@ -1,0 +1,5179 @@
+machine learn
+kernel embedding
+also call
+kernel mean
+mean map
+nonparametric method
+probability distribution
+reproducing kernel hilbert space
+feature mapping
+kernel method
+feature space
+can preserve
+statistical feature
+arbitrary distribution
+allow one
+hilbert space
+inner product
+linear transformation
+spectral analysis
+learn framework
+space formula
+kernel function
+measure similarity
+formula may
+time series
+dynamical system
+kernel embeddings
+bernhard schlkopf
+recent work
+distribution can
+many algorithm
+information theoretic approach
+mutual information
+kullbackleibler divergence
+one must
+perform density estimation
+highdimensional data
+gaussian mixture model
+kernel density estimation
+characteristic function
+fourier transform
+method base
+many popular
+machine learning
+special case
+can lead
+learn algorithm
+let formula denote
+random variable
+distribution formula
+kernel formula
+rkhs formula
+function formula
+inner product formula
+norm formula
+reproducing property
+one may
+feature map formula
+formula can
+point formula
+similarity measure
+original space
+density formula
+characteristic kernel
+give formula
+training example formula
+identically distribute
+empirically estimate
+formula denotes
+joint distribution formula
+linear map
+operator formula
+function formula can
+can also
+joint distribution
+conditional distribution formula
+one can
+rkhs embed
+value formula
+variable formula
+fix formula
+particular value
+conditional embedding
+formula give formula
+always true
+kernel embed
+inversion operator
+formula denote
+identity matrix
+give training example formula
+empirical kernel
+conditional embedding operator
+matrix formula
+gram matrix
+regularization parameter
+avoid overfitting
+empirical estimate
+kernel conditional embedding
+weight sum
+entire space
+gaussian rbf
+algebraic operation
+kernel embedding framework
+song et al
+sample formula
+prior distribution formula
+probability theory
+marginal distribution
+prior distribution
+kernel embed framework state
+practical implementation
+kernel sum rule
+follow formwhere formula
+empirical kernel embedding
+formula respectively
+joint distribution can
+chain rule
+posterior distribution can
+likelihood function
+conditional distribution
+kernel bayes rule
+positive definite
+maximum mean discrepancy
+widely use
+density estimation
+true value
+rkhs function
+two probability distribution
+give n
+training example
+formula one can
+test statistic
+sample draw
+underlying distribution formula
+follow optimization problem
+kl divergence
+bregman divergence
+optimization may
+probability mass
+approximate solution
+idea underlying
+gaussian process
+conditional random field
+conditional probability distribution
+exponential family
+random variable formula
+sensible kernel
+dependence measure
+hsic can
+different type
+data e
+using formula
+desirable property
+machine learn task
+feature selection
+dimensionality reduction
+ha recently
+graphical model
+random field
+incoming message
+node t
+belief propagation
+node s
+elementwise vector
+product formula
+linear combination
+feature mapped sample
+statistical relationship
+hidden markov model hmm
+transition probability
+hidden state formula
+probability formula
+embedding framework
+embedding method
+train sample
+hidden state
+one common
+posterior distribution
+time step t
+previous observation
+belief state
+prediction step
+update formula
+conditioning step
+bayes rule
+new observation
+time t
+step via
+training sample formula
+recursively use
+weight formula
+support vector machine svm
+label formula
+optimization problem
+close form
+many common
+gaussian distribution
+embedding kernel formula
+gaussian kernel
+training point
+domain adaptation
+generalize well
+test data
+different distribution
+set formula
+three type
+practical approach
+test domain
+shift may
+target shift
+vector formula
+conditional shift
+new transformed
+training data formula
+elementwise vector product
+training sample
+training data
+method may
+perform well
+train example
+domain generalization
+learning algorithm
+previously unseen
+functional relationship
+component analysis
+transfer across
+principal component analysis
+probability distribution formula
+distributional variance
+lowdimensional subspace
+central subspace
+distribution regression
+statistical task
+framework include
+analytical solution
+entropy estimation
+successfully apply
+satellite image
+output label
+one can consider
+regression problem
+formulawhere formula
+formwhere formula
+regularity condition
+estimator can
+can achieve
+real number
+formuladimensional vector
+simple example
+kronecker delta
+feature map
+marginal probability
+formula matrix
+joint probability
+explicit form
+embedding operator formula
+conditional probability
+fix value
+mathematical formalism
+artificial general intelligence
+solomonoff induction
+decision theory
+wa first propose
+marcus hutter
+universal artificial intelligence
+reinforcement learn
+expect total reward
+computable hypothesis
+time step
+every possible
+program longer
+less likely
+occam razor
+step t
+observation formula
+reward formula
+distribute according
+agent try
+future reward
+lifetime m
+u denote
+universal turing machine
+total number
+follow way
+pareto optimal
+also assume
+zero probability
+simple game
+partially observable
+perfect domain theory
+important feature
+include many
+irrelevant feature
+can take
+relevant feature
+domain theory
+information need
+ebl system
+classify future
+main drawback
+application domain
+natural language process nlp
+natural language
+language usage
+first successful
+industrial application
+problem wa
+use either
+speech recognition
+utility problem
+wa solve
+explanationbased generalization
+search space
+algorithm selection
+sometimes also call
+offline algorithm selection
+many practical
+performs well
+vice versa
+can identify
+can get
+algorithm formula
+instance formula
+cost metric
+problem consists
+map formula
+satisfiability problem
+sat solver
+individual instance
+algorithm selection can
+answer set programming
+machine learn algorithm
+well known
+machine learn algorithm e
+random forest
+data set
+error rate
+small error
+algorithm selection problem
+machine learn technique
+numerical feature
+classification problem
+instance feature
+numerical representation
+two kind
+performance metric
+feature computation
+run time
+feature cost
+variable can
+algorithm selection approach
+running time
+portfolio algorithm
+new instance formula
+unsupervised clustering
+new instance
+supervise learn
+common approach
+multiclass classification
+pairwise model
+every pair
+prediction problem
+performance difference
+incorrect prediction
+problem can
+perinstance algorithm
+scheduling problem
+selection system
+parallel computation
+computer vision
+learning framework
+ventral stream
+visual cortex
+originally develop
+visual scene
+image recognition task
+algorithm base
+d rotation
+invariant representation
+compressed sensing
+theory proposes
+learning architecture
+recognition task
+different viewpoint
+particular class
+highly complex
+transformation may
+change facial expression
+much simple
+sample complexity
+one can see
+well even
+random guess
+transformation can
+also suggest
+human brain
+core idea
+johnsonlindenstrauss lemma
+random projection
+result suggest
+dot product
+previous section
+learn invariant representation
+image formula
+template formula
+transformation formula
+every formula
+namely formula
+wa apply
+may serve
+representation can
+version can
+visual experience
+many different kind
+one need
+computationally efficient
+unique representation
+onedimensional probability distribution
+empirical distribution
+unsupervised learn
+statistical moment
+orbit formula
+group formula
+two orbit
+compare two
+probability distribution formula induce
+uniquely characterize
+randomly chosen
+let formula
+universal constant
+probability density function
+nonlinear function
+d probability distribution
+image classification
+finite number
+locally compact
+zero everywhere
+will also
+small range
+specific kind
+first layer
+gabor template
+form group
+two object
+nongroup transformation
+localization condition
+specific case
+localization condition can
+general case
+specific class
+face recognition
+recognition architecture
+image recognition
+hierarchical architecture
+many object
+different object
+different level
+hierarchy can
+different layer
+object may
+compositional concept
+problem arises
+target object
+one layer
+may produce
+can handle
+formula stand
+object recognition
+recognize object
+vision system
+computer vision ha
+algorithm e
+biologically plausible
+high complexity
+simple cell
+system inspire
+natural image
+novel hypothesis
+label example
+just one
+image patch
+synaptic weight
+computational model
+another important
+complex cell
+wa originally propose
+closely around
+test time
+clutter problem
+train data
+elastic matching
+wa also
+wa show
+detection system
+key element
+new set
+feature detector
+cell along
+training set
+also show
+feature set
+good performance
+unsupervised learning
+speech sound
+wa propose
+classification accuracy
+classification task
+predict future
+statistical model
+underlying model
+underfitting occurs
+adequately capture
+underlying structure
+linear model
+model will
+predictive performance
+can occur
+sometimes call
+criterion use
+dependent variable
+independent variable
+unseen data
+overfitting occurs
+extreme example
+model can
+perfectly predict
+see figure
+will typically fail
+make prediction
+expect level
+fitted model
+excessive number
+will appear
+original data
+several technique
+early stopping
+complex model
+model ability
+burnham anderson
+model selection
+large number
+regression analysis
+linear regression
+data point
+will go
+every point
+observation per independent variable
+logistic regression
+mean squared error
+random regression
+function can
+random noise
+regression function
+biasvariance tradeoff
+often use
+overfit model
+large set
+explanatory variable
+may thus
+train use
+desired output
+algorithm will
+validation data
+occams razor
+adjustable parameter
+ultimately optimal
+linear function
+two dependent variable
+three parameter
+simple function
+quadratic function
+complex function
+complicated function
+large enough
+function will
+training dataset
+even though
+perhaps even
+model complexity
+many parameter
+parameter must
+neural net
+target function
+will fit
+new data
+will never
+le accurate
+predict new data
+past experience
+two group
+can reduce
+validation dataset
+function usually
+method like
+correlation coefficient
+window width
+window width size
+matrix can
+algorithm doe
+low variance
+high bias
+high variance
+low bias
+simple model
+good model
+two mutually
+also include
+cognitive robotics
+will allow
+cognitive science
+representation ha
+symbolic representation
+animal cognition
+starting point
+information process
+artificial intelligence
+cognitive capability
+complex motor
+intelligent agent
+physical world
+real world
+robot learn
+technique called
+sensory feedback
+motor output
+desire motor result
+robot can
+another agent
+learn approach
+knowledge acquisition
+exploration can
+sensory input
+prediction system
+artificial neural network
+keep track
+prediction error
+quantum compute
+string theory
+general process
+icb metric
+decision base
+various aspect
+wa acquire
+process unit
+can run
+ce method
+monte carlo
+small probability
+method can
+combinatorial optimization problem
+dna sequence
+allocation problem
+global optimization problem
+two phase
+general problem
+parametric family
+importance sample
+random sample
+optimal pdf
+step can
+algorithm can
+example formula
+one considers
+give level
+variance formula
+stochastic counterpart
+minimization problem
+target distribution
+sample mean
+elite sample
+objective function
+next iteration
+multivariate normal
+statistical analysis
+will generalize
+independent data set
+mainly use
+one want
+predictive model
+usually give
+train dataset
+test set
+subset call
+validation set
+perform use
+prediction performance
+unknown parameter
+training data set
+fitting process
+model parameter
+model fit
+independent sample
+will generally
+response value
+pdimensional vector
+least square
+x y
+parameter value
+mild assumption
+expected value
+expect value
+train set
+crossvalidation estimate
+crossvalidation can
+model ha
+also useful
+cost function
+generally applicable
+two type
+crossvalidation method
+possible way
+original sample
+leavepout crossvalidation
+lpo cv
+involves use
+p observation
+lpo crossvalidation
+can become
+particular case
+computation time
+cross validation
+kfold crossvalidation
+k equal
+k subsamples
+k result
+repeated random subsampling
+fold crossvalidation
+commonly use
+two set d
+equal size
+mean response value
+class label
+holdout method
+usually call
+crossvalidation multiple
+also know
+randomly split
+others may
+may overlap
+method also
+will vary
+random split
+approach infinity
+particularly useful
+binary classification problem
+positive predictive value
+continuously distribute
+use crossvalidation
+multiple independent
+statistical property
+slightly bias
+bias will
+fit will
+statistical procedure
+confidence interval around
+prediction method
+black box
+certain value
+training procedure
+bias may
+closedform expression
+residual error
+human bias
+many application
+fiveyear period
+another example
+group e
+young people
+external validity
+bias can
+validation sample
+one another
+poor external
+model building
+vary across
+timeseries model
+modeling procedure
+example suppose
+optical character recognition
+k near neighbor
+simply compare
+insample error rat
+perform good
+variable selection
+predict whether
+best performance
+best fit
+recent development
+ha also
+feature hash
+also known
+hashing trick
+kernel trick
+hash function
+hash value
+index directly
+document classification task
+free text
+numerical vector
+dictionary representation
+map word
+hash table
+large amount
+new word
+spam filtering
+text classification
+can build
+feature vector
+let u
+dimension n
+output x
+hash collision
+table represent
+coefficient vector
+feature value
+contains two
+four possibility
+equal probability
+sign hash
+sample x
+hashing function
+positive semidefinite
+classification performance
+et al
+learn problem
+input feature
+single parameter vector
+spam filter
+global filter
+several hundred
+bongard problem
+computer scientist
+pattern recognition
+two set
+relatively simple
+common factor
+statistic machine learn
+information theory
+dimension reduction
+feature extraction
+approach try
+original variable
+strategy e
+information gain
+see also
+data analysis
+highdimensional space
+principal component analysis pca
+many nonlinear
+dimensionality reduction technique
+also exist
+data tensor
+multilinear subspace learn
+linear mapping
+lowerdimensional space
+lowdimensional representation
+correlation matrix
+large eigenvalue
+principal component
+can now
+large fraction
+can often
+nonnegative matrix
+well know
+multiplicative update
+continuously develop
+missing data
+direct imaging
+resulting technique
+kernel pca
+technique include
+learning technique
+linear embedding lle
+data representation use
+semidefinite programming
+prominent example
+pairwise distance
+nearest neighbor
+inner product space
+near neighbor
+alternative approach
+output space
+multidimensional scaling
+tdistributed stochastic neighbor
+embedding tsne
+different approach
+nonlinear dimensionality reduction
+special kind
+feedforward neural network
+hidden layer
+restrict boltzmann machine
+linear discriminant analysis lda
+fisher linear discriminant
+method use
+discriminant analysis
+method provide
+input vectors
+highdimensional feature space
+dimensional space
+canonical correlation analysis cca
+preprocessing step
+similarity search
+video stream
+knn search
+locality sensitive hashing
+maximally informative
+much information
+pac learn
+important issue
+learning process
+algorithm may
+receive data
+example may
+input space
+target function formula
+learning algorithm formula
+best function formula
+minimize formula
+can define
+efficiently learnable using formula
+polynomial formula
+oracle bound
+least formula
+condition formula
+classification noise model
+noise rate
+correct label
+algorithm formula can
+oracle formula
+real value
+definitionwe say
+statistical query
+likelihood formula
+correctly label example formula
+tolerance formula
+formula call
+learn model
+parameter formula
+main purpose
+pac model
+efficiently sqlearnable
+pac learnable
+classification noise
+malicious classification model
+setting describe
+may occur
+algorithm formula call
+example draw
+nonuniform random attribute
+noise model
+boolean function
+follow theorem
+nonuniform random attribute noise
+train neural network
+hidden neuron
+thus provide
+cc network
+short term
+web search
+prediction application
+deep learn
+data mine
+neural network
+input node
+output layer
+vector belong
+hopfield network
+structural risk minimization
+model become
+srm principle
+wa first
+vladimir vapnik
+vc dimension
+endtoend reinforcement learn
+endtoend process
+entire process
+recurrent neural network
+approach ha
+video game
+google deepmind
+supervise learn without
+require sample
+state space
+action space
+function approximation
+also employ
+markov decision process
+higherlevel function
+input signal
+robot task
+various function
+deep convolutional neural network
+network wa train
+network architecture
+prior knowledge
+professional human
+sometimes called
+deep neural network
+monte carlo tree search
+pattern recognition system
+many case
+label training data
+supervised learning
+labeled data
+previously unknown
+machine learn data mining
+knowledge discovery
+supervise learn method
+data mining
+unsupervised method
+recognition rate
+become increasingly
+give input value
+wa introduce
+input value
+given set
+determine whether
+give email
+realvalued output
+input sequence label
+example part
+speech tag
+input sentence
+parse tree
+input sentence describe
+syntactic structure
+algorithms generally
+possible input
+pattern matching
+common example
+patternmatching algorithm
+word processor
+can sometimes
+categorize accord
+output value
+correct output
+learning procedure
+meet two
+new data instance
+semisupervised learning
+unlabeled data
+small set
+label data
+cluster base
+input data
+instance consider
+vector space
+input instance
+predefined class
+note also
+community ecology
+multidimensional space
+two vector
+blood type
+b ab
+item e
+large medium
+small integervalued e
+particular word
+realvalued e
+blood pressure
+group together
+integervalued data
+use statistical inference
+best label
+simply output
+probabilistic algorithm
+probabilistic algorithm output
+possible label
+n may
+many advantage
+algorithm attempt
+large value
+available feature
+feature vectors
+ha take place
+original feature
+follows give
+ground truth
+map input
+loss function
+specific value
+incorrect label
+expect loss
+limiting factor
+probabilistic pattern
+particular input
+function f
+discriminative approach
+generative approach
+prior probability formula
+maximum likelihood estimation
+regularization procedure
+different value
+posterior probability
+bayesian approach
+problem instead
+single parameter
+possible value
+pattern classifier
+linear discriminant
+frequentist approach
+collected data
+covariance matrix
+class formula
+bayesian statistic
+knowledge gain
+probability formula can
+conjugate prior
+typical application
+pattern recognition technique
+email message
+automatic recognition
+last two
+digital image
+deep learning
+realworld application
+image process
+see e
+closely related
+two different
+feature detection
+long term memory
+eager learning
+learning method
+system try
+lazy learn
+main advantage gain
+learn method
+target function will
+much le
+lazy learn system
+offline learn
+will always
+provide good
+large margin nearest neighbor
+statistical machine learn algorithm
+metric learning
+knearest neighbor
+convex optimization
+supervise learning
+decision rule
+categorize data
+knearest neighbor rule
+class obtain
+majority vote
+k close
+intuition behind
+k instance
+possible class
+well define
+mahalanobis metric
+target neighbor
+learned metric
+data point formula
+algorithm try
+far away
+figure show
+input vector formula
+test point
+one unit
+constraint can
+exactly one
+alternative choice
+impostor constraint
+computational complexity
+geometric property
+well suit
+multiple local
+significantly improve
+classification error
+machine learn research
+handwritten digit
+open source
+freely available
+computational learning theory
+rademacher complexity
+realvalued function
+followswhere formula
+independent random variable
+function class formula
+sample size formula
+independently distribute
+generate according
+formula contain
+single vector
+hypothesis class
+function class
+true distribution
+error function
+binary classification
+good since
+empirical error
+much low
+true error
+empirical risk minimization
+upper bound
+rule can
+strictly decrease
+convex hull
+finite set
+formally let formula
+growth function
+binary vector
+one can show
+constant formula
+vapnikchervonenkis dimension
+follow bound
+define formula
+unit ball
+radius formula
+suppose formula
+vector whose
+formulain particular
+random variables formula
+deep learn algorithm
+music composition
+society sacem
+world first
+large collection
+reinforcement learning
+also perform
+base rate
+featural evidence
+prior probability
+medical professional
+winter cold
+treatment x
+base rate information
+category base rate
+ask u
+positive result
+false positive
+test positive
+must account
+allow u
+particular individual
+training datasets
+label training
+datasets consist primarily
+object detection
+facial recognition
+multilabel classification
+use extensively
+facial recognition system
+face detection
+natural language process
+sentiment analysis
+cluster analysis
+signal processing
+biological system
+section include datasets
+structured data
+algorithm can also
+common task
+algorithm work
+make datadriven prediction
+mathematical model
+final model
+usually come
+example use
+parameter e
+naive bayes classifier
+method e
+gradient descent
+stochastic gradient descent
+input vector
+current model
+specific learning algorithm
+can include
+parameter estimation
+unbiased evaluation
+hidden unit
+validation datasets
+early stop
+simple procedure
+error may fluctuate
+produce multiple local minimum
+complication ha lead
+many adhoc rule
+overfitting ha
+test dataset
+dataset use
+take place
+parameter need
+suitable classifier
+successive iteration
+various way
+random subset
+hierarchical classification
+sometimes refer
+instance space decomposition
+multiclass problem
+classification boundary
+classification step
+confusion matrix
+joint class
+make use
+small amount
+semisupervised learn
+can produce
+learning problem
+often require
+cost associate
+supervised learn
+unlabeled example formula
+transductive learn
+inductive learn
+correct map
+also provide
+unsolved problem
+will encounter
+classification rule
+entire input space
+underlying distribution
+least one
+decision boundary
+smoothness assumption
+different class
+data share
+across multiple
+give rise
+feature learn
+cluster algorithm
+data lie
+learn can
+manifold assumption
+facial expression
+inductive learning
+generative model
+probably approximately correct
+gaussian mixture
+protein sequence
+statistical learn
+generative model can
+supervise learning classification
+form formula
+solution relative
+improve performance
+mixture distribution
+yield different
+parameter vector formula
+major class
+transductive support vector machine
+support vector machine
+maximal margin
+hinge loss
+loss function formula
+reproduce kernel hilbert space formula
+regularize empirical
+exact solution
+term formula
+research ha
+unlabeled example
+domain knowledge
+common method
+standard tikhonov regularization
+intrinsic space
+reproduce kernel hilbert space
+intrinsic regularization term
+graph laplacian
+supervised learn algorithm
+regularize least square
+regularized least square
+distance metric
+first step
+labeled example
+supervise learning algorithm
+train base
+disjoint set
+semisupervised learn problem
+may also
+concept learn
+experience e
+human infant
+ha show
+optimal control
+genetic algorithm
+genetic programming
+robot control
+learning automaton
+learn automaton
+will fall
+trace back
+early s
+united state
+survey paper
+chosen accord
+policy iterators
+evolutionary algorithm
+stochastic automaton
+markov process
+next input
+input set x
+penalty response
+feedback loop
+statistical classification
+two main approach
+statistical modelling
+variable x
+target variable y
+joint probability distribution
+discriminative model
+target y give
+observation x symbolically formula
+probability model
+also refer
+two class
+three class
+generative classifier
+discriminative classifier
+classifier base
+linear classifier
+linear discriminant analysis
+observation x
+label y
+one can compute
+one can estimate
+conditional probability formula
+use depend
+observable x
+target y
+symbolically formula
+target value
+target variable
+y give
+continuous variable
+discrete variable
+considering x
+marginal distribution formula
+formula considering x
+one conditional probability
+denote formula
+use bayes
+example give
+generative algorithm
+data wa generate
+give signal
+classify data
+hand generative
+can use
+observe variable
+complex relationship
+regression task
+observed data
+data likelihood
+density function
+directly use
+applicationspecific detail
+ultimately dictate
+joint probability distribution formula
+formula will
+english word pair
+word pair
+wa coin
+dynamic optimization
+numerical analysis
+space increase
+available data
+statistical significance
+reliable result
+result often
+search data
+object form
+similar property
+high dimensional
+many way
+also use
+high dimension
+take one
+huge number
+combinatorial explosion
+simple case
+binary variable
+possible combination
+formula exponential
+additional dimension
+extra dimension
+sample point
+unit interval
+unit hypercube
+dimensional hypercube
+distance function
+state variable
+machine learn problem
+fix number
+predictive power
+euclidean distance
+one way
+highdimensional euclidean space
+dimension formula
+length formula
+formula go
+another way
+almost entirely
+chisquared distribution
+standard deviation
+n random
+provide high
+signaltonoise ratio
+wa find
+near neighbor search
+high dimensional space
+one coordinate
+time series analysis
+high dimensionality
+dimension increase
+classification include
+information retrieval
+many open
+multiplicative weight update method
+wa discover
+linear program
+theoretical computer science
+fast algorithm
+game theory
+multiplicative weight
+different field
+fictitious play
+twoplayer zerosum game
+multiplicative weight algorithm
+machine learn littlestone
+multiplicative weight update
+winnow algorithm
+weight majority algorithm
+hedge algorithm
+also widely apply
+computational geometry
+clarksons algorithm
+linear programming lp
+bound number
+linear time
+later bronnimann
+goodrich employ analogous method
+find set cover
+operation research
+online statistical decision making problem
+complicated version
+find independently
+computer science
+previously observe
+close relationship
+different context
+boosting algorithm
+learn theory
+convex optimization problem
+make base
+n expert
+first round
+expert opinion
+decision maker
+will make
+expert prediction
+decision maker will
+real life
+example include
+stock market
+game play
+correct prediction
+halve algorithm
+make mistake
+every decision
+remaining expert
+every time
+aggregator make
+expert advice
+select one
+make choice
+every iteration
+work since
+expert advice will
+formula increase
+will decrease
+algorithm ha
+best expert
+mistake make
+expert predicting positive
+weight update rule
+algorithm calculate
+underlying assumption
+weight algorithm
+majority algorithm
+constrained optimization problem
+player formula
+plan formula
+choose plan formula
+error parameter
+zerosum game
+additive error
+wa first use
+label example formula
+nonnegative weight
+without loss
+notational convenience
+general form
+update rule
+n different
+total loss suffer
+current iteration
+learn rate
+weak learner
+hypothesis formula
+solving zerosum
+formula doe
+linear system
+x satisfy
+also true
+width formula
+algorithm make
+given point
+dissimilarity function
+function value
+search problem
+set s
+query point
+close point
+problem refer
+metric space
+triangle inequality
+manhattan distance
+one example
+nns problem
+time complexity
+space complexity
+search data structure
+use polynomial
+search time
+simple solution
+naive approach
+linear search
+space partition
+euclidean space
+kd tree
+data structure
+wa design
+efficient algorithm
+can yield
+general metric space
+metric tree
+point take
+possible solution
+pointcloud point
+must go
+correct result
+near point
+distance measure
+accurately capture
+high probability
+theoretical bound
+technique can
+dramatically simplify
+approach require
+sensor data
+stereo vision
+base search
+vector quantization
+also note
+graph formula
+every point formula
+vertex formula
+query q
+search algorithm
+distance value
+neighborhood formula
+select vertex
+current vertex
+algorithm stop
+local minimum
+publication include
+work wa
+knearest neighbor search
+top k
+predictive analytics
+memory saving
+original point
+application e
+n point
+nearestneighbor search
+point x
+point y
+tell u
+l norm
+near neighbour
+small number
+learn classifier
+many different
+tom m
+basic idea
+train many
+samearity predicate
+mutually exclusive
+positive instance
+negative instance
+negative pattern
+will become
+noun phrase
+quick summary
+large corpus
+candidate instance
+promote pattern
+text corpus
+specific pattern
+least two
+cooccurrence count
+cpl rank
+metabootstrap learner
+extraction technique
+extraction algorithm
+result show
+new fact
+logic learn machine
+machine learn method
+intelligible rule
+efficient implementation
+switch neural network
+rulex suite
+decision support
+wa develop
+decision tree
+efficient version
+value formula correspond
+condition can
+iterative method
+data outside
+generalization error
+early stop rule
+many iteration
+theoretical foundation
+training set well
+prevent overfitting
+learned model
+tikhonov regularization
+gradient descent method
+optimization method
+regularize nonparametric regression problem
+input space formula
+unknown probability measure formula
+regression function formula
+give bywhere formula
+formula induce
+common choice
+space can
+infinite dimensional
+especially important
+early stopping rule
+iterative procedure
+functionalwhere formula
+expect risk
+since formula
+follow empirical
+empirical risk
+step size formula
+population iteration
+sample iteration
+expected risk
+regression functionthis
+stopping rule
+may depend
+unknown probability distribution
+probabilistic bound
+strong learner
+can provide
+boost method
+document classification
+library science
+information science
+interdisciplinary research
+text image
+subject classification
+two main
+give word
+requestoriented classification
+well however
+ha argue
+classification system
+document index
+external mechanism
+provide information
+correct classification
+automatic document classification
+native language
+language l
+nli work
+secondlanguage acquisition
+forensic linguistics
+particular language
+transfer effect
+nli method
+can help
+ha already
+natural language processing
+unseen text
+classifier system
+single best
+paper describe
+statistical relational learning
+use statistical
+representation formalism develop
+firstorder logic
+draw upon
+probabilistic graphical model
+bayesian network
+build upon
+inductive logic programming
+late s
+probabilistic inference
+knowledge representation
+alternative term
+main focus
+field include
+statistical relational
+general principle
+representation formalism
+recent year
+multilinear principal component analysis
+nway array
+computational term
+singular value decomposition
+synthesis problem
+multilinear tensor
+observe data
+causal factor
+data formation
+data tensor analysis
+framework wa
+human motion
+mmode pca
+peter kroonenberg
+terzopoulos introduce
+multilinear pca terminology
+better differentiate
+multilinear tensor decomposition
+compute nd order statistic associate
+data tensor modeaxis
+subsequent work
+multilinear independent component analysis
+high order statistic associate
+tensor modeaxis
+multilinear pca
+data tensor whose
+individual observation
+whose observation
+alternating least square
+problem dependent
+mpca feature
+machine learningmachine learning
+arthur samuel
+give computer
+learn without
+explicitly programmed
+machine learning explore
+algorithm operate
+strictly static program instruction
+learningmachine learning
+knowledge integration
+common model
+information can
+new information
+exist knowledge
+existing knowledge
+learn agent
+new information can
+wa create
+knowledge base
+minimal mapping
+high quality
+quantum physic
+one can distinguish
+different way
+two parent
+quantum machine learn algorithm
+quantum computation
+classical method
+classical algorithm
+quantum computer
+apply classical method
+quantum system
+fully quantum
+learning system
+quantumenhanced machine learning
+quantum algorithm
+algorithm typically
+require one
+quantum information processing
+routine can
+universal quantum computer
+one line
+amplitude encoding
+quantum state
+resource grow
+matrix inversion
+low rank
+linear algebra
+state preparation
+entire dataset
+efficient method
+another approach
+classical machine learn
+quantum information process
+amplitude amplification
+quadratic speedup
+unstructured search
+knearest neighbor algorithm
+another application
+often combine
+quantum walk
+reinforcement learn agent
+also admit
+quantum speedup
+superconducting circuit
+wide spectrum
+important application
+probabilistic programming
+probabilistic model
+boltzmann distribution
+quantum annealers
+research group
+quantum annealing hardware
+boltzmann machine
+standard approach
+sampling technique
+markov chain monte carlo
+quantum annealing
+dwave x
+center ha
+recently use
+building block
+deep learn architecture
+fully connect
+combinatorial optimization
+machine learn approach
+quantum mechanic
+quantum boltzmann machine
+thermal state
+time require
+markov logic network
+quantum analogue
+markov model
+hide markov model hmms
+model sequential data
+various field
+classical hmms
+successfully learn
+data via
+sequential data
+technique use
+bayesian inference
+quantum version
+quantum learning theory
+classical learning
+may provide
+data may
+specific problem
+concept class
+disjunctive normal form
+n bit
+target concept
+learner may
+active learn
+learner can make membership query
+target concept c
+quantum exact
+membership query
+learner can
+classical learner
+plausible complexitytheoretic assumption
+passive learn
+probably approximately correct pac learn
+learner receive
+unknown distribution d
+approximately correct
+can consider
+significantly reduce
+distribution d
+uniform distribution
+classical example
+typically take
+hypothesis h
+application phase
+training phase
+many time
+quantum machine learn
+increasingly complex
+meaningful information
+study extensively
+machine learning technique
+unitary transformation
+fully quantum approach
+classical description
+similar way
+go beyond
+information processing
+general framework
+conduct use
+adiabatic dwave quantum computer
+google research
+magnetic resonance
+network wa
+universal quantum
+wa use
+quantum support vector machine
+dimensional vector
+two entry
+wa implement
+final state
+per second
+many learn algorithm
+quantum memristor
+high accuracy
+start point
+may seem
+model m
+fraud model m
+formulaformula accuracy
+perform fairly well
+always predict
+less accurate
+accurate model
+false positive false
+false negative
+appropriate loss function
+constrain conditional model
+inference framework
+conditional probabilistic
+declarative constraint
+support decision
+expressive output space
+maintain modularity
+first order
+low level
+feature engineering
+exact inference
+model generation
+inference stage
+make decision
+problem often
+involves assign
+structure can
+semantic role label
+question answer
+decision problem
+integer linear programming ilp
+formula define
+structure formula
+conditional model
+weight vector
+follow optimization
+objective function use
+several way
+model along
+latter case
+local model
+decision process
+joint train
+joint learn
+use domain knowledge
+representation decision
+structured prediction
+declarative formulation
+large variety
+information extraction
+large scale
+solve efficiently
+key advantage
+ilp solver
+inductive programming
+special area
+automatic programming
+recursive program
+inputoutput example
+programming language
+functional programming
+use logic programming
+logical representation
+constraint programming
+learn program
+ip system
+output evaluation
+program trace
+background knowledge
+data type
+recursive control
+representation language
+program must
+partial specification
+program synthesis
+general machine learn
+distinctive feature
+logic programming
+programming paradigm
+many type
+functional program
+new field
+inductive logic programming ilp
+early work
+relative least general generalization
+logic program
+learn recursive
+example together
+initial success
+relational data mining
+base approach
+positive example
+fitness function
+grammar induction
+grammatical inference
+rewriting system
+production rule
+inductive inference
+lisp program
+seminal work
+problem ha
+successful application
+cumulative learning
+software engineer
+software agent
+end user
+tutor system
+language learn
+formal grammar
+finite state machine
+observe object
+instance space
+grammatical inference ha
+various type
+regular language
+approach since
+problem since
+contextfree grammar
+multiple contextfree grammar
+pattern language
+simple form
+query learn model
+wide variety
+finite state
+method propose
+rule set
+negative example
+particular approach
+hypothesis testing
+version space
+target language
+can easily
+tree structure
+formal language
+hierarchical structure
+genetic operator
+next generation
+base upon
+terminal symbol
+leaf node
+parent node
+nonterminal symbol
+might correspond
+greedy algorithm
+greedy grammar inference
+decision make
+greedy grammar inference algorithm
+contextfree grammar generating
+contextfree grammar generating algorithm
+constant symbol
+variable symbol
+nonempty string
+call descriptive
+finite input set
+input set
+given input
+descriptive pattern
+drastically reduce
+language class
+polynomial time
+statistical approach
+grammar induction ha
+among many
+data compression
+statistical inference
+minimum message length mml
+minimum description length
+action model learning
+action learn
+action description
+learn action model
+make good
+inductive reason
+new knowledge
+agent observation
+standard supervise learn
+correct inputoutput pair
+never present
+action model
+explicitly correct
+difficult time
+training set formula consisting
+time step formula
+action model learn
+function define
+action learn method
+another technique
+approach wa
+several different
+perceptron algorithm
+multi level
+greedy search
+artificial intelligence research
+main factor
+credit score
+action take
+example might
+european union
+general data protection regulation
+decisionmaking right
+data protection directive
+data subject
+decision reach
+binding article
+automated decision
+solely base
+significant effect
+solely automate
+automate decisionmaking
+french law
+human decision
+easily explainable
+many layer
+complex way
+active field
+category utility
+category goodness
+attribute value
+different category
+cue validity
+collocation index
+advantage gain
+possess knowledge
+category structure
+decision tree learn
+formally equivalent
+term formula designate
+feature formula take
+category formula
+expect number
+correctly guess
+observer use
+probabilitymatching strategy
+category label
+feature set formula
+feature information
+feature formula give
+entity belongs
+category information
+term formula represent
+optimally encoding
+transmitting feature information
+describe belong
+weight average
+feature variable
+cardinality formula
+feature combination
+formula adopt
+aggregate feature variable formula
+category variable formula
+feature variable formula
+adopt value formula
+category variable
+two measure
+category set codice
+qualitatively different
+category utility doe
+feature variable adopting value
+one possible
+independent existence
+also make
+one set
+many others
+accurately predict
+object class
+useful classification
+accurately infer object
+accurately infer
+formal concept analysis
+best known
+category validity
+basic category
+particular level
+one attempt
+wa make
+ad hoc
+class structure
+human learner
+instancebased learn
+training instance
+bad case
+rbf network
+knowledge extraction
+computational learning
+wa establish
+science foundation
+wa found
+intelligent machine
+learn within
+main goal
+computational neuroscience
+bing predicts
+prediction engine
+use machine learn
+social medium
+political election
+reality show
+search engine
+school district
+major weather event
+american idol
+prediction accuracy
+unite state
+united state presidential
+random matrix
+isotropic position
+vector space formula
+set x
+finite nonempty string
+pattern p
+pattern contain exactly
+pattern p q
+less general
+p q
+s s
+x x y
+bit string
+s lp
+p q p
+pattern contain
+arbitrary length
+pattern without
+pattern language can
+b c
+grammar can
+sample set s
+concept c
+supervise learn one
+contingency table
+two dimension
+cat dog
+look like
+two row
+two column
+true positive
+true negative
+will yield
+mislead result
+might classify
+overall accuracy
+cat class
+f score
+let u define
+p positive instance
+n negative instance
+four outcome can
+multiarmed bandit problem
+bandit problem
+good understood
+time pass
+broad category
+expected payoff
+multiarmed bandit
+research project
+large organization
+early version
+herbert robbins
+constructed convergent population
+selection strategy
+sequential design
+total value
+time consider
+practical application
+practical example
+increase knowledge
+model ha also
+originally consider
+world war ii
+problem now
+value associate
+reward distribution
+per round
+collect reward
+optimal strategy
+zeroregret strategy
+new one
+current state
+population selection strategy
+uniformly maximum convergence rate
+high mean
+go back
+constructed convergent population selection
+optimal adaptive policy
+much large
+transition law
+adaptive policy
+main feature
+time period
+many strategy exist
+broad category detail
+always pulled
+uniformly random
+probability matching strategy
+contextual bandit problem
+learner use
+context vector
+can predict
+contextual bandit
+budget constraint
+multiarmed bandit setting
+work focus
+simple algorithm
+adversarial bandit
+first introduce
+thompson sample
+nonstationary case
+upper confidence bound
+stochastic model
+duel bandit
+relative feedback
+directly observe
+confidence bound
+collaborative filtering
+filtering method
+highly dynamic
+clustering technique
+content recommendation
+contextual multiarmed bandit
+user base
+take advantage
+clickthrough rate
+standard linear
+stochastic noise
+possible choice
+general setting
+manifold regularization
+manifold learn
+data come
+useful property
+close together
+change quickly
+manifold regularization algorithm can
+learned function
+supervise learn algorithm
+learning setting
+technique ha
+application include
+penalize complex
+hypothesis space
+candidate function
+formally give
+prefer simple function
+regularization term
+entire input
+many natural
+smooth function
+probability density
+appropriate choice
+input point
+laplacian matrix
+formula label example
+formula unlabeled example
+associated label
+diagonal matrix
+data point formula increase
+formula converges
+norm can
+representer theorem
+certain condition
+optimal solution
+formula must
+kernel center
+optimal solution formula
+can extend
+appropriate loss function formula
+hypothesis space formula
+ridge regression
+elastic net
+regularization can
+true label
+mean square error
+predict value
+mean squared
+solution can
+kernel evaluate
+kernel matrix
+block matrix
+support vector machine svms
+problem include
+stochastic block model
+community structure
+probability matrix
+erdsrnyi model
+plant partition model
+two vertex
+community share
+formula whenever formula
+diagonal entry
+block model
+partial recovery
+exact recovery
+detection algorithm
+correctly identify
+latent partition
+community size
+size formula
+parameter setting
+phase transition
+opposite side
+appropriate scaling
+average degree
+equalsized community
+partition model
+probability formula whenever formula
+maximum likelihood
+average case
+algorithm include
+categorical distribution
+word embeddings
+linguistic context
+word vector
+share common
+wordvec algorithm
+latent semantic analysis
+distribute representation
+continuous bagofwords
+continuous skipgram
+current word
+context word
+skipgram architecture
+author note
+good job
+infrequent word
+wordvec training
+hierarchical softmax
+negative sampling
+maximization problem
+work good
+low dimensional vector
+certain threshold
+word embed
+many word
+individual word
+new unseen
+biological sequence
+dna rna
+gene sequence
+vector representation
+random vector
+particular interest
+institutional dataset
+similar embeddings
+superior performance
+downstream task
+per se
+yield similar
+mikolov et al
+syntactic pattern
+semantic relation
+syntactic relation
+wordvec model
+give test
+different corpus size
+can greatly
+way include
+vector dimension
+window size
+skipgram model
+computationally expensive
+training corpus
+statistical learning theory
+asymptotically minimize
+learnable class
+closely relate
+large sample
+statistical learning
+find solution
+learning task can
+finite sample
+can make
+sequence formula
+free lunch theorem
+can always
+expected loss
+possible function
+actual data
+often consider
+strictly great
+make assumption
+overfitting problem
+formula give
+minimization algorithm
+illposed problem
+learn algorithm can
+convergence rate
+empirical process
+glivenkocantelli class
+statistic literature
+often know
+uniform convergence
+matthew correlation coefficient
+generally regarded
+different size
+phi coefficient
+single number
+every object
+geometric mean
+regression coefficient
+component regression coefficient
+youdens j statistic
+information flow
+matthews correlation coefficient
+single score
+binary classifier
+minimum value
+computational biology
+category true positive
+spikeandslab regression
+bayesian variable selection technique
+possible predictor
+spikeandslab model
+indicate whether
+particular variable
+prior information
+inclusion probability
+large variance
+design matrix
+select variable
+next step
+regression coefficient value
+correspond prediction
+value can
+reasonable assumption
+sample size
+default value
+bernoulli distribution
+possible drawback
+stochastic process
+calculate various
+bayesian variable selection
+input variable
+can cause
+bayesian structural
+time series model
+time series forecasting
+nowcasting infer
+eager learn
+lazy learn method
+approximate locally
+problem domain
+large space
+large datasets
+method try
+inverse reinforcement learn
+reward function
+cooperative inverse reinforcement learn
+wa limit
+pieter abbeel
+andrew ng
+stanford university
+airp ha
+reward function may
+task like
+system work
+two part
+must find
+document hate
+hate crime
+bias incident
+general public
+news story
+news organization
+project wa
+documenting hate news
+data visualization
+new york time
+daily caller
+several probability distribution
+quite different
+mixture model
+inauthentic text
+computer program
+computer generate
+automate approach
+probability matching
+decision strategy
+binary attribute
+many metric
+predictor different field
+different preference
+specific metric due
+different goal
+medicine sensitivity
+important distinction
+category occurs
+different property
+give two
+total size
+one compare
+gold standard
+population size
+true positive tp
+false negative fn
+true negative tn
+healthy people
+test result
+false positive fp
+horizontal axis
+marginal total
+false negative true negative
+false positive add
+condition positive
+marginal ratio
+complementary pair
+pair sum
+take ratio
+ratios ratio
+column correspond
+associate statistic
+row correspond
+likelihood ratio
+prediction value
+true positive rate tpr
+condition positive cp
+go undetected
+specificity spc
+true negative rate tnr
+test negative
+condition negative cn
+tn fp
+negative give
+classifier can
+characteristic roc curve
+ball example
+surrogate marker
+pregnancy test
+modern pregnancy test
+positive predictive value ppv
+negative predictive value npv
+negative prediction value
+significant impact
+patient test result
+prevalence sensitivity
+negative predictive value
+fraction correct fc
+correctly categorize
+tn fp fn
+negative condition negative
+fraction incorrect fic
+diagnostic odds ratio dor
+define directly
+tptnfpfn tpfnfptn
+useful interpretation
+odds ratio
+fscore f score
+true negative rate
+cohens kappa
+parity learn
+sample xx
+may contain
+concept formation
+object event
+concept learning
+contain conceptrelevant feature
+learning task
+machine learner
+future example
+memory recall
+complex concept
+must occur
+may lead
+new concept
+efficient way
+variability within
+two exemplar
+may allow
+hammer et al
+tool use
+psychological theory
+ha see
+cognitive psychology
+neural network model
+hierarchical model
+factor analysis
+rulebased theory
+early computer
+high level
+rulebased model
+rational analysis
+property alone
+prototype view
+concept learn hold
+categorize base
+central example
+given category
+semantic similarity
+mental representation
+illustration demonstrates
+prototype theory
+theory hypothesize
+exemplar theory
+new object
+individual property
+exemplar base
+important result
+exemplar model
+group membership
+two extreme
+example consider
+category spoon
+human cognition
+sufficient condition
+relatively new
+bayes theorem
+powerful tool
+bayes law
+bayesian theory
+actr model
+john r
+human behavior
+come close
+primary presentation form
+secondary presentation form
+another significant
+developmental robotics
+developmental mechanism
+openended learning
+new skill
+increase complexity
+social interaction
+animal development
+developmental psychology
+neuroscience developmental
+evolutionary biology
+change environment
+social environment
+alan turing
+general approach
+th century
+artificial intelligence machine learning
+social skill
+target task
+functional modeling
+follow three
+research community
+interaction among
+developmental robotics project
+sensorimotor skill
+body include
+developmental robot
+linguistic skill
+symbol ground
+can actually
+strongly interact
+human development
+may vary
+constraint describe
+research field
+allow robot
+general purpose
+practical problem
+mechanism operate
+time scale
+evolutionary mechanism
+wa hold
+state university
+first international
+instance whose
+category membership
+patient base
+category base
+inherent similarity
+may variously
+categorical e
+blood type ordinal e
+mathematical function
+classification algorithm
+possible category
+field may
+probabilistic classification
+best class
+given instance
+multivariate normal distribution
+mahalanobis distance
+bayesian classification
+natural way
+available information
+relative size
+different group
+overall population
+bayesian procedure
+procedure involve
+two separate
+classification method
+whose category
+individual measurable property
+feature may
+feature value might correspond
+feature value might
+different word
+category k
+high score
+score function
+linear predictor function
+weight correspond
+single classifier
+work best
+empirical test
+classifier performance
+given problem
+receiver operate characteristic
+roc curve
+uncertainty coefficient
+evolutionary programming
+four major
+lawrence j
+generate artificial intelligence
+evolutionary computing
+variation operator
+matrix regularization
+predictive function
+stable solution
+write aswhere
+norm enforce
+regularization penalty
+matrix norm
+matrix completion
+multivariate regression
+multitask learn
+selection can also
+nonparametric case
+multiple kernel learn
+output formula can
+frobenius inner product
+different application
+matrix formula will
+aswhere formula
+enforce sparsity
+using formulanorms
+canonical basis
+regularization function
+nuclear norm
+singular value
+coefficient matrix
+vector norm
+multivariate case
+frobenius norm
+multitask learning
+across task
+scheme can
+frequently use
+reduce rank coefficient matrix
+reduce rank
+coefficient matrix can
+top formula
+reduced set
+ha become
+lasso method
+convex relaxation
+will find
+enforce structure
+structured sparsity
+formula norm
+group feature
+will tend
+group sparsity
+group lasso
+match pursuit
+proximal gradient method
+proximal gradient
+coefficient formula
+indicator function
+group norm
+output variable
+will depend
+feature selection can
+appropriate kernel
+correspond reproducing
+kernel hilbert space formula
+space formula can
+linear independence
+nonlinear variable selection
+computational intelligence
+ciml community portal
+virtual scientific community
+can share
+different country
+ultimate goal
+broad range
+expert student
+outside researcher
+software tool
+add new
+related field
+data preprocessing
+machine learn project
+value etc
+analyze data
+filtering step
+instance selection
+hyperparameter optimization
+require different
+hyperparameter optimization find
+predefined loss function
+independent data
+objective function take
+associated loss
+grid search
+grid search algorithm
+heldout validation set
+parameter space
+may include
+svm classifier
+cartesian product
+algorithm output
+embarrassingly parallel
+random search
+can outperform
+intrinsic dimensionality
+bayesian optimization
+global optimization
+noisy blackbox function
+good result
+use gradient descent
+technique wa
+iterative optimization
+evolutionary optimization
+optimization ha
+automate machine learn
+behavior analytics
+insider threat
+meaningful anomaly
+security event
+big data
+apache hadoop
+detect insider threat
+make sense
+security analytics
+uba technology
+market guide
+security monitoring
+computer security
+three year
+bayesian perspective
+bayesian probability
+key component
+covariance function
+supervise learn problem
+bayesian point
+new input
+inputoutput pair formula
+function formula call
+entry formula
+reproducing kernel
+three main
+reproduce property
+unified framework
+generalize linear model
+squared norm
+rkhs can
+write asand
+first term
+predict formula
+second term
+two step
+thatwe can
+bayesian framework
+prior belief
+test case
+normal distribution
+mean vector
+thenwhere formula
+multivariate gaussian distribution
+gaussian noise
+noise formula
+test input
+give bywhere
+regularization theory
+finite dimensional
+zero mean
+can see
+bayesian setting
+photo contain
+news article
+open human
+active learning
+semisupervised machine learn
+new data point
+learning algorithm can
+one might
+separating hyperplane
+marginal hyperplane
+method assume
+similar method
+granular compute
+information granule
+generally speaking
+physical adjacency
+theoretical perspective
+various level
+granular computing
+different resolution
+several type
+extract meaningful
+outside temperature
+given application
+recognition system
+variable formula may
+high quaternary resolution
+low binary resolution
+high resolution
+since every formula
+binary variable resolution
+formula since every formula
+occurs iff formula
+formula occurs iff formula
+high quaternary
+variable resolution
+variable independently
+variable granulation
+briefly describe
+independent component analysis
+almost always
+dimensionality reduction method
+wa note
+key idea
+ask whether
+variable clustering
+powerful method
+natural division
+agglomerate variable
+two agglomerate
+single column
+unique value
+redundant variable
+way since
+often call
+information system
+different semantics
+original tuples
+original value
+usually base
+wa partition
+rough row
+rough set
+different set
+concept granulation
+simple concept
+system onto
+full set
+equivalence class
+primitive simple
+equivalence class formula
+one another base
+available attribute
+object within
+attribute formula alone
+may emerge
+concept structure
+attribute set formula
+attribute set
+concept structure formula
+will influence
+attribute set formulaon
+correctly classify
+definitively categorize accord
+concept structure formula base
+large class
+deterministic dependency
+good fit
+concept resolution
+granular computing can
+problem solving
+sense granular computing
+human ability
+among different
+fuzzy indifference relation
+general scheme
+proaftn proceeds
+expert intervention
+indirect technique
+several heuristic
+algorithmic bias
+data collection
+algorithmic bias ha
+search engine result
+search result
+bias can create
+algorithm expand
+unanticipated context
+online hate speech
+may come
+trade secret
+every permutation
+search engines
+recommendation engine
+online advertising
+social scientist
+algorithmic process
+software application
+nearly identical
+can reflect
+human user
+unanticipated outcome
+large data set
+unintended consequence
+computer simulation
+bias may also
+extract value
+decision making
+new form
+may reflect
+personal bias
+british nationality act
+technical bias
+three result
+next three
+introduce bias
+sort result
+american airline
+facial recognition software
+surveillance camera
+emergent bias
+medical school
+process call
+correlation can emerge
+data collect
+sexual orientation
+correlation can
+program give
+high risk
+user can
+across different
+act program
+case law
+bank branch
+feed back
+police presence
+increase police
+racial discrimination
+early example
+ethnic minority
+deny entry
+per year
+information found
+algorithm design
+white men
+black child
+post denouncing
+hate speech
+allow ad
+company say
+facebook user
+vote among
+search query
+user mean
+user interaction
+term related
+woman athlete
+risk assessment
+biometric data
+android app
+recommendation algorithm
+certain degree
+protect category
+historical data
+can confuse
+different user
+per day
+among user
+applicant irrespective
+equal ratio
+data protection
+data profile
+just learn
+apply machine learn
+machine learn application
+practitioner must
+produce simple
+often outperform
+machine learning can
+various stage
+similarity learning
+supervise machine learn
+similarity function
+recommendation system
+face verification
+bilinear form
+similarity learn
+one aim
+symmetric positive semidefinite
+symmetric positive
+matrix formula can
+formula corresponds
+information theoretic
+metric learn
+sometimes used
+many machine learn
+similar object
+metric learning ha
+can easily see
+semantic analysis
+generally doe
+latent semantic
+latent dirichlet allocation
+hide markov model
+markov chain
+semantic folding theory
+natural language text
+binary representation
+sparse binary vector
+semantic space
+theory build
+twodimensional grid
+vector space model
+space model
+semantic map
+word y
+sparse distributed
+original motivation
+keyword level
+effort require
+date back
+general idea
+semantic folding
+biologically inspire
+possible pattern
+feature can
+meaning context
+partial similarity
+strong resemblance
+small change
+stable learn algorithm
+change much
+handwritten letter
+learning process rather
+certain type
+good generalization
+machine learning system
+perform accurately
+new example
+obtain generalization bound
+empirical risk minimization erm
+erm algorithm
+training set formula
+formula training example
+train error
+vc theory
+unbounded vcdimension
+stability analysis
+alternative method
+slightly modify
+leave one
+multiple way
+deterministic algorithm
+training set s
+size m
+will build
+m modify
+hypothesis stability
+loss function v
+follow holdsformulaan algorithm formula
+uniform stability
+cvloo stability
+important class
+regularization algorithm
+generalization bound
+algorithm stability
+predictive learning
+different action
+learning theory
+genetic algorithm ga
+natural selection
+mutation crossover
+candidate solution
+good solution
+randomly generate
+new generation
+maximum number
+main property
+genetic representation
+selection operator
+method rate
+generation population
+new solution
+new population
+best organism
+first generation
+less fit solution
+genetic diversity
+mutation rate
+high may lead
+premature convergence
+elitist selection
+population diversity
+help prevent premature convergence
+termination condition
+building block hypothesis
+buildingblock hypothesis
+floating point representation
+evolution strategy
+experimental result
+algorithm performs
+often employ
+particular form
+parallel genetic algorithm assume
+adaptive parameter
+adaptive genetic algorithm
+convergence speed
+pm depends
+optimization state
+absolute optimum
+hill climbing
+can improve
+different meaning
+consecutive order
+high degree
+algorithm aim
+approach include
+genetic algorithm include
+software package
+often apply
+general rule
+local optimum
+process see
+modern genetic algorithm
+early paper
+originally use
+international conference
+desktop computer
+evolutionary computation
+metaheuristic method
+fall within
+proactive learning
+unlabeled instance
+multiple source
+always provide
+gather new
+data analyst
+structural probability
+produce reliable
+distribution law
+fiducial distribution
+physical feature
+gaussian variable
+assign value
+neymans confidence interval
+practical purpose
+observed value
+let x
+sample drawn
+confidence interval
+modeling perspective
+dont know
+limited number
+central limit theorem
+sufficiently large
+inference problem
+complex structure
+new york
+inference procedure
+standard normal distribution
+confidence region
+label accord
+breast cancer
+local casecontrol sampling
+original dataset
+pilot estimation
+single pas
+case control
+case control sampling
+important statistical
+control sampling
+algorithm assume
+pilot model
+acceptance probability
+estimate use
+subsample select
+casecontrol sample
+formula use formula sample
+formula sample
+local casecontrol
+large sample size
+follow property
+raw data
+manual feature engineering
+specific task
+feature learning
+machine learning task
+classification often require
+realworld data
+image video
+define specific
+explicit algorithm
+error term
+representative element
+dictionary element
+representation error
+l regularization
+dictionary learn
+structure underlie
+supervise dictionary
+enable sparse representation
+multiple layer
+neural network can
+unsupervised feature learning
+lowdimensional feature
+several approach
+kmeans clustering
+k cluster
+unlabeled set
+produce feature
+binary feature
+radial basis function
+behave similarly
+sparse cod
+unsupervised feature
+input data vector
+right singular vector
+p large
+data matrix
+singular vector
+p singular vector
+large variation
+ith iteration
+large singular
+can effectively
+lowerdimensional point
+two major
+second step
+intrinsic geometric property
+independent component analysis ica
+dictionary learning
+sparse coding
+basis function
+overcomplete dictionary
+biological neural
+deep learning architecture
+stack multiple layer
+multiple level
+learn architecture
+rbm can
+hidden variable
+visible variable
+function base
+hidden node
+unsupervised feature learn
+original input
+supervised learn problem
+training set consists
+risk formula
+agnostic learn
+can compute
+call empirical risk
+training setthe
+problem even
+linearly separable
+loss function like
+vanish gradient problem
+neural network weight
+activation function
+front layer
+network meaning
+allow researcher
+gradient problem
+feedforward network
+recurrent network
+new layer
+input sequence
+next level
+neural network make
+deep belief network
+hinton et al
+involves learn
+representation use
+latent variable
+log likelihood
+deep architecture
+level feature
+feature extractor
+key role
+deep learn technique
+long shortterm memory lstm
+lstm network
+standard backpropagation
+deep network
+microsoft research
+test error
+multiple instance learn
+multipleinstance learn
+label bag
+positively label
+least one instance
+negatively label
+wa give
+key chain
+certain key
+multiinstance learn
+dietterich et al
+drug activity prediction
+alternative lowenergy
+lowenergy shape
+labeled bag
+bag without
+multiple instance
+axisparallel rectangle
+apr algorithm
+musk dataset
+machine vision
+diverse density
+label positive
+target scene
+bag formula
+formula occurs
+will focus
+standard mi assumption
+standard assumption
+pair formula
+instancelevel concept
+now view
+negative label
+different assumption
+countbased assumption
+least general
+presencebased assumption
+require instancelevel concept
+threshold formula
+instancelevel concept formula
+label according
+another generalization
+standard model
+gmil assumption
+required instance formula
+contain instance
+sufficiently close
+attraction point
+repulsion point
+collective assumption
+every instance
+weight function
+representative instance
+mi assumption
+mi algorithm
+iterateddiscrimination algorithm
+dietterich et
+first phase
+rectangle apr
+positive bag
+negative bag
+apr cover
+candidate representative instance
+candidate representative
+second phase
+tight apr
+work well
+concept formula
+every positive bag
+instance close
+gradient method
+singleinstance algorithm
+general assumption
+metadatabased algorithm
+future bag
+previously mention
+master algorithm
+committee machine
+overall output
+individual expert
+individual response
+nonlinearly combine
+gating network
+novel skill
+real time
+collect data
+learn algorithm include
+autonomous selfexploration
+human teacher
+algorithm employ
+use deep learn
+world wide web
+database repository
+robot can share information
+heavy computation task
+project brings together researcher
+five major university
+nonparametric regression
+x matrix
+formula indicates
+right show
+predict formula versus x
+red dot
+high value
+hinge function
+nonlinear relationship
+formulaand formula
+median value
+mar build
+ozone formula
+basis function can
+mar model
+constant call
+mirrored pair
+piecewise linear
+backward pas
+recursive partitioning
+new basis function
+new hinge function
+parent term
+add term
+brute force
+key aspect
+forward pas
+one side
+ozone example
+generalize cross validation
+best subset
+formula penalize
+modeling technique
+call regression
+selection algorithm
+trading period
+explanatory variable use
+statistical technique
+class base
+character recognition
+feature may include
+recognize phoneme
+feature might
+feature construction
+constructive operator
+new feature
+condition c
+raw feature
+improve generalization
+technology company
+computer vision technology
+trax close
+trax announce
+u million
+first two
+regional office
+shelf space
+machinelearned ranking
+rank model
+train data consists
+ordinal score
+binary judgment
+ranking model
+document retrieval
+machinelearned search engine
+user query
+short time
+relevant document
+use simple
+machinelearned model
+mlr algorithm
+querydocument pair
+usually represent
+call feature
+learningtorank problem
+academic research
+evaluation metric
+rank problem
+three group
+listwise approach
+pointwise approach
+wa far
+single querydocument pair
+machine learn algorithm can
+give pair
+evaluation measure
+continuous function
+partial list
+specifically design
+polynomial regression
+ranking function
+technology wa
+yahoo ha
+data exploration
+traditional data
+management system
+data exploration can also
+data scientist
+within enterprise
+many common pattern
+many possible
+via machine learn
+find pattern
+bradleyterry model
+model purpose
+certain category
+bradleyterry model can
+result list
+score function formula
+example pair
+parameter vector
+new parameter
+estimation procedure
+feature explosion
+deep feature synthesis
+data science
+inductive bias
+predict output
+give input
+target output
+additional assumption
+unseen situation
+consistent hypothesis
+formal definition
+feature scaling
+data preprocessing step
+objective function will
+much faster
+simple method
+original value formula
+normalized value
+student weight
+audio signal
+complete vector
+support vector
+data mine task
+instance selection can
+noisy instance
+therefore every
+internal instance
+select instance
+instance selection algorithm
+selection criterion
+mountain car
+mountain car problem
+many version
+similar technique
+discrete state
+discrete action
+continuous state space
+approach often
+two category
+continuous state
+agent can
+vary include
+version space learn
+version space learn algorithm
+candidate elimination
+specific hypothesis
+positive training example
+remain feature space
+hence become inconsistent
+hypothesis essentially constitute
+true concept
+define just
+data already observe thus
+novel neverbeforeseen data point
+negative training example
+possibly infinite
+multiple hypothesis
+statistical learn theory
+ha lead
+learn fall
+inputoutput pair
+future input
+person name
+multidimensional vector
+whose element
+training set data
+possible output
+best possible
+ordinary least square regression
+actual output
+iswhere formula
+potential function
+give empirical risk
+arbitrarily close
+random index
+name suggest
+canonical correlation analysis
+approximately preserve
+matrix r
+matrix notation
+random matrix r
+data matrix x
+nonzero entry
+per column
+first row
+random unit vector
+space orthogonal
+gaussian distribution can
+integer arithmetic
+use integer arithmetic
+low dimension
+ndimensional euclidean space
+exponentially large
+almost orthogonal
+small value
+independently chosen vector
+generate sample
+random decision forest
+classification regression
+mean prediction
+individual tree
+random subspace method
+stochastic discrimination
+leo breiman
+dimension can
+splitting method
+feature dimension
+forest method
+random subspace
+also offer
+theoretical result
+popular method
+tree learn
+different part
+training algorithm
+tree learner
+unseen sample
+individual regression tree
+many tree
+single training set
+free parameter
+several thousand
+outofbag error
+bootstrap sample
+random forest can
+breimans original
+variable importance
+formulath feature
+neighborhood scheme
+new point
+random forest predictor
+dissimilarity measure
+one can also
+random forest dissimilarity
+synthetic data
+tree construction
+kerf estimate
+simplified model
+center kerf
+uniform kerf
+prove upper bound
+breimans original random forest
+uniformly select
+binary tree
+uniform forest
+independent random variable distribute
+random regression forest
+regression tree
+finite forest
+cell contain formula
+two level
+define kerf
+connection function
+forest except
+correspond kernel function
+exist sequence formula
+almost surelythen almost
+library write
+data mine algorithm
+application programming interface
+predictive analytics task
+visualization tool
+really need
+computationally prohibitive
+make sure
+unlabeled point
+labeled point
+nearestneighbor algorithm
+labeling task
+transductive algorithm
+make available
+computational cost
+discrete label
+continuous label
+label tend
+add partial supervision
+manifold learn algorithm
+transduction can
+semisupervised extension
+typically perform
+iterative approach
+open access
+scientific journal
+editorial board
+continue publish
+expensive journal
+payaccess archive
+retain copyright
+print edition
+mit press
+microtome publish
+proceeding publication
+meta learning
+may perform
+data mining technique
+different learning algorithm
+different kind
+performance measure
+related problem
+learn system
+biasvariance dilemma
+meta learn
+modeling field
+mathematical description
+input bottomup signal
+nmf system
+process level
+output signal
+concept accord
+good representation
+hierarchical level
+lower level
+neuron activation
+dimension necessary
+priming signal
+parameter s
+signal xn
+neuron n
+object m
+model msn predicts
+visual perception
+bottomup signal
+law describe
+every signal
+knowledge instinct
+conditional partial similarity
+similarity measure l
+probabilistic measure
+bayesian decision
+signal value
+functional form
+model msn
+model parameter s
+system form
+old one
+similarity l
+penalty function
+asymptotically unbiased
+signal n
+combinatorial complexity
+dynamic logic
+stationary state
+frown pattern
+without noise
+uniform model
+parabolic model
+representation within
+fuzzy model
+m show
+algorithm decide
+model describing
+blob model
+hierarchical nmf system
+wa describe
+activate model
+activation signal
+general concept
+active model
+inactive model
+random indexing
+new item
+low dimensionality
+hamming distance
+preference learning
+preference model
+preference information
+preference learn
+past decade
+label rank
+instance space formula
+classification problem can
+label rank problem
+preference information formula
+instance rank
+ranking order
+practical representation
+real number formula
+utility function
+object rank
+preference relation
+user preference
+recommender system
+scoring function
+speech audio
+label sequence
+backpropagation algorithm
+roboearth offer
+cloud engine
+heavy computation
+compute environment
+roboearth knowledge
+wa award
+x x x
+unknown density
+kernel density estimator
+mathematical property
+normal kernel
+standard normal
+kernel density estimate
+point cloud
+data point fall inside
+data point x
+underlying density
+true density
+normal density
+bandwidth h
+density estimate
+risk function
+mean integrate squared
+weak assumption
+generally unknown
+o notation
+second derivative
+depend upon
+heavytailed distribution
+mean integrate
+squared error
+ruleofthumb bandwidth
+inversion formula
+damping function
+density estimator
+kernel density
+best action
+feature representation
+recent advance
+formula drawn
+deep learn framework
+apache spark
+hebbian learn
+action potential
+learning ha
+unsupervised learn algorithm
+pattern recognition task
+estimate give
+second order moment
+order moment
+high order
+latent variable model
+latent variable also exist
+topic modeling
+tensor decomposition
+expectationmaximization algorithm
+good application
+data breach
+becomes find
+establish baseline
+hierarchy represent
+rudolf wille
+mathematical theory
+garrett birkhoff
+text mine
+semantic web
+data table
+complete lattice
+binary relation
+object g
+attribute m
+formal context
+formal concept
+concept lattice
+line diagram
+lattice theory
+previous approach
+philosophical foundation
+charles s
+formal concept analysis aim
+become less
+circle represent
+concept circle
+concept consists
+ascend path
+g m
+b m
+derivation operator
+m gim
+g g
+b b
+every set
+valid implication
+arrow relation
+m m
+association rule
+computer go program
+learning technique use
+convolutional neural network
+darkfores combine
+tree search
+method commonly
+human player
+google alphago
+search technique
+evaluation function
+substantially improve
+traditional monte carlo tree search
+darkfores achieve
+stable d
+kg go server
+d rank
+go ais
+zen dolbaram
+rd place
+january kg
+board position
+next move
+best searchbased
+neural network approach
+local tactic
+searchbased engine
+convolution neural network
+binary plane
+d level
+weight share
+wa train
+stable d level
+k rollouts
+stateoftheart go
+kg go
+satisfies formula
+following example
+new data point will
+know whether
+maximummargin hyperplane
+normal vector
+rule induction
+formal rule
+decision list
+term decision list
+normal form
+language specify
+email filter
+question can machine
+turing proposal
+two broad category
+desire output
+previous experience
+data acquisition
+neural network research
+prediction base
+supervise method
+two field
+distinguish two
+algorithmic model
+biasvariance decomposition
+performance bound computational learning
+consider feasible
+certain class
+association rule learn
+large database
+connectionist approach
+different cluster
+common technique
+belief network
+direct acyclic
+direct acyclic graph
+network can
+reinforcement learn algorithm
+learn algorithm aim
+often attempt
+multilinear subspace learn algorithm
+tensor representation
+multidimensional data
+highdimensional vector
+sparse dictionary learning
+sparse representation
+sparse dictionary learn
+sparse dictionary learn ha
+several context
+sparsely represent
+image denoising
+generate new
+apply knowledge
+defining characteristic
+rulebased machine
+rulebased machine learn
+learn classifier system
+technique like
+false positive rate fpr
+false negative rate fnr
+operating characteristic
+effective method
+receiver operate characteristic roc
+health care
+also increase
+provide professional
+ideal function formula
+local search
+multiple representation
+closely match
+ideal function
+possible mutation
+performance will
+limit number
+empirical performance
+formula accord
+beneficial mutation
+neutral mutation
+pac learnability
+structure sparsity regularization
+sparsity regularization
+structure sparsity regularization method
+domain space
+sparsity regularization method
+structured sparsity method
+prior assumption
+overlap group
+nonoverlapping group
+acyclic graph
+structured sparsity method include
+linear kernel
+regularize empirical risk minimization problem
+regularization penaltywhere formula
+formula norm define
+dictionary formula
+learning problem can
+formula norm formula
+nonzero component
+sparse solution
+favor sparser solution
+regularization term formula
+several situation
+may want
+regularization process
+method allow
+norm define
+nonoverlapping group case
+coefficient vector formula
+group formula norm formula
+jth component
+regularizer will
+individual coefficient
+nonzero coefficient
+structure sparsity
+can represent
+general class
+relationship among
+sparsity regularization approach
+positive coefficient
+regularize empirical risk minimization
+problemwhere formula
+group may
+coefficient within
+one group
+group structure
+latent group lasso
+group formula norm
+formula otherwise
+necessarily strongly convex
+group formula regularization term
+unique solution
+squared formula norm
+formula regularization term
+group lasso approach
+formula norm term
+strongly convex
+hierarchical norm
+submodular function
+model hierarchy
+text document
+topic model
+selection problem
+basis pursuit
+convex potentially nondifferentiable
+structured sparsity regularization
+multiple kernel learning
+optimal linear
+finite dictionary
+linearly independent
+two dictionary
+function formula give
+sparse multiple kernel learning
+uc berkeley
+caffe support
+image segmentation
+neural network design
+vision speech
+relational classification
+relational data
+new class
+item consists
+bagofwords model
+john like
+watch movie
+mary like movie
+john also like
+watch football game
+json object
+common type
+term frequency
+entry corresponds
+first document time
+word like
+document frequency
+bagofword model
+ngram model
+bayesian spam filter
+legitimate email
+word find
+spam message
+bag will contain
+basic element
+also allow
+signal can
+wavelet transform
+sparse dictionary
+input data can
+arbitrarily high
+jointly convex
+sparse dictionary learn problem
+transform matrix
+iteratively update
+moorepenrose pseudoinverse
+sufficiently small
+ha prove
+input data formula
+dictionary learn method
+stochastic gradient
+dual variable
+much less
+training method
+online learn
+become available
+basis element
+various image
+process task
+input will
+medical signal
+contain many
+target class
+region instance
+different paradigm
+classification technique
+ugly duckling theorem
+finitely many
+ugly duckling
+n object
+one can use
+however one can
+will agree
+exactly half
+two element
+bit set
+equally similar
+theorem state
+must also
+coordinate formula
+formulath coordinate
+linear term
+overall similarity
+many property
+web application
+artificial intelligence ai
+wa precede
+input human
+cleverbot wa
+million interaction
+line chart
+control engineering
+time series data
+current value
+single time series
+past value
+future value
+time series analysis can
+english language
+time series analysis may
+analysis can
+frequency domain
+certain structure
+move average
+without assume
+panel data
+time series data set
+may exhibit
+data set candidate
+anomaly detection
+percent change
+data point possibly
+curve fitting can
+fit curve
+spline interpolation
+main difference
+entire data set
+function approximation problem
+g may
+broad class
+depend linearly
+previous data point
+can indicate
+often refer
+hmm can
+timeseries analysis
+common notation
+natural number
+overlap chart
+separate chart
+input pattern
+procedure know
+sample without
+model may
+equation can
+decision function
+thatwhere formula
+gather data
+can enhance
+whose value
+conditional upon
+minibatch size
+work ha
+random seed
+control system
+ball tree
+internal node
+two disjoint set
+tree define
+give test point
+binary split
+construction algorithm
+underlying data
+offline algorithm
+sample contain
+point p
+point encounter
+k near
+bayesian structural time series
+bsts model
+model consists
+complicate mathematical
+adversarial machine learning
+adversarial setting
+biometric recognition
+problem arise
+unknown distribution
+system security
+malware code
+d print
+arm race
+reactive one
+additional feature
+supervise machine learn algorithm
+threat model
+evade detection
+spam email
+embed within
+often retrain
+intrusion detection system
+clustering can
+software library
+hierarchical deep learn
+hierarchical label
+technique work
+method describe
+additional training
+unsupervised document
+deep learn model
+savi technology
+sensor analytics solution
+supply chain
+analytics solution
+network design
+multilinear subspace learning
+data tensor whose observation
+low dimensional
+linear subspace
+wide range
+emerge application
+veryhighdimensional vector
+whose measurement
+n set
+traditional linear subspace
+msl algorithm
+closedform solution
+blackbox function
+acquisition function
+sensor network
+static program
+regularization problem
+formula regularization
+convex differentiable
+convex function formula
+proximity operator
+moreau decomposition
+convex function
+conjugate formula
+formula implies
+moreau decomposition can
+orthogonal decomposition
+square loss
+formula regularization problem
+sometimes referred
+strictly convex
+soft thresholding
+lasso problem
+fixed point
+fixed point iteration
+certain regularity
+point scheme
+step size
+fix point
+elastic net regularization
+penalty term formula
+new development
+disjoint block
+lasso penalty
+structure prediction
+find application
+followslet formula
+two disjoint
+general graph
+quasinewton method
+feature function
+can loosely
+crfs can
+learn infinitelylong
+novel potential function
+inference algorithm
+sequence tag task
+main problem
+train using
+highway network
+gating mechanism
+sequence label
+machine learn system
+also typically
+asymptotic theory
+empirical frequency
+theoretical probability
+single event
+uniform convergence theorem
+sufficiently simple
+simple mean
+positive integer
+u define
+formula iff
+formula satisfies formula
+union bound
+occam learning
+learnability implies
+occam learnability
+occam learn
+blumer et al
+implies pac learn
+formulaoccam algorithm
+formula using formula
+occam algorithm
+concept class formula
+hypothesis class formula
+formula using
+give formula sample draw
+formula will output
+labeled sample
+theorem show
+polynomially close
+exception list
+first prove
+cardinality version
+second theorem
+first theorem
+formula bit
+concept drift
+cause problem
+can also refer
+fraud detection
+may change
+passive solution
+shopping behavior
+may arise
+desired output value
+particular input formula
+different output value
+true function
+complex interaction
+typically require
+engineer can
+noisy training example prior
+noisy training example
+learning algorithm seek
+possible function formula
+formula take
+conditional probability model
+joint probability model
+naive bayes
+optimization algorithm
+negative log likelihood formula
+regularization penalty can
+different definition
+learning algorithm will
+negative log
+discriminative training
+risk minimization
+generative training
+deeplearningj include implementation
+deep belief
+recursive neural
+tensorflow kera
+skymind intelligence layer
+application programming interface api
+deeplearningj ha
+also integrate
+deeplearningj include
+production environment
+intrusion detection
+machinelearning model
+model server
+web server
+return data
+import model
+python framework
+deeplearningj can
+regev show
+lwe problem
+lattice problem
+key exchange
+give access
+modulo one
+search version
+decision version
+uniformly random sample
+give sample
+formula calculate formula
+recover formula
+give sample formula
+calculate formula
+main idea
+lattice formula
+discrete gaussian
+peikert prove
+matrix multiplication
+application wa
+learn task
+three term
+irreducible error
+complex e
+regression polynomial
+training set consisting
+point outside
+variance will
+regularization method
+ols solution
+decrease variance
+large training set
+produce good
+sequence labeling
+one per
+globally best
+one item
+helpful cf
+common statistical model
+minimizer formula
+regularize empirical risk
+schlkopf herbrich
+nonempty set
+positivedefinite realvalued kernel
+strictly monotonically
+realvalued function formula
+arbitrary empirical risk function formula
+regularize empirical risk function
+best possible function
+positive integer n
+n n
+approximately correct pac learn
+algorithm can learn
+arbitrarily large
+become possible
+extension learnable
+affine function
+sizeformulawhere formula
+transfer learn
+inductive transfer
+special issue
+also apply
+leonardo dicaprio
+elton john
+barry sternlicht pierre lagrange
+television dining nightlife fashion
+chief executive
+qloo wa
+qloo raise
+investor include
+venture capital firm
+company raise
+venture capital
+across domain
+source distribution
+source domain
+two domain
+major issue
+usually need
+generate paraphrase
+machine translation
+parallel corpus
+multisequence alignment
+ngram overlap
+recur pattern
+within cluster
+different corpus
+new paraphrase
+source sentence
+pivot language
+phrase unter kontrolle
+sentence formula
+hidden vector
+paraphrase recognition
+initial word embeddings
+skipthought vector
+semantic meaning
+skipthought model
+since paraphrase
+evaluate paraphrase
+good paraphrase
+dependent upon
+manual alignment
+phrase alignment
+paraphrase generation
+evaluate paraphrase generation
+human judge
+lexical dissimilarity
+use ngrams
+positive assignment
+negative assignment
+actual value
+test outcome
+four number
+row ratio
+column ratio
+two pair
+diagnostic test
+main ratio
+true positive rate
+ratio yield
+ratio two
+continuous value
+resultant positive
+predictive value
+binary value
+supervised learning algorithm
+performance bound
+inductive probability
+establish new fact
+information describe
+internal language
+theory consistent
+simple theory
+short encoding
+wa focus
+always depend
+ray solomonoff
+algorithmic probability
+minimum message length
+message length
+information describing
+many term
+solomonoffs theory
+bit string x
+next bit
+short program
+kolmogorov complexity
+program may
+universal prior
+intelligent agent may
+input device
+transformation function
+agent may
+prior expectation
+agent will
+environment without
+another environment
+inference make
+sun will rise
+probability must
+will converge
+two agent
+slightly different
+marcus hutters universal artificial intelligence
+deductive probability
+equally probable
+one third
+one fifth
+estimate will
+frequency distribution
+possible world
+possible world define event
+probability law
+boolean expression
+probability estimate
+will often
+total probability
+scenario will
+huffman code
+natural number may
+rational number
+simple representation
+event may
+formula isin
+equation may
+mutually exclusive possibility
+extend form
+theorem may
+theory h
+fact f
+value obtain
+relative probability
+mutually exclusive hypothesis
+give evidence
+theory t
+condition f
+abductive inference
+class c
+property p
+replace membership
+inverse square law
+condition probability
+infinite string
+two probability
+bayes theorem may
+multiple explanation
+computable sequence
+computable theory
+countable set
+infinite set
+solomonoffs inductive inference
+modern computer
+ha develop
+computable function
+recursive functional
+index e
+given value
+m learns
+recursively enumerable
+superrecursive algorithm
+automaton call
+inductive turing machine burgin
+inductive turing machine
+state will
+turing machine
+inductive turing machine can
+without stop
+simple inductive turing machine
+limit partial recursive function
+error predicate
+general turing machine
+recursive function
+partial recursive function
+nonstopping computation
+conventional turing machine
+inductive turing machine give result
+evolutionary inductive turing machine
+sequence e
+generation xt
+generation xi
+variation operator v
+selection operator s
+first generation x
+without require
+population without
+mixture model can
+compositional model
+mixture weight
+parametric mixture model
+mixture component
+typical nonbayesian
+covariance matrix formula
+em algorithm
+point around
+categorical observation look like thisthe
+two normal distribution
+neighborhood will
+k different
+house typeneighborhood
+grow exponentially
+expectation maximization
+typically fail
+can create
+different component
+another image
+multiple projectile
+value r
+underlying mechanism
+simply use
+parametric distribution
+normal mixture
+using technique
+two member
+distribution y
+distinct subpopulation
+mixture decomposition
+expectation maximization em
+moment match
+pattern analysis routine
+iterative algorithm
+second order
+initial guess
+expectation step
+partial membership
+constituent distribution
+expectation value
+membership value
+n data point
+mixture model parameter
+moment matching
+spectral method
+share across
+two normal
+new york city
+wa follow
+uncertain data
+contain noise
+will change
+also need
+correlated uncertainty
+relate task
+shared representation
+classification task across
+task can
+particularly helpful
+unrelated task
+task relatedness
+share information
+general metric
+task relatedness can
+task grouping
+significant improvement
+knowledge transfer
+pretrained model can
+separable kernel
+ciliberto et al
+representation doe
+task structure
+output metric
+output mapping
+et al suggested
+cluster variance
+penalty can
+nonseparable kernel
+rank data set
+biological data
+automatic feature learn
+available biological
+machine learning ha
+system biology
+gene within
+gene prediction
+intrinsic search
+sequence alignment
+amino acid sequence
+amino acid
+protein folding
+secondary structure
+quartenary structure
+protein secondary structure
+secondary structure prediction
+deep convolutional neural
+genetic network
+commonly use method
+model genetic network
+interaction analysis
+catastrophic interference
+catastrophic forgetting
+previously learn information
+network approach
+connectionist model
+wa originally
+scientific community
+connectionist network
+standard backpropagation network
+human memory
+often exhibit
+backpropagation network
+backpropagation model
+backpropagation neural network
+single training set consisting
+respond properly
+addition fact
+learn trial
+one facts
+two fact
+readily learn
+addition problem
+one learn trial
+two addition
+output pattern
+incorrect number
+ac list
+context pattern
+b response
+c response
+ab list
+correct response
+network tend
+word dog
+word stool
+reduce interference
+learn rate parameter
+weight change
+sequentially learn
+old information
+previous input
+item learn
+response node
+old item
+distributed representation
+sequential learn
+old input
+weight space
+input unit
+store information
+representational overlap
+hidden unit activation
+cod use
+orthogonal vector
+reduce catastrophic interference
+backpropagation neural
+node activation
+activation overlap
+low activation
+activation value
+one node
+semidistributed representation
+different input
+activation sharpening
+active node
+node sharpening
+activation near
+sharpening will
+will reduce
+thereby reduce
+novelty rule
+novelty vector
+delta rule
+find within
+three task
+pretrained network
+nave network
+french propose
+mcclelland et al
+term memory storage
+pseudorecurrent network
+early process area
+finalstorage area
+internally generate representation
+sequential learning
+activation pattern
+pseudorecurrent model
+liststrength effect
+effect mean
+list item
+final storage area
+early process
+final storage
+also propose
+twonetwork artificial neural architecture
+network train
+new external pattern
+internally generate
+generate pseudopatterns
+previously learn
+selfrefreshing mechanism
+different solution
+exist response
+average responses
+latent learn
+practopoietic theory
+loosely applicable
+function depend
+strong level
+also occur
+linear predictor
+predictor function
+pby column
+vectors formula
+byp row vector
+vector produce
+standard linear regression
+matrix x
+optimal coefficient
+explanatory variable can
+create new
+existing explanatory variable
+near neighbor method
+main distinction
+dummy variable

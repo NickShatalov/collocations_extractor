@@ -1,0 +1,19 @@
+Qloo (pronounced "clue") is a company that uses artificial intelligence (AI) to understand taste and cultural correlations. It provides companies with an application programming interface (API). It received funding from Leonardo DiCaprio, Elton John, Barry Sternlicht, Pierre Lagrange and others.
+
+Qloo establishes consumer preference correlations via machine learning across data spanning cultural domains including music, film, television, dining, nightlife, fashion, books and travel. The recommender system uses AI to predict correlations for further applications.
+
+Qloo was founded in 2012 by chief executive officer Alex Elias and chief operating officer Jay Alger. Qloo was tested on a private website in April 2012. 
+In 2012, Qloo raised $1.4 million in seed funding from investors including Cedric the Entertainer, Danny Masterson, and venture capital firm Kindler Capital.
+Qloo had a public beta release in November 2012 after its initial funding.
+
+In 2013, the company raised an additional $1.6 million from Cross Creek Pictures founding partner Tommy Thompson, and Samih Toukan and Hussam Khoury, founders of Maktoob, an Internet services company purchased by Yahoo! for $164 million in 2009.
+On November 14, 2013, a website and an iPhone app were announced. The company later released an Android app, and tablet versions, in mid-2014.
+
+In 2016, Qloo secured $4.5 million in venture capital investment. The $4.5 million was split between a number of investors, including Barry Sternlicht, Pierre Lagrange and Leonardo DiCaprio. In July 2017, Qloo raised $6.5 million in funding rounds from AXA Strategic Ventures and Elton John.
+
+Following the investment, the founders stated in an interview with Tech Crunch that they would use the investment to expand Qloo's database. They hoped the move would secure larger contracts with corporate clients. At the time, clients already included Fortune 500 companies such as Twitter, PepsiCo and BMW.
+
+Qloo calls itself a cultural AI platform to provide real-time correlation data across domains of culture and entertainment including: film, music, television, dining, nightlife, fashion, books and travel. Each category contains subcategories.
+
+Qloo’s knowledge of a user's taste in one category can be utilized to offer suggestions in other categories. Users then rate the suggestions, providing it with feedback for future suggestions.
+Qloo has partnerships with companies such as Expedia and iTunes.

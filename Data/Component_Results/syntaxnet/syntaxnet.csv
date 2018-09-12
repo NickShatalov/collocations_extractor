@@ -1,0 +1,5180 @@
+ngram	value
+machine learn	1.8764044943820224
+kernel embedding	1.9166666666666667
+also call	1.0
+kernel mean	1.6666666666666667
+mean map	1.5
+nonparametric method	1.25
+probability distribution	1.164319248826291
+reproducing kernel hilbert space	1.75
+hilbert space	1.4090909090909092
+reproducing kernel	1.5555555555555556
+feature mapping	1.0
+kernel method	1.0714285714285714
+feature space	1.0952380952380953
+can preserve	1.0
+statistical feature	1.0
+arbitrary distribution	1.0
+allow one	1.0
+inner product	1.4035087719298247
+linear transformation	1.0
+spectral analysis	1.0
+space can	3.6666666666666665
+learn framework	1.0
+space formula	1.2741935483870968
+kernel function	1.6190476190476188
+measure similarity	1.0
+formula may	3.0
+sensible kernel	1.5
+time series	1.910669191919192
+dynamical system	1.0
+kernel embeddings	1.0
+bernhard schlkopf	2.5
+recent work	1.0
+distribution can	3.1666666666666665
+many algorithm	1.0
+information theoretic approach	1.3333333333333333
+mutual information	1.5238095238095237
+kullbackleibler divergence	1.0
+information theoretic	2.0
+one must	2.0
+perform density estimation	1.3333333333333333
+highdimensional data	1.1666666666666667
+density estimation	1.2727272727272727
+gaussian mixture model	1.9166666666666667
+kernel density estimation	1.4666666666666663
+characteristic function	2.4444444444444446
+fourier transform	1.4
+method like	1.3333333333333333
+gaussian mixture	2.0814814814814815
+mixture model	1.2683333333333333
+kernel density	1.9888888888888887
+method base	2.125
+many popular	2.0
+machine learning	1.449621212121212
+special case	1.0
+can lead	1.0
+learn algorithm	1.2705128205128207
+popular method	1.0
+let formula denote	1.4285714285714286
+random variable	1.293859649122807
+distribution formula	1.2033898305084745
+formula denote	1.5
+let formula	1.918300653594771
+kernel formula	1.309917355371901
+rkhs formula	1.0
+function formula	1.388316151202749
+inner product formula	1.3333333333333333
+norm formula	1.4444444444444444
+reproducing property	1.5
+product formula	1.5714285714285714
+one may	2.0
+feature map formula	1.3333333333333333
+formula can	3.2396825396825397
+point formula	1.462121212121212
+feature map	1.25
+map formula	1.0
+similarity measure	1.3333333333333335
+original space	1.0
+density formula	1.25
+characteristic kernel	1.0
+give formula	1.8666666666666667
+training example formula	2.12
+identically distribute	1.0
+training example	1.4411764705882353
+example formula	1.2777777777777777
+formula training example	1.5555555555555554
+empirically estimate	1.0
+formula denotes	1.0
+joint distribution formula	1.9999999999999998
+linear map	1.5
+operator formula	2.1666666666666665
+function formula can	2.6666666666666665
+joint distribution	1.4444444444444444
+formula drawn	1.0
+can also	2.0
+conditional distribution formula	1.3333333333333333
+one can	2.095726495726496
+rkhs embed	1.5
+value formula	1.7142857142857142
+variable formula	1.6675555555555552
+conditional distribution	1.7023809523809523
+formula one can	2.3777777777777778
+can define	1.0
+fix formula	1.25
+particular value	1.0
+conditional embedding	2.933333333333333
+formula give formula	2.0
+formula give	1.8444444444444446
+always true	1.0
+kernel embed	1.0
+inversion operator	1.0
+identity matrix	1.0
+give training example formula	1.8333333333333335
+empirical kernel	2.2
+conditional embedding operator	3.5555555555555554
+matrix formula	1.1428571428571428
+gram matrix	1.777777777777778
+regularization parameter	1.0
+avoid overfitting	1.0
+kernel conditional embedding	1.6666666666666665
+parameter need	1.0
+empirical estimate	1.0
+weight sum	1.2962962962962963
+entire space	1.0
+gaussian rbf	1.0
+algebraic operation	1.0
+kernel embedding framework	1.4999999999999998
+song et al	1.3333333333333333
+embedding framework	1.2
+et al	1.0545454545454545
+sample formula	1.1746031746031744
+prior distribution formula	1.6666666666666665
+prior distribution	1.6944444444444446
+probability theory	1.7222222222222223
+marginal distribution	1.2857142857142858
+kernel embed framework state	1.6666666666666667
+practical implementation	2.555555555555556
+kernel sum rule	1.3333333333333333
+follow formwhere formula	1.3333333333333333
+empirical kernel embedding	1.6666666666666665
+formula respectively	1.5714285714285714
+formwhere formula	1.125
+entry formula	1.3333333333333333
+joint distribution can	2.0
+chain rule	1.0
+posterior distribution can	2.0
+likelihood function	1.0
+kernel bayes rule	1.3333333333333333
+posterior distribution	1.1818181818181819
+bayes rule	1.0
+embedding operator formula	1.3333333333333333
+positive definite	2.0
+maximum mean discrepancy	1.3333333333333333
+widely use	1.0
+true value	1.0
+rkhs function	1.3333333333333333
+two probability distribution	1.3333333333333333
+give n	1.75
+test statistic	1.0
+two probability	1.6666666666666667
+sample draw	1.25
+underlying distribution formula	1.3333333333333333
+underlying distribution	1.3333333333333333
+follow optimization problem	1.3333333333333333
+optimization problem	1.1929824561403508
+follow optimization	2.5
+kl divergence	1.5
+bregman divergence	1.0
+optimization may	3.5
+probability mass	1.0
+approximate solution	1.0
+idea underlying	2.0
+gaussian process	1.0
+conditional random field	1.5555555555555554
+conditional probability distribution	1.7777777777777777
+exponential family	1.3333333333333333
+random field	1.5714285714285714
+conditional probability	2.2462962962962965
+field may	3.0
+random variable formula	1.3333333333333333
+dependence measure	1.0
+hsic can	2.0
+different type	1.0
+data e	1.0
+using formula	1.125
+value can	2.7333333333333334
+desirable property	1.0
+machine learn task	2.666666666666667
+feature selection	1.8958333333333333
+dimensionality reduction	1.4583333333333333
+learn task	1.1111111111111112
+ha recently	2.0
+graphical model	1.1481481481481481
+incoming message	1.0
+node t	1.0
+belief propagation	1.0
+node s	6.333333333333333
+elementwise vector	1.5
+elementwise vector product	1.6666666666666665
+linear combination	1.4
+feature mapped sample	3.3333333333333335
+statistical relationship	1.0
+hidden markov model hmm	1.7083333333333335
+transition probability	1.0
+hidden state formula	1.3333333333333333
+probability formula	1.8518518518518516
+hidden state	1.1666666666666667
+markov model	1.3484848484848484
+embedding method	1.0
+train sample	1.0
+sample contain	1.0
+one common	2.0
+time step t	1.3333333333333333
+previous observation	1.0
+time step	1.5208333333333335
+step t	1.3333333333333333
+observation formula	1.4
+belief state	1.0
+prediction step	1.0
+update formula	3.3333333333333335
+conditioning step	1.0
+new observation	1.2
+time t	1.3333333333333333
+step via	3.4166666666666665
+training sample formula	1.4999999999999998
+recursively use	1.0
+weight formula	1.5476190476190477
+training sample	2.2933333333333334
+support vector machine svm	1.7500000000000002
+label formula	1.3076923076923077
+support vector machine	1.4942528735632188
+support vector	2.005747126436782
+close form	1.0
+many common	2.0
+gaussian distribution	1.3111111111111111
+embedding kernel formula	1.6666666666666665
+gaussian kernel	1.3333333333333333
+training point	1.0
+domain adaptation	1.1428571428571428
+generalize well	1.0
+test data	1.1666666666666667
+different distribution	1.0
+set formula	1.0952380952380953
+three type	1.0
+practical approach	1.0
+test domain	1.0
+test set	1.5866666666666667
+shift may	3.5
+target shift	1.0
+vector formula	1.14
+conditional shift	4.333333333333334
+new transformed	2.0
+training data formula	1.3333333333333333
+training data	1.5277777777777777
+example use	1.2857142857142858
+method may	2.6666666666666665
+perform well	1.1428571428571428
+well even	3.0
+follow empirical	2.5
+may perform	1.0
+train example	1.2
+n set	1.0
+domain generalization	1.0
+learning algorithm	1.2204301075268815
+previously unseen	1.0
+functional relationship	1.0
+component analysis	1.5454545454545454
+transfer across	2.5
+principal component analysis	1.9288888888888884
+principal component	2.490196078431372
+across domain	1.0
+probability distribution formula	1.5025641025641023
+distributional variance	1.0
+lowdimensional subspace	1.5
+central subspace	1.5
+target value	1.0
+distribution regression	1.0
+statistical task	1.0
+framework include	2.0
+analytical solution	1.0
+entropy estimation	1.0
+successfully apply	1.0
+satellite image	1.0
+output label	1.25
+regression task	1.0
+one can consider	1.3333333333333333
+regression problem	1.1
+formulawhere formula	1.0
+can consider	1.0
+ridge regression	1.6
+linear kernel	1.5
+formula take	2.333333333333333
+regularity condition	1.0
+estimator can	2.0
+can achieve	1.0
+real number	1.5
+formuladimensional vector	1.0
+objective function	1.3119999999999998
+simple example	1.1666666666666667
+kronecker delta	1.5
+marginal probability	1.25
+formula matrix	1.3333333333333333
+joint probability	2.1538461538461537
+explicit form	1.0
+fix value	1.0
+mathematical formalism	1.0
+artificial general intelligence	1.6666666666666665
+solomonoff induction	1.0
+decision theory	1.0
+wa first propose	1.3333333333333333
+marcus hutter	1.0
+universal artificial intelligence	2.0
+artificial intelligence	1.627659574468085
+wa first	2.0
+reinforcement learn	1.876190476190476
+expect total reward	1.3333333333333333
+computable hypothesis	1.0
+every possible	2.0
+program longer	3.0
+less likely	1.4444444444444446
+occam razor	1.3333333333333333
+reward formula	1.0
+distribute according	2.0
+agent try	1.0
+future reward	1.5
+lifetime m	1.0
+u denote	1.0
+universal turing machine	1.3333333333333333
+turing machine	1.853968253968254
+total number	1.0
+follow way	1.0
+pareto optimal	1.5
+also assume	1.0
+zero probability	1.0
+simple game	2.0
+partially observable	1.0
+perfect domain theory	1.6666666666666665
+domain theory	1.0
+important feature	1.0
+include many	2.0
+irrelevant feature	1.25
+can take	1.0
+relevant feature	1.0
+information need	1.2
+ebl system	1.0
+system work	1.0
+classify future	2.0
+future example	1.0
+main drawback	1.0
+application domain	1.0
+natural language process nlp	2.222222222222222
+natural language	1.8045977011494252
+natural language process	1.3846153846153846
+good application	2.0
+language usage	1.0
+particular language	2.5
+first successful	2.0
+industrial application	1.0
+problem wa	2.4
+utility problem	1.0
+wa solve	1.0
+use either	1.6666666666666667
+speech recognition	1.8888888888888888
+explanationbased generalization	1.0
+search space	1.3333333333333333
+algorithm selection	1.2175438596491228
+sometimes also call	1.3333333333333333
+offline algorithm selection	1.3333333333333333
+perinstance algorithm	2.0
+offline algorithm	1.6666666666666667
+many practical	1.75
+practical problem	1.5
+performs well	1.6666666666666667
+vice versa	3.0
+algorithm performs	1.3333333333333333
+can identify	1.0
+can get	1.0
+algorithm formula	1.3740079365079365
+instance formula	1.5166666666666668
+cost metric	1.0
+problem consists	1.0
+algorithm selection problem	1.5555555555555554
+selection problem	1.2
+satisfiability problem	1.0
+sat solver	1.3333333333333333
+individual instance	1.0
+algorithm selection can	2.0
+answer set programming	2.0
+machine learn algorithm	1.7209302325581395
+well known	1.0
+machine learn algorithm e	2.1666666666666665
+algorithm e	1.5
+random forest	2.007017543859649
+data set	1.1982758620689655
+error rate	1.0
+small error	1.0
+algorithm will	2.1818181818181817
+machine learn technique	1.8666666666666667
+numerical feature	1.0
+classification problem	1.0476190476190477
+multiclass classification	1.4285714285714286
+given instance	1.5
+instance feature	1.0
+numerical representation	1.0
+two kind	1.0
+performance metric	1.0
+feature computation	1.0
+run time	1.0
+selection system	1.0
+feature cost	1.0
+variable can	3.5384615384615383
+algorithm selection approach	2.666666666666667
+running time	1.0
+portfolio algorithm	1.0
+new instance formula	1.3333333333333333
+new instance	1.3333333333333333
+unsupervised clustering	2.5
+supervise learn	1.1944444444444444
+common approach	1.0
+pairwise model	4.333333333333333
+every pair	1.0
+prediction problem	1.0
+performance difference	1.0
+incorrect prediction	1.0
+problem can	2.4375
+scheduling problem	1.5
+parallel computation	1.5
+computer vision	1.5090909090909093
+learning framework	1.0
+ventral stream	1.0
+visual cortex	1.0
+originally develop	1.0
+visual scene	1.0
+image recognition task	1.6666666666666665
+algorithm base	2.6
+recognition task	1.0
+image recognition	1.75
+d rotation	1.0
+invariant representation	1.0
+compressed sensing	1.0
+theory proposes	1.0
+learning architecture	1.0
+different viewpoint	1.0
+particular class	1.0
+highly complex	2.5
+transformation may	2.0
+change facial expression	1.3333333333333333
+facial expression	1.0
+much simple	2.0
+sample complexity	1.0
+one can see	1.3333333333333333
+random guess	1.0
+can see	1.0
+representation ha	3.3333333333333335
+transformation can	3.3333333333333335
+also suggest	1.0
+human brain	1.5
+core idea	1.0
+johnsonlindenstrauss lemma	1.2
+random projection	1.2666666666666666
+lowdimensional feature	1.3333333333333333
+result suggest	1.0
+dot product	1.0952380952380953
+previous section	1.0
+learn invariant representation	1.3333333333333333
+image formula	1.8333333333333335
+template formula	1.25
+transformation formula	1.0
+every formula	1.7083333333333333
+namely formula	1.5
+wa apply	1.0
+may serve	1.0
+representation can	2.6
+practical representation	1.0
+version can	2.0
+visual experience	1.0
+many different kind	1.3333333333333333
+many different	2.0
+different kind	1.0
+one need	1.0
+computationally efficient	2.0
+unique representation	1.3333333333333333
+onedimensional probability distribution	2.0
+empirical distribution	1.0
+unsupervised learn	1.6666666666666667
+statistical moment	1.0
+orbit formula	1.0
+group formula	2.74047619047619
+two orbit	1.0
+compare two	2.25
+one compare	1.0
+probability distribution formula induce	1.9166666666666665
+formula induce	1.6
+uniquely characterize	1.0
+randomly chosen	1.0
+universal constant	1.0
+d probability distribution	1.3333333333333333
+probability density function	1.4444444444444444
+nonlinear function	1.2
+density function	1.0
+probability density	1.3809523809523812
+image classification	1.0
+finite number	1.0833333333333333
+locally compact	1.0
+zero everywhere	1.5
+will also	2.0
+small range	1.0
+specific kind	1.0
+first layer	1.6666666666666667
+gabor template	1.0
+form group	1.0
+two object	1.1666666666666667
+object may	4.0
+nongroup transformation	1.25
+localization condition	1.0
+specific case	1.0
+localization condition can	3.3333333333333335
+condition can	3.3333333333333335
+general case	1.0
+specific class	1.0
+face recognition	1.25
+recognition architecture	1.0
+hierarchical architecture	1.0
+many object	1.0
+different object	1.0
+different level	1.5
+hierarchy can	4.0
+different layer	2.0
+compositional concept	1.0
+problem arises	1.0
+target object	1.0
+clutter problem	1.5
+one layer	1.0
+may produce	1.0
+can handle	1.0
+formula stand	1.5
+object recognition	1.4
+recognize object	4.166666666666667
+vision system	1.0
+machine vision	1.5
+computer vision ha	2.666666666666667
+biologically plausible	1.25
+high complexity	1.0
+simple cell	2.0
+system inspire	2.0
+natural image	1.0
+novel hypothesis	1.5
+label example	1.4545454545454546
+just one	2.0
+image patch	1.3333333333333335
+synaptic weight	1.5
+another image	1.5
+computational model	1.0
+another important	2.0
+complex cell	1.5
+wa originally propose	1.3333333333333333
+wa originally	2.0
+closely around	3.0
+test time	1.0
+train data	1.391304347826087
+elastic matching	1.25
+wa also	2.0
+available data	1.0
+also apply	1.0
+wa show	1.0
+detection system	1.0
+face detection	1.0
+key element	1.0
+new set	1.0
+feature detector	1.0
+cell along	3.0
+training set	1.414035087719298
+also show	1.0
+feature set	1.6
+good performance	1.1111111111111112
+unsupervised learning	1.4
+speech sound	3.0
+wa propose	1.0
+classification accuracy	1.0
+classification task	1.0
+predict future	2.25
+statistical model	1.0714285714285714
+underlying model	1.5
+underfitting occurs	1.0
+adequately capture	1.0
+underlying structure	1.0
+linear model	1.0
+model will	2.5454545454545454
+predictive performance	1.0
+will tend	1.0
+can occur	1.0
+sometimes call	1.0
+criterion use	1.6666666666666667
+dependent variable	1.1818181818181819
+independent variable	1.1
+unseen data	1.0
+overfitting occurs	1.0
+extreme example	1.0
+model can	2.3870967741935485
+perfectly predict	1.0
+see figure	2.25
+will typically fail	1.3333333333333333
+make prediction	1.125
+typically fail	1.0
+expect level	1.0
+fitted model	1.0
+excessive number	1.0
+will appear	1.0
+new data	1.5625
+original data	1.9583333333333335
+several technique	1.0
+early stopping	1.3333333333333333
+complex model	1.0
+model ability	2.0
+will encounter	1.0
+burnham anderson	1.0
+model selection	1.0
+large number	1.0
+regression analysis	1.0
+linear regression	1.4545454545454546
+data point	1.2479674796747968
+will go	1.0
+every point	2.0714285714285716
+observation per independent variable	2.083333333333333
+logistic regression	1.3125
+mean squared error	2.1777777777777776
+random regression	1.0
+function can	2.3589743589743586
+random noise	1.5
+regression function	1.611111111111111
+biasvariance tradeoff	1.0
+often use	1.0
+overfit model	1.0
+mean squared	2.0833333333333335
+squared error	1.5833333333333333
+large set	1.3333333333333333
+explanatory variable	1.3555555555555554
+may thus	2.0
+train use	1.0
+desired output	1.6
+validation data	1.476190476190476
+also perform	1.0
+occams razor	1.0
+adjustable parameter	1.0
+ultimately optimal	3.0
+linear function	1.1666666666666667
+two dependent variable	1.3333333333333333
+three parameter	1.0
+simple function	2.466666666666667
+quadratic function	1.0
+complex function	2.666666666666667
+complicated function	1.0
+large enough	1.6666666666666667
+function will	3.0
+training dataset	1.6666666666666667
+even though	2.0
+perhaps even	2.0
+data outside	2.5
+model complexity	1.0
+many parameter	1.5
+parameter must	2.5
+neural net	1.1666666666666667
+target function	1.0833333333333333
+example consider	1.0
+will fit	1.0
+will never	2.0
+le accurate	1.0
+predict new data	1.6666666666666665
+past experience	1.0
+two group	1.2
+can reduce	1.0
+validation dataset	1.486111111111111
+function usually	2.6666666666666665
+usually need	1.0
+correlation coefficient	1.1481481481481481
+window width	2.8888888888888893
+window width size	2.0
+matrix can	3.1666666666666665
+correlation matrix	1.0
+algorithm doe	2.25
+low variance	1.4285714285714286
+high bias	1.0
+high variance	1.0909090909090908
+low bias	1.1428571428571428
+simple model	1.0
+also occur	1.0
+good model	1.2
+two mutually	3.0
+also include	1.0
+variable x	1.5
+cognitive robotics	1.7407407407407407
+will allow	1.0
+cognitive science	1.1666666666666667
+symbolic representation	1.0
+ha prove	1.0
+animal cognition	1.0
+starting point	1.0
+information process	1.0
+cognitive capability	1.0
+complex motor	2.0
+intelligent agent	1.0
+physical world	1.0
+real world	1.7142857142857142
+robot learn	1.1428571428571428
+technique called	1.0
+sensory feedback	1.0
+motor output	3.0
+desire motor result	1.3333333333333333
+robot can	2.0
+another agent	1.0
+learn approach	1.0
+knowledge acquisition	1.0
+exploration can	2.3333333333333335
+sensory input	1.0
+prediction system	1.0
+artificial neural network	1.43859649122807
+neural network	1.4815873015873016
+keep track	1.0
+prediction error	1.1666666666666667
+quantum compute	1.0
+string theory	5.5
+general process	1.0
+icb metric	13.2
+decision base	2.5
+various aspect	1.0
+wa acquire	1.0
+process unit	1.2222222222222223
+can run	1.0
+ce method	1.0
+monte carlo	2.25
+small probability	1.0
+method can	2.0
+combinatorial optimization problem	1.3333333333333333
+dna sequence	1.0
+allocation problem	1.0
+global optimization problem	1.3333333333333333
+combinatorial optimization	1.25
+global optimization	1.5
+sequence alignment	1.0
+two phase	1.0
+general problem	2.0
+parametric family	1.3333333333333333
+importance sample	1.0
+random sample	1.0
+optimal pdf	5.666666666666667
+step can	2.75
+algorithm can	2.4411764705882355
+one considers	1.0
+give level	1.3333333333333333
+variance formula	1.25
+stochastic counterpart	1.0
+minimization problem	1.0714285714285714
+target distribution	1.6666666666666667
+sample mean	1.0
+elite sample	1.0
+function value	1.0
+next iteration	1.0
+multivariate normal	2.0
+statistical analysis	1.0
+will generalize	1.0
+independent data set	1.5555555555555554
+independent data	2.0
+mainly use	1.0
+one want	1.0
+predictive model	1.0714285714285714
+usually give	1.0
+train dataset	1.25
+subset call	2.833333333333333
+validation set	1.324561403508772
+perform use	1.0
+prediction performance	1.0
+unknown parameter	1.25
+training data set	1.3333333333333333
+fitting process	1.0
+model parameter	1.0
+model fit	1.2
+independent sample	1.0
+will generally	2.0
+response value	1.0
+pdimensional vector	2.0
+least square	1.4375
+x y	1.25
+parameter value	1.0
+mild assumption	1.0
+expected value	3.6666666666666665
+expect value	1.0
+train set	1.1818181818181819
+set x	1.25
+crossvalidation estimate	1.0
+crossvalidation can	2.25
+model ha	2.0
+also useful	1.0
+cost function	1.0
+generally applicable	2.0
+two type	1.0
+crossvalidation method	2.3333333333333335
+possible way	1.0
+original sample	1.6
+leavepout crossvalidation	1.0
+lpo cv	2.5
+involves use	1.0
+p observation	1.0
+lpo crossvalidation	1.5
+can become	1.0
+particular case	1.0
+computation time	1.0
+cross validation	1.0
+kfold crossvalidation	1.0
+k equal	1.5
+equal size	1.5
+k subsamples	2.0
+k result	1.0
+repeated random subsampling	1.6666666666666665
+fold crossvalidation	1.0
+commonly use	1.0476190476190477
+two set d	1.6666666666666665
+two set	1.0
+mean response value	1.3333333333333333
+class label	1.2
+holdout method	1.0
+usually call	1.0
+crossvalidation multiple	2.0
+also know	1.0
+randomly split	1.0
+method also	2.25
+others may	2.0
+may overlap	1.0
+will vary	1.0
+random split	1.0
+approach infinity	1.5
+particularly useful	1.0
+binary classification problem	1.3333333333333333
+binary classification	1.692982456140351
+positive predictive value	1.3333333333333333
+predictive value	2.9047619047619047
+continuously distribute	1.0
+use crossvalidation	1.3333333333333333
+multiple independent	2.0
+statistical property	1.0
+slightly bias	1.0
+actual data	1.6666666666666667
+bias will	2.5
+fit will	2.3333333333333335
+statistical procedure	1.25
+confidence interval around	2.333333333333333
+confidence interval	1.0
+prediction method	1.0
+black box	1.5
+certain value	1.0
+training procedure	1.0
+bias may	3.3333333333333335
+closedform expression	1.0
+residual error	1.0
+human bias	1.0
+many application	1.1111111111111112
+fiveyear period	3.6666666666666665
+another example	1.125
+example suppose	1.0
+group e	1.5
+young people	1.0
+external validity	3.6666666666666665
+bias can	2.0
+validation sample	1.0
+one another	1.8333333333333333
+poor external	2.0
+model building	1.0
+vary across	2.0
+timeseries model	1.0
+may vary	1.0
+modeling procedure	1.0
+optical character recognition	1.5555555555555554
+k near neighbor	1.5555555555555554
+near neighbor	1.8333333333333335
+character recognition	1.6
+k near	2.0
+simply compare	1.5
+insample error rat	3.0
+perform good	1.0
+good since	3.0
+variable selection	1.2
+predict whether	2.0
+best performance	1.0
+performance will	2.0
+best fit	1.0
+recent development	1.0
+ha also	2.0
+feature hash	1.5
+also known	1.0
+hashing trick	1.0
+kernel trick	1.0
+hash function	1.4814814814814814
+hash value	1.0
+index directly	1.5
+document classification task	1.3333333333333333
+free text	1.5
+document classification	2.056122448979592
+numerical vector	1.0
+dictionary representation	1.0
+map word	1.0
+hash table	1.0
+large amount	1.0
+new word	1.0
+spam filtering	1.25
+text classification	1.1666666666666667
+can build	1.0
+feature vector	1.398148148148148
+let u	1.875
+dimension n	1.3333333333333333
+vector dimension	1.0
+output x	1.5
+hash collision	1.0
+table represent	1.3333333333333333
+coefficient vector	1.0
+feature value	1.8333333333333333
+contains two	2.5
+four possibility	2.333333333333333
+equal probability	1.0
+sign hash	1.5
+sample x	1.0
+hashing function	1.0
+vector produce	1.0
+positive semidefinite	1.2857142857142858
+classification performance	1.0
+learn problem	1.2061403508771928
+input feature	1.0
+single parameter vector	1.3333333333333333
+spam filter	1.1428571428571428
+global filter	1.0
+several hundred	1.3333333333333333
+single parameter	1.6666666666666667
+multitask learn	1.2916666666666667
+parameter vector	1.2
+bongard problem	1.0
+computer scientist	1.3333333333333333
+pattern recognition	1.7137681159420288
+relatively simple	1.25
+common factor	1.0
+statistic machine learn	1.6666666666666665
+information theory	1.4583333333333335
+dimension reduction	1.8571428571428572
+feature extraction	1.875
+approach try	1.0
+original variable	1.3333333333333333
+call feature	1.75
+strategy e	2.5
+information gain	1.6666666666666667
+see also	2.25
+data analysis	1.0588235294117647
+highdimensional space	1.0
+principal component analysis pca	1.6944444444444444
+many nonlinear	3.0
+dimensionality reduction technique	1.3333333333333333
+also exist	1.0
+nonlinear dimensionality reduction	1.6666666666666665
+data tensor	1.7666666666666666
+multilinear subspace learn	1.3333333333333333
+tensor representation	1.0
+multidimensional data	1.75
+linear mapping	1.0
+lowerdimensional space	1.0
+lowdimensional representation	1.0
+large eigenvalue	1.0
+can now	2.0
+large fraction	1.0
+can often	2.0
+nonnegative matrix	1.5
+well know	1.0
+multiplicative update	1.5
+continuously develop	1.0
+missing data	1.25
+update rule	1.0
+direct imaging	2.3333333333333335
+analysis can	2.8333333333333335
+resulting technique	1.0
+kernel pca	1.0
+technique include	1.6666666666666667
+learning technique	1.0
+linear embedding lle	1.6666666666666665
+data representation use	1.6666666666666665
+representation use	1.25
+semidefinite programming	1.2
+prominent example	1.0
+pairwise distance	1.0
+nearest neighbor	1.4
+inner product space	1.4999999999999998
+alternative approach	1.0
+output space	1.3
+multidimensional scaling	1.5
+tdistributed stochastic neighbor	2.333333333333333
+embedding tsne	1.0
+different approach	1.125
+special kind	1.0
+feedforward neural network	1.3333333333333333
+hidden layer	1.4074074074074074
+typically perform	1.0
+restrict boltzmann machine	1.6190476190476188
+boltzmann machine	1.5111111111111113
+linear discriminant analysis lda	1.5
+fisher linear discriminant	1.6666666666666665
+method use	1.0
+discriminant analysis	1.4
+linear discriminant	1.8939393939393943
+linear discriminant analysis	1.75
+method provide	1.0
+input vectors	1.0
+highdimensional feature space	1.3333333333333333
+dimensional space	1.0
+low dimensional	2.0
+canonical correlation analysis cca	1.5
+preprocessing step	1.0
+canonical correlation analysis	2.0
+similarity search	6.833333333333333
+video stream	1.0
+knn search	1.0
+locality sensitive hashing	1.3333333333333333
+search technique	1.0
+maximally informative	2.166666666666667
+much information	1.0
+pac learn	1.0909090909090908
+important issue	1.3333333333333333
+learning process	1.0
+algorithm may	2.6
+receive data	1.0
+example may	3.2
+input space	1.05
+target function formula	1.3333333333333333
+formula define	1.3333333333333333
+learning algorithm formula	1.3333333333333333
+best function formula	1.3333333333333333
+minimize formula	1.0
+correct label	1.3333333333333335
+efficiently learnable using formula	1.6250000000000002
+polynomial formula	1.5
+oracle bound	1.0
+least formula	1.2
+condition formula	1.0
+classification noise model	1.3333333333333333
+noise rate	1.0
+classification noise	1.6666666666666667
+noise model	1.0
+algorithm formula can	3.111111111111111
+oracle formula	1.0
+real value	1.0
+definitionwe say	1.0
+statistical query	1.25
+likelihood formula	1.0
+correctly label example formula	1.5833333333333335
+tolerance formula	1.5
+label example formula	1.3333333333333333
+active learn	1.7133333333333334
+formula call	1.0
+algorithm formula call	1.3333333333333333
+learn model	1.2
+parameter formula	1.7692307692307692
+formula doe	2.75
+query learn model	1.6666666666666665
+main purpose	1.0
+pac model	1.0
+efficiently sqlearnable	5.333333333333333
+pac learnable	1.0
+malicious classification model	1.3333333333333333
+setting describe	1.0
+may occur	1.0
+example draw	1.0
+nonuniform random attribute	1.6666666666666665
+boolean function	1.1333333333333333
+nonuniform random attribute noise	1.9166666666666665
+follow theorem	1.0
+train neural network	1.5555555555555554
+hidden neuron	1.0
+thus provide	1.0
+cc network	1.6666666666666667
+short term	1.0
+web search	1.4
+prediction application	1.0
+deep learn	1.4851851851851852
+data mine	1.4166666666666667
+input node	1.0
+output layer	1.5
+vector belong	1.0
+hopfield network	1.0
+structural risk minimization	1.4999999999999998
+risk minimization	1.2380952380952384
+model become	1.25
+srm principle	1.0
+vladimir vapnik	1.0
+vc dimension	1.0
+endtoend reinforcement learn	1.5555555555555554
+endtoend process	1.0
+entire process	1.0
+recurrent neural network	1.4166666666666665
+approach ha	2.0
+video game	1.0
+google deepmind	1.0
+supervise learn without	2.0
+require sample	1.5
+learn without	2.4
+without require	1.0
+state space	1.611111111111111
+action space	3.0
+function approximation	1.619047619047619
+also employ	1.0
+markov decision process	2.0444444444444447
+decision process	1.476190476190476
+higherlevel function	1.0
+input signal	1.0
+robot task	1.0
+various function	1.6666666666666667
+deep convolutional neural network	1.888888888888889
+convolutional neural network	1.5
+deep convolutional neural	2.1666666666666665
+network wa train	1.3333333333333333
+train base	2.0
+network wa	2.0
+wa train	1.0
+network architecture	1.0
+prior knowledge	1.0
+professional human	2.5
+sometimes called	1.3333333333333333
+deep neural network	1.9666666666666666
+monte carlo tree search	1.5833333333333335
+tree search	1.0909090909090908
+pattern recognition system	1.4999999999999998
+many case	1.0
+label training data	2.6
+supervised learning	2.1666666666666665
+labeled data	1.0
+previously unknown	1.0
+label training	2.8
+recognition system	1.0
+machine learn data mining	2.0
+knowledge discovery	1.1666666666666667
+data mining	1.392156862745098
+supervise learn method	1.6666666666666665
+unsupervised method	1.0
+learn method	1.1785714285714286
+recognition rate	1.6666666666666667
+become increasingly	1.5
+give input value	1.3333333333333333
+input value	1.0
+give input	2.0
+wa introduce	1.0
+given set	1.0
+determine whether	3.6666666666666665
+give email	1.0
+realvalued output	1.0
+input sequence label	1.3333333333333333
+example part	1.0
+speech tag	1.0
+input sentence	1.9583333333333335
+parse tree	1.0
+input sentence describe	1.3333333333333333
+syntactic structure	1.0
+input sequence	1.75
+sequence label	2.0
+algorithms generally	2.0
+possible input	1.0
+pattern matching	2.0
+common example	1.0
+patternmatching algorithm	1.0
+word processor	1.0
+can sometimes	2.0
+categorize accord	2.0
+output value	1.0666666666666667
+correct output	1.1428571428571428
+learning procedure	1.0
+meet two	2.0
+new data instance	1.3333333333333333
+semisupervised learning	1.0
+unlabeled data	1.4999999999999998
+small set	1.0
+label data	1.1818181818181819
+cluster base	5.166666666666667
+input data	1.2031007751937985
+inherent similarity	1.5
+instance consider	1.0
+vector space	1.4666666666666668
+input instance	1.0
+predefined class	1.0
+multidimensional vector	1.5
+note also	1.0
+community ecology	1.0
+multidimensional space	1.0
+two vector	1.0
+blood type	1.0
+b ab	1.0
+item e	6.0
+large medium	1.0
+small integervalued e	1.3333333333333333
+particular word	1.0
+realvalued e	1.0
+blood pressure	1.0
+group together	2.0
+integervalued data	1.0
+algorithm work	2.5
+use statistical inference	1.3333333333333333
+best label	1.25
+use statistical	2.0
+statistical inference	1.0
+many common pattern	1.6666666666666665
+simply output	1.0
+probabilistic algorithm	1.0
+probabilistic algorithm output	1.3333333333333333
+single best	2.0
+algorithm output	1.0
+possible label	1.0
+n may	2.0
+many advantage	1.0
+algorithm attempt	1.1428571428571428
+selection algorithm	1.0
+large value	1.0
+available feature	1.0
+feature vectors	1.0
+raw feature	1.5
+extraction algorithm	1.0
+ha take place	1.3333333333333333
+original feature	2.333333333333333
+take place	1.0
+follows give	1.0
+ground truth	1.3333333333333333
+map input	1.5
+correct map	1.0
+loss function	1.3056084656084657
+specific value	1.0
+incorrect label	1.0
+expect loss	1.0
+limiting factor	1.0
+function depend	2.5
+learned function	1.4
+probabilistic pattern	1.5
+particular input	2.0
+possible output	1.5
+function f	4.416666666666666
+discriminative approach	1.0
+generative approach	1.0
+prior probability formula	1.3333333333333333
+prior probability	1.3333333333333335
+use bayes	1.5
+maximum likelihood estimation	1.3333333333333333
+regularization procedure	1.0
+maximum likelihood	1.6
+different value	1.0
+posterior probability	1.2
+bayesian approach	1.0
+problem instead	3.0
+possible value	1.0
+pattern classifier	1.2
+parameter vector formula	1.6666666666666665
+frequentist approach	1.5
+collected data	1.0
+covariance matrix	1.1
+class formula	1.5555555555555554
+bayesian statistic	1.0
+knowledge gain	2.3333333333333335
+probability formula can	2.0
+conjugate prior	2.111111111111111
+classifier can	2.6666666666666665
+typical application	1.0
+pattern recognition technique	1.3333333333333333
+email message	1.0
+automatic recognition	1.6666666666666667
+last two	2.0
+digital image	1.0
+deep learning	1.0
+realworld application	1.0
+image process	2.6666666666666665
+see e	1.0
+process see	1.0
+closely related	1.0
+input human	1.5
+two different	2.1818181818181817
+feature detection	1.3333333333333333
+long term memory	1.3333333333333333
+eager learning	1.0
+learning method	1.125
+system try	1.0
+lazy learn	1.2857142857142858
+main advantage gain	1.3333333333333333
+target function will	2.0
+much le	2.5
+lazy learn system	2.0
+advantage gain	1.3333333333333333
+eager learn	1.3333333333333333
+learn system	1.3333333333333333
+learning system	1.2
+offline learn	1.6666666666666667
+will always	2.0
+provide good	2.0
+large margin nearest neighbor	2.083333333333333
+statistical machine learn algorithm	1.6666666666666667
+metric learning	1.0
+knearest neighbor	1.8333333333333333
+convex optimization	1.3333333333333333
+supervise learning	1.6111111111111112
+decision rule	1.0
+categorize data	1.0
+knearest neighbor rule	1.3333333333333333
+class obtain	2.0
+majority vote	1.0
+k close	1.5
+intuition behind	2.0
+k instance	1.0
+possible class	1.25
+well define	1.0
+mahalanobis metric	1.0
+target neighbor	1.0
+learned metric	1.0
+data point formula	1.6166666666666667
+different class	1.1666666666666667
+algorithm try	1.0
+far away	1.0
+figure show	1.0
+input vector formula	1.3333333333333333
+input vector	1.0
+test point	1.0
+one unit	1.0
+constraint can	2.8
+exactly one	1.0
+alternative choice	1.0
+impostor constraint	1.0
+computational complexity	1.0
+geometric property	1.0
+well suit	1.0
+multiple local	2.0
+significantly improve	1.0
+classification error	1.0
+machine learn research	2.166666666666667
+handwritten digit	1.4444444444444446
+open source	1.8
+freely available	1.0
+computational learning theory	1.4901960784313726
+rademacher complexity	1.4
+realvalued function	1.4
+computational learning	1.7142857142857142
+learning theory	1.1666666666666667
+followswhere formula	1.0
+independent random variable	1.3333333333333333
+function define	1.2
+domain space	1.0
+function class formula	1.3333333333333333
+sample size formula	1.6666666666666665
+independently distribute	1.0
+function class	1.0
+size formula	2.1818181818181817
+sample size	1.0
+generate according	2.0
+formula contain	1.0
+single vector	1.5
+hypothesis class	1.25
+true distribution	1.25
+error function	1.0
+empirical error	1.3333333333333333
+much low	1.25
+true error	1.0
+empirical risk minimization	1.8231884057971013
+empirical risk	2.409090909090909
+upper bound	1.2857142857142858
+rule can	2.0
+strictly decrease	1.5
+convex hull	1.3333333333333333
+finite set	1.2083333333333335
+formally let formula	2.0
+growth function	1.0
+every set	1.3333333333333333
+binary vector	1.0
+one can show	1.6666666666666665
+constant formula	1.3055555555555556
+vapnikchervonenkis dimension	1.0
+dimension formula	1.5
+follow bound	1.25
+define formula	1.0
+unit ball	1.0
+radius formula	1.0
+suppose formula	1.0
+vector whose	2.5
+formulain particular	1.0
+random variables formula	1.6666666666666665
+deep learn algorithm	1.3333333333333333
+music composition	1.0
+society sacem	1.0
+world first	2.0
+large collection	1.0
+reinforcement learning	1.75
+base rate	1.777777777777778
+featural evidence	1.25
+medical professional	2.833333333333333
+winter cold	1.0
+treatment x	2.5
+base rate information	1.3333333333333333
+category base rate	1.3333333333333333
+category base	1.5
+ask u	1.0
+positive result	1.0
+false positive	1.3888888888888888
+test positive	1.3333333333333333
+must account	1.0
+allow u	1.0
+particular individual	1.0
+may allow	1.0
+training datasets	1.0
+semisupervised machine learn	2.0
+learn can	2.466666666666667
+datasets consist primarily	1.3333333333333333
+object detection	1.0
+facial recognition	1.8571428571428572
+multilabel classification	1.5
+use extensively	1.5
+facial recognition system	1.6666666666666665
+sentiment analysis	1.3333333333333333
+cluster analysis	1.0
+signal processing	1.375
+biological system	1.0
+section include datasets	1.3333333333333333
+structured data	1.0
+algorithm can also	2.6666666666666665
+common task	1.0
+make datadriven prediction	1.3333333333333333
+mathematical model	1.0
+final model	1.25
+usually come	1.0
+parameter e	2.0
+naive bayes classifier	2.0
+method e	1.25
+dataset use	1.3333333333333333
+naive bayes	1.6
+gradient descent	1.6041666666666667
+stochastic gradient descent	1.7777777777777777
+stochastic gradient	1.8571428571428572
+current model	1.0
+specific learning algorithm	1.3333333333333333
+can include	1.0
+parameter estimation	1.25
+unbiased evaluation	1.0
+hidden unit	1.472222222222222
+validation datasets	1.0
+early stop	1.3333333333333333
+simple procedure	1.0
+error may fluctuate	1.3333333333333333
+produce multiple local minimum	1.5
+local minimum	1.0
+complication ha lead	1.3333333333333333
+many adhoc rule	1.3333333333333333
+overfitting ha	2.0
+ha lead	1.0
+test dataset	1.1666666666666667
+suitable classifier	1.0
+successive iteration	1.3333333333333333
+various way	1.0
+random subset	1.0
+hierarchical classification	1.0
+sometimes refer	1.0
+instance space decomposition	1.3333333333333333
+multiclass problem	1.0
+instance space	2.1666666666666665
+classification boundary	1.0
+classification step	1.0
+confusion matrix	1.5897435897435896
+joint class	3.0
+make use	1.0666666666666667
+small amount	1.0
+also make	1.0
+learning task	1.0833333333333333
+semisupervised learn	1.15
+learn fall	1.0
+can produce	1.0
+learning problem	1.0
+often require	1.25
+problem often	2.3333333333333335
+cost associate	1.0
+supervised learn	1.5384615384615385
+unlabeled example formula	1.6666666666666665
+unlabeled example	1.4285714285714286
+formula unlabeled example	2.0
+transductive learn	1.25
+inductive learn	1.0
+also provide	1.0
+unsolved problem	1.0
+classification rule	1.0
+entire input space	1.5555555555555554
+entire input	2.5
+least one	1.0
+algorithm make	1.0
+decision boundary	1.5
+smoothness assumption	1.3333333333333333
+data share	1.5
+across multiple	2.0
+give rise	1.0
+feature learn	1.5
+cluster algorithm	1.0
+data lie	1.0
+low dimension	1.0
+manifold assumption	1.0
+framework wa	2.5
+inductive learning	1.0
+generative model	1.1523809523809523
+probably approximately correct	1.3333333333333333
+approximately correct	1.0
+learning ha	2.125
+protein sequence	1.0
+statistical learn	1.7142857142857142
+given point	1.5
+generative model can	2.666666666666667
+supervise learning classification	2.0
+form formula	1.0
+particular form	1.0
+solution relative	2.0
+data may	2.1666666666666665
+improve performance	1.0
+mixture distribution	1.0
+yield different	2.0
+decision function	1.0
+major class	1.0
+transductive support vector machine	1.8333333333333333
+maximal margin	4.333333333333333
+hinge loss	1.3333333333333333
+loss function formula	1.6933333333333334
+reproduce kernel hilbert space formula	1.75
+regularize empirical	2.6296296296296298
+exact solution	1.5
+term formula	1.3846153846153846
+research ha	2.0
+reproduce kernel hilbert space	1.8333333333333333
+kernel hilbert space formula	1.5555555555555556
+domain knowledge	1.2
+common method	1.0
+standard tikhonov regularization	1.5555555555555554
+intrinsic space	1.3333333333333333
+tikhonov regularization	1.1578947368421053
+regularization problem	1.0
+intrinsic regularization term	1.3333333333333333
+regularization term	1.1666666666666667
+graph laplacian	1.0
+supervised learn algorithm	1.5999999999999999
+regularize least square	1.7777777777777777
+regularized least square	1.3333333333333333
+distance metric	1.0
+first step	1.0
+labeled example	1.0
+supervise learning algorithm	1.3333333333333333
+disjoint set	1.0
+semisupervised learn problem	1.5555555555555554
+may also	2.0
+concept learn	1.5396825396825395
+experience e	3.6666666666666665
+human infant	1.0
+ha show	1.0
+work ha	2.75
+optimal control	1.5
+genetic algorithm	1.2
+genetic programming	1.1428571428571428
+robot control	1.0
+learning automaton	1.0
+learn automaton	1.3333333333333333
+will fall	1.0
+trace back	1.0
+early s	1.1538461538461537
+united state	1.0
+survey paper	1.0
+chosen accord	2.5
+policy iterators	1.0
+evolutionary algorithm	1.1428571428571428
+stochastic automaton	3.0
+markov process	1.0
+next input	1.0
+input set x	1.3333333333333333
+penalty response	3.6666666666666665
+feedback loop	1.0
+input set	2.555555555555556
+finite input set	1.3333333333333333
+statistical classification	1.2
+two main approach	1.3333333333333333
+classification include	2.0
+two main	2.0
+statistical modelling	1.5
+target variable y	2.666666666666667
+joint probability distribution	1.4814814814814816
+discriminative model	1.0555555555555556
+target y give	2.333333333333333
+observation x symbolically formula	1.75
+probability model	2.1666666666666665
+also refer	1.0
+observation x	1.5714285714285714
+target y	2.8333333333333335
+symbolically formula	2.7777777777777772
+target variable	1.5555555555555556
+y give	2.5
+two class	1.5916666666666668
+three class	1.0
+generative classifier	1.0
+discriminative classifier	1.0
+distinguish two	2.6666666666666665
+classifier base	4.75
+linear classifier	1.0
+label y	2.0
+one can compute	1.3333333333333333
+one can estimate	2.2333333333333334
+conditional probability formula	1.3333333333333333
+can compute	1.0
+use depend	2.0
+observable x	4.0
+continuous variable	1.1666666666666667
+discrete variable	1.75
+considering x	1.0
+formula considering x	2.333333333333333
+marginal distribution formula	1.3333333333333333
+one conditional probability	6.733333333333333
+denote formula	1.6666666666666667
+example give	1.5
+generative algorithm	1.3333333333333333
+data wa generate	1.3333333333333333
+give signal	1.0
+classify data	1.0
+hand generative	2.0
+can use	1.1333333333333333
+generate new	2.0
+observe variable	1.1666666666666667
+complex relationship	1.0
+observed data	1.1428571428571428
+data likelihood	1.0
+directly use	1.0
+applicationspecific detail	1.0
+ultimately dictate	1.0
+joint probability distribution formula	1.6666666666666667
+formula will	2.944444444444444
+english word pair	2.0
+word pair	5.0
+wa coin	1.0
+dynamic optimization	1.0
+numerical analysis	1.0
+space increase	1.5
+statistical significance	1.0
+reliable result	1.5
+result often	4.0
+search data	1.75
+object form	1.0
+similar property	1.0
+high dimensional	2.0
+many way	1.0
+also use	1.0
+high dimension	1.0
+take one	1.3333333333333333
+huge number	1.0
+combinatorial explosion	1.0
+simple case	1.0
+binary variable	1.5
+possible combination	1.0
+formula exponential	1.0
+additional dimension	1.0
+extra dimension	1.0
+sample point	1.0
+unit interval	1.0
+unit hypercube	2.0
+dimensional hypercube	2.5833333333333335
+distance function	1.9583333333333335
+state variable	1.0
+machine learn problem	1.5238095238095237
+fix number	1.0
+predictive power	1.0
+euclidean distance	1.0
+one way	1.0
+highdimensional euclidean space	1.3333333333333333
+length formula	1.25
+euclidean space	1.0
+formula go	1.6666666666666667
+another way	1.0
+almost entirely	1.5
+chisquared distribution	1.0
+standard deviation	1.25
+n random	2.0
+point p	1.0
+provide high	2.0
+signaltonoise ratio	1.0
+wa find	1.0
+near neighbor search	1.5833333333333333
+high dimensional space	1.3333333333333333
+one coordinate	1.0
+dimension can	2.25
+also increase	1.0
+time series analysis	1.7435897435897432
+high dimensionality	1.0
+dimension increase	1.0
+information retrieval	1.5
+many open	2.0
+multiplicative weight update method	1.6666666666666667
+multiplicative weight	2.7777777777777777
+multiplicative weight update	2.0
+wa discover	1.0
+linear program	2.5
+theoretical computer science	1.3333333333333333
+fast algorithm	1.5
+game theory	1.0
+computer science	1.375
+different field	1.0
+fictitious play	1.0
+twoplayer zerosum game	2.3333333333333335
+multiplicative weight algorithm	1.5555555555555554
+weight algorithm	1.5
+zerosum game	2.6666666666666665
+machine learn littlestone	1.6666666666666665
+winnow algorithm	1.0
+weight update rule	1.3333333333333333
+weight majority algorithm	1.5757575757575757
+majority algorithm	1.303030303030303
+hedge algorithm	1.0
+also widely apply	1.3333333333333333
+computational geometry	1.0
+clarksons algorithm	1.0
+linear programming lp	1.3333333333333333
+bound number	1.0
+linear time	1.0
+later bronnimann	2.0
+goodrich employ analogous method	2.1666666666666665
+find set cover	1.3333333333333333
+operation research	1.3333333333333333
+online statistical decision making problem	1.7000000000000002
+complicated version	1.0
+find independently	1.0
+decision making	1.3333333333333333
+previously observe	1.0
+close relationship	1.0
+different context	1.0
+boosting algorithm	1.0
+learn theory	1.2222222222222223
+convex optimization problem	1.3333333333333333
+make base	1.3333333333333333
+n expert	1.25
+expert opinion	1.0
+first round	1.0
+decision maker	1.0
+will make	1.0
+expert prediction	1.0
+decision maker will	2.333333333333333
+real life	1.5
+example include	1.0
+stock market	1.5
+game play	2.0
+correct prediction	1.0
+halve algorithm	1.0
+make mistake	1.0
+every decision	1.0
+remaining expert	1.0
+vote among	2.5
+every time	1.7083333333333335
+aggregator make	1.0
+therefore every	3.0
+expert advice	1.0
+select one	1.3333333333333333
+make choice	1.0
+every iteration	1.4
+work since	2.0
+expert advice will	2.6666666666666665
+formula increase	1.5
+will decrease	1.0
+algorithm ha	2.75
+best expert	1.0
+mistake make	1.0
+expert predicting positive	1.6666666666666665
+algorithm calculate	1.0
+underlying assumption	1.0
+constrained optimization problem	1.3333333333333333
+player formula	3.5583333333333336
+plan formula	1.6111111111111114
+choose plan formula	1.3333333333333333
+error parameter	1.0
+additive error	1.0
+solving zerosum	1.5
+wa first use	1.3333333333333333
+formula label example	1.6666666666666665
+nonnegative weight	1.0
+without loss	1.0
+notational convenience	2.0
+general form	1.0
+n different	2.0
+total loss suffer	1.3333333333333333
+current iteration	1.0
+learn rate	1.2
+weak learner	2.0
+hypothesis formula	1.0625
+weight vector	1.625
+linear system	1.0
+x satisfy	1.0
+also true	1.5
+width formula	2.0
+dissimilarity function	1.0
+search problem	1.476190476190476
+set s	1.1428571428571428
+query point	1.9696969696969695
+close point	1.0
+problem refer	1.5
+metric space	1.3333333333333333
+triangle inequality	1.0
+manhattan distance	1.3333333333333333
+one example	1.0
+nns problem	1.0
+time complexity	1.125
+space complexity	1.0
+search data structure	1.3333333333333333
+data structure	1.0
+use polynomial	2.5
+search time	1.0
+simple solution	1.0
+naive approach	1.0
+linear search	1.0
+space partition	1.0
+kd tree	1.0
+also need	1.0
+wa design	1.0
+efficient algorithm	1.0
+can yield	1.0
+general metric space	1.6666666666666665
+metric tree	1.0
+general metric	1.6666666666666667
+point take	2.3333333333333335
+possible solution	1.0
+pointcloud point	1.0
+must go	1.0
+correct result	1.0
+near point	1.0
+distance measure	1.0
+accurately capture	1.0
+high probability	1.303030303030303
+theoretical bound	1.0
+technique can	2.4285714285714284
+dramatically simplify	1.0
+approach require	1.0
+sensor data	1.0
+stereo vision	1.5
+base search	1.0
+vector quantization	1.0
+also note	1.0
+graph formula	1.0
+every point formula	2.3666666666666667
+vertex formula	1.0
+one possible	2.0
+query q	1.0
+search algorithm	1.1666666666666667
+greedy search	1.5
+distance value	2.333333333333333
+neighborhood formula	1.0
+current vertex	1.5
+select vertex	4.333333333333333
+algorithm stop	1.0
+publication include	2.0
+work wa	2.25
+wa precede	1.0
+knearest neighbor search	1.3333333333333333
+top k	1.0
+predictive analytics	1.5714285714285714
+memory saving	1.0
+will find	1.0
+original point	1.0
+application e	3.0
+n point	1.3333333333333333
+nearestneighbor search	1.5
+point x	2.1666666666666665
+point y	2.8333333333333335
+tell u	1.0
+l norm	1.0
+near neighbour	3.6666666666666665
+small number	1.0
+learn classifier	2.25
+different category	1.0
+tom m	1.0
+basic idea	1.0
+train many	2.0
+samearity predicate	1.0
+mutually exclusive	1.0
+positive instance	1.0
+negative instance	1.0
+negative pattern	1.3333333333333333
+will become	1.0
+noun phrase	1.8888888888888886
+quick summary	1.0
+large corpus	1.2
+candidate instance	1.0
+promote pattern	1.8333333333333333
+text corpus	1.0
+specific pattern	1.0
+least two	1.25
+cooccurrence count	2.3333333333333335
+cpl rank	1.0
+metabootstrap learner	1.5
+also propose	1.0
+extraction technique	1.0
+result show	1.0
+new fact	1.0
+logic learn machine	1.4999999999999998
+machine learn method	1.7333333333333332
+intelligible rule	1.0
+efficient implementation	1.0
+switch neural network	1.6666666666666665
+rulex suite	1.0
+decision support	1.5
+field include	1.6666666666666667
+wa develop	1.0
+approach wa	2.0
+use machine learn	1.4666666666666663
+neural network approach	1.3333333333333333
+network approach	1.0
+decision tree	1.1025641025641026
+neural network make	2.0
+efficient version	1.0
+value formula correspond	1.3333333333333333
+iterative method	1.0
+generalization error	1.0
+data come	1.5
+early stop rule	1.3333333333333333
+many iteration	1.0
+theoretical foundation	1.0
+training set well	1.3333333333333333
+prevent overfitting	1.0
+learned model	1.0
+gradient descent method	1.3333333333333333
+optimization method	1.0
+iterative optimization	2.5
+regularize nonparametric regression problem	1.5
+nonparametric regression	2.0
+input space formula	1.3333333333333333
+unknown probability measure formula	1.5
+regression function formula	1.3333333333333333
+give bywhere formula	2.0
+give bywhere	2.0
+function formula give	2.0
+common choice	1.0
+infinite dimensional	1.5
+especially important	1.0
+early stopping rule	1.3333333333333333
+iterative procedure	1.0
+stopping rule	1.0
+functionalwhere formula	1.0
+expect risk	2.0666666666666664
+since formula	1.9
+step size formula	1.7777777777777777
+step size	1.25
+population iteration	2.25
+sample iteration	1.0
+expected risk	3.3
+regression functionthis	10.333333333333334
+may depend	1.0
+unknown probability distribution	1.4666666666666666
+probabilistic bound	1.0
+strong learner	1.0
+can provide	1.0
+boost method	2.0
+method describe	1.0
+library science	1.6666666666666667
+information science	2.0
+interdisciplinary research	1.0
+text image	1.0
+subject classification	1.0
+give word	1.5
+requestoriented classification	1.0
+well however	1.5
+ha argue	1.0
+classification system	1.0
+document index	3.0
+external mechanism	9.0
+provide information	1.0
+correct classification	1.0
+automatic document classification	2.0
+unsupervised document	1.5
+task can	3.0
+classification technique	1.6666666666666667
+native language	1.0
+language l	2.3333333333333335
+nli work	1.0
+unseen text	1.0
+secondlanguage acquisition	1.3333333333333333
+forensic linguistics	1.0
+transfer effect	1.0
+nli method	1.0
+can help	1.0
+ha already	2.0
+natural language processing	1.6666666666666665
+classifier system	1.6666666666666667
+single classifier	1.5
+paper describe	1.3333333333333333
+statistical relational learning	1.6666666666666665
+statistical relational	1.6666666666666667
+representation formalism develop	1.3333333333333333
+firstorder logic	1.5
+draw upon	2.0
+probabilistic graphical model	1.3333333333333333
+bayesian network	1.4
+build upon	2.3333333333333335
+inductive logic programming	1.5833333333333333
+knowledge representation	1.5
+representation formalism	1.0
+logic programming	2.166666666666667
+late s	1.0
+probabilistic inference	1.0
+alternative term	1.0
+main focus	1.0
+general principle	1.0
+recent year	1.1666666666666667
+multilinear principal component analysis	1.8333333333333333
+nway array	1.0
+computational term	1.0
+singular value decomposition	1.5555555555555554
+singular value	1.5555555555555556
+synthesis problem	1.5
+multilinear tensor	1.6666666666666667
+observe data	1.2222222222222223
+causal factor	1.0
+data formation	1.0
+data tensor analysis	1.6666666666666665
+human motion	5.0
+mmode pca	2.0
+peter kroonenberg	1.0
+terzopoulos introduce	2.0
+multilinear pca terminology	1.3333333333333333
+better differentiate	1.3333333333333335
+multilinear tensor decomposition	1.3333333333333333
+compute nd order statistic associate	1.6
+data tensor modeaxis	1.3333333333333333
+subsequent work	1.0
+multilinear independent component analysis	1.5
+high order statistic associate	1.6666666666666667
+tensor modeaxis	2.3333333333333335
+multilinear pca	1.3333333333333333
+independent component analysis	1.4444444444444444
+high order	1.0
+tensor decomposition	1.5555555555555556
+data tensor whose	2.6666666666666665
+individual observation	1.25
+whose observation	2.7777777777777772
+alternating least square	2.0
+problem dependent	1.0
+mpca feature	4.333333333333333
+machine learningmachine learning	9.533333333333333
+learningmachine learning	8.166666666666668
+arthur samuel	1.0
+give computer	1.0
+explicitly programmed	1.0
+machine learning explore	1.6666666666666665
+algorithm operate	1.5
+strictly static program instruction	1.6666666666666667
+static program	1.0
+knowledge integration	1.6666666666666667
+common model	1.3333333333333333
+information can	2.6
+new information	1.2666666666666666
+exist knowledge	2.5833333333333335
+existing knowledge	1.0
+learn agent	1.0
+new information can	2.333333333333333
+wa create	1.0
+knowledge base	1.0
+learn program	1.3333333333333333
+minimal mapping	1.0
+high quality	1.0
+quantum physic	1.5
+one can distinguish	1.3333333333333333
+different way	1.0
+two parent	3.8333333333333335
+quantum machine learn algorithm	1.888888888888889
+quantum computation	1.0
+classical method	1.0
+classical algorithm	1.0
+quantum computer	1.0
+quantum machine learn	1.5238095238095237
+learn algorithm can	2.3999999999999995
+machine learn algorithm can	2.1666666666666665
+apply classical method	1.3333333333333333
+quantum system	1.0
+fully quantum	1.0
+quantumenhanced machine learning	1.3333333333333333
+quantum algorithm	1.0
+classical machine learn	1.5555555555555554
+algorithm typically	3.0
+require one	1.0
+quantum information processing	1.6666666666666665
+information processing	1.5
+typically require	1.0
+routine can	2.0
+universal quantum computer	1.5555555555555554
+universal quantum	1.5
+one line	1.0
+amplitude encoding	1.0
+quantum state	1.6
+resource grow	1.5
+matrix inversion	1.0
+low rank	1.5
+linear algebra	1.3333333333333333
+state preparation	1.0
+entire dataset	1.0
+efficient method	1.0
+another approach	1.0
+quantum information process	1.3333333333333333
+amplitude amplification	1.5
+quadratic speedup	1.0
+unstructured search	2.0
+knearest neighbor algorithm	1.4999999999999998
+another application	1.0
+often combine	1.0
+quantum walk	1.0
+reinforcement learn agent	1.3333333333333333
+also admit	1.0
+quantum speedup	1.0
+superconducting circuit	1.0
+wide spectrum	1.0
+important application	1.0
+probabilistic programming	1.0
+probabilistic model	1.0
+boltzmann distribution	1.8888888888888886
+quantum annealers	1.0
+research group	1.0
+quantum annealing hardware	1.3333333333333333
+quantum annealing	1.3333333333333333
+standard approach	1.0
+sampling technique	1.0
+markov chain monte carlo	3.2222222222222228
+markov chain	1.25
+dwave x	1.5
+center ha	2.0
+recently use	1.0
+building block	1.0
+deep learn architecture	1.3333333333333333
+learn architecture	1.0
+fully connect	1.0
+machine learn approach	1.4999999999999998
+quantum mechanic	1.0
+quantum boltzmann machine	1.3333333333333333
+thermal state	2.0
+time require	1.0
+markov logic network	1.3333333333333333
+quantum analogue	1.0
+hide markov model hmms	1.6111111111111114
+model sequential data	1.3333333333333333
+various field	1.0
+sequential data	1.0
+hide markov model	1.6666666666666667
+classical hmms	1.0
+successfully learn	1.0
+data via	3.5
+technique use	1.1428571428571428
+bayesian inference	1.0
+quantum version	1.0
+quantum learning theory	1.5555555555555554
+classical learning	1.5
+may provide	1.0
+specific problem	1.25
+concept class	1.2745098039215685
+disjunctive normal form	1.3333333333333333
+n bit	1.0
+normal form	1.3333333333333335
+target concept	1.125
+learner may	2.3333333333333335
+learner can make membership query	2.0
+target concept c	1.3333333333333333
+membership query	1.0
+learner can	2.25
+concept c	2.0
+can make	1.0
+quantum exact	1.5
+classical learner	1.0
+plausible complexitytheoretic assumption	1.3333333333333333
+passive learn	1.5
+probably approximately correct pac learn	2.1
+approximately correct pac learn	1.888888888888889
+learner receive	2.5
+unknown distribution d	2.222222222222222
+distribution d	2.5
+unknown distribution	1.2
+significantly reduce	1.0
+uniform distribution	1.0
+classical example	1.0
+typically take	1.0
+hypothesis h	1.0
+application phase	2.8333333333333335
+training phase	1.0
+many time	1.0
+increasingly complex	2.5
+meaningful information	1.0
+study extensively	1.0
+machine learning technique	1.3333333333333335
+unitary transformation	1.0
+fully quantum approach	1.3333333333333333
+classical description	1.0
+however one can	1.6666666666666665
+similar way	1.0
+go beyond	2.0
+general framework	1.75
+conduct use	1.0
+adiabatic dwave quantum computer	1.6666666666666667
+google research	1.5
+magnetic resonance	1.3333333333333333
+wa implement	1.0
+wa use	1.0
+quantum support vector machine	1.5833333333333335
+dimensional vector	1.25
+two entry	1.0
+final state	1.0
+per second	1.0
+many learn algorithm	1.3333333333333333
+quantum memristor	1.0
+high accuracy	1.0
+start point	1.0
+may seem	1.0
+model may	2.8
+model m	1.424242424242424
+fraud model m	1.3333333333333333
+formulaformula accuracy	1.0
+perform fairly well	1.3333333333333333
+always predict	1.0
+m show	1.0
+less accurate	1.0
+accurate model	1.6666666666666667
+false positive false	2.222222222222222
+false negative	1.2
+appropriate loss function	1.7777777777777777
+constrain conditional model	1.7777777777777777
+inference framework	1.0
+conditional probabilistic	1.0
+declarative constraint	1.0
+conditional model	1.4
+support decision	1.0
+expressive output space	1.3333333333333333
+maintain modularity	1.0
+first order	1.0
+low level	1.0
+feature engineering	1.3
+exact inference	1.2666666666666668
+level feature	2.0
+model generation	1.0
+inference stage	1.0
+use ngrams	1.0
+make decision	1.0
+involves assign	1.0
+structure can	3.111111111111111
+assign value	1.0
+semantic role label	1.3333333333333333
+question answer	5.0
+decision problem	1.5
+integer linear programming ilp	1.5833333333333335
+structure formula	1.1111111111111112
+feature function	2.05
+objective function use	1.3333333333333333
+several way	1.0
+model along	3.5
+latter case	1.0
+local model	1.0
+joint train	1.5
+joint learn	2.5
+use domain knowledge	1.3333333333333333
+latent learn	1.5
+representation decision	1.0
+structured prediction	1.3333333333333333
+declarative formulation	1.0
+large variety	1.0
+information extraction	1.3333333333333333
+ilp solver	3.0833333333333335
+large scale	2.0
+solve efficiently	1.0
+key advantage	1.0
+inductive programming	1.5714285714285714
+special area	1.0
+automatic programming	1.0
+recursive program	2.555555555555556
+inputoutput example	1.0
+programming language	1.48
+functional programming	2.0
+use logic programming	1.6666666666666665
+logical representation	1.0
+constraint programming	2.0
+ip system	1.0
+output evaluation	2.5
+program trace	1.0
+background knowledge	1.0
+data type	1.8333333333333333
+evaluation function	1.0
+recursive control	2.0
+representation language	1.0
+program must	2.6666666666666665
+partial specification	1.0
+program synthesis	2.0
+general machine learn	1.6666666666666665
+distinctive feature	1.0
+programming paradigm	1.0
+many type	1.0
+functional program	1.0
+recursive functional	1.5
+new field	1.0
+inductive logic programming ilp	1.5833333333333335
+early work	1.0
+relative least general generalization	2.1666666666666665
+least general	1.0
+logic program	1.0
+learn recursive	2.666666666666667
+example together	1.0
+initial success	1.0
+relational data mining	1.5555555555555554
+relational data	2.5
+base approach	1.0
+positive example	1.0
+fitness function	1.1428571428571428
+grammar induction	1.0
+grammatical inference	1.125
+rewriting system	1.0
+production rule	1.0
+inductive inference	1.6979166666666667
+lisp program	1.0
+seminal work	1.0
+language learn	1.0
+problem ha	2.75
+successful application	1.4
+cumulative learning	1.0
+software engineer	1.0
+software agent	1.0
+end user	1.0
+tutor system	1.0
+agent can	5.0
+formal grammar	1.0
+finite state machine	1.3333333333333333
+observe object	1.0
+finite state	2.0
+grammatical inference ha	2.666666666666667
+various type	1.0
+regular language	1.5
+approach since	4.0
+problem since	3.3333333333333335
+contextfree grammar	2.533333333333333
+multiple contextfree grammar	1.9333333333333333
+pattern language	1.7166666666666668
+simple form	1.0
+wide variety	1.0
+method propose	1.0
+rule set	2.333333333333333
+negative example	1.0
+particular approach	1.0
+hypothesis testing	1.0
+version space	1.5454545454545454
+target language	1.0
+can easily	2.0
+tree structure	1.0
+grammar can	2.0
+formal language	1.0
+hierarchical structure	1.0
+genetic operator	1.0
+next generation	1.3333333333333333
+base upon	2.0
+terminal symbol	1.0
+leaf node	1.0
+parent node	1.0
+nonterminal symbol	1.0
+might correspond	1.0
+greedy algorithm	1.6666666666666667
+greedy grammar inference	2.0
+greedy grammar inference algorithm	1.5
+inference algorithm	1.0
+decision make	1.0
+contextfree grammar generating	3.8
+contextfree grammar generating algorithm	3.2142857142857144
+constant symbol	1.0
+variable symbol	1.0
+nonempty string	1.0
+call descriptive	1.0
+given input	2.5
+descriptive pattern	1.0
+drastically reduce	3.0
+language class	2.333333333333333
+polynomial time	1.0
+statistical approach	1.0
+grammar induction ha	2.222222222222222
+among many	2.0
+data compression	1.0
+minimum message length mml	2.0555555555555554
+minimum description length	2.444444444444444
+minimum message length	2.0
+message length	1.3333333333333333
+action model learning	1.3333333333333333
+action learn	1.2
+action model	2.533333333333333
+action description	1.0
+learn action model	1.6666666666666665
+make good	2.0
+inductive reason	1.0
+new knowledge	1.25
+agent observation	1.0
+standard supervise learn	1.3333333333333333
+correct inputoutput pair	1.3333333333333333
+never present	1.0
+explicitly correct	1.0
+inputoutput pair	1.0
+difficult time	1.5
+training set formula consisting	1.5
+time step formula	4.0
+action model learn	1.6666666666666665
+training set formula	1.3333333333333333
+action learn method	1.6666666666666665
+method assume	1.5
+another technique	1.0
+several different	1.6
+different solution	1.0
+perceptron algorithm	2.333333333333333
+multi level	1.0
+artificial intelligence research	1.3333333333333333
+main factor	1.0
+credit score	1.0
+action take	1.0
+example might	2.0
+european union	1.0
+general data protection regulation	1.8333333333333333
+decisionmaking right	1.0
+data protection directive	1.3333333333333333
+data subject	1.0
+data protection	2.5238095238095233
+decision reach	1.0
+binding article	1.0
+automated decision	1.5
+solely base	1.5
+significant effect	1.0
+solely automate	1.0
+automate decisionmaking	1.5
+french law	1.0
+human decision	1.0
+easily explainable	1.0
+many layer	1.0
+complex way	1.0
+active field	1.5
+category utility	1.5925925925925926
+category goodness	1.0
+attribute value	2.0
+cue validity	2.0
+collocation index	1.0
+possess knowledge	1.0
+category structure	1.0
+given category	1.5
+decision tree learn	1.3333333333333333
+tree learn	1.0
+formally equivalent	1.0
+term formula designate	3.933333333333333
+feature formula take	4.133333333333334
+category formula	3.0785714285714283
+expect number	2.333333333333333
+correctly guess	3.6666666666666665
+observer use	1.5
+probabilitymatching strategy	1.0
+category label	5.666666666666667
+feature set formula	1.3333333333333333
+feature information	1.25
+feature formula give	3.3333333333333335
+entity belongs	5.0
+category information	1.0
+binary feature	1.0
+term formula represent	1.3333333333333333
+optimally encoding	1.0
+transmitting feature information	1.3333333333333333
+describe belong	1.0
+weight average	1.0
+feature variable	2.8888888888888893
+cardinality formula	1.0
+feature combination	1.0
+cartesian product	1.0
+unique value	1.0
+formula adopt	2.5
+aggregate feature variable formula	2.1666666666666665
+feature variable formula	3.8
+category variable formula	4.433333333333334
+category variable	3.166666666666667
+adopt value formula	3.0
+two measure	1.5
+category set codice	2.533333333333333
+qualitatively different	1.0
+category utility doe	3.3333333333333335
+feature variable adopting value	3.3214285714285716
+independent existence	4.333333333333333
+one set	1.6666666666666665
+many others	1.0
+accurately predict	1.0
+object class	2.333333333333333
+useful classification	1.5
+accurately infer object	4.6
+accurately infer	4.833333333333333
+formal concept analysis	1.5111111111111108
+formal concept	1.8333333333333333
+best known	2.0
+category validity	1.5
+basic category	1.0
+particular level	1.0
+one attempt	1.0
+wa make	1.0
+ad hoc	1.0
+class structure	1.0
+human learner	1.0
+instancebased learn	1.3333333333333333
+training instance	1.0
+bad case	1.0
+rbf network	1.0
+knowledge extraction	1.6666666666666667
+wa establish	1.0
+science foundation	1.0
+wa found	1.0
+intelligent machine	1.0
+learn within	2.3333333333333335
+main goal	1.0
+computational neuroscience	1.0
+ha develop	1.0
+bing predicts	1.1428571428571428
+prediction engine	1.0
+social medium	2.5
+political election	1.0
+reality show	1.0
+search engine	1.4666666666666666
+school district	1.0
+major weather event	1.3333333333333333
+american idol	1.0
+prediction accuracy	1.25
+unite state	4.333333333333333
+united state presidential	2.0
+random matrix	1.0
+isotropic position	1.8
+vector space formula	1.3333333333333333
+formula sample	1.6
+finite nonempty string	1.3333333333333333
+countable set	1.5
+pattern p	2.2142857142857144
+pattern contain exactly	2.666666666666667
+pattern contain	1.5
+pattern p q	1.3333333333333333
+less general	1.25
+p q	2.291666666666667
+p q p	1.6666666666666665
+s s	2.583333333333333
+x x y	2.0
+bit string	1.3888888888888886
+s lp	1.0
+arbitrary length	1.0
+pattern without	2.5
+pattern language can	2.333333333333333
+b c	3.4
+sample set s	1.3333333333333333
+supervise learn one	1.6666666666666665
+contingency table	1.5
+two dimension	1.0
+cat dog	1.0
+look like	2.0
+two row	1.3333333333333333
+two column	1.3333333333333333
+true positive	1.7222222222222223
+true negative	1.880952380952381
+will yield	1.0
+mislead result	1.0
+might classify	1.0
+overall accuracy	1.0
+cat class	1.0
+f score	1.0
+let u define	1.3333333333333333
+p positive instance	1.3333333333333333
+n negative instance	1.3333333333333333
+u define	1.0
+four outcome can	2.0
+multiarmed bandit problem	1.3333333333333333
+bandit problem	1.2133333333333334
+multiarmed bandit	1.6538461538461537
+good understood	1.5
+time pass	1.0
+broad category	1.0
+expected payoff	3.0
+research project	1.0
+large organization	1.0
+early version	1.0
+herbert robbins	1.0
+constructed convergent population	2.6666666666666665
+selection strategy	1.0
+sequential design	2.0
+population selection strategy	1.3333333333333333
+constructed convergent population selection	2.083333333333333
+total value	1.0
+time consider	1.0
+practical application	1.0
+practical example	1.0
+increase knowledge	1.0
+model ha also	2.0
+originally consider	1.0
+world war ii	2.333333333333333
+problem now	2.5
+value associate	1.0
+reward distribution	1.0
+per round	1.5
+collect reward	1.5
+optimal strategy	1.0
+zeroregret strategy	1.0
+new one	1.25
+current state	1.0
+uniformly maximum convergence rate	1.777777777777778
+high mean	1.0
+convergence rate	1.1666666666666667
+go back	1.0
+optimal adaptive policy	1.3333333333333333
+adaptive policy	1.0
+much large	1.0
+transition law	1.0
+main feature	1.0
+time period	1.5
+many strategy exist	1.3333333333333333
+broad category detail	1.6666666666666665
+always pulled	1.0
+uniformly random	1.6
+probability matching strategy	1.3333333333333333
+probability matching	1.25
+contextual bandit problem	1.3333333333333333
+contextual bandit	2.25
+contextual multiarmed bandit	2.0
+learner use	1.0
+context vector	1.0
+can predict	1.0
+two broad category	1.3333333333333333
+budget constraint	1.0
+multiarmed bandit setting	1.3333333333333333
+work focus	1.0
+simple algorithm	1.2
+adversarial bandit	1.5
+first introduce	1.0
+thompson sample	1.5
+nonstationary case	1.0
+upper confidence bound	1.5555555555555554
+stochastic model	1.0
+confidence bound	2.3333333333333335
+duel bandit	1.5
+relative feedback	1.0
+directly observe	1.0
+collaborative filtering	1.75
+filtering method	1.0
+method try	2.0
+highly dynamic	1.5
+clustering technique	1.0
+content recommendation	1.0
+user base	3.3333333333333335
+take advantage	1.0
+clickthrough rate	1.0
+standard linear	2.4
+stochastic noise	1.0
+possible choice	1.0
+general setting	1.0
+manifold regularization	1.6666666666666665
+many machine learn	1.4666666666666663
+manifold learn	1.0
+useful property	1.0
+close together	1.0
+change quickly	1.0
+manifold regularization algorithm can	2.0
+regularization algorithm	1.0
+supervise learn algorithm	1.4285714285714286
+learning setting	1.0
+can extend	1.0
+technique ha	2.0
+application include	1.3333333333333333
+penalize complex	2.0
+hypothesis space	2.1728395061728394
+candidate function	2.3333333333333335
+formally give	1.0
+prefer simple function	1.3333333333333333
+many possible	2.0
+many natural	2.5
+smooth function	1.0
+appropriate choice	1.0
+input point	1.0
+laplacian matrix	1.0
+associated label	1.5
+example pair	1.0
+diagonal matrix	1.0
+data point formula increase	1.8333333333333335
+formula converges	1.0
+norm can	2.0
+representer theorem	1.1333333333333333
+certain condition	1.0
+optimal solution	3.8333333333333335
+formula must	2.5714285714285716
+kernel center	1.0
+optimal solution formula	8.133333333333333
+theorem show	1.0
+appropriate loss function formula	1.6666666666666667
+hypothesis space formula	1.3333333333333335
+regularization can	2.8333333333333335
+elastic net	2.0
+elastic net regularization	1.3333333333333333
+true label	1.5
+mean square error	1.5555555555555554
+predict value	1.0
+solution can	2.142857142857143
+kernel evaluate	1.0
+kernel matrix	1.0
+block matrix	1.0
+support vector machine svms	1.8333333333333335
+problem include	2.0
+stochastic block model	1.3333333333333333
+block model	1.0666666666666667
+community structure	1.0
+two vertex	1.6666666666666667
+probability matrix	1.2
+erdsrnyi model	1.5
+plant partition model	1.3333333333333333
+partition model	1.0
+community share	2.6666666666666665
+formula whenever formula	2.222222222222222
+diagonal entry	1.0
+partial recovery	1.0
+exact recovery	1.2857142857142858
+detection algorithm	1.0
+correctly identify	1.0
+latent partition	1.0
+community size	1.0
+parameter setting	1.0
+phase transition	1.0
+opposite side	1.0
+become possible	1.0
+appropriate scaling	1.0
+average degree	1.0
+equalsized community	1.0
+probability formula whenever formula	4.428571428571429
+average case	1.0
+algorithm include	2.7777777777777777
+categorical distribution	1.0
+word embeddings	1.0
+linguistic context	1.0
+word vector	1.0
+share common	2.5
+wordvec algorithm	1.5
+latent semantic analysis	1.3333333333333333
+semantic analysis	1.2
+latent semantic	2.4444444444444446
+distribute representation	1.25
+continuous bagofwords	1.0
+continuous skipgram	1.5
+current word	1.0
+context word	1.2666666666666668
+skipgram architecture	1.0
+author note	1.5
+good job	1.0
+infrequent word	1.0
+wordvec training	1.0
+hierarchical softmax	1.5
+negative sampling	1.3333333333333333
+wordvec model	1.0
+maximization problem	1.0
+work good	1.3333333333333335
+low dimensional vector	1.6666666666666665
+certain threshold	1.0
+word embed	1.0
+many word	1.0
+individual word	1.0
+new unseen	2.0
+biological sequence	1.0
+sequence e	1.0
+dna rna	1.5
+gene sequence	1.0
+vector representation	1.5714285714285714
+random vector	1.0
+particular interest	1.0
+institutional dataset	3.6666666666666665
+similar embeddings	1.5
+superior performance	1.0
+downstream task	1.0
+per se	1.0
+yield similar	2.0
+mikolov et al	1.3333333333333333
+syntactic pattern	2.0
+semantic relation	1.0
+syntactic relation	1.0
+give test	2.0
+different corpus size	1.3333333333333333
+can greatly	2.0
+different corpus	1.6666666666666667
+way include	2.0
+window size	1.0
+skipgram model	1.0
+computationally expensive	1.0
+training corpus	1.0
+statistical learning theory	1.487179487179487
+asymptotically minimize	1.0
+statistical learning	1.6428571428571428
+learnable class	1.0
+closely relate	1.0
+large sample	1.6
+risk formula	1.2666666666666668
+find solution	1.0
+learning task can	2.0
+finite sample	1.3333333333333333
+sequence formula	1.1428571428571428
+free lunch theorem	1.6666666666666667
+can always	2.0
+expected loss	1.0
+possible function	1.2
+often consider	1.0
+strictly great	1.0
+make assumption	1.0
+overfitting problem	1.0
+minimization algorithm	1.0
+illposed problem	1.0
+empirical process	2.8333333333333335
+glivenkocantelli class	1.0
+certain regularity	2.0
+statistic literature	1.0
+often know	1.0
+uniform convergence	1.4
+matthew correlation coefficient	1.3333333333333335
+generally regarded	1.0
+different size	1.0
+phi coefficient	1.0
+single number	1.0
+every object	1.0
+geometric mean	1.0
+regression coefficient	1.1666666666666667
+component regression coefficient	1.3333333333333333
+youdens j statistic	2.0
+information flow	1.3333333333333333
+matthews correlation coefficient	1.3333333333333333
+single score	1.0
+binary classifier	1.1428571428571428
+k different	2.0
+minimum value	1.0
+computational biology	1.3333333333333333
+category true positive	1.6666666666666665
+spikeandslab regression	1.0
+bayesian variable selection technique	1.6666666666666667
+possible predictor	1.0
+bayesian variable selection	2.0
+spikeandslab model	1.0
+wa far	2.0
+indicate whether	2.0
+particular variable	1.0
+prior information	1.0
+inclusion probability	1.0
+large variance	1.0
+design matrix	1.0
+select variable	1.0
+next step	1.0
+regression coefficient value	1.3333333333333333
+correspond prediction	1.0
+reasonable assumption	1.0
+default value	1.0
+value r	1.5
+bernoulli distribution	1.0
+possible drawback	1.0
+stochastic process	1.0
+calculate various	2.0
+input variable	1.3125
+can cause	1.0
+bayesian structural	2.5
+time series model	2.0
+time series forecasting	1.3333333333333333
+nowcasting infer	1.0
+bayesian structural time series	1.8333333333333335
+lazy learn method	1.3333333333333333
+approximate locally	1.0
+problem domain	1.0
+large space	1.6666666666666667
+large datasets	1.0
+inverse reinforcement learn	1.4999999999999998
+reward function	1.5
+cooperative inverse reinforcement learn	1.75
+wa limit	1.0
+different action	1.0
+pieter abbeel	2.0
+andrew ng	1.5
+stanford university	1.0
+airp ha	2.0
+reward function may	2.666666666666667
+task like	2.0
+two part	1.0
+must find	1.0
+document hate	1.5
+hate crime	1.0
+bias incident	1.0
+general public	1.3333333333333333
+news story	1.0
+news organization	1.0
+project wa	2.0
+documenting hate news	1.6666666666666665
+data visualization	1.0
+new york time	1.6666666666666665
+new york	2.0
+daily caller	1.5
+several probability distribution	1.3333333333333333
+quite different	1.0
+inauthentic text	1.3333333333333335
+computer program	1.0
+computer generate	2.0
+automate approach	1.0
+decision strategy	1.0
+class base	2.3333333333333335
+bayesian decision	1.5
+binary attribute	2.0
+many metric	1.0
+predictor different field	2.6666666666666665
+different preference	1.0
+specific metric due	2.6666666666666665
+different goal	1.0
+medicine sensitivity	1.0
+important distinction	1.0
+category occurs	1.0
+different property	1.0
+give two	2.6666666666666665
+total size	1.0
+gold standard	1.3333333333333333
+population size	1.3333333333333333
+true positive tp	1.7777777777777777
+false negative fn	2.333333333333333
+true negative tn	2.0
+healthy people	1.0
+test result	1.1
+false positive fp	1.3333333333333333
+horizontal axis	1.3333333333333333
+marginal total	1.0
+false negative true negative	1.6666666666666667
+false positive add	2.6666666666666665
+condition positive	1.5
+marginal ratio	1.5
+complementary pair	1.0
+pair sum	1.5
+take ratio	1.0
+ratios ratio	1.0
+column correspond	1.0
+associate statistic	5.666666666666667
+row correspond	1.25
+likelihood ratio	1.25
+prediction value	1.0
+true positive rate tpr	1.777777777777778
+condition positive cp	1.6666666666666665
+true positive rate	1.7333333333333332
+go undetected	1.0
+specificity spc	1.0
+true negative rate tnr	1.6111111111111114
+test negative	1.5
+condition negative cn	2.6666666666666665
+tn fp	1.6666666666666667
+negative condition negative	1.6666666666666665
+true negative rate	1.7333333333333332
+negative give	2.5
+characteristic roc curve	1.3333333333333333
+roc curve	1.0
+operating characteristic	1.5
+ball example	1.0
+surrogate marker	1.0
+pregnancy test	1.0
+modern pregnancy test	1.3333333333333333
+positive predictive value ppv	1.75
+negative predictive value npv	2.0833333333333335
+negative predictive value	1.5999999999999999
+negative prediction value	1.6666666666666665
+significant impact	1.0
+patient test result	1.3333333333333333
+prevalence sensitivity	5.0
+fraction correct fc	1.6666666666666665
+correctly categorize	1.0
+tn fp fn	1.3333333333333333
+fraction incorrect fic	1.3333333333333333
+diagnostic odds ratio dor	1.5
+define directly	1.5
+tptnfpfn tpfnfptn	2.0
+odds ratio	1.0
+useful interpretation	1.0
+fscore f score	2.6666666666666665
+cohens kappa	2.5
+parity learn	1.3333333333333333
+sample xx	1.5
+may contain	1.0
+concept formation	1.0
+object event	3.6666666666666665
+concept learning	1.0
+contain conceptrelevant feature	2.1333333333333333
+machine learner	1.25
+memory recall	1.0
+complex concept	1.0
+must occur	1.0
+may lead	1.0
+new concept	1.380952380952381
+efficient way	1.0
+variability within	2.0
+two exemplar	1.0
+hammer et al	1.3333333333333333
+tool use	1.75
+psychological theory	1.0
+ha see	1.0
+cognitive psychology	1.0
+neural network model	1.3333333333333333
+hierarchical model	1.25
+factor analysis	1.0
+rulebased theory	1.0
+early computer	2.5
+high level	1.0
+rulebased model	1.0
+rational analysis	1.0
+property alone	1.0
+prototype view	1.0
+concept learn hold	1.3333333333333333
+categorize base	3.0
+central example	1.0
+semantic similarity	1.0
+mental representation	1.6666666666666667
+illustration demonstrates	1.0
+prototype theory	1.0
+theory hypothesize	1.0
+exemplar theory	1.0
+new object	1.0
+individual property	1.0
+exemplar base	6.5
+important result	1.0
+exemplar model	1.0
+group membership	1.25
+two extreme	1.5
+category spoon	1.0
+human cognition	1.0
+sufficient condition	1.3333333333333333
+relatively new	1.0
+bayes theorem	1.6770833333333335
+powerful tool	1.0
+bayes law	1.0
+bayesian theory	1.6666666666666667
+actr model	1.0
+john r	2.5
+human behavior	1.0
+come close	1.0
+primary presentation form	1.3333333333333333
+secondary presentation form	1.5555555555555554
+another significant	2.0
+developmental robotics	1.238095238095238
+developmental mechanism	1.5
+openended learning	2.0
+new skill	1.0
+increase complexity	1.5
+social interaction	1.0
+animal development	2.0
+developmental psychology	2.5
+neuroscience developmental	1.0
+evolutionary biology	1.5
+control system	1.0
+change environment	1.5
+social environment	2.0
+alan turing	1.3333333333333333
+general approach	1.0
+th century	1.0
+artificial intelligence machine learning	2.0
+social skill	1.6666666666666667
+target task	1.0
+functional modeling	1.0
+follow three	2.0
+research community	1.0
+interaction among	2.0
+developmental robotics project	1.3333333333333333
+sensorimotor skill	1.0
+body include	2.0
+developmental robot	1.0
+linguistic skill	3.4166666666666665
+symbol ground	1.0
+can actually	2.0
+strongly interact	1.0
+human development	1.5
+constraint describe	2.0
+research field	1.0
+allow robot	1.0
+general purpose	2.0
+mechanism operate	2.3333333333333335
+time scale	3.8333333333333335
+evolutionary mechanism	1.5
+wa hold	1.0
+state university	1.0
+first international	2.0
+instance whose	3.5
+category membership	1.0
+whose category	1.5
+patient base	2.5
+may variously	2.0
+categorical e	1.0
+blood type ordinal e	1.6666666666666667
+mathematical function	1.0
+classification algorithm	1.0
+possible category	1.5
+probabilistic classification	1.0
+best class	1.6666666666666667
+multivariate normal distribution	1.3333333333333333
+normal distribution	1.0
+mahalanobis distance	1.0
+bayesian classification	2.0
+natural way	1.0
+available information	1.0
+relative size	1.0
+different group	1.0
+overall population	1.0
+bayesian procedure	1.0
+procedure involve	1.0
+two separate	2.0
+classification method	1.0
+classification often require	1.3333333333333333
+individual measurable property	1.3333333333333333
+feature may	1.75
+feature value might correspond	1.6666666666666667
+feature value might	3.1
+different word	1.0
+category k	1.8888888888888886
+high score	1.3333333333333333
+score function	1.3333333333333333
+linear predictor function	1.3333333333333333
+weight correspond	1.0
+linear predictor	1.6666666666666667
+predictor function	2.1666666666666665
+work best	1.0
+empirical test	1.0
+classifier performance	4.333333333333333
+given problem	1.0
+receiver operate characteristic	2.0
+receiver operate characteristic roc	1.9166666666666665
+uncertainty coefficient	1.5
+evolutionary programming	1.1666666666666667
+four major	3.0
+lawrence j	1.5
+generate artificial intelligence	1.3333333333333333
+evolutionary computing	1.0
+variation operator	1.5
+matrix regularization	1.6666666666666667
+predictive function	1.0
+stable solution	1.0
+write aswhere	2.0
+norm enforce	1.0
+regularization penalty	1.0
+matrix norm	1.0
+vector norm	1.0
+matrix completion	1.3333333333333333
+multivariate regression	1.0
+selection can also	3.0
+nonparametric case	1.0
+multiple kernel learn	2.0
+output formula can	2.333333333333333
+frobenius inner product	1.3333333333333333
+different application	1.0
+matrix formula will	3.3333333333333335
+aswhere formula	2.0
+enforce sparsity	1.6666666666666667
+using formulanorms	1.5
+canonical basis	1.0
+regularization function	1.0
+nuclear norm	1.0
+regularization penalty can	2.0
+penalty can	2.0
+coefficient matrix	1.0
+multivariate case	1.0
+frobenius norm	3.2222222222222228
+multitask learning	1.0
+across task	1.0
+scheme can	2.0
+frequently use	2.0
+reduce rank coefficient matrix	1.6666666666666667
+reduce rank	3.0
+coefficient matrix can	3.3333333333333335
+top formula	1.5
+reduced set	1.5
+ha become	1.0
+optimization ha	3.25
+lasso method	1.0
+convex relaxation	1.75
+enforce structure	1.0
+structured sparsity	1.9090909090909092
+formula norm	1.7287878787878788
+group feature	1.0
+group sparsity	1.0
+group lasso	1.2941176470588236
+match pursuit	1.75
+proximal gradient method	1.3333333333333333
+proximal gradient	1.8
+gradient method	1.0
+coefficient formula	1.5
+indicator function	1.0
+group norm	1.0
+output variable	2.5
+will depend	1.0
+feature selection can	2.6666666666666665
+appropriate kernel	3.6666666666666665
+correspond reproducing	2.0
+space formula can	2.333333333333333
+linear independence	2.5
+nonlinear variable selection	1.6666666666666665
+computational intelligence	1.0
+ciml community portal	1.3333333333333333
+virtual scientific community	1.6666666666666665
+scientific community	1.0
+can share	1.0
+different country	1.0
+ultimate goal	1.0
+broad range	1.0
+expert student	1.0
+outside researcher	1.5
+software tool	1.0
+add new	2.0
+related field	1.3333333333333333
+data preprocessing	1.0
+machine learn project	1.7777777777777777
+value etc	1.3333333333333333
+analyze data	1.0
+filtering step	1.0
+instance selection	1.2222222222222223
+hyperparameter optimization	1.625
+require different	2.0
+hyperparameter optimization find	1.3333333333333333
+predefined loss function	1.3333333333333333
+objective function take	1.3333333333333333
+associated loss	1.0
+grid search	1.375
+grid search algorithm	1.3333333333333333
+heldout validation set	1.3333333333333333
+parameter space	1.3333333333333333
+may include	1.0
+svm classifier	1.0
+embarrassingly parallel	1.0
+random search	1.0
+can outperform	1.0
+intrinsic dimensionality	1.0
+bayesian optimization	1.0
+noisy blackbox function	1.3333333333333333
+blackbox function	1.0
+good result	1.0
+use gradient descent	1.6666666666666665
+technique wa	2.3333333333333335
+wa focus	1.0
+optimization algorithm	1.0
+evolutionary optimization	1.0
+automate machine learn	1.3333333333333333
+behavior analytics	2.0
+insider threat	1.0
+meaningful anomaly	1.0
+security event	1.0
+big data	1.4
+apache hadoop	1.0
+detect insider threat	1.3333333333333333
+make sense	1.0
+security analytics	1.5
+uba technology	1.0
+market guide	1.0
+security monitoring	1.5
+computer security	1.0
+three year	1.0
+next three	1.5
+bayesian perspective	1.0
+bayesian probability	1.2
+key component	1.0
+covariance function	1.0
+supervise learn problem	1.3333333333333333
+bayesian point	1.0
+main idea	1.0
+new input	1.4545454545454546
+inputoutput pair formula	1.3333333333333333
+pair formula	1.625
+function formula call	1.7777777777777777
+three main	2.0
+main property	1.0
+reproduce property	1.0
+unified framework	1.0
+generalize linear model	1.6666666666666665
+squared norm	1.0
+rkhs can	2.5
+write asand	3.5
+first term	1.0
+predict formula	1.8
+second term	1.9166666666666665
+two step	1.0
+theorem state	1.0
+thatwe can	2.0
+process call	1.0
+bayesian framework	1.0
+prior belief	1.0
+test case	1.0
+mean vector	1.0
+thenwhere formula	3.0
+multivariate gaussian distribution	1.3333333333333333
+gaussian noise	1.0
+noise formula	1.5833333333333335
+test input	1.6666666666666667
+regularization theory	1.0
+finite dimensional	2.0
+zero mean	1.5
+bayesian setting	1.0
+photo contain	1.0
+news article	1.0
+open human	3.3333333333333335
+active learning	1.3333333333333333
+new data point	1.4999999999999998
+learning algorithm can	2.4444444444444446
+one might	2.0
+separating hyperplane	1.0
+marginal hyperplane	2.0
+similar method	1.0
+granular compute	1.3333333333333333
+information granule	1.0
+generally speaking	1.0
+physical adjacency	1.0
+theoretical perspective	1.0
+various level	1.0
+granular computing	1.2222222222222223
+different resolution	1.0
+several type	1.0
+extract meaningful	2.0
+outside temperature	2.6666666666666665
+given application	1.0
+variable formula may	2.0
+high quaternary resolution	1.3333333333333333
+low binary resolution	1.3333333333333333
+high quaternary	1.6666666666666667
+high resolution	1.0
+since every formula	2.0
+formula since every formula	3.083333333333333
+binary variable resolution	1.3333333333333333
+occurs iff formula	1.8666666666666667
+formula occurs iff formula	2.2857142857142856
+variable resolution	2.333333333333333
+formula occurs	1.3888888888888886
+variable independently	1.5
+variable granulation	1.5
+briefly describe	1.0
+important statistical	2.5
+almost always	1.0
+dimensionality reduction method	1.3333333333333333
+wa note	1.0
+key idea	1.0
+model describing	1.0
+ask whether	2.0
+variable clustering	3.5
+powerful method	1.0
+natural division	1.0
+agglomerate variable	1.0
+two agglomerate	1.5
+single column	1.0
+redundant variable	5.666666666666667
+way since	3.0
+often call	1.0
+information system	1.6666666666666667
+different semantics	1.0
+original tuples	1.0
+original value	1.1666666666666667
+data table	1.0
+usually base	2.0
+wa partition	1.0
+rough row	1.0
+rough set	1.4
+different set	1.8888888888888886
+concept granulation	1.0
+simple concept	3.6666666666666665
+system onto	2.5
+full set	1.0
+equivalence class	1.8285714285714287
+primitive simple	2.0
+equivalence class formula	3.033333333333333
+one another base	4.0
+available attribute	3.6666666666666665
+object within	4.5
+attribute formula alone	1.6666666666666665
+may emerge	1.0
+concept structure	1.0
+attribute set formula	1.6333333333333335
+attribute set	2.4285714285714284
+concept structure formula	1.3333333333333333
+will influence	1.0
+attribute set formulaon	1.6666666666666665
+correctly classify	1.0
+definitively categorize accord	2.0
+concept structure formula base	1.9166666666666665
+large class	1.0
+deterministic dependency	1.0
+good fit	1.0
+concept resolution	1.0
+granular computing can	2.0
+problem solving	1.0
+sense granular computing	1.6666666666666665
+human ability	1.0
+among different	2.0
+fuzzy indifference relation	1.6666666666666665
+general scheme	1.0
+proaftn proceeds	1.0
+expert intervention	1.0
+indirect technique	1.0
+several heuristic	1.0
+algorithmic bias	1.0
+data collection	1.5
+algorithmic bias ha	2.222222222222222
+search engine result	1.3333333333333333
+search result	1.5925925925925926
+bias can create	1.3333333333333333
+can create	1.0
+algorithm expand	1.0
+unanticipated context	1.5
+online hate speech	2.6666666666666665
+hate speech	1.0
+may come	1.0
+trade secret	1.0
+every permutation	1.0
+search engines	1.2
+recommendation engine	1.0
+online advertising	1.0
+social scientist	1.0
+algorithmic process	1.0
+software application	1.0
+nearly identical	1.0
+can reflect	1.0
+human user	1.0
+may arise	1.0
+unanticipated outcome	1.0
+large data set	1.3333333333333333
+unintended consequence	1.0
+computer simulation	1.0
+create new	2.0
+bias may also	2.0
+extract value	1.0
+new form	1.0
+may reflect	1.0
+personal bias	1.0
+british nationality act	2.5
+act program	1.0
+technical bias	1.3333333333333333
+three result	4.333333333333333
+introduce bias	1.0
+sort result	2.3333333333333335
+american airline	1.0
+facial recognition software	1.3333333333333333
+surveillance camera	1.0
+emergent bias	1.0
+medical school	1.0
+correlation can emerge	1.3333333333333333
+correlation can	2.0
+data collect	1.0
+sexual orientation	1.0
+program give	3.0
+high risk	1.6666666666666667
+user can	2.0
+across different	2.0
+case law	1.0
+bank branch	1.0
+feed back	1.0
+police presence	1.0
+increase police	2.0
+racial discrimination	4.333333333333333
+early example	1.0
+ethnic minority	1.0
+deny entry	1.0
+per year	1.0
+information found	1.5
+algorithm design	1.25
+white men	1.0
+black child	1.0
+post denouncing	3.3333333333333335
+allow ad	2.0
+company say	1.0
+also allow	1.0
+facebook user	1.0
+among user	2.0
+search query	1.0
+user mean	2.3333333333333335
+user interaction	1.0
+gather data	2.5
+term related	1.0
+woman athlete	3.5
+risk assessment	1.0
+biometric data	1.3333333333333333
+android app	2.0
+recommendation algorithm	1.0
+certain degree	1.0
+protect category	1.0
+historical data	1.0
+can confuse	1.0
+different user	1.0
+per day	1.0
+applicant irrespective	4.5
+equal ratio	3.0
+data profile	1.5
+just learn	1.0
+apply machine learn	1.8333333333333335
+machine learn application	1.7777777777777777
+practitioner must	3.0
+produce simple	2.0
+often outperform	1.5
+machine learning can	2.0
+various stage	4.333333333333333
+similarity learning	1.0
+supervise machine learn	1.5555555555555554
+similarity function	1.0
+recommendation system	1.0
+face verification	1.0
+bilinear form	1.0
+similarity learn	2.0
+one aim	1.0
+metric learn	1.3333333333333333
+symmetric positive semidefinite	2.222222222222222
+symmetric positive	3.0
+matrix formula can	2.0
+formula corresponds	1.0
+vectors formula	1.0
+sometimes used	1.0
+similar object	1.0
+metric learning ha	2.333333333333333
+can easily see	1.3333333333333333
+generally doe	2.0
+latent dirichlet allocation	2.0
+semantic folding theory	1.3333333333333333
+natural language text	1.3333333333333333
+binary representation	1.0
+semantic folding	1.6
+sparse binary vector	1.3333333333333333
+semantic space	2.074074074074074
+theory build	1.5
+twodimensional grid	1.0
+vector space model	1.4666666666666666
+space model	1.5333333333333332
+semantic map	1.0
+word y	4.333333333333333
+sparse distributed	2.0
+distributed representation	1.5
+original motivation	1.0
+keyword level	1.0
+effort require	1.0
+date back	1.5
+general idea	1.0
+biologically inspire	1.0
+possible pattern	1.0
+feature can	2.3333333333333335
+meaning context	1.0
+partial similarity	1.1428571428571428
+strong resemblance	1.0
+small change	1.0
+stable learn algorithm	1.3333333333333333
+change much	1.0
+handwritten letter	1.6666666666666667
+learning process rather	1.3333333333333333
+certain type	1.0
+good generalization	1.5
+machine learning system	1.3333333333333333
+perform accurately	1.0
+new example	1.0
+learning algorithm will	2.0
+obtain generalization bound	1.3333333333333333
+generalization bound	1.0
+empirical risk minimization erm	1.9166666666666665
+erm algorithm	1.0
+train error	1.3333333333333333
+vc theory	1.0
+unbounded vcdimension	1.0
+stability analysis	1.0
+alternative method	1.0
+slightly modify	1.0
+leave one	3.6666666666666665
+algorithm stability	1.0
+multiple way	1.0
+deterministic algorithm	1.0
+training set s	1.6666666666666665
+size m	1.0
+will build	1.0
+m modify	2.0
+hypothesis stability	3.6666666666666665
+loss function v	3.7878787878787876
+follow holdsformulaan algorithm formula	4.893939393939394
+uniform stability	2.2222222222222223
+cvloo stability	4.333333333333333
+important class	1.5
+predictive learning	1.3333333333333333
+genetic algorithm ga	1.3333333333333333
+natural selection	1.0
+mutation crossover	1.5
+candidate solution	1.0
+good solution	1.0
+randomly generate	1.0
+new generation	1.0
+maximum number	1.0
+genetic representation	1.3333333333333333
+selection operator	1.5
+method rate	1.0
+generation population	1.0
+new solution	1.0
+new population	1.0
+best organism	1.0
+first generation	3.6666666666666665
+less fit solution	1.3333333333333333
+genetic diversity	2.3333333333333335
+mutation rate	1.0
+high may lead	2.0
+premature convergence	1.0
+elitist selection	1.0
+population diversity	1.5
+help prevent premature convergence	1.6666666666666667
+termination condition	1.0
+building block hypothesis	1.3333333333333333
+buildingblock hypothesis	1.0
+floating point representation	1.3333333333333333
+evolution strategy	1.0
+experimental result	3.0
+often employ	1.0
+parallel genetic algorithm assume	1.5
+algorithm assume	1.0
+adaptive parameter	1.0
+adaptive genetic algorithm	1.3333333333333333
+convergence speed	2.0
+pm depends	1.5
+optimization state	2.3333333333333335
+absolute optimum	1.0
+hill climbing	2.6666666666666665
+can improve	1.0
+different meaning	1.0
+consecutive order	1.0
+high degree	1.0
+algorithm aim	1.0
+approach include	1.25
+genetic algorithm include	3.0
+software package	1.0
+often apply	1.0
+general rule	1.0
+local optimum	1.0
+modern genetic algorithm	1.3333333333333333
+early paper	1.0
+originally use	1.0
+international conference	1.8333333333333333
+desktop computer	1.0
+evolutionary computation	1.5
+metaheuristic method	1.0
+fall within	2.0
+proactive learning	1.5
+unlabeled instance	1.0
+multiple source	1.0
+always provide	1.0
+gather new	2.0
+data analyst	1.0
+new development	1.0
+structural probability	1.5
+produce reliable	2.0
+distribution law	1.0
+fiducial distribution	2.0
+physical feature	1.0
+gaussian variable	1.25
+neymans confidence interval	1.6666666666666665
+practical purpose	1.0
+observed value	1.0
+let x	1.6
+sample drawn	1.0
+modeling perspective	1.0
+dont know	1.3333333333333333
+limited number	1.0
+central limit theorem	1.3333333333333333
+sufficiently large	1.25
+inference problem	1.25
+complex structure	1.0
+inference procedure	1.0
+standard normal distribution	1.3333333333333333
+standard normal	2.25
+confidence region	1.0
+label accord	2.0
+breast cancer	1.0
+local casecontrol sampling	1.3333333333333333
+local casecontrol	1.75
+original dataset	1.0
+pilot estimation	1.0
+single pas	1.0
+case control	2.0
+case control sampling	1.3333333333333333
+control sampling	1.3333333333333333
+n data point	1.6666666666666665
+pilot model	1.0
+acceptance probability	1.0
+estimate use	1.0
+subsample select	1.0
+casecontrol sample	3.5
+formula use formula sample	1.9166666666666665
+large sample size	1.3333333333333333
+follow property	1.0
+raw data	1.2857142857142858
+manual feature engineering	1.3333333333333333
+specific task	1.0
+feature learning	1.0
+machine learning task	1.3333333333333333
+realworld data	1.5
+image video	1.0
+define specific	2.0
+explicit algorithm	1.0
+error term	1.0
+representative element	3.6666666666666665
+dictionary element	1.0
+representation error	1.0
+l regularization	2.333333333333333
+dictionary learn	1.0
+structure underlie	1.0
+supervise dictionary	2.5
+dictionary learning	1.0
+enable sparse representation	1.3333333333333333
+sparse representation	1.0
+multiple layer	1.0
+neural network can	2.4444444444444446
+network can	2.4
+unsupervised feature learning	1.3333333333333333
+unsupervised feature	1.5
+several approach	1.0
+kmeans clustering	1.25
+k cluster	1.0
+unlabeled set	1.0
+produce feature	1.5
+clustering can	3.0
+radial basis function	1.4999999999999998
+basis function	1.4916666666666667
+behave similarly	1.0
+sparse cod	2.0
+unsupervised feature learn	2.0
+input data vector	4.433333333333334
+right singular vector	1.3333333333333333
+p large	2.0
+data matrix	2.3333333333333335
+singular vector	1.1904761904761905
+large singular	1.5
+p singular vector	1.3333333333333333
+large variation	1.0
+ith iteration	1.0
+can effectively	2.0
+lowerdimensional point	1.0
+two major	2.25
+second step	1.0
+intrinsic geometric property	1.3333333333333333
+underlying data	1.5
+independent component analysis ica	1.5
+sparse coding	1.0
+overcomplete dictionary	1.0
+biological neural	2.0
+deep learning architecture	1.3333333333333333
+stack multiple layer	1.3333333333333333
+multiple level	1.0
+original input	1.6666666666666667
+rbm can	2.0
+hidden variable	2.0
+visible variable	1.0
+function base	3.1666666666666665
+hidden node	1.6666666666666667
+supervised learn problem	1.3333333333333333
+training set consists	1.3333333333333333
+agnostic learn	1.0
+call empirical risk	1.6666666666666665
+training setthe	2.0
+problem even	3.0
+linearly separable	1.2666666666666668
+loss function like	2.333333333333333
+vanish gradient problem	1.3333333333333333
+gradient problem	1.0
+neural network weight	2.0
+activation function	1.0
+front layer	5.0
+network meaning	1.0
+allow researcher	1.0
+feedforward network	1.0
+recurrent network	1.0
+new layer	1.0
+next level	1.0
+deep belief network	1.3333333333333333
+hinton et al	2.333333333333333
+belief network	1.0
+deep belief	1.6666666666666667
+involves learn	1.0
+latent variable	2.345238095238095
+log likelihood	1.0
+deep architecture	1.0
+feature extractor	1.0
+key role	1.0
+deep learn technique	1.3333333333333333
+neural network research	1.3333333333333333
+long shortterm memory lstm	2.0555555555555554
+lstm network	1.0
+standard backpropagation	1.7142857142857142
+deep network	1.0
+microsoft research	1.0
+test error	1.5
+multiple instance learn	1.9047619047619049
+multiple instance	1.2222222222222223
+multipleinstance learn	1.4
+label bag	3.1666666666666665
+positively label	1.0
+least one instance	1.3333333333333333
+negatively label	1.0
+wa give	1.0
+key chain	1.0
+certain key	2.1666666666666665
+multiinstance learn	1.0
+dietterich et al	1.3333333333333333
+dietterich et	1.6
+drug activity prediction	1.3333333333333333
+alternative lowenergy	2.0
+lowenergy shape	1.6666666666666665
+labeled bag	1.0
+bag without	3.0
+axisparallel rectangle	2.0
+apr algorithm	1.0
+rectangle apr	1.0
+musk dataset	1.0
+diverse density	1.4
+label positive	1.125
+target scene	1.0
+bag formula	2.4
+will focus	1.0
+standard mi assumption	1.4999999999999998
+mi assumption	1.1666666666666667
+standard assumption	1.4791666666666665
+instancelevel concept	1.8958333333333335
+now view	1.0
+negative label	1.5
+different assumption	1.0
+countbased assumption	1.0
+general assumption	1.0
+presencebased assumption	1.3333333333333333
+require instancelevel concept	1.5
+instancelevel concept formula	1.5555555555555554
+concept formula	1.4333333333333333
+threshold formula	1.3333333333333335
+label according	2.6666666666666665
+another generalization	1.0
+standard model	1.0
+gmil assumption	1.0
+required instance formula	1.3333333333333333
+contain instance	1.0
+sufficiently close	2.0
+attraction point	1.0
+repulsion point	1.0
+collective assumption	2.041666666666667
+also typically	2.0
+every instance	1.5
+weight function	1.8888888888888886
+representative instance	1.0
+future bag	1.0
+metadatabased algorithm	1.0
+mi algorithm	3.6666666666666665
+iterateddiscrimination algorithm	1.0
+first phase	1.0
+positive bag	2.0
+negative bag	1.0
+apr cover	1.5
+candidate representative instance	1.3333333333333333
+candidate representative	1.75
+second phase	1.0
+tight apr	5.0
+work well	1.0
+technique work	1.0
+every positive bag	1.3333333333333333
+instance close	3.6666666666666665
+singleinstance algorithm	1.0
+new feature	1.25
+previously mention	1.0
+master algorithm	1.0
+committee machine	1.0
+overall output	1.0
+arbitrarily high	2.0
+individual expert	1.0
+individual response	1.0
+nonlinearly combine	1.0
+gating network	1.0
+novel skill	1.0
+real time	1.0
+collect data	1.0
+learn algorithm include	2.8333333333333335
+autonomous selfexploration	1.0
+human teacher	1.0
+algorithm employ	1.5
+use deep learn	1.3333333333333333
+world wide web	1.3333333333333333
+database repository	2.0
+robot can share information	1.5
+heavy computation task	1.3333333333333333
+heavy computation	1.0
+share information	1.0
+project brings together researcher	1.6666666666666667
+five major university	1.3333333333333333
+x matrix	1.0
+formula indicates	1.0
+right show	3.0
+predict formula versus x	1.8333333333333335
+red dot	1.3333333333333333
+high value	1.0
+hinge function	1.3833333333333333
+nonlinear relationship	1.0
+formulaand formula	1.0
+median value	1.0
+mar model	2.0
+mar build	1.0
+ozone formula	1.0
+basis function can	2.333333333333333
+constant call	2.0
+mirrored pair	1.0
+piecewise linear	2.0
+backward pas	1.2
+recursive partitioning	2.388888888888889
+new basis function	3.6333333333333333
+new hinge function	1.3333333333333333
+parent term	1.0
+add term	1.0
+brute force	1.0
+key aspect	1.0
+forward pas	1.0
+one side	1.0
+ozone example	1.0
+generalize cross validation	1.6666666666666665
+best subset	1.6666666666666667
+formula penalize	1.0
+modeling technique	1.0
+call regression	1.3333333333333333
+trading period	1.0
+explanatory variable use	1.3333333333333333
+statistical technique	1.0
+feature may include	1.3333333333333333
+recognize phoneme	1.0
+feature might	2.0
+feature construction	1.0
+constructive operator	1.0
+condition c	1.0
+improve generalization	1.0
+technology company	1.0
+computer vision technology	1.3333333333333333
+trax close	1.0
+trax announce	1.0
+u million	1.0
+first two	2.2
+regional office	1.0
+shelf space	1.0
+machinelearned ranking	2.0
+rank model	1.3333333333333333
+train data consists	1.3333333333333333
+ordinal score	2.0
+binary judgment	1.0
+ranking model	1.0
+model purpose	1.0
+document retrieval	2.0
+machinelearned search engine	1.3333333333333333
+user query	1.5
+short time	1.0
+relevant document	1.3333333333333335
+use simple	2.0
+machinelearned model	3.0
+mlr algorithm	1.5
+querydocument pair	1.0
+usually represent	1.0
+three group	1.5
+learningtorank problem	1.0
+academic research	1.5
+evaluation metric	1.0
+rank problem	1.0
+listwise approach	1.0
+pointwise approach	2.0
+approach often	2.0
+single querydocument pair	1.6666666666666665
+supervise machine learn algorithm	2.0
+give pair	1.0
+evaluation measure	2.333333333333333
+continuous function	1.0
+partial list	1.0
+specifically design	1.0
+polynomial regression	1.0
+ranking function	1.0
+technology wa	2.0
+yahoo ha	2.0
+data exploration	1.0
+traditional data	2.0
+management system	2.0
+data exploration can also	2.1666666666666665
+can also refer	1.3333333333333333
+data scientist	1.0
+within enterprise	1.0
+via machine learn	2.666666666666667
+find pattern	1.0
+bradleyterry model	1.0
+certain category	1.0
+bradleyterry model can	2.0
+result list	1.5
+score function formula	1.3333333333333333
+new parameter	1.5
+estimation procedure	1.0
+feature explosion	1.0
+deep feature synthesis	1.6666666666666665
+data science	1.4285714285714286
+wa follow	1.0
+inductive bias	1.0
+predict output	2.083333333333333
+target output	1.0
+additional assumption	1.0
+unseen situation	1.0
+consistent hypothesis	1.4166666666666667
+formal definition	1.0
+feature scaling	1.0
+data preprocessing step	1.3333333333333333
+objective function will	2.0
+much faster	1.0
+simple method	1.0
+original value formula	1.6666666666666665
+normalized value	1.0
+student weight	1.9166666666666667
+audio signal	1.0
+complete vector	1.0
+data mine task	1.3333333333333333
+instance selection can	2.6666666666666665
+noisy instance	1.0
+internal instance	1.0
+instance selection algorithm	1.3333333333333333
+select instance	1.0
+selection criterion	1.0
+mountain car	1.25
+mountain car problem	1.3333333333333333
+many version	1.0
+similar technique	1.5
+discrete state	1.6666666666666667
+discrete action	1.5
+continuous state space	1.3333333333333333
+continuous state	2.0
+two category	1.0
+state will	2.5
+vary include	1.5
+version space learn	1.3333333333333333
+version space learn algorithm	1.9166666666666665
+candidate elimination	2.0
+specific hypothesis	1.5
+positive training example	1.3333333333333333
+remain feature space	1.3333333333333333
+hence become inconsistent	1.3333333333333333
+hypothesis essentially constitute	1.3333333333333333
+true concept	1.3333333333333333
+define just	2.0
+data already observe thus	2.5
+novel neverbeforeseen data point	1.6666666666666667
+negative training example	1.3333333333333333
+possibly infinite	2.0
+multiple hypothesis	2.5
+statistical learn theory	1.4999999999999998
+vision speech	1.0
+future input	1.0
+person name	1.0
+whose element	1.5
+training set data	1.3333333333333333
+actual value	1.0
+best possible	1.8
+possible function formula	1.6666666666666665
+best possible function	1.6666666666666665
+square loss	1.25
+ordinary least square regression	2.0
+actual output	2.6666666666666665
+iswhere formula	1.6666666666666667
+potential function	1.0
+give empirical risk	2.333333333333333
+arbitrarily close	1.0
+random index	1.3333333333333333
+name suggest	1.0
+approximately preserve	1.0
+matrix r	1.6666666666666667
+matrix notation	1.0
+random matrix r	1.6666666666666665
+data matrix x	1.6666666666666665
+matrix x	1.6666666666666667
+nonzero entry	1.0
+per column	1.0
+first row	1.0
+random unit vector	2.0666666666666664
+space orthogonal	3.0
+gaussian distribution can	2.666666666666667
+integer arithmetic	1.0
+use integer arithmetic	1.3333333333333333
+ndimensional euclidean space	1.3333333333333333
+exponentially large	2.3333333333333335
+almost orthogonal	1.0
+small value	1.0
+orthogonal vector	1.0
+independently chosen vector	1.3333333333333333
+generate sample	1.0
+arbitrarily large	1.5
+random decision forest	1.3333333333333333
+classification regression	1.0
+mean prediction	1.5
+individual tree	1.0
+random subspace method	1.3333333333333333
+stochastic discrimination	1.5
+random subspace	1.75
+leo breiman	1.5
+feature dimension	1.0
+splitting method	1.0
+forest method	1.5
+also offer	1.0
+theoretical result	1.0
+different part	1.0
+training algorithm	1.2857142857142858
+tree learner	1.0
+unseen sample	1.3333333333333333
+individual regression tree	1.3333333333333333
+regression tree	1.0
+many tree	1.0
+single training set	1.7777777777777777
+free parameter	1.0
+several thousand	2.0
+outofbag error	1.0
+bootstrap sample	2.0
+random forest can	2.0
+breimans original	2.0
+wa describe	1.0
+variable importance	1.3333333333333333
+formulath feature	3.0
+neighborhood scheme	1.0
+new point	2.111111111111111
+random forest predictor	1.3333333333333333
+dissimilarity measure	1.0
+one can also	2.0
+random forest dissimilarity	1.95
+synthetic data	1.0
+tree construction	1.3333333333333333
+kerf estimate	3.6666666666666665
+define kerf	1.5
+simplified model	1.0
+center kerf	1.5
+uniform kerf	1.5
+prove upper bound	1.3333333333333333
+breimans original random forest	1.5
+uniformly select	1.0
+binary tree	1.0
+uniform forest	1.5
+independent random variable distribute	1.5
+random regression forest	1.3333333333333333
+finite forest	2.0
+cell contain formula	1.3333333333333333
+two level	1.0
+connection function	4.083333333333334
+forest except	6.0
+correspond kernel function	4.333333333333333
+exist sequence formula	1.3333333333333333
+almost surelythen almost	2.333333333333333
+library write	1.0
+software library	1.0
+data mine algorithm	1.3333333333333333
+application programming interface	1.7777777777777777
+predictive analytics task	1.3333333333333333
+visualization tool	1.0
+really need	1.0
+computationally prohibitive	1.0
+make sure	1.0
+unlabeled point	1.5333333333333332
+labeled point	1.0
+nearestneighbor algorithm	2.0
+labeling task	1.0
+transductive algorithm	1.0
+make available	1.3333333333333333
+computational cost	1.0
+discrete label	1.0
+continuous label	1.0
+label tend	2.0
+add partial supervision	1.3333333333333333
+manifold learn algorithm	1.6666666666666665
+transduction can	2.0
+semisupervised extension	1.0
+iterative approach	1.0
+open access	1.0
+scientific journal	1.0
+editorial board	1.5
+continue publish	1.0
+expensive journal	1.0
+payaccess archive	1.0
+retain copyright	2.0
+print edition	1.0
+mit press	1.0
+microtome publish	1.5
+proceeding publication	4.0
+meta learning	1.0
+data mining technique	1.3333333333333333
+different learning algorithm	1.3333333333333333
+performance measure	1.0
+related problem	1.2
+meta learn	2.0
+biasvariance dilemma	1.0
+modeling field	1.5
+mathematical description	1.0
+input bottomup signal	1.3333333333333333
+bottomup signal	1.3333333333333333
+nmf system	1.3333333333333333
+process level	1.0
+output signal	1.0
+concept accord	3.5
+good representation	1.0
+hierarchical level	1.0
+signal xn	1.5714285714285714
+lower level	2.0
+neuron activation	5.666666666666667
+dimension necessary	1.5
+priming signal	1.5
+parameter s	1.0
+neuron n	1.3333333333333333
+object m	1.7619047619047616
+model msn predicts	1.3333333333333333
+model msn	2.0
+visual perception	1.0
+law describe	1.0
+every signal	1.0
+knowledge instinct	1.0
+conditional partial similarity	1.3333333333333333
+similarity measure l	2.6666666666666665
+probabilistic measure	1.0
+overall similarity	1.5
+signal value	1.0
+functional form	1.0
+model parameter s	1.3333333333333333
+system form	2.0
+old one	1.0
+similarity l	1.5
+penalty function	1.0
+asymptotically unbiased	1.0
+signal n	1.3333333333333333
+combinatorial complexity	1.0
+dynamic logic	1.0
+stationary state	1.0
+frown pattern	2.0
+without noise	2.0
+uniform model	1.0
+parabolic model	1.0
+fuzzy model	1.0
+representation within	2.0
+algorithm decide	1.5
+blob model	1.0
+hierarchical nmf system	1.3333333333333333
+activate model	1.0
+activation signal	1.0
+general concept	2.0
+active model	3.6666666666666665
+inactive model	2.833333333333333
+random indexing	1.5
+new item	1.0
+veryhighdimensional vector	1.5
+low dimensionality	1.0
+hamming distance	2.0
+preference learning	1.0
+preference model	1.0
+preference information	1.0
+preference learn	1.2
+past decade	1.0
+label rank	1.75
+instance space formula	1.6666666666666665
+main problem	1.0
+classification problem can	2.0
+label rank problem	1.6666666666666665
+preference information formula	1.3333333333333333
+instance rank	1.3333333333333333
+ranking order	1.0
+real number formula	1.6666666666666665
+binary value	1.0
+utility function	1.0
+object rank	1.0
+preference relation	1.0
+user preference	1.0
+recommender system	1.0
+scoring function	1.0
+speech audio	1.0
+label sequence	1.0
+backpropagation algorithm	1.0
+roboearth offer	1.0
+roboearth knowledge	2.5
+cloud engine	1.5
+compute environment	1.0
+wa award	1.0
+x x x	2.0
+unknown density	1.5
+kernel density estimator	1.5555555555555554
+density estimator	1.3333333333333335
+mathematical property	1.0
+normal kernel	1.0
+normal density	1.0
+kernel density estimate	2.0333333333333337
+density estimate	1.4285714285714286
+point cloud	1.0
+data point fall inside	2.083333333333333
+data point x	1.6666666666666665
+underlying density	1.0
+true density	1.0
+bandwidth h	2.6666666666666665
+risk function	1.0
+mean integrate squared	2.333333333333333
+weak assumption	1.0
+generally unknown	1.0
+o notation	1.0
+mean integrate	1.0
+second derivative	1.0
+depend upon	2.0
+heavytailed distribution	1.0
+ruleofthumb bandwidth	1.0
+inversion formula	1.0
+damping function	1.0
+best action	1.0
+feature representation	1.0
+recent advance	1.0
+deep learn framework	1.3333333333333333
+apache spark	1.0
+hebbian learn	1.0
+action potential	1.0
+unsupervised learn algorithm	1.6666666666666665
+pattern recognition task	1.3333333333333333
+estimate give	1.1666666666666667
+second order moment	1.6666666666666665
+order moment	2.0
+second order	1.0
+latent variable model	1.3333333333333333
+latent variable also exist	2.3333333333333335
+topic modeling	2.0
+expectationmaximization algorithm	1.0
+will converge	1.0
+data breach	1.0
+becomes find	1.0
+establish baseline	1.5
+hierarchy represent	3.3333333333333335
+rudolf wille	2.0
+mathematical theory	1.0
+garrett birkhoff	1.5
+text mine	1.5
+semantic web	3.0
+complete lattice	1.0
+binary relation	1.0
+object g	1.5
+attribute m	1.4444444444444446
+formal context	1.3444444444444446
+concept lattice	1.0
+line diagram	1.0
+lattice theory	2.111111111111111
+previous approach	1.0
+philosophical foundation	1.0
+charles s	1.0
+formal concept analysis aim	1.6666666666666667
+become less	1.6666666666666667
+circle represent	1.0
+concept circle	1.0
+concept consists	1.0
+ascend path	1.0
+g m	2.0
+b m	1.0
+derivation operator	1.0
+m gim	2.6666666666666665
+g g	1.0
+m m	2.0
+b b	1.0
+valid implication	5.666666666666667
+arrow relation	1.0
+association rule	1.6845238095238095
+computer go program	2.0
+learning technique use	1.3333333333333333
+darkfores combine	1.0
+method commonly	2.5
+human player	2.333333333333333
+google alphago	1.5
+substantially improve	1.0
+traditional monte carlo tree search	1.7000000000000002
+neural network design	1.3333333333333333
+network design	1.0
+darkfores achieve	1.0
+stable d	1.6666666666666667
+kg go server	1.5555555555555554
+d rank	1.0
+kg go	2.0
+go ais	1.5
+zen dolbaram	1.0
+stateoftheart go	1.0
+rd place	1.0
+january kg	1.0
+board position	1.0
+next move	1.0
+best searchbased	1.0
+local tactic	1.0
+searchbased engine	1.0
+convolution neural network	1.3333333333333333
+binary plane	1.0
+d level	1.5833333333333335
+weight share	1.5
+stable d level	1.3333333333333333
+k rollouts	2.333333333333333
+satisfies formula	2.5
+formula satisfies formula	2.3333333333333335
+following example	1.0
+new data point will	3.75
+know whether	2.0
+maximummargin hyperplane	1.0
+normal vector	1.5
+rule induction	1.9166666666666667
+formal rule	1.0
+decision list	1.25
+term decision list	3.1333333333333333
+language specify	3.0
+email filter	1.5
+question can machine	5.0
+turing proposal	1.0
+desire output	1.0
+previous experience	1.0
+data acquisition	1.0
+prediction base	3.3333333333333335
+supervise method	3.5
+two field	1.0
+algorithmic model	2.8333333333333335
+biasvariance decomposition	1.1666666666666667
+performance bound computational learning	3.3333333333333335
+performance bound	2.0
+consider feasible	1.0
+certain class	1.0
+association rule learn	1.6666666666666665
+large database	1.0
+connectionist approach	1.0
+different cluster	1.0
+common technique	1.0
+direct acyclic	3.166666666666667
+direct acyclic graph	1.4999999999999998
+acyclic graph	1.2
+reinforcement learn algorithm	1.6666666666666665
+learn algorithm aim	1.3333333333333333
+often attempt	1.0
+multilinear subspace learn algorithm	1.9166666666666665
+highdimensional vector	1.5
+sparse dictionary learning	1.3333333333333333
+sparse dictionary	1.0909090909090908
+sparse dictionary learn	1.3333333333333333
+sparse dictionary learn ha	2.1666666666666665
+several context	1.0
+sparsely represent	1.0
+image denoising	1.0
+apply knowledge	1.0
+rulebased machine	1.5
+defining characteristic	1.0
+rulebased machine learn	2.0
+learn classifier system	2.333333333333333
+technique like	2.0
+false positive rate fpr	1.6666666666666667
+false negative rate fnr	1.5833333333333335
+effective method	1.0
+may exhibit	1.0
+health care	1.0
+provide professional	1.5
+ideal function formula	1.7777777777777777
+local search	1.0
+ideal function	2.25
+multiple representation	1.5
+closely match	1.0
+possible mutation	1.0
+limit number	1.0
+empirical performance	1.0
+formula accord	3.6666666666666665
+beneficial mutation	1.0
+neutral mutation	1.0
+pac learnability	1.0
+structure sparsity regularization	2.0
+sparsity regularization	2.1666666666666665
+structure sparsity	2.2857142857142856
+structure sparsity regularization method	1.722222222222222
+sparsity regularization method	1.853333333333333
+regularization method	1.2857142857142858
+structured sparsity method	1.3333333333333333
+prior assumption	1.0
+overlap group	1.8
+nonoverlapping group	1.4
+method allow	1.0
+structured sparsity method include	3.0
+regularize empirical risk minimization problem	1.8
+regularization penaltywhere formula	1.3333333333333333
+formula norm define	1.3333333333333333
+norm define	1.25
+regularize empirical risk minimization	2.865079365079365
+regularize empirical risk	3.025
+dictionary formula	1.0
+learning problem can	2.222222222222222
+formula norm formula	1.6666666666666665
+nonzero component	1.0
+sparse solution	1.5
+favor sparser solution	3.066666666666667
+regularization term formula	1.3333333333333333
+several situation	1.0
+may want	1.0
+regularization process	1.0
+nonoverlapping group case	1.3333333333333333
+coefficient vector formula	1.3333333333333333
+group formula norm formula	2.1666666666666665
+jth component	1.0
+group formula norm	1.7777777777777777
+regularizer will	2.5
+individual coefficient	1.0
+nonzero coefficient	1.0
+one group	1.3333333333333333
+can represent	1.0
+general class	1.0
+relationship among	2.0
+sparsity regularization approach	1.3333333333333333
+positive coefficient	1.0
+problemwhere formula	1.0
+group may	3.1111111111111107
+coefficient within	2.5
+group structure	1.0
+latent group lasso	1.3333333333333333
+formula otherwise	1.0
+necessarily strongly convex	1.3333333333333333
+group formula regularization term	1.75
+formula regularization term	1.3333333333333333
+strongly convex	1.4444444444444446
+formula regularization	1.625
+unique solution	1.0
+squared formula norm	1.6666666666666665
+group lasso approach	1.3333333333333333
+formula norm term	3.7333333333333334
+hierarchical norm	1.0
+submodular function	1.0
+model hierarchy	1.0
+text document	2.333333333333333
+topic model	1.0
+basis pursuit	2.5
+convex potentially nondifferentiable	2.0
+structured sparsity regularization	1.6666666666666665
+multiple kernel learning	1.3333333333333333
+optimal linear	1.0
+finite dictionary	1.0
+linearly independent	2.2777777777777777
+two dictionary	1.0
+sparse multiple kernel learning	1.5833333333333335
+uc berkeley	1.0
+caffe support	1.0
+image segmentation	1.3333333333333333
+also integrate	1.0
+relational classification	2.8333333333333335
+new class	1.8
+item consists	1.0
+bagofwords model	1.0
+john like	2.0
+watch movie	1.0
+mary like movie	1.3333333333333333
+john also like	1.3333333333333333
+watch football game	1.3333333333333333
+json object	1.5
+common type	1.0
+term frequency	1.0
+entry corresponds	1.0
+first document time	1.3333333333333333
+word like	1.5
+representation doe	2.5
+document frequency	1.0
+bagofword model	1.0
+ngram model	1.0
+bayesian spam filter	1.3333333333333333
+legitimate email	1.0
+word find	3.0
+spam message	1.0
+bag will contain	2.533333333333333
+basic element	2.3333333333333335
+signal can	3.6666666666666665
+wavelet transform	1.0
+dictionary learn method	1.3333333333333333
+input data can	4.0
+jointly convex	1.0
+sparse dictionary learn problem	1.6666666666666667
+transform matrix	1.0
+iteratively update	1.0
+moorepenrose pseudoinverse	1.0
+sufficiently small	1.3333333333333333
+input data formula	1.3333333333333333
+dual variable	1.0
+much less	1.0
+training method	1.3333333333333335
+online learn	1.0
+become available	1.0
+basis element	1.0
+various image	1.5
+process task	1.0
+input will	2.25
+medical signal	1.0
+contain many	2.5
+target class	1.0
+region instance	1.3333333333333335
+different paradigm	4.333333333333333
+ugly duckling theorem	1.6666666666666665
+ugly duckling	1.5333333333333332
+finitely many	3.6666666666666665
+many property	1.5
+n object	1.0
+one can use	1.3333333333333333
+will agree	1.0
+exactly half	1.5
+two element	1.5
+bit set	1.5
+equally similar	1.8333333333333333
+must also	2.0
+coordinate formula	1.0
+formulath coordinate	1.6666666666666667
+linear term	2.3333333333333335
+web application	1.0
+artificial intelligence ai	2.0
+cleverbot wa	2.5
+million interaction	1.0
+line chart	1.0
+control engineering	2.0
+time series data	1.5833333333333333
+future value	1.0
+current value	3.0
+single time series	1.3333333333333333
+past value	1.0
+will often	2.0
+time series analysis can	2.75
+english language	1.5
+time series analysis may	2.333333333333333
+frequency domain	1.0
+certain structure	1.0
+move average	2.3333333333333335
+without assume	1.0
+panel data	1.25
+time series data set	1.9166666666666665
+data set candidate	1.3333333333333333
+anomaly detection	1.0
+percent change	1.0
+data point possibly	2.666666666666667
+curve fitting can	3.0
+fit curve	1.0
+spline interpolation	1.0
+main difference	1.0
+entire data set	1.3333333333333333
+function approximation problem	1.3333333333333333
+g may	4.5
+broad class	1.0
+depend linearly	1.5
+previous data point	1.3333333333333333
+can indicate	1.0
+often refer	1.0
+hmm can	2.0
+timeseries analysis	1.0
+common notation	1.6666666666666667
+natural number	1.0
+overlap chart	1.0
+separate chart	1.0
+input pattern	1.1111111111111112
+procedure know	1.0
+sample without	4.0
+equation can	3.0
+thatwhere formula	1.0
+can enhance	1.0
+whose value	1.0
+conditional upon	2.5
+minibatch size	4.333333333333333
+random seed	1.5
+ball tree	1.25
+internal node	1.6666666666666667
+two disjoint set	1.3333333333333333
+two disjoint	1.5
+tree define	2.0
+give test point	1.3333333333333333
+binary split	1.0
+construction algorithm	1.0
+point encounter	1.0
+bsts model	1.0
+model consists	1.0
+complicate mathematical	2.0
+adversarial machine learning	1.6666666666666665
+adversarial setting	1.0
+biometric recognition	1.0
+problem arise	1.0
+system security	1.0
+malware code	1.0
+d print	1.5
+arm race	1.0
+reactive one	1.0
+additional feature	1.0
+threat model	1.0
+evade detection	1.0
+spam email	1.0
+embed within	2.0
+often retrain	1.0
+intrusion detection system	1.3333333333333333
+intrusion detection	1.0
+hierarchical deep learn	1.3333333333333333
+hierarchical label	1.5
+additional training	1.5
+deep learn model	1.5555555555555554
+savi technology	1.5
+sensor analytics solution	1.3333333333333333
+analytics solution	1.0
+supply chain	1.0
+multilinear subspace learning	1.3333333333333333
+data tensor whose observation	2.3333333333333335
+linear subspace	1.0
+wide range	1.0
+emerge application	1.0
+whose measurement	4.333333333333333
+traditional linear subspace	1.6666666666666665
+msl algorithm	4.333333333333333
+closedform solution	1.0
+acquisition function	1.0
+sensor network	1.0
+convex differentiable	2.5
+convex function formula	1.3333333333333333
+convex function	1.0
+proximity operator	2.2738095238095237
+moreau decomposition	1.0
+conjugate formula	1.0
+formula implies	3.5
+moreau decomposition can	2.0
+orthogonal decomposition	1.0
+formula regularization problem	1.3333333333333333
+sometimes referred	1.0
+strictly convex	1.0
+soft thresholding	2.2222222222222223
+lasso problem	1.0
+fixed point	2.541666666666667
+fixed point iteration	2.0
+point scheme	1.0
+fix point	2.0
+penalty term formula	1.5555555555555554
+disjoint block	1.0
+lasso penalty	1.0
+structure prediction	1.0
+find application	1.0
+followslet formula	2.0
+general graph	1.0
+quasinewton method	1.0
+can loosely	2.0
+crfs can	2.0
+learn infinitelylong	2.0
+novel potential function	1.3333333333333333
+sequence tag task	1.3333333333333333
+train using	1.3333333333333333
+highway network	1.0
+gating mechanism	1.0
+machine learn system	1.7777777777777777
+asymptotic theory	1.0
+empirical frequency	3.2
+theoretical probability	4.0
+single event	1.0
+uniform convergence theorem	1.4666666666666663
+sufficiently simple	1.0
+simple mean	1.0
+first prove	1.0
+positive integer	1.0
+formula iff	1.6666666666666667
+union bound	1.5
+occam learning	1.0
+learnability implies	2.75
+occam learnability	4.333333333333333
+implies pac learn	1.3333333333333333
+occam learn	1.4
+blumer et al	1.3333333333333333
+concept class formula	1.3333333333333333
+formulaoccam algorithm	1.0
+formula using formula	1.3333333333333333
+formula using	1.5
+occam algorithm	1.8888888888888886
+hypothesis class formula	1.3333333333333333
+give formula sample draw	1.5
+formula will output	1.3333333333333333
+labeled sample	1.0
+formula bit	1.0
+polynomially close	1.0
+exception list	1.0
+cardinality version	1.0
+second theorem	1.0
+first theorem	1.0
+concept drift	1.4583333333333333
+cause problem	1.0
+fraud detection	1.0
+may change	1.0
+passive solution	1.5
+shopping behavior	1.5
+desired output value	1.3333333333333333
+scenario will	2.5
+major issue	1.0
+particular input formula	1.3333333333333333
+different output value	1.3333333333333333
+true function	1.4
+variance will	2.0
+complex e	1.0
+complex interaction	1.0
+different input	1.6666666666666667
+engineer can	2.0
+noisy training example prior	2.583333333333333
+noisy training example	2.1333333333333333
+learning algorithm seek	1.6666666666666665
+conditional probability model	1.6666666666666665
+joint probability model	1.6666666666666665
+supervised learning algorithm	1.3333333333333333
+negative log likelihood formula	1.6666666666666667
+negative log	2.3333333333333335
+different definition	1.0
+discriminative training	2.0
+generative training	1.5
+deeplearningj include implementation	1.3333333333333333
+recursive neural	2.0
+deeplearningj include	1.2
+tensorflow kera	1.3333333333333333
+skymind intelligence layer	1.3333333333333333
+application programming interface api	2.3333333333333335
+deeplearningj ha	2.0
+production environment	1.0
+machinelearning model	1.0
+model server	1.0
+web server	1.0
+return data	1.0
+import model	1.0
+python framework	1.0
+network train	1.3333333333333333
+deeplearningj can	2.0
+regev show	1.0
+lwe problem	1.0
+lattice problem	1.0
+key exchange	1.0
+give access	1.0
+modulo one	1.0
+search version	1.3333333333333333
+decision version	1.0
+uniformly random sample	1.3333333333333333
+give sample	1.4
+formula calculate formula	1.3333333333333333
+calculate formula	1.0
+recover formula	1.0
+give sample formula	1.3333333333333333
+lattice formula	1.0
+discrete gaussian	2.0
+peikert prove	1.0
+matrix multiplication	1.0
+application wa	2.0
+three term	1.0
+irreducible error	1.0
+regression polynomial	1.0
+training set consisting	1.3333333333333333
+point outside	2.0
+contain noise	1.5
+ols solution	1.5
+decrease variance	1.0
+large training set	1.3333333333333333
+produce good	2.0
+sequence labeling	1.3333333333333333
+one per	2.0
+globally best	1.5
+one item	1.0
+helpful cf	1.0
+common statistical model	1.3333333333333333
+minimizer formula	1.0
+regularize empirical risk function	1.5
+schlkopf herbrich	1.0
+nonempty set	1.0
+positivedefinite realvalued kernel	1.3333333333333333
+strictly monotonically	1.5
+realvalued function formula	1.3333333333333333
+arbitrary empirical risk function formula	1.7000000000000002
+formula isin	2.5
+positive integer n	1.3333333333333333
+n n	1.0
+algorithm can learn	1.3333333333333333
+extension learnable	1.0
+affine function	2.0
+sizeformulawhere formula	1.0
+transfer learn	1.5
+inductive transfer	1.0
+special issue	1.0
+leonardo dicaprio	1.0
+elton john	1.5
+barry sternlicht pierre lagrange	1.6666666666666667
+television dining nightlife fashion	2.083333333333333
+chief executive	2.5
+qloo wa	2.0
+qloo raise	1.0
+investor include	2.0
+venture capital firm	1.6666666666666665
+venture capital	1.75
+company raise	1.0
+source distribution	1.0
+source domain	1.0
+two domain	1.0
+generate paraphrase	1.3333333333333333
+machine translation	1.3333333333333333
+parallel corpus	1.0
+multisequence alignment	1.0
+ngram overlap	1.0
+recur pattern	1.0
+within cluster	1.0
+find within	2.0
+new paraphrase	1.0
+source sentence	1.8888888888888886
+pivot language	1.0
+phrase unter kontrolle	1.3333333333333333
+sentence formula	1.0
+hidden vector	1.0
+paraphrase recognition	1.25
+initial word embeddings	1.3333333333333333
+skipthought vector	1.0
+semantic meaning	1.0
+skipthought model	1.0
+since paraphrase	2.5
+evaluate paraphrase	2.0
+good paraphrase	1.0
+dependent upon	2.0
+manual alignment	1.0
+phrase alignment	4.333333333333333
+paraphrase generation	1.5
+evaluate paraphrase generation	1.7777777777777777
+human judge	1.0
+lexical dissimilarity	1.5
+positive assignment	5.666666666666667
+negative assignment	5.0
+test outcome	2.5
+four number	2.6666666666666665
+row ratio	1.0
+column ratio	1.0
+two pair	2.3333333333333335
+diagnostic test	1.0
+main ratio	1.0
+ratio yield	4.5
+ratio two	2.6666666666666665
+continuous value	3.166666666666667
+resultant positive	1.5
+inductive probability	1.0
+establish new fact	1.3333333333333333
+information describe	1.0
+internal language	1.0
+theory consistent	1.0
+simple theory	1.0
+short encoding	1.0
+always depend	1.0
+ray solomonoff	1.3333333333333333
+algorithmic probability	1.0
+information describing	2.8333333333333335
+many term	1.0
+solomonoffs theory	1.0
+bit string x	2.0
+next bit	1.0
+program may	2.0
+short program	1.3333333333333333
+kolmogorov complexity	1.0
+universal prior	2.2857142857142856
+intelligent agent may	2.0
+input device	1.0
+transformation function	1.0
+agent may	2.4
+two agent	1.0
+prior expectation	1.0
+agent will	2.0
+environment without	4.0
+another environment	1.0
+inference make	1.5
+sun will rise	1.3333333333333333
+probability must	3.3333333333333335
+slightly different	2.0
+marcus hutters universal artificial intelligence	2.0
+deductive probability	1.5
+equally probable	1.0
+one third	1.0
+one fifth	1.0
+estimate will	2.0
+frequency distribution	1.0
+possible world	1.6
+possible world define event	1.6666666666666667
+probability law	1.0
+boolean expression	1.0
+probability estimate	1.0
+total probability	1.0
+huffman code	1.0
+natural number may	2.333333333333333
+rational number	1.0
+simple representation	1.0
+event may	3.0
+equation may	3.0
+mutually exclusive possibility	1.3333333333333333
+extend form	1.3333333333333333
+theorem may	2.3333333333333335
+theory h	2.5
+fact f	5.0
+value obtain	1.5
+relative probability	1.0
+mutually exclusive hypothesis	1.6666666666666665
+give evidence	1.0
+theory t	1.3333333333333333
+condition f	3.5
+abductive inference	1.0
+class c	4.5
+property p	3.6666666666666665
+replace membership	1.0
+inverse square law	1.3333333333333333
+condition probability	3.0
+infinite string	1.0
+bayes theorem may	2.666666666666667
+multiple explanation	1.0
+computable sequence	1.0
+computable theory	4.333333333333333
+infinite set	1.0
+solomonoffs inductive inference	1.3333333333333333
+modern computer	1.0
+computable function	1.0
+index e	1.5
+given value	1.0
+m learns	1.6666666666666667
+recursively enumerable	1.0
+superrecursive algorithm	1.0
+automaton call	1.0
+inductive turing machine burgin	1.6666666666666667
+inductive turing machine	1.7444444444444442
+inductive turing machine can	2.0
+without stop	1.0
+simple inductive turing machine	1.5208333333333335
+limit partial recursive function	1.6666666666666667
+error predicate	1.3333333333333333
+general turing machine	1.3333333333333333
+recursive function	2.888888888888889
+partial recursive function	2.3555555555555556
+nonstopping computation	1.0
+conventional turing machine	2.6833333333333336
+inductive turing machine give result	1.8
+main distinction	1.0
+evolutionary inductive turing machine	1.8333333333333333
+generation xt	1.0
+generation xi	2.5
+variation operator v	2.333333333333333
+selection operator s	1.6666666666666665
+first generation x	6.333333333333333
+population without	3.5
+compositional model	1.0
+mixture model can	2.0
+mixture weight	1.0
+parametric mixture model	1.5555555555555554
+mixture component	1.3333333333333333
+typical nonbayesian	2.5
+covariance matrix formula	2.0
+em algorithm	1.0
+point around	2.5
+categorical observation look like thisthe	3.5555555555555554
+two normal distribution	1.3333333333333333
+two normal	1.6666666666666667
+neighborhood will	3.0
+house typeneighborhood	1.0
+different component	1.0
+grow exponentially	1.5
+expectation maximization	1.0
+multiple projectile	5.666666666666667
+underlying mechanism	1.0
+simply use	1.0
+parametric distribution	1.0
+normal mixture	1.3333333333333333
+using technique	1.0
+two member	1.0
+distribution y	1.0
+distinct subpopulation	1.0
+mixture decomposition	1.0
+expectation maximization em	1.3333333333333333
+moment match	1.0
+pattern analysis routine	1.3333333333333333
+iterative algorithm	1.0
+initial guess	1.0
+expectation step	1.0
+partial membership	1.0
+constituent distribution	1.0
+expectation value	1.0
+membership value	1.0
+mixture model parameter	1.3333333333333333
+moment matching	1.0
+spectral method	1.0
+share across	2.0
+new york city	1.3333333333333333
+uncertain data	1.6666666666666667
+will change	1.0
+correlated uncertainty	1.5
+relate task	1.0
+shared representation	1.0
+classification task across	2.0
+particularly helpful	1.0
+unrelated task	1.0
+task relatedness	1.0
+task relatedness can	2.0
+task grouping	1.0
+significant improvement	1.0
+knowledge transfer	1.0
+pretrained model can	2.0
+separable kernel	1.1428571428571428
+task structure	1.0
+ciliberto et al	1.3333333333333333
+nonseparable kernel	1.0
+output metric	1.0
+output mapping	1.0
+et al suggested	1.3333333333333333
+cluster variance	1.6666666666666667
+rank data set	1.3333333333333333
+biological data	1.5
+automatic feature learn	1.6666666666666665
+available biological	2.0
+machine learning ha	2.0
+system biology	1.25
+gene within	3.0
+gene prediction	1.3333333333333333
+intrinsic search	1.5
+amino acid sequence	1.6666666666666665
+amino acid	1.25
+protein folding	1.0
+secondary structure	2.125
+quartenary structure	1.5
+protein secondary structure	1.6666666666666665
+secondary structure prediction	1.6666666666666665
+genetic network	1.0
+commonly use method	1.3333333333333333
+model genetic network	1.3333333333333333
+interaction analysis	1.6666666666666667
+catastrophic interference	1.246031746031746
+catastrophic forgetting	1.3333333333333333
+previously learn information	1.3333333333333333
+previously learn	1.0
+connectionist model	1.5
+connectionist network	1.0
+standard backpropagation network	1.3333333333333333
+backpropagation network	1.0
+human memory	2.0
+often exhibit	1.0
+backpropagation model	1.0
+backpropagation neural network	1.3333333333333333
+backpropagation neural	2.0
+single training set consisting	1.6666666666666667
+respond properly	1.5
+addition fact	1.0
+learn trial	1.0
+two addition	2.0
+one facts	3.0
+two fact	1.0
+readily learn	1.0
+addition problem	3.6666666666666665
+one learn trial	1.3333333333333333
+output pattern	3.6666666666666665
+incorrect number	3.0
+ac list	1.8333333333333335
+context pattern	2.111111111111111
+b response	1.0
+c response	1.5
+ab list	1.0
+correct response	3.6666666666666665
+network tend	1.0
+word dog	4.333333333333333
+word stool	5.666666666666667
+reduce interference	1.0
+learn rate parameter	1.3333333333333333
+weight change	1.0
+sequentially learn	1.0
+old information	2.333333333333333
+previous input	1.0
+item learn	1.0
+response node	1.0
+old item	1.5
+sequential learn	1.5
+old input	1.0
+weight space	1.0
+input unit	1.0
+store information	1.0
+representational overlap	1.0
+hidden unit activation	1.6666666666666665
+activation pattern	1.0
+cod use	1.0
+reduce catastrophic interference	1.5555555555555554
+node activation	1.0
+activation overlap	2.142857142857143
+low activation	1.3333333333333333
+activation value	1.3333333333333333
+one node	3.6666666666666665
+semidistributed representation	1.0
+activation sharpening	1.5
+active node	1.0
+node sharpening	1.5
+activation near	3.6666666666666665
+sharpening will	2.5
+will reduce	2.3333333333333335
+thereby reduce	1.0
+novelty rule	1.25
+novelty vector	1.6666666666666665
+delta rule	1.0
+pretrained network	1.0
+three task	1.0
+nave network	1.0
+french propose	1.0
+mcclelland et al	1.3333333333333333
+term memory storage	4.133333333333334
+pseudorecurrent network	1.8888888888888886
+early process area	1.3333333333333333
+early process	1.25
+finalstorage area	1.0
+internally generate representation	1.3333333333333333
+internally generate	1.0
+sequential learning	1.3333333333333333
+pseudorecurrent model	1.5
+liststrength effect	1.5
+effect mean	1.0
+list item	2.6666666666666665
+final storage area	5.833333333333333
+final storage	4.4
+twonetwork artificial neural architecture	1.5
+new external pattern	2.533333333333333
+generate pseudopatterns	1.0
+selfrefreshing mechanism	1.0
+exist response	1.0
+average responses	1.0
+practopoietic theory	1.5
+loosely applicable	1.5
+strong level	1.0
+pby column	8.5
+byp row vector	3.7333333333333334
+standard linear regression	1.3333333333333333
+optimal coefficient	1.0
+explanatory variable can	2.666666666666667
+existing explanatory variable	1.3333333333333333
+near neighbor method	4.333333333333333
+dummy variable	1.0

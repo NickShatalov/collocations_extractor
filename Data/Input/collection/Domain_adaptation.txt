@@ -1,0 +1,21 @@
+Domain Adaptation is a field associated with machine learning and transfer learning. 
+This scenario arises when we aim at learning from a source data distribution a well performing model on a different (but related) target data distribution. For instance, one of the tasks of the common spam filtering problem consists in adapting a model from one user (the source distribution) to a new one who receives significantly different emails (the target distribution).
+Note that, when more than one source distribution is available the problem is referred to as multi-source domain adaptation.
+
+Let formula_1 be the input space (or description space) and let formula_2 be the output space (or label space). The objective of a machine learning algorithm is to learn a mathematical model (a hypothesis) formula_3 able to affect a label of formula_2 to an example from formula_1. This model is learned from a learning sample formula_6. 
+
+Usually in supervised learning (without domain adaptation), we suppose that the examples formula_7 are drawn i.i.d. from a distribution formula_8 of support formula_9 (unknown and fixed). The objective is then to learn formula_10 (from formula_11) such that it commits the least error as possible for labelling new examples coming from the distribution formula_8.
+
+The main difference between supervised learning and domain adaptation is that in the latter situation we study two different (but related) distributions formula_8 and formula_14 on formula_9. The domain adaptation task then consists of the transfer of knowledge from the source domain formula_8 to the target one formula_14. The goal is then to learn formula_10 (from labeled or unlabelled samples coming from the two domains) such that it commits as little error as possible on the target domain formula_14.
+
+The major issue is the following: if a model is learned from a source domain, what is its capacity to correctly label data coming from the target domain?
+
+There are several contexts of domain adaptation. They differ in the informations considered for the target task.
+
+The objective is to reweight the source labeled sample such that it "looks like" the target sample (in term of the error measure considered)
+
+A method for adapting consists in iteratively "auto-labeling" the target examples. The principle is simple:
+Note that there exists other iterative approaches, but they usually need target labeled examples.
+
+The goal is to find or construct a common representation space for the two domains. The objective is to obtain a space in which the domains are close to each other while keeping good performances on the source labeling task.
+This can be achieved through the use of Adversarial machine learning techniques where feature representations from samples in different domains are encouraged to be indistinguishable .

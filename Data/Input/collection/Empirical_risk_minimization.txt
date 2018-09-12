@@ -1,0 +1,21 @@
+Empirical risk minimization (ERM) is a principle in statistical learning theory which defines a family of learning algorithms and is used to give theoretical bounds on their performance.
+
+Consider the following situation, which is a general setting of many supervised learning problems. We have two spaces of objects formula_1 and formula_2 and would like to learn a function formula_3 (often called "hypothesis") which outputs an object formula_4, given formula_5. To do so, we have at our disposal a "training set" of "m" examples formula_6 where formula_7 is an input and formula_8 is the corresponding response that we wish to get from formula_9.
+
+To put it more formally, we assume that there is a joint probability distribution formula_10 over formula_1 and formula_2, and that the training set consists of formula_13 instances formula_6 drawn i.i.d. from formula_10. Note that the assumption of a joint probability distribution allows us to model uncertainty in predictions (e.g. from noise in data) because formula_16 is not a deterministic function of formula_17, but rather a random variable with conditional distribution formula_18 for a fixed formula_17.
+
+We also assume that we are given a non-negative real-valued loss function formula_20 which measures how different the prediction formula_21 of a hypothesis is from the true outcome formula_22 The risk associated with hypothesis formula_23 is then defined as the expectation of the loss function:
+
+A loss function commonly used in theory is the 0-1 loss function: formula_25, where formula_26 is the indicator notation.
+
+The ultimate goal of a learning algorithm is to find a hypothesis formula_27 among a fixed class of functions formula_28 for which the risk formula_29 is minimal:
+
+In general, the risk formula_29 cannot be computed because the distribution formula_10 is unknown to the learning algorithm (this situation is referred to as agnostic learning). However, we can compute an approximation, called "empirical risk", by averaging the loss function on the training set:
+
+The empirical risk minimization principle states that the learning algorithm should choose a hypothesis formula_34 which minimizes the empirical risk:
+Thus the learning algorithm defined by the ERM principle consists in solving the above optimization problem.
+
+Empirical risk minimization for a classification problem with a 0-1 loss function is known to be an NP-hard problem even for such a relatively simple class of functions as linear classifiers. Though, it can be solved efficiently when the minimal empirical risk is zero, i.e. data is linearly separable.
+
+In practice, machine learning algorithms cope with that either by employing a convex approximation to the 0-1 loss function (like hinge loss for SVM), which is easier to optimize, or by posing assumptions on the distribution formula_10 (and thus stop being agnostic learning algorithms to which the above result applies).
+

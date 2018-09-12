@@ -1,0 +1,21 @@
+Similarity learning is an area of supervised machine learning in artificial intelligence. It is closely related to regression and classification, but the goal is to learn from examples a similarity function that measures how similar or related two objects are. It has applications in ranking, in recommendation systems, 
+visual identity tracking, face verification, and speaker verification.
+
+There are four common setups for similarity and metric distance learning.
+
+
+A common approach for learning similarity, is to model the similarity function as a bilinear form. For example, in the case of ranking similarity learning, one aims to learn a matrix W that parametrizes the similarity function formula_17.
+
+Similarity learning is closely related to "distance metric learning". Metric learning is the task of learning a distance function over objects. A metric or distance function has to obey four axioms: non-negativity, Identity of indiscernibles, symmetry and subadditivity / triangle inequality. In practice, metric learning algorithms ignore the condition of identity of indiscernibles and learn a pseudo-metric.
+
+When the objects formula_11 are vectors in formula_19, then any matrix formula_20 in the symmetric positive semi-definite cone formula_21 defines a distance pseudo-metric of the space of x through the form formula_22. When formula_20 is a symmetric positive definite matrix, formula_24 is a metric. Moreover, as any symmetric positive semi-definite matrix formula_25 can be decomposed as formula_26 where formula_27 and formula_28, the distance function formula_24 can be rewritten equivalently formula_30. The distance formula_31 corresponds to the Euclidean distance between the projected feature vectors formula_32 and formula_33. 
+Some well-known approaches for metric learning include Large margin nearest neighbor, Information theoretic metric learning (ITML).
+
+In statistics, the covariance matrix of the data is sometimes used to define a distance metric called Mahalanobis distance.
+
+Similarity learning is used in information retrieval for learning to rank, in face verification or face identification, and in recommendation systems. Also, many machine learning approaches rely on some metric. This includes unsupervised learning such as clustering, which groups together close or similar objects. It also includes supervised approaches like K-nearest neighbor algorithm which rely on labels of nearby objects to decide on the label of a new object. Metric learning has been proposed as a preprocessing step for many of these approaches 
+
+Metric and similarity learning naively scale quadratically with the dimension of the input space, as can easily see when the learned metric has a bilinear form formula_17. Scaling to higher dimensions can be achieved by enforcing a sparseness structure over the matrix model, as done with HDSL, and with COMET.
+
+
+For further information on this topic, see the surveys on metric and similarity learning by Bellet et al. and Kulis.. A general framework for metric learning has been proposed by Huang et al. 

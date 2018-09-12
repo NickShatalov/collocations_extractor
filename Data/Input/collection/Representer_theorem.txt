@@ -1,0 +1,55 @@
+In statistical learning theory, a representer theorem is any of several related results stating that a minimizer formula_1 of a regularized empirical risk function defined over a reproducing kernel Hilbert space can be represented as a finite linear combination of kernel products evaluated on the input points in the training set data.
+
+The following Representer Theorem and its proof are due to Schölkopf, Herbrich, and Smola:
+
+Theorem: Let formula_2 be a nonempty set and formula_3 a positive-definite real-valued kernel on formula_4 with corresponding reproducing kernel Hilbert space formula_5. Given a training sample formula_6, a strictly monotonically increasing real-valued function formula_7, and an arbitrary empirical risk function formula_8, then for any formula_9 satisfying
+
+formula_1 admits a representation of the form:
+
+where formula_13 for all formula_14.
+
+Proof:
+Define a mapping
+
+(so that formula_16 is itself a map formula_17). Since formula_3 is a reproducing kernel, then
+
+where formula_20 is the inner product on formula_5.
+
+Given any formula_22, one can use orthogonal projection to decompose any formula_23 into a sum of two functions, one lying in formula_24, and the other lying in the orthogonal complement:
+
+where formula_26 for all formula_27.
+
+The above orthogonal decomposition and the reproducing property together show that applying formula_28 to any training point formula_29 produces
+
+which we observe is independent of formula_31. Consequently, the value of the empirical risk formula_32 in (*) is likewise independent of formula_31. For the second term (the regularization term), since formula_31 is orthogonal to formula_35 and formula_36 is strictly monotonic, we have
+
+Therefore setting formula_38 does not affect the first term of (*), while it strictly decreasing the second term. Consequently, any minimizer formula_1 in (*) must have formula_38, i.e., it must be of the form
+
+which is the desired result.
+
+The Theorem stated above is a particular example of a family of results that are collectively referred to as "representer theorems"; here we describe several such.
+
+The first statement of a representer theorem was due to Kimeldorf and Wahba for the special case in which
+
+for formula_43. Schölkopf, Herbrich, and Smola generalized this result by relaxing the assumption of the squared-loss cost and allowing the regularizer to be any strictly monotonically increasing function formula_44 of the Hilbert space norm.
+
+It is possible to generalize further by augmenting the regularized empirical risk function through the addition of unpenalized offset terms. For example, Schölkopf, Herbrich, and Smola also consider the minimization
+
+i.e., we consider functions of the form formula_46, where formula_23 and formula_48 is an unpenalized function lying in the span of a finite set of real-valued functions formula_49. Under the assumption that the formula_50 matrix formula_51 has rank formula_52, they show that the minimizer formula_53 in formula_54
+admits a representation of the form
+
+where formula_56 and the formula_57 are all uniquely determined.
+
+The conditions under which a representer theorem exists were investigated by Argyriou, Miccheli, and Pontil, who proved the following:
+
+Theorem: Let formula_2 be a nonempty set, formula_3 a positive-definite real-valued kernel on formula_4 with corresponding reproducing kernel Hilbert space formula_5, and let formula_62 be a differentiable regularization function. Then given a training sample formula_63 and an arbitrary empirical risk function formula_64, a minimizer
+
+of the regularized empirical risk minimization problem admits a representation of the form
+
+where formula_13 for all formula_14, if and only if there exists a nondecreasing function formula_69 for which
+
+Effectively, this result provides a necessary and sufficient condition on a differentiable regularizer formula_71 under which the corresponding regularized empirical risk minimization formula_72 will have a representer theorem. In particular, this shows that a broad class of regularized risk minimizations (much broader than those originally considered by Kimeldorf and Wahba) have representer theorems.
+
+Representer theorems are useful from a practical standpoint because they dramatically simplify the regularized empirical risk minimization problem formula_72. In most interesting applications, the search domain formula_5 for the minimization will be an infinite-dimensional subspace of formula_75, and therefore the search (as written) does not admit implementation on finite-memory and finite-precision computers. In contrast, the representation of formula_76 afforded by a representer theorem reduces the original (infinite-dimensional) minimization problem to a search for the optimal formula_77-dimensional vector of coefficients formula_78; formula_79 can then be obtained by applying any standard function minimization algorithm. Consequently, representer theorems provide the theoretical basis for the reduction of the general machine learning problem to algorithms that can actually be implemented on computers in practice.
+
+

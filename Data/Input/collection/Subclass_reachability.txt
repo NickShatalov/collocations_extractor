@@ -1,0 +1,1 @@
+In computational learning theory in mathematics, given a class of concepts C, a subclass D is reachable if there exists a partial approximation S of some concept such that D contains exactly those concepts in C that are extensions to S (i.e., D=C|S).

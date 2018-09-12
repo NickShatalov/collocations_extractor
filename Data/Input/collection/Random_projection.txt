@@ -1,0 +1,24 @@
+In mathematics and statistics, random projection is a technique used to reduce the dimensionality of a set of points which lie in Euclidean space. Random projection methods are powerful methods known for their simplicity and less erroneous output compared with other methods. According to experimental results, random projection preserve distances well, but empirical results are sparse.
+They have been applied to many natural language tasks under the name of random indexing.
+
+Dimensionality reduction, as the name suggests, is reducing the number of random variables using various mathematical methods from statistics and machine learning. Dimensionality reduction is often used to reduce the problem of managing and manipulating large data sets. Dimensionality reduction techniques generally use linear transformations in determining the intrinsic dimensionality of the manifold as well as extracting its principal directions. For this purpose there are various related techniques, including: principal component analysis, linear discriminant analysis, canonical correlation analysis, discrete cosine transform, random projection, etc.
+
+Random projection is a simple and computationally efficient way to reduce the dimensionality of data by trading a controlled amount of error for faster processing times and smaller model sizes. The dimensions and distribution of random projection matrices are controlled so as to approximately preserve the pairwise distances between any two samples of the dataset.
+
+The core idea behind random projection is given in the Johnson-Lindenstrauss lemma, which states that if points in a vector space are of sufficiently high dimension, then they may be projected into a suitable lower-dimensional space in a way which approximately preserves the distances between the points.
+
+In random projection, the original d-dimensional data is projected to a k-dimensional (k « d) subspace, using a random formula_1 - dimensional matrix R whose rows have unit lengths. Using matrix notation: If formula_2 is the original set of N d-dimensional observations, then formula_3 is the projection of the data onto a lower k-dimensional subspace. Random projection is computationally simple: form the random matrix "R" and project the formula_4 data matrix X onto K dimensions of order formula_5. If the data matrix X is sparse with about c nonzero entries per column, then the complexity of this operation is of order formula_6.
+
+The random matrix R can be generated using a Gaussian distribution. The first row is a random unit vector uniformly chosen from formula_7. The second row is a random unit vector from the space orthogonal to the first row, the third row is a random unit vector from the space orthogonal to the first two rows, and so on. In this way of choosing R, R is an orthogonal matrix (the inverse of its transpose), and the following properties are satisfied:
+
+Achlioptas has shown that the Gaussian distribution can be replaced by a much simpler distribution such as
+This is efficient for database applications because the computations can be performed using integer arithmetic.
+
+It was later shown how to use integer arithmetic while making the distribution even sparser, having very few nonzeroes per column, in work on the Sparse JL Transform. This is advantageous since a sparse embedding matrix means being able to project the data to lower dimension even faster.
+
+The Johnson-Lindenstrauss lemma states that large sets of vectors in a high-dimensional space can be linearly mapped in a space of much lower (but still high) dimension "n" with approximate preservation of distances. One of the explanations of this effect is the exponentially high quasiorthogonal dimension of "n"-dimensional Euclidean space. There are exponentially large (in dimension "n") sets of almost orthogonal vectors (with small value of inner products) in "n"–dimensional Euclidean space. This observation is useful in indexing of high-dimensional data.
+
+Quasiorthogonality of large random sets is important for methods of random approximation in machine learning. In high dimensions, exponentially large numbers of randomly and independently chosen vectors from equidistribution on a sphere (and from many other distributions) are almost orthogonal with probability close to one. This implies that in order to represent an element of such a high-dimensional space by linear combinations of randomly and independently chosen vectors, it may often be necessary to generate samples of exponentially large length if we use bounded coefficients in linear combinations. On the other hand, if coefficients with arbitrarily large values are allowed, the number of randomly generated elements that are sufficient for approximation is even less than dimension of the data space.
+
+
+
