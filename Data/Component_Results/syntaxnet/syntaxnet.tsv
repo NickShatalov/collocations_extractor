@@ -1,16 +1,16 @@
 collocation	syntax_distance
-machine learn	1.9737827715355805
-kernel embedding	2.4375
+machine learn	1.8701754385964913
+kernel embedding	1.4705882352941178
 distribution also	4.0
 also call	1.0
 kernel mean	1.6666666666666667
 mean map	1.5
 map comprise	1.0
 nonparametric method	1.25
-probability distribution	1.2535211267605635
+probability distribution	1.25
 reproducing kernel	1.5555555555555556
-kernel hilbert	2.176470588235294
-hilbert space	1.5
+kernel hilbert	2.0588235294117645
+hilbert space	1.5454545454545454
 space rkhs	1.0
 kernel hilbert space	2.176470588235294
 hilbert space rkhs	2.0
@@ -22,7 +22,7 @@ feature mapping	1.0
 classical kernel	2.0
 kernel method	1.0714285714285714
 infinitedimensional feature	2.0
-feature space	1.0952380952380953
+feature space	1.1363636363636365
 space can	3.6666666666666665
 can preserve	1.0
 statistical feature	1.0
@@ -32,7 +32,7 @@ manipulate distribution	1.0
 distribution use	1.0
 use hilbert	2.0
 space operation	1.0
-inner product	1.5789473684210527
+inner product	1.35
 product distance	1.0
 distance projection	2.0
 projection linear	2.0
@@ -40,22 +40,22 @@ linear transformation	1.0
 spectral analysis	1.0
 feature space can	6.0
 learn framework	1.0
-space formula	1.4838709677419355
+space formula	1.4516129032258065
 sensible kernel	1.5
-kernel function	2.0
+kernel function	1.125
 function measure	5.0
 measure similarity	1.0
-formula may	3.0
+formula may	2.764705882352941
 sensible kernel function	2.0
 kernel function measure	2.0
 example various	2.0
 various kernel	1.0
 formula discrete	3.0
 image time	1.0
-time series	2.3333333333333335
+time series	2.28
 series manifold	1.0
 manifold dynamical	2.0
-dynamical system	1.0
+dynamical system	1.5
 structured object	1.0
 theory behind	2.0
 behind kernel	2.0
@@ -68,7 +68,7 @@ le song	3.0
 song arthur	1.0
 bernhard schlkopf	2.5
 recent work	1.0
-distribution can	3.5
+distribution can	2.4545454545454546
 many algorithm	1.0
 field rely	1.0
 information theoretic	2.0
@@ -78,7 +78,7 @@ mutual information	1.9285714285714286
 kullbackleibler divergence	1.0
 information theoretic approach	2.0
 quantity one	3.0
-one must	2.0
+one must	1.75
 must first	2.0
 first either	2.0
 either perform	3.0
@@ -86,7 +86,7 @@ perform density	1.5
 density estimation	1.4545454545454546
 employ sophisticate	1.0
 typically infeasible	1.0
-highdimensional data	1.1666666666666667
+highdimensional data	1.1428571428571428
 perform density estimation	2.0
 commonly method	1.0
 model complex	2.0
@@ -95,63 +95,63 @@ distribution rely	1.0
 parametric assumption	1.0
 computationally challenge	1.0
 challenge e	1.0
-gaussian mixture	2.3333333333333335
-mixture model	1.4
+gaussian mixture	1.5
+mixture model	1.1162790697674418
 method like	1.3333333333333333
 like kernel	3.0
-kernel density	2.1333333333333333
+kernel density	2.066666666666667
 estimation note	1.0
 smoothing kernel	1.0
 different interpretation	1.0
 kernel discuss	1.0
-characteristic function	3.0
+characteristic function	1.75
 function representation	1.0
 representation via	3.0
 fourier transform	1.4
 distribution break	1.0
 highdimensional setting	1.0
-gaussian mixture model	3.0
+gaussian mixture model	2.0
 kernel density estimation	2.2
 nonparametric method like	2.0
 characteristic function representation	2.0
 method base	2.125
 also possess	1.0
 follow advantage	1.0
-advantage thus	2.0
 thus learn	1.0
 learn via	2.0
-distribution offer	4.0
+distribution offer	3.0
 subsume many	2.0
 many popular	2.0
 popular method	1.0
-machine learning	1.5
+machine learning	1.4333333333333333
 special case	1.0
 also can	2.0
 can lead	1.0
 entirely new	1.0
 new learn	2.0
-learn algorithm	1.3615384615384616
+learn algorithm	1.2424242424242424
 new learn algorithm	2.0
 many popular method	2.0
-let formula	2.176470588235294
-formula denote	1.5
-random variable	1.4473684210526316
+let formula	2.0892857142857144
+formula denote	1.0909090909090908
+random variable	1.4878048780487805
 codomain formula	1.0
-distribution formula	1.2881355932203389
+distribution formula	1.2833333333333334
 let formula denote	2.142857142857143
-kernel formula	1.7272727272727273
+kernel formula	1.8181818181818181
 theorem assert	1.0
 rkhs formula	1.0
-function formula	1.6082474226804124
+function formula	1.54
 formula equip	1.0
 product formula	1.5714285714285714
-norm formula	1.4444444444444444
+norm formula	1.2222222222222223
 element formula	1.0
 formula satisfy	1.0
-reproducing property	1.5
+reproducing property	2.0
 property formula	1.0
 inner product formula	2.0
-one may	2.0
+element formula satisfy	2.0
+one may	1.9230769230769231
 may alternatively	2.0
 alternatively consider	1.0
 consider formula	1.6666666666666667
@@ -159,10 +159,10 @@ implicit feature	1.0
 feature map	1.25
 map formula	1.0
 therefore also	2.0
-formula can	3.5714285714285716
-point formula	1.7272727272727273
+formula can	3.0425531914893615
+point formula	1.7727272727272727
 feature map formula	2.0
-similarity measure	1.5714285714285714
+similarity measure	1.0
 highly nonlinear	1.0
 original space	1.0
 space depend	3.0
@@ -176,70 +176,68 @@ embedding formula	1.0
 can thus	2.0
 uniquely represent	1.0
 characteristic kernel	1.0
-give formula	1.8666666666666667
+give formula	1.8571428571428572
 formula training	2.25
-training example	1.7647058823529411
-example formula	1.375
+training example	1.7941176470588236
+example formula	1.3478260869565217
 formula draw	1.0
-draw independently	1.0
+draw independently	1.5
 identically distribute	1.0
 formula training example	2.3333333333333335
-training example formula	3.4
+training example formula	3.6
 formula training example formula	3.0
 training example formula draw	3.0
-example formula draw	2.0
 empirically estimate	1.0
-estimate asif	1.0
-asif formula	2.0
-formula denotes	1.0
-denotes another	2.0
-another random	2.0
+denote another	2.0
+another random	1.0
 simplicity assume	1.0
 also formula	1.0
 satisfy formula	1.0
 joint distribution	1.4444444444444444
 tensor product	1.0
-product feature	3.0
-formula via	1.0
-linear map	1.5
-joint embed	1.0
-embed may	3.0
-crosscovariance operator	1.0
-operator formula	2.8333333333333335
-formula pair	1.0
-formula drawn	1.0
-function formula can	4.0
+product feature	2.0
+formula via	1.5
 joint distribution formula	3.0
 distribution formula can	3.0
 feature space formula	2.0
+space formula via	3.0
 joint distribution formula can	3.0
+linear map	1.5
+joint embed	1.0
+embed may	5.0
+crosscovariance operator	1.0
+operator formula	1.0
+function formula can	4.0
+formula pair	1.0
 can also	2.0
 also empirically	2.0
-distribution kernel	2.0
-conditional distribution	1.8571428571428572
-formula one	2.8333333333333335
-one can	2.1794871794871793
+distribution kernel	1.0
+kernel embed	1.25
+embed via	1.0
+conditional distribution	1.5333333333333334
+formula one	2.125
+one can	2.0714285714285716
 can define	1.0
 correspond rkhs	1.0
-rkhs embed	1.5
-formula thus	1.5
-thus define	2.0
-rkhs index	1.0
-value formula	2.0476190476190474
-formula taken	1.0
-condition variable	2.0
-variable formula	2.08
+rkhs embed	1.3333333333333333
 conditional distribution formula	2.0
 distribution formula one	3.0
 one can define	2.0
-formula one can	3.0
+formula one can	2.4285714285714284
+formula thus	1.5
+thus define	2.0
+rkhs index	1.0
+value formula	1.9523809523809523
+formula taken	1.0
+condition variable	2.0
+variable formula	2.074074074074074
 fix formula	1.25
 particular value	1.0
 single element	1.0
 formula output	2.5
-conditional embedding	3.6
-formula give	2.1333333333333333
-formula give formula	2.8
+conditional embedding	1.6666666666666667
+formula give	2.0
+formula give formula	2.4
 always true	1.0
 finite domain	1.0
 necessarily hold	1.0
@@ -249,32 +247,31 @@ assumption fails	1.0
 fails formula	1.0
 may still	2.0
 conditional kernel	3.0
-kernel embed	1.0
 embed formula	1.0
 inversion operator	1.0
 regularize version	1.0
 identity matrix	1.0
 give training	2.5
-empirical kernel	2.2
+empirical kernel	1.8
 kernel conditional	2.3333333333333335
-embedding operator	4.0
+embedding operator	1.2
 operator may	2.0
+give training example	2.5
+kernel conditional embedding	2.0
+conditional embedding operator	2.0
+give training example formula	3.0
 implicitly form	1.0
-form feature	4.0
+form feature	3.0
 feature matrix	1.0
-matrix formula	1.1428571428571428
-gram matrix	2.3333333333333335
+matrix formula	1.1333333333333333
+gram matrix	1.3333333333333333
 regularization parameter	1.0
 parameter need	1.0
 avoid overfitting	1.0
-give training example	2.5
-feature matrix formula	2.0
-kernel conditional embedding	2.0
-conditional embedding operator	5.333333333333333
-give training example formula	3.0
+feature matrix formula	3.0
 regularization parameter need	2.0
 empirical estimate	1.0
-weight sum	1.5555555555555556
+weight sum	1.4444444444444444
 compact subset	1.0
 entire space	1.0
 example gaussian	2.0
@@ -285,96 +282,87 @@ probabilistic rule	1.0
 rule may	2.0
 multilinear algebraic	2.0
 algebraic operation	1.0
-embedding framework	1.2
+embedding framework	1.1666666666666667
 primarily base	1.0
 song et	2.0
 et al	1.0545454545454545
 song et al	2.0
-kernel embedding framework	2.25
+kernel embedding framework	2.4
 follow notation	1.0
 data formula	1.0
-sample formula	1.2857142857142858
-prior distribution	2.0833333333333335
+sample formula	1.0909090909090908
+prior distribution	1.0714285714285714
 prior distribution formula	2.5
 sample formula may	4.0
-probability theory	2.0833333333333335
+probability theory	1.1538461538461537
 marginal distribution	1.2857142857142858
 joint density	1.0
 density include	2.0
-formulathe analog	1.0
-embed framework	2.0
 framework state	1.0
-rkhs embedding	1.0
-practical implementation	3.6666666666666665
+compute via	1.0
+practical implementation	1.0
 kernel sum	1.3333333333333333
-sum rule	1.0
-rule take	5.0
-follow formwhere	2.0
-formwhere formula	1.125
+sum rule	1.3333333333333333
+rule take	1.0
+follow form	1.0
+kernel sum rule	2.3333333333333335
+sum rule take	2.0
 formula formula	1.3846153846153846
-entry formula	1.3333333333333333
+entry formula	1.0
 formula respectively	1.5714285714285714
 distribution formula formula	2.0
-empirical kernel embedding	2.5
-follow formwhere formula	2.0
+empirical kernel embedding	2.0
 entry formula respectively	2.0
-kernel embed framework	3.0
-kernel sum rule	2.0
-sum rule take	2.0
-kernel embed framework state	3.0
-joint embedding	1.0
-operator associate	1.0
-formulain practical	2.0
-kernel chain	1.5
-chain rule	1.0
-follow formin	3.0
-formin probability	1.0
-posterior distribution	1.1818181818181819
-likelihood function	1.0
-framework express	7.0
-kernel bayes	1.5
-bayes rule	1.0
 joint distribution can	3.0
-posterior distribution can	3.0
-kernel bayes rule	2.0
-bayes rule take	2.0
+embed framework	2.0
+joint embedding	1.0
+operator associate	2.0
+kernel chain	2.0
+chain rule	1.0
 kernel chain rule	2.0
 chain rule take	2.0
+posterior distribution	1.1818181818181819
+likelihood function	1.0
+posterior distribution can	3.0
+framework express	2.0
+kernel bayes	1.5
+bayes rule	1.0
+kernel bayes rule	2.0
+bayes rule take	2.0
 two regularization	2.0
 framework formula	1.0
 final conditional	2.0
-conditional embedding operator formula	2.0
 embedding operator formula	2.0
+conditional embedding operator formula	2.0
 latter regularization	1.0
 positive definite	2.0
 maximum mean	2.0
 mean discrepancy	1.0
 discrepancy mmd	1.0
 square distance	1.0
+maximum mean discrepancy	2.0
 widely use	1.0
 use kullbackleibler	2.0
-divergence either	2.0
+divergence either	4.0
 either require	1.0
-require density	3.0
-estimation either	2.0
+require density	2.0
+estimation either	3.0
 easily estimated	1.0
 empirical mean	1.0
 concentrate around	2.0
 true value	1.0
-maximum mean discrepancy	2.0
 discrepancy refer	2.0
 rkhs function	1.3333333333333333
 two probability	1.6666666666666667
-distribution give	3.0
+two probability distribution	2.0
 give n	1.75
 n training	2.0
-m sample	1.0
+m sample	2.0
 can formulate	1.0
 test statistic	1.0
 statistic base	3.0
-sample stem	1.0
-two probability distribution	2.0
 test statistic base	4.0
+sample stem	1.0
 broad alternative	2.0
 alternative formula	1.0
 although learn	1.0
@@ -386,12 +374,12 @@ nonetheless use	1.0
 empirical embedding	1.0
 estimation base	3.0
 n sample	1.0
-sample draw	1.25
+sample draw	1.0
 underlying distribution	1.3333333333333333
 underlying distribution formula	2.0
 n sample draw	2.0
-follow optimization	2.5
-optimization problem	1.2894736842105263
+follow optimization	2.0
+optimization problem	1.2195121951219512
 follow optimization problem	2.0
 propose density	2.0
 quantity e	1.0
@@ -420,7 +408,7 @@ gaussian process	1.0
 conditional random	2.1666666666666665
 random field	1.5714285714285714
 field may	3.0
-conditional probability	2.8333333333333335
+conditional probability	2.6666666666666665
 one view	1.0
 mapping associate	1.0
 sufficient statistic	1.0
@@ -434,15 +422,15 @@ statistical dependence	1.0
 kernel can	2.0
 define can	5.0
 formulate base	2.0
-hilbertschmidt independence	2.0
+hilbertschmidt independence	1.0
 independence criterion	1.0
+random variable formula	2.4285714285714284
+sensible kernel can	3.0
 principled replacement	1.0
 information pearson	2.0
 pearson correlation	1.0
 dependence measure	1.0
 measure use	1.0
-random variable formula	2.0
-sensible kernel can	3.0
 dependence measure use	2.0
 notably hsic	1.0
 hsic can	2.0
@@ -456,26 +444,28 @@ data e	1.0
 hsic can detect	2.0
 unbiased estimator	1.0
 exhibit concentration	1.0
-value can	3.0
+value can	2.1666666666666665
 formula time	1.0
 two datasets	1.0
 approximate using	1.0
-using formula	1.125
+using formula	1.5555555555555556
 true value can	4.0
 desirable property	1.0
 numerous algorithm	1.0
 common machine	1.0
 learn task	1.1111111111111112
-feature selection	2.25
-dimensionality reduction	1.4583333333333333
+feature selection	2.235294117647059
+dimensionality reduction	1.44
 common machine learn	3.5
-machine learn task	4.0
+machine learn task	3.5
 common machine learn task	6.0
 multiple random	2.0
 hsic capture	1.0
 capture independence	1.0
 case ha	4.0
 ha recently	2.0
+two variable	1.0
+belief propagation	1.0
 fundamental algorithm	1.0
 graphical model	1.3333333333333333
 repeatedly pass	3.0
@@ -496,15 +486,14 @@ node u	5.0
 u can	2.0
 give n sample	2.0
 kernel belief	4.0
-belief propagation	1.0
 propagation update	1.0
 update message	1.0
-node s	10.0
-elementwise vector	1.5
-vector product	1.5
-node connect	2.0
-t exclude	2.0
-exclude node	3.0
+node s	1.0
+elementwise vector	2.5
+vector product	1.0
+node connect	1.0
+t exclude	5.0
+exclude node	1.0
 s formula	3.0
 variable formula respectively	2.0
 vector product formula	2.0
@@ -533,15 +522,15 @@ transition probability	1.0
 hidden state	1.1666666666666667
 state formula	1.0
 emission probability	1.0
-probability formula	2.5
+probability formula	2.388888888888889
 hidden markov model	2.25
 markov model hmm	2.25
 hidden state formula	2.0
 hidden markov model hmm	2.75
-distribution embedding	2.0
+distribution embedding	1.0
 quantity may	2.0
 kernel conditional distribution	3.0
-conditional distribution embedding	2.5
+conditional distribution embedding	3.0
 serious limitation	1.0
 embedding method	1.0
 train sample	1.0
@@ -552,8 +541,8 @@ train sample contain	2.0
 one common	2.0
 common use	1.0
 estimate posterior	2.0
-time step	1.75
-step t	1.3333333333333333
+time step	1.6
+step t	1.0
 t give	2.0
 previous observation	1.0
 observation formula	1.4
@@ -574,8 +563,8 @@ apply bayes rule	2.0
 belief state formula	2.0
 time t	1.3333333333333333
 t can	2.0
-recursively express	1.0
-step via	4.0
+recursively expressed	1.0
+step via	3.5
 via kernel	2.0
 prediction step via	5.0
 conditioning step via	4.0
@@ -584,15 +573,15 @@ give one	2.5
 practice estimate	1.0
 estimate formula	1.0
 thus implement	1.0
-implement recursively	2.0
-recursively use	1.0
+implement recursively	1.0
+recursively use	1.5
 follow update	1.0
-weight formula	1.7142857142857142
+weight formula	1.7777777777777777
+give one can	3.0
+training sample formula	2.25
 respectively formula	1.0
 transfer gram	2.0
 matrix define	1.0
-give one can	3.0
-training sample formula	2.25
 support measure	1.0
 measure machine	2.0
 machine smm	1.0
@@ -607,22 +596,24 @@ standard svm	2.0
 svm dual	2.0
 dual optimization	2.0
 problem use	1.0
-follow expect	2.0
+following expect	2.0
+expect kernel	1.0
+optimization problem use	2.0
 close form	1.0
 many common	2.0
 common specific	2.0
 specific distribution	1.5
-gaussian distribution	1.5333333333333334
+gaussian distribution	1.0
 distribution combine	1.0
 popular embedding	3.0
 embedding kernel	1.0
 formula e	1.0
 specific distribution formula	2.0
-optimization problem use	2.0
-embedding kernel formula	2.5
+embedding kernel formula	3.0
 gaussian kernel	1.3333333333333333
 polynomial kernel	2.0
 accurately empirically	1.0
+sample formula via	2.0
 certain choice	1.0
 smm applied	1.0
 svm train	1.0
@@ -639,17 +630,18 @@ generalize well	1.0
 test data	1.1666666666666667
 different distribution	1.0
 test set	1.7333333333333334
-set formula	1.1904761904761905
+set formula	1.2093023255813953
 unknown three	2.0
 three type	1.0
 commonly assume	1.0
 test distribution	1.0
-distribution practical	2.0
-practical approach	1.0
-test domain	1.0
-domain can	8.0
+test distribution formula	2.0
 test set formula	2.0
-test domain can	14.0
+distribution practical	3.0
+practical approach	1.0
+test domain	1.3333333333333333
+domain can	5.5
+test domain can	8.0
 shift may	3.5
 example via	3.0
 via estimate	1.0
@@ -661,39 +653,41 @@ explicit estimation	1.0
 target shift	1.0
 similarly deal	1.0
 weight training	2.0
-example use	1.2857142857142858
-vector formula	1.2
+example use	1.2307692307692308
+vector formula	1.16
 practice empirical	2.0
 empirical approximation	1.0
 approximation must	2.0
+training example use	2.0
 location scale	2.0
 scale conditional	2.0
 conditional shift	6.5
-shift one	2.0
+shift one	3.0
 can perform	1.0
 ls transformation	1.0
 obtain new	2.0
 new transformed	2.0
 transformed training	2.5
-training data	1.7916666666666667
+training data	1.7808219178082192
 transformed training data	3.0
 training data formula	2.0
 one can perform	2.0
-training example use	2.0
 ensure similar	3.0
 similar distribution	1.0
 follow empirical	2.5
-embedding distance	1.0
+embed distance	1.0
+transformed training sample	2.0
+follow empirical kernel	3.0
+empirical kernel embed	3.0
+test data formula	2.0
 ls conditional	2.0
 method may	2.6666666666666665
 may perform	1.0
 perform well	1.1428571428571428
 well even	3.0
 kernel embedding method	2.0
-transformed training sample	2.0
 may perform well	2.0
 perform well even	3.0
-test data formula	2.0
 target shift may	6.0
 n set	1.0
 train example	1.2
@@ -702,7 +696,7 @@ train example sample	3.0
 give n set	2.0
 domain generalization	1.0
 formulate learning	2.0
-learning algorithm	1.3387096774193548
+learning algorithm	1.046875
 test example	1.0
 previously unseen	1.0
 unseen domain	2.0
@@ -741,8 +735,8 @@ measure dissimilarity	1.0
 domain via	2.0
 via distributional	2.0
 distributional variance	1.0
-formula gram	2.0
 probability distribution formula	2.3846153846153846
+formula gram	2.0
 orthogonal transform	1.0
 transform onto	2.0
 lowdimensional subspace	1.5
@@ -800,14 +794,14 @@ follow kernel	2.0
 kernel ridge	2.0
 ridge regression	2.0
 regression problem	1.1
-problem formulawhere	4.0
-formulawhere formula	1.0
+problem formula	1.8333333333333333
+one can consider	2.0
+ridge regression problem	2.0
+regression problem formula	3.0
 formula kernel	1.0
 formulas formula	2.0
 embedded distribution	1.0
 rkhs determine	1.0
-one can consider	2.0
-ridge regression problem	2.0
 formula include	2.0
 linear kernel	1.5
 exponential kernel	1.0
@@ -816,9 +810,8 @@ gaussian kernel formula	3.0
 new distribution	2.0
 formula take	3.5
 simple analytical	2.0
-analytical formwhere	2.0
+analytical form	1.0
 distribution formula take	3.0
-formwhere formula formula	2.0
 mild regularity	2.0
 regularity condition	1.0
 estimator can	2.0
@@ -850,13 +843,11 @@ specify joint	2.0
 joint probability	2.1538461538461537
 probability table	1.0
 explicit form	1.0
-embeddings isthe	3.0
-isthe conditional	2.0
+joint probability table	2.0
+conditional probability table	2.0
 fix value	1.0
-compute asin	1.0
 delta kernel	2.0
-rule becomesthe	2.0
-becomesthe kernel	3.0
+rule becomes	1.0
 theoretical mathematical	2.0
 mathematical formalism	1.0
 artificial general	2.0
@@ -873,10 +864,12 @@ marcus hutter	1.0
 hutters book	1.0
 book universal	2.0
 universal artificial	2.0
-artificial intelligence	1.702127659574468
+artificial intelligence	1.6808510638297873
 universal artificial intelligence	2.5
 wa first propose	2.0
-reinforcement learn	2.0285714285714285
+reinforcement learn	1.9473684210526316
+learn agent	1.0
+reinforcement learn agent	2.0
 expect total	2.0
 total reward	1.0
 reward receive	1.0
@@ -907,7 +900,7 @@ agent interact	1.0
 interact sequentially	2.0
 aixi environment	2.0
 environment formula	1.0
-agent output	2.0
+agent output	1.0
 action formula	4.0
 environment respond	1.0
 reward formula	1.0
@@ -922,19 +915,17 @@ fix lifetime	2.0
 lifetime m	1.0
 future reward formula	2.0
 current time	2.0
-history formulathe	2.0
-formulathe action	1.0
+history formula	1.0
 action aixi	2.0
-aixi output	1.0
-define aswhere	1.0
-aswhere u	2.0
+aixi output	2.0
 u denote	1.0
 monotone universal	2.0
 universal turing	2.0
 turing machine	2.6666666666666665
+universal turing machine	2.0
+q range	1.0
 universal machine	1.0
 machine u	1.0
-universal turing machine	2.0
 agent lifetime	2.0
 latter dependence	1.0
 dependence can	2.0
@@ -968,7 +959,7 @@ induction aixi	2.0
 computable approximation	1.0
 best time	2.0
 space l	1.0
-l limited	2.0
+l limited	3.0
 limited agent	1.0
 another approximation	1.0
 restrict environment	2.0
@@ -1001,7 +992,7 @@ single training	2.5
 relevant feature	1.0
 single training example	2.0
 ebl can take	2.0
-information need	1.2
+information need	1.0
 best move	1.0
 however actually	3.0
 actually make	1.0
@@ -1027,10 +1018,11 @@ learn proof	2.0
 ebl software	2.0
 software take	1.0
 take four	2.0
-especially good	2.0
+four input	1.0
+especially good	1.0
 good application	2.0
 application domain	1.0
-natural language	2.3448275862068964
+natural language	2.310344827586207
 language process	1.0769230769230769
 process nlp	1.6666666666666667
 natural language process	2.076923076923077
@@ -1086,15 +1078,15 @@ datadriven search	2.0
 search space	1.3333333333333333
 space reduction	1.0
 nlp include	3.0
-algorithm selection	1.368421052631579
+algorithm selection	1.35
 selection sometimes	2.0
 sometimes also	2.0
 call perinstance	3.0
 perinstance algorithm	2.0
 offline algorithm	1.6666666666666667
-sometimes also call	2.0
 perinstance algorithm selection	2.0
 offline algorithm selection	2.0
+sometimes also call	2.0
 many practical	1.75
 practical problem	1.5
 problem algorithm	1.0
@@ -1118,7 +1110,7 @@ complementary algorithm	1.0
 apply algorithm selection	2.0
 algorithm selection technique	2.0
 portfolio formula	1.0
-algorithm formula	1.7083333333333333
+algorithm formula	1.3333333333333333
 instance formula	1.75
 cost metric	1.0
 metric formula	2.0
@@ -1147,12 +1139,12 @@ answer set	3.0
 set programming	1.0
 algorithm selection can	3.0
 answer set programming	3.0
-well known	1.0
-machine learn algorithm	2.5813953488372094
+well know	1.0
+machine learn algorithm	2.590909090909091
 algorithm consists	1.0
 algorithm e	1.5
 machine learn algorithm e	4.0
-random forest	2.473684210526316
+random forest	1.925
 forest svm	1.0
 data set	1.3448275862068966
 error rate	1.0
@@ -1165,10 +1157,10 @@ learn technique	1.0
 machine learn technique	2.8
 problem instance	1.0
 numerical feature	1.0
-feature formula	5.166666666666667
+feature formula	5.5
 formula algorithm	1.5
 multiclass classification	1.4285714285714286
-classification problem	1.0476190476190477
+classification problem	1.0454545454545454
 given instance	1.5
 formula algorithm selection	2.0
 multiclass classification problem	2.0
@@ -1183,7 +1175,6 @@ sample feature	1.0
 feature class	1.0
 class balance	1.0
 two kind	1.0
-feature depend	2.0
 use performance	3.0
 performance metric	1.0
 formula feature	1.25
@@ -1201,7 +1192,7 @@ concrete example	1.0
 feature cost	1.0
 neglect since	2.0
 since instance	2.0
-variable can	3.5384615384615383
+variable can	3.4615384615384617
 constant time	1.0
 expensive e	1.0
 graph feature	1.0
@@ -1226,9 +1217,9 @@ new instance formula	2.0
 common assumption	1.0
 give set	1.0
 homogeneous subset	1.0
-one wellperforming	2.0
-wellperforming algorithm	1.0
 instance formula can	4.0
+one wellperforming	1.0
+wellperforming algorithm	1.0
 training consists	1.0
 homogeneous cluster	1.0
 cluster via	3.0
@@ -1237,15 +1228,15 @@ clustering approach	1.0
 associated algorithm	1.0
 algorithm select	3.0
 modern approach	1.0
-hierarchical clustering	2.0
+hierarchical clustering	1.5
 clustering using	1.0
 using supervise	1.0
-supervise learn	1.1944444444444444
+supervise learn	1.236842105263158
 homogeneous instance	2.0
 instance subset	1.0
 common approach	1.0
 learn pairwise	2.0
-pairwise model	7.0
+pairwise model	1.0
 every pair	1.0
 wa predict	1.0
 can weight	1.0
@@ -1263,7 +1254,10 @@ formula v	2.0
 v formula	1.0
 problem can	2.4375
 effectively apply	1.0
+follow assumption	1.0
 single domain	1.0
+domain include	2.0
+application domain include	2.0
 extensive list	1.0
 literature overview	1.0
 online algorithm	2.0
@@ -1280,10 +1274,11 @@ approach improve	1.0
 wrong selection	1.0
 single solver	1.0
 increasing importance	1.0
-parallel computation	1.5
-parallel portfolio	5.0
+parallel computation	1.3333333333333333
+parallel portfolio	1.5
+portfolio selection	1.5
 simultaneously run	1.0
-computer vision	1.5909090909090908
+computer vision	1.565217391304348
 vision mtheory	1.0
 learning framework	1.0
 framework inspire	1.0
@@ -1299,7 +1294,7 @@ certain image	1.0
 image recognition	1.75
 recognition task	1.0
 task algorithm	1.0
-algorithm base	2.6
+algorithm base	2.5
 mtheory hmax	1.0
 hmax achieve	1.0
 image recognition task	2.5
@@ -1423,6 +1418,7 @@ rotation scale	1.0
 scale etc	1.0
 transformation formula	1.0
 unitary group	1.0
+follow hold	1.0
 transformed image	1.0
 original image	1.0
 inversely transform	1.0
@@ -1433,7 +1429,7 @@ transformed template	1.0
 possible transformation	1.0
 one apply	1.0
 become formula	1.0
-every formula	2.0
+every formula	1.7777777777777777
 formula due	2.0
 closure property	1.0
 prototype formula	1.0
@@ -1480,7 +1476,7 @@ onedimensional probability	3.0
 distribution empirical	2.0
 empirical distribution	1.0
 template store	1.0
-unsupervised learn	1.75
+unsupervised learn	1.5
 onedimensional probability distribution	3.0
 turn can	3.0
 either histogram	1.0
@@ -1488,7 +1484,7 @@ statistical moment	1.0
 orbit formula	1.0
 formula generate	1.0
 single image	1.0
-group formula	4.0
+group formula	2.5384615384615383
 image formula generate	3.0
 word image	2.0
 transformation correspond	3.0
@@ -1656,7 +1652,7 @@ d rotate	1.0
 rotate face	1.0
 may explain	1.0
 one responsible	1.0
-face recognition	1.25
+face recognition	1.2
 hierarchical recognition	2.0
 recognition architecture	1.0
 section suggest	1.0
@@ -1786,11 +1782,11 @@ image patch	2.0
 another image	1.5
 patch call	1.0
 call template	1.0
+another image patch	2.0
 synaptic weight	1.5
 weight synapsis	1.0
 synapsis per	2.0
 per neuron	1.0
-another image patch	2.0
 standard computational	2.0
 computational model	1.0
 another important	2.0
@@ -1894,7 +1890,7 @@ new set	1.0
 feature detector	1.0
 tuning property	1.0
 cell along	3.0
-training set	1.5157894736842106
+training set	1.404040404040404
 set though	3.0
 also show	1.0
 universal feature	2.0
@@ -1904,7 +1900,7 @@ image unrelated	2.0
 categorization task	1.0
 task likewise	2.0
 good performance	1.1111111111111112
-theory can	2.5
+theory can	3.0
 recognition domain	1.0
 theory can also	2.0
 unsupervised learning	1.4
@@ -1914,7 +1910,7 @@ auditory domain	1.0
 empirically evaluate	1.0
 speech sound	3.0
 sound classification	1.0
-classification wa	7.0
+classification wa	6.0
 wa propose	1.0
 classification wa propose	9.0
 author empirically	2.0
@@ -1969,7 +1965,7 @@ model might	2.0
 dependent variable	1.1818181818181819
 variable value	1.0
 value give	1.0
-independent variable	1.1
+independent variable	1.0909090909090908
 suitability might	2.0
 unseen data	1.0
 overfitting occurs	1.0
@@ -2021,7 +2017,7 @@ model comparison	1.0
 comparison crossvalidation	1.0
 crossvalidation regularization	1.0
 regularization early	2.0
-early stopping	1.3333333333333333
+early stopping	1.4
 bayesian prior	1.0
 explicitly penalize	1.0
 complex model	1.0
@@ -2049,7 +2045,7 @@ extreme case	1.0
 p variable	1.0
 linear regression	1.6363636363636365
 p data	1.0
-data point	1.4146341463414633
+data point	1.3953488372093024
 fit hyperplane	1.0
 hyperplane will	2.0
 will go	1.0
@@ -2066,10 +2062,10 @@ hazard model	1.0
 thumb e	4.0
 ten rule	1.0
 regression model	1.3333333333333333
-mean squared	2.75
-squared error	1.8333333333333333
+mean squared	3.0
+squared error	1.625
 random regression	1.0
-regression function	2.0
+regression function	1.75
 function can	2.3846153846153846
 random noise	1.5
 noise approximation	2.0
@@ -2078,10 +2074,11 @@ biasvariance tradeoff	1.0
 often use	1.0
 overcome overfit	2.0
 overfit model	1.0
-mean squared error	3.6666666666666665
+mean squared error	3.25
+random regression function	2.0
 regression function can	4.0
 regression model selection	2.0
-large set	1.3333333333333333
+large set	1.0
 explanatory variable	1.7083333333333333
 spuriously find	1.0
 statistically significant	1.0
@@ -2202,17 +2199,16 @@ fit noise	2.0
 call robust	1.0
 obvious consequence	1.0
 poor performance	1.0
-validation dataset	1.75
+validation dataset	1.5833333333333333
 negative consequence	1.0
-consequence includethe	2.0
-includethe optimal	2.0
+consequence include	1.0
 optimal function	1.0
-function usually	2.6666666666666665
+function usually	2.3333333333333335
 usually need	1.0
 need verification	1.0
 completely new	1.0
 new datasets	2.0
-function usually need	3.0
+function usually need	2.0
 however method	1.0
 like minimum	2.0
 minimum spanning	2.0
@@ -2248,13 +2244,15 @@ can also occur	2.0
 good model	1.2
 include two	2.0
 two mutually	3.0
+mutually uncorrelated	1.0
+uncorrelated explanatory	2.0
 variable x	1.5
 estimate without	2.0
 without bias	1.0
 data well	1.6666666666666667
 also include	1.0
 explanatory variable x	2.0
-cognitive robotics	2.3333333333333335
+cognitive robotics	2.2
 intelligent behavior	1.0
 process architecture	1.0
 will allow	1.0
@@ -2366,11 +2364,11 @@ adaptive curiosity	1.0
 intrinsic motivation	1.0
 algorithm generally	2.0
 generally involve	1.0
-sensory input	1.0
+sensory input	1.25
 prediction system	1.0
-artificial neural	2.0952380952380953
-neural network	1.7428571428571429
-artificial neural network	2.1052631578947367
+artificial neural	2.090909090909091
+neural network	1.6388888888888888
+artificial neural network	2.1
 system keep	1.0
 keep track	1.0
 prediction error	1.1666666666666667
@@ -2407,7 +2405,7 @@ call schripp	3.0
 theory using	2.0
 using schripp	1.0
 general process	1.0
-icb metric	21.0
+icb metric	2.0
 metric drone	2.0
 drone us	1.0
 us quantum	3.0
@@ -2416,15 +2414,15 @@ two unit	1.0
 cause universal	2.0
 icb geometric	2.0
 geometric manifold	1.0
-conclude computing	1.0
-computing singularity	2.0
+conclude compute	1.0
+compute singularity	2.0
 singularity unit	1.0
 compute icb	3.0
 metric number	1.0
 code computer	1.0
-computer use	6.0
+computer use	4.0
 high pitch	3.0
-relay combine	2.0
+relay combine	1.0
 high axis	1.0
 quantum source	2.0
 source code	1.0
@@ -2438,11 +2436,12 @@ race use	1.0
 space time	1.0
 metric singularity	1.0
 generally hear	1.0
+human hearing	1.0
 fundamental question	1.0
 robotics book	1.0
 cover various	2.0
 various aspect	1.0
-intelligence physical	3.0
+intelligence physical	2.0
 philosophical psychological	2.0
 psychological social	2.0
 social cultural	2.0
@@ -2479,7 +2478,7 @@ identify people	1.0
 can run	1.0
 ce method	1.0
 method develop	1.0
-general monte	4.0
+general monte	3.0
 monte carlo	2.25
 carlo approach	1.0
 importance sampling	1.0
@@ -2510,20 +2509,19 @@ dna sequence alignment	2.0
 ce method can	3.0
 method consists	1.0
 two phase	1.0
-phase consider	1.0
-general problem	2.75
+general problem	1.0
 performance function	1.0
-parametric family	1.3333333333333333
+parametric family	1.25
 use importance	1.0
 importance sample	1.0
 quantity can	5.0
-random sample	1.0
+random sample	1.0909090909090908
 positive formula	1.0
-theoretically optimal	4.0
+theoretically optimal	1.0
 optimal importance	1.0
 sample density	2.0
 density pdf	1.0
-however depend	2.0
+however depend	1.0
 unknown formula	1.0
 method aim	1.0
 optimal pdf	9.0
@@ -2532,10 +2530,10 @@ select member	1.0
 kullbackleibler sense	1.0
 pdf formula	1.0
 several case	1.0
-step can	2.75
+step can	2.5
 find analytically	1.0
 ce algorithm	1.0
-algorithm can	2.4411764705882355
+algorithm can	2.411764705882353
 optimization rather	1.0
 apply ce	2.0
 ce one	2.0
@@ -2546,17 +2544,16 @@ stochastic problem	1.0
 give level	1.3333333333333333
 level formula	1.0
 family formula	1.0
-dimensional gaussian	2.0
-mean formula	1.6
-variance formula	1.25
 give level formula	2.0
+mean formula	1.4
+variance formula	1.25
 find formula	1.25
 sample version	1.0
 version stochastic	2.0
 stochastic counterpart	1.0
 divergence minimization	2.0
-minimization problem	1.0714285714285714
-target distribution	1.6666666666666667
+minimization problem	1.0666666666666667
+target distribution	1.0
 sample mean	1.0
 sample variance	1.0
 variance corresponding	2.0
@@ -2591,7 +2588,7 @@ will perform	1.0
 predictive model will	3.0
 usually give	1.0
 run train	1.0
-train dataset	1.25
+train dataset	1.75
 unknown data	1.0
 first see	1.0
 see data	1.0
@@ -2659,14 +2656,14 @@ error mse	1.0
 given estimate	1.0
 estimate parameter	2.0
 parameter value	1.0
-set x	1.25
+set x	1.0
+training set x	3.0
 correctly specify	1.0
 mild assumption	1.0
 expected value	6.0
 npnp time	1.0
 expect value	1.0
 train set	1.1818181818181819
-training set x	3.0
 will get	1.0
 bias assessment	1.0
 model will fit	2.0
@@ -2731,6 +2728,7 @@ can become	1.0
 become computationally	2.0
 computationally infeasible	1.0
 p percent	1.0
+leaveoneout crossvalidation	1.5
 crossvalidation loocv	1.0
 particular case	1.0
 process look	1.0
@@ -2781,7 +2779,6 @@ usually implement	1.0
 data array	1.0
 two set d	2.5
 d follow	1.0
-leaveoneout crossvalidation	1.0
 stratified kfold	2.0
 mean response	1.5
 approximately equal	1.0
@@ -2853,7 +2850,7 @@ particularly useful	1.0
 unbalanced representation	1.0
 two response	2.0
 quantitative measure	1.0
-binary classification	1.8421052631578947
+binary classification	1.7
 either predict	1.0
 predict correctly	1.0
 binary classification problem	2.0
@@ -2863,7 +2860,7 @@ fit although	3.0
 measure like	2.0
 like positive	2.0
 positive predictive	2.0
-predictive value	4.571428571428571
+predictive value	3.25
 positive predictive value	2.0
 continuously distribute	1.0
 error root	1.0
@@ -3017,7 +3014,7 @@ validation sample	1.0
 yet model	1.0
 also develop	1.0
 develop across	2.0
-one another	2.0
+one another	1.8333333333333333
 model developed	2.0
 developed across	2.0
 swap training	1.0
@@ -3029,17 +3026,17 @@ poor external	2.0
 external predictive	2.0
 predictive validity	1.0
 traditional crossvalidation	1.0
-model building	1.0
+model building	1.3333333333333333
 may vary	1.0
 vary across	2.0
 across modeler	1.0
 validity due	4.0
 modeler effect	1.0
+poor external validity	2.0
+may vary across	3.0
 important crossvalidation	1.0
 crossvalidation might	2.0
 timeseries model	1.0
-poor external validity	2.0
-may vary across	3.0
 appropriate approach	1.0
 approach might	2.0
 use forward	1.0
@@ -3118,7 +3115,7 @@ index directly	1.5
 directly rather	2.0
 associative array	1.0
 typical document	2.0
-document classification	3.2857142857142856
+document classification	3.0
 free text	1.5
 document classification task	2.0
 word bow	2.0
@@ -3142,6 +3139,7 @@ map word	1.0
 hash table	1.0
 common candidate	1.0
 dictionary implementation	1.0
+three document	1.0
 convert use	1.0
 dictionary take	1.0
 large amount	1.0
@@ -3179,8 +3177,8 @@ resulting vector	1.0
 feature actually	2.0
 actually mean	1.0
 mean feature	2.0
-feature vector	1.5277777777777777
-let u	1.875
+feature vector	1.4054054054054055
+let u	1.9
 u take	1.0
 output feature	1.0
 vector dimension	1.0
@@ -3192,7 +3190,7 @@ output x will	2.0
 output hash	1.0
 update value	1.0
 hash collision	1.0
-algorithm becomesthe	1.0
+algorithm become	1.0
 pseudocode actually	2.0
 actually convert	1.0
 optimized version	1.0
@@ -3200,7 +3198,7 @@ prediction algorithm	2.0
 algorithm consume	1.0
 single hash	2.0
 table represent	1.3333333333333333
-coefficient vector	1.0
+coefficient vector	1.3333333333333333
 linear model can	3.0
 hash table represent	2.0
 second hash	1.0
@@ -3223,9 +3221,8 @@ transformation implement	1.0
 sign hash	1.5
 vector produce	1.0
 sample x	1.0
-hashing function	1.0
 feature vector produce	2.0
-verify thatformula	2.0
+hashing function	1.0
 positive semidefinite	1.2857142857142858
 semidefinite kernel	1.0
 work extend	1.0
@@ -3251,7 +3248,7 @@ input feature	1.0
 pair user	2.0
 user feature	1.0
 single parameter	1.6666666666666667
-parameter vector	1.2
+parameter vector	1.0
 vector capture	1.0
 spam filter	1.1428571428571428
 global filter	1.0
@@ -3318,14 +3315,14 @@ extraction transform	1.0
 highdimensional space	1.0
 data transformation	1.0
 analysis pca	1.0
-many nonlinear	3.0
+many nonlinear	2.6666666666666665
 nonlinear dimensionality	1.5
 reduction technique	1.0
 technique also	2.0
 also exist	1.0
-component analysis pca	2.0
 nonlinear dimensionality reduction	2.5
 dimensionality reduction technique	2.0
+component analysis pca	2.0
 principal component analysis pca	2.8333333333333335
 nonlinear dimensionality reduction technique	3.0
 multidimensional data	1.75
@@ -3364,7 +3361,6 @@ nonnegative one	1.0
 promise tool	1.0
 nonnegative signal	1.0
 signal exist	1.0
-well know	1.0
 know since	2.0
 multiplicative update	1.5
 update rule	1.0
@@ -3397,7 +3393,7 @@ entitled kernel	2.0
 kernel pca	1.0
 prominent nonlinear	2.0
 nonlinear technique	1.0
-technique include	1.6666666666666667
+technique include	1.4
 include manifold	2.0
 manifold learning	2.0
 learning technique	1.0
@@ -3454,8 +3450,8 @@ stochastic neighbor	2.0
 neighbor embedding	1.0
 embedding tsne	1.0
 curvilinear component	2.0
-tdistributed stochastic neighbor	3.0
 neighbor embedding tsne	2.0
+tdistributed stochastic neighbor	3.0
 tdistributed stochastic neighbor embedding tsne	3.0
 different approach	1.125
 special kind	1.0
@@ -3465,7 +3461,6 @@ hidden layer	1.5555555555555556
 feedforward neural network	2.0
 typically perform	1.0
 pretraining e	1.0
-typically perform use	2.0
 restrict boltzmann	1.8571428571428572
 boltzmann machine	1.7333333333333334
 stage base	3.0
@@ -3575,9 +3570,9 @@ false information	1.0
 example may	3.2
 follow let	2.0
 formuladimensional input	2.0
-input space	1.05
+input space	1.0
 formulavalued target	3.0
-formula define	1.3333333333333333
+formula define	1.2727272727272727
 target function formula	2.0
 function formula define	2.0
 best function	1.5
@@ -3592,15 +3587,15 @@ correct label	1.75
 correct label formula	2.0
 noise corrupt	1.0
 define learn	1.0
-efficiently learnable	1.25
-learnable using	1.75
 valiant setting	1.0
+efficiently learnable	1.0
+learnable using	1.75
 polynomial formula	1.5
 oracle bound	1.0
-least formula	1.2
+least formula	1.2727272727272727
 condition formula	1.0
 learnable using formula	2.0
-efficiently learnable using formula	2.75
+efficiently learnable using formula	3.0
 will define	1.0
 define learnability	1.0
 classification noise	1.6666666666666667
@@ -3613,7 +3608,7 @@ return always	1.0
 faulty oracle	2.0
 oracle formula	1.0
 will flip	1.0
-algorithm formula can	4.666666666666667
+algorithm formula can	4.0
 example formula algorithm	3.0
 valiant case	1.0
 real value	1.0
@@ -3622,7 +3617,6 @@ learn become	1.0
 become impossible	1.0
 every label	1.0
 label convey	1.0
-definitionwe say	1.0
 statistical query	1.25
 query learning	1.0
 active learn	1.9
@@ -3637,6 +3631,7 @@ tolerance formula	1.5
 learn algorithm formula	2.0
 active learn problem	2.0
 learn algorithm formula can	3.0
+correctly label example	2.5
 label example formula	2.0
 correctly label example formula	2.5
 formally whenever	2.0
@@ -3646,12 +3641,13 @@ algorithm formula call	2.0
 learn algorithm formula call	3.0
 query learn	1.0
 learn model	1.2
-confidence parameter	1.0
-parameter formula	1.7692307692307692
-formula doe	2.75
-parameter formula doe	3.0
-query learn model	2.5
+statistical query learn	2.0
 polynomial formula formula	3.0
+query learn model	2.5
+confidence parameter	1.0
+parameter formula	1.6153846153846154
+formula doe	2.0
+parameter formula doe	3.0
 main purpose	1.0
 failure due	4.0
 unrepresentative sample	1.0
@@ -3688,7 +3684,7 @@ maliciously choose	2.0
 choose example	1.0
 current progress	1.0
 bound formula	1.0
-nonuniform random	2.0
+nonuniform random	1.0
 random attribute	1.0
 attribute noise	1.5
 boolean function	1.3
@@ -3699,10 +3695,11 @@ formula independently	5.0
 example formula independently	5.0
 oracle formula may	3.0
 attribute noise model	2.0
-nonuniform random attribute	2.5
+nonuniform random attribute	2.0
 nonuniform random attribute noise	3.5
 error can	3.0
-follow theorem	1.0
+follow theorem	1.3333333333333333
+theorem hold	1.0
 noise set	1.0
 can output	1.0
 instantaneously train	1.0
@@ -3738,8 +3735,8 @@ financial time	1.0
 series prediction	2.0
 prediction application	1.0
 short term learn	2.0
-deep learn	1.9166666666666667
-data mine	1.4166666666666667
+deep learn	1.736842105263158
+data mine	1.0769230769230769
 normal use	1.0
 hardware use	1.0
 optical implementation	1.0
@@ -3752,10 +3749,9 @@ node whose	2.0
 whose input	1.0
 binary input	1.0
 neuron say	3.0
-index j	4.0
+index j	3.0
 j correspond	1.0
 train vector	1.0
-follow formulawhere	2.0
 hamming weight	1.0
 binary sequence	1.0
 output layer	1.5
@@ -3770,7 +3766,7 @@ cc implementation	1.0
 feedback network	1.0
 hopfield network	1.0
 structural risk	2.25
-risk minimization	1.4285714285714286
+risk minimization	1.0689655172413792
 minimization srm	1.0
 inductive principle	1.0
 structural risk minimization	2.25
@@ -3850,7 +3846,6 @@ approach originate	1.0
 game situation	1.0
 wa learn	1.0
 layer neural	2.0
-four input	1.0
 give color	1.0
 given location	1.0
 board total	1.0
@@ -3908,8 +3903,6 @@ monte carlo tree	2.2
 monte carlo tree search	2.2
 group show	1.0
 function emerge	1.0
-framework including	2.0
-including communication	1.0
 data although	7.0
 case consider	1.0
 nearly synonymous	1.0
@@ -3936,7 +3929,7 @@ largely overlap	1.0
 machine learn data	3.5
 machine learn data mining	3.5
 common term	1.0
-learn method	1.1785714285714286
+learn method	1.206896551724138
 intelligence whereas	4.0
 whereas kdd	1.0
 large focus	1.0
@@ -3971,7 +3964,7 @@ determine whether	3.6666666666666665
 give email	1.0
 however pattern	3.0
 realvalued output	1.0
-input sequence	2.25
+input sequence	1.0
 sequence label	2.0
 example part	1.0
 speech tag	1.0
@@ -4065,7 +4058,7 @@ measure e	7.0
 inherent similarity measure	2.0
 instance consider	1.0
 multidimensional vector	1.5
-vector space	1.65
+vector space	1.4761904761904763
 space rather	1.0
 input instance	1.0
 predefined class	1.0
@@ -4144,10 +4137,11 @@ small e	1.0
 classification n	3.0
 n may	2.0
 many advantage	1.0
+nonprobabilistic algorithm	1.0
 selection algorithm	1.0
-algorithm attempt	1.1428571428571428
+algorithm attempt	1.0
 directly prune	1.0
-selection algorithm attempt	3.0
+feature selection algorithm	2.0
 general introduction	1.0
 summarize approach	2.0
 challenge ha	3.0
@@ -4159,11 +4153,10 @@ available feature	1.0
 available feature formula	2.0
 largescale comparison	1.0
 featureselection algorithm	1.0
-algorithm see	1.0
-see technique	1.0
+algorithm see	1.5
 raw feature	1.5
 feature vectors	1.0
-vectors feature	3.0
+vectors feature	2.0
 use prior	2.5
 raw feature vectors	2.0
 example feature	2.0
@@ -4204,7 +4197,7 @@ welldefined problem	2.0
 problem approximates	1.0
 possible need	1.0
 define rigorously	1.0
-loss function	1.511111111111111
+loss function	1.28
 specific value	1.0
 loss resulting	2.0
 incorrect label	1.0
@@ -4241,7 +4234,7 @@ possible output label	2.0
 output label give	4.0
 particular input instance	2.0
 vector input	1.5
-function f	5.5
+function f	5.0
 typically parameterized	1.0
 feature vector input	2.0
 discriminative approach	1.0
@@ -4251,14 +4244,14 @@ generative approach	1.0
 approach however	2.0
 inverse probability	2.0
 instead estimated	1.0
-prior probability	1.46875
+prior probability	1.3125
 formula use	1.2
-use bayes	1.5
-distribute e	1.0
+use bayes	2.0
 prior probability formula	2.0
 use bayes rule	2.0
+distribute e	1.0
 denominator involve	1.0
-involve integration	2.0
+involve integration	1.0
 integration rather	1.0
 typically learn	1.0
 learn using	1.5
@@ -4282,25 +4275,25 @@ different value	1.0
 value use	1.0
 subsequent evaluation	2.0
 evaluation procedure	1.0
-posterior probability	1.2
+posterior probability	1.1666666666666667
 bayesian approach	1.0
 problem instead	3.0
 possible value	1.0
 formula weight	1.0
 weight accord	2.0
-first pattern	2.0
+parameter vector formula	2.0
+single parameter vector formula	2.0
+first pattern	1.0
 pattern classifier	1.2
 discriminant present	1.0
-parameter vector formula	2.5
-single parameter vector formula	3.0
 frequentist approach	1.5
 approach entail	1.0
 consider unknown	1.0
 compute estimate	1.0
 collected data	1.0
 mean vectors	1.0
-covariance matrix	1.1
-class formula	2.0833333333333335
+covariance matrix	1.0909090909090908
+class formula	2.3333333333333335
 collected dataset	1.0
 classifier doe	3.0
 classification approach	3.0
@@ -4363,6 +4356,7 @@ example form	1.0
 image analysis	1.0
 digital image	1.0
 classic example	1.0
+classifier see	1.0
 sign one	1.0
 one name	1.0
 name wa	2.0
@@ -4381,10 +4375,10 @@ net classifier	1.0
 deep learning	1.0
 many realworld	2.0
 realworld application	1.0
-image process	4.0
+image process	2.0
 aforementioned application	1.0
 process see	1.0
-see e	1.0
+see e	1.3333333333333333
 process see e	2.0
 psychology pattern	2.0
 recognition making	1.0
@@ -4420,7 +4414,7 @@ whether learn	2.0
 statistical algorithm	1.0
 intelligence eager	2.0
 eager learning	1.0
-learning method	1.125
+learning method	1.0
 system try	1.0
 lazy learn	1.2857142857142858
 generalization beyond	2.0
@@ -4433,12 +4427,12 @@ thus require	1.0
 require much	2.0
 much le	2.5
 le space	1.0
-learn system	1.3333333333333333
+learn system	1.1666666666666667
 eager learn method	3.0
 target function will	3.0
 lazy learn system	3.0
 main advantage gain	2.0
-learning system	1.2
+learning system	1.1666666666666667
 system also	2.0
 also deal	1.0
 deal much	1.0
@@ -4521,7 +4515,7 @@ neighbor within	2.0
 class label formula	2.0
 become near	2.0
 learned metric	1.0
-data point formula	2.625
+data point formula	2.5
 let u denote	2.0
 another data	3.0
 different class	1.1666666666666667
@@ -4552,14 +4546,14 @@ local neighborhood	1.0
 resulting inequality	2.0
 inequality constraint	1.0
 constraint can	2.8
-state asthe	3.0
-asthe margin	1.0
 exactly one	1.0
 unit fix	2.0
 exactly one unit	2.0
 alternative choice	1.0
 choice formula	2.0
 final optimization	2.0
+problem becomes	1.0
+optimization problem becomes	2.0
 formula absorb	1.0
 impostor constraint	1.0
 overall sum	1.0
@@ -4596,18 +4590,18 @@ extension significantly	2.0
 significantly improve	1.0
 classification error	1.0
 expensive optimization	2.0
-learn research	1.3333333333333333
+learn research	1.2857142857142858
 research weinberger	1.0
 saul derive	1.0
 efficient solver	1.0
 semidefinite program	1.0
-machine learn research	3.25
+machine learn research	3.0
 can learn	1.0
 handwritten digit	1.6666666666666667
 digit data	2.0
 involve billion	1.0
 pairwise constraint	1.0
-open source	1.8
+open source	1.8181818181818181
 source matlab	1.0
 matlab implementation	1.0
 freely available	1.0
@@ -4617,38 +4611,35 @@ incorporate local	2.0
 local invariance	1.0
 multivariate polynomial	2.0
 polynomial transformation	1.0
-computational learning	1.7142857142857142
+computational learning	1.6818181818181819
 learning theory	1.1666666666666667
 theory machine	2.0
 computation rademacher	4.0
-rademacher complexity	1.7333333333333334
+rademacher complexity	1.3529411764705883
 complexity name	1.0
 rademacher measure	1.0
 realvalued function	1.4
-computational learning theory	2.235294117647059
-followswhere formula	1.0
+computational learning theory	2.2222222222222223
 independent random	2.0
 variable draw	1.0
 rademacher distribution	1.0
 independent random variable	2.0
-function define	1.2
+function define	1.6
 domain space	1.0
 empirical rademacher	2.0
-define asthis	2.0
-asthis can	2.0
+domain space formula	2.0
+realvalued function define	4.0
 write use	1.0
-denotes function	2.0
+previous definition	1.0
+denote function	2.0
 function composition	1.0
-domain space formula	3.0
-realvalued function define	2.0
 function class	1.0
 sample size	1.0
-size formula	2.1818181818181817
-formula iswhere	3.0
+size formula	2.3636363636363638
+sample size formula	3.5
+function class formula	2.0
 identically independently	3.0
 independently distribute	1.0
-sample size formula	2.5
-function class formula	2.0
 generate according	2.0
 sample formula generate	2.0
 formula contain	1.0
@@ -4661,12 +4652,12 @@ hypothesis class	1.25
 formula contains	1.0
 contains two vector	3.0
 two vector e	2.0
-thenthe rademacher	2.0
 complexity can	2.0
 derive datadependent	2.0
 datadependent upperbounds	1.0
 rademacher complexity can	3.0
 small rademacher	2.0
+small rademacher complexity	2.0
 true distribution	1.25
 quantify use	1.0
 hypothesis potential	2.0
@@ -4675,20 +4666,22 @@ corresponding set	1.0
 error function	1.0
 classifier formula	1.0
 simple loss	1.0
+small representativeness	1.0
 empirical error	1.3333333333333333
 much low	1.25
 true error	1.0
 expect representativeness	1.0
 sample can	3.3333333333333335
 expect rademacher	2.0
-class h	3.0
+class h	1.0
 h use	1.0
 use empirical	2.0
-empirical risk	2.6363636363636362
-empirical risk minimization	2.782608695652174
+empirical risk	2.230769230769231
+empirical risk minimization	2.4583333333333335
 binary error	2.0
 every hypothesis	2.0
-smaller rademacher	2.0
+hypothesis formula	1.0588235294117647
+since small	3.0
 upper bound	1.2857142857142858
 function set	1.0
 follow rule	1.0
@@ -4707,37 +4700,34 @@ finite set	1.3125
 set grow	2.0
 grow logarithmically	1.0
 formally let	1.0
-formula vector	1.0
+formula vector	1.25
 formally let formula	3.0
-thenin particular	1.0
 binary vectors	1.0
-set family	1.0
-family whose	3.0
+set family	2.0
+family whose	2.0
 whose vc	2.0
 growth function	1.0
-bound asthis	2.0
-asthis mean	1.0
 every set	1.3333333333333333
 formula element	1.0
 every set formula	2.0
 binary vector	1.0
-advance technique	1.0
-entropy bound	2.0
-bound one	1.0
+lemma give	1.0
+advance technique	2.0
+entropy bound	1.0
+bound one	2.0
 can show	1.0
 constant formula	1.4166666666666667
 vapnikchervonenkis dimension	1.0
 dimension formula	1.5
-formula ha	3.0
+formula ha	2.6666666666666665
 ha rademacher	2.0
-one can show	2.5
+one can show	2.0
 vapnikchervonenkis dimension formula	2.0
 follow bound	1.25
 linear operation	1.0
 constant set	1.0
 define formula	1.0
 unit ball	1.0
-thenthe follow	2.0
 bound relates	1.0
 give radius	2.0
 radius formula	1.0
@@ -4750,20 +4740,17 @@ vector whose	2.5
 whose length	2.0
 length norm	1.0
 every integer	2.0
-integer formulain	2.0
-formulain particular	1.0
-formula lie	1.0
+integer formula	1.0
+formula lie	2.0
 ddimensional subspace	1.0
 previous bound	1.0
-bound give	3.0
+bound give	1.0
+gaussian complexity	1.0
 similar complexity	1.0
 similar physical	2.0
 physical meaning	1.0
 complexity use	1.0
-random variables	1.0
-variables formula	1.5
 formula instead	3.6666666666666665
-random variables formula	2.5
 aiva artificial	2.0
 intelligence virtual	2.0
 virtual artist	1.0
@@ -4789,12 +4776,14 @@ human composer	1.0
 understand concept	1.0
 music theory	1.0
 algorithm aiva	1.0
-reinforcement learning	1.75
+learn architecture	1.0
+reinforcement learn architecture	2.0
 publish composer	1.0
 first studio	1.0
 wa release	1.0
 count original	4.0
 work compose	1.0
+track listing	1.0
 symphonic orchestra	1.0
 music compose	1.0
 base rate	2.3333333333333335
@@ -4911,7 +4900,8 @@ contain electric	2.0
 electric signal	2.0
 signal information	1.0
 information require	1.0
-signal processing	1.375
+signal processing	1.3333333333333333
+physical system	1.0
 biological system	1.0
 section include	1.0
 include datasets	1.0
@@ -4972,7 +4962,7 @@ hyperparameters e	3.0
 hidden unit	1.6666666666666667
 validation datasets	1.0
 datasets can	2.0
-early stop	1.3333333333333333
+early stop	1.3
 stop stop	2.0
 stop training	1.0
 dataset increase	1.0
@@ -5028,9 +5018,7 @@ dataset function	1.0
 final testing	1.0
 train data use	2.0
 basic process	1.0
-dataset validation	1.0
-dataset isan	1.0
-isan application	2.0
+dataset validation	2.0
 candidate model	1.0
 successive iteration	1.3333333333333333
 training stop	5.0
@@ -5076,7 +5064,7 @@ classification step	1.0
 step call	2.0
 classification path	1.0
 small classification step	2.0
-confusion matrix	2.0
+confusion matrix	1.6428571428571428
 typical error	1.0
 finding ways	1.0
 system make	2.0
@@ -5100,7 +5088,7 @@ train typically	2.0
 small amount	1.0
 supervise learning task	2.0
 also make use	2.0
-semisupervised learn	1.15
+semisupervised learn	1.1428571428571428
 learn fall	1.0
 completely label	1.0
 unsupervised learn without	3.0
@@ -5141,7 +5129,7 @@ practical value	1.0
 semisupervised learn can	3.0
 theoretical interest	1.0
 human learning	1.0
-supervised learn	1.5384615384615385
+supervised learn	1.5
 independently identically	1.0
 distribute example	1.0
 correspond label	1.0
@@ -5182,7 +5170,6 @@ entire input space	2.3333333333333335
 must assume	1.0
 algorithm make	1.0
 least one	1.0
-follow assumption	1.0
 semisupervised learn algorithm	2.0
 learn algorithm make	2.0
 also generally	2.0
@@ -5241,7 +5228,7 @@ learn framework wa	3.0
 inductive learning	1.0
 learning use	2.0
 use generative	2.0
-generative model	1.2857142857142858
+generative model	1.2272727272727273
 also begin	1.0
 generative model also	5.0
 probably approximately	2.0
@@ -5263,7 +5250,7 @@ statistical learn	1.7142857142857142
 learn first	2.0
 first seek	1.0
 point belong	1.0
-given point	1.5
+given point	1.3333333333333333
 given point formula	2.0
 view either	1.0
 learning classification	1.6666666666666667
@@ -5299,7 +5286,8 @@ parameterized joint	2.0
 decision function	1.0
 decision function formula	2.0
 chosen base	1.0
-data weight	1.0
+data weight	2.0
+another major	2.0
 major class	1.0
 method attempt	1.0
 place boundary	1.0
@@ -5314,26 +5302,27 @@ whereas support	1.0
 learn seek	2.0
 maximal margin	7.0
 standard hinge	3.0
-hinge loss	1.3333333333333333
+hinge loss	1.6666666666666667
 loss formula	1.0
-loss function formula	2.7
+loss function formula	2.25
 hinge loss formula	2.0
 select formula	1.0
-reproduce kernel	1.9230769230769231
-regularize empirical	2.888888888888889
-exact solution	1.5
-intractable due	3.0
+reproduce kernel	2.0
+regularize empirical	2.0
+regularize empirical risk	2.625
+hilbert space formula	2.0
+reproduce kernel hilbert	2.4615384615384617
+kernel hilbert space formula	2.3333333333333335
+reproduce kernel hilbert space	2.4615384615384617
+reproduce kernel hilbert space formula	2.75
+exact solution	1.0
+intractable due	2.0
 nonconvex term	1.0
 term formula	1.6153846153846154
 research ha	2.0
 ha focus	1.0
 find useful	2.0
 useful approximation	1.0
-hilbert space formula	2.0
-reproduce kernel hilbert	2.4615384615384617
-kernel hilbert space formula	2.3333333333333335
-reproduce kernel hilbert space	2.4615384615384617
-reproduce kernel hilbert space formula	2.75
 implement lowdensity	2.0
 lowdensity separation	1.0
 separation include	1.0
@@ -5355,15 +5344,18 @@ common method	1.0
 formula nearest	2.0
 example within	2.0
 distance formula	1.6666666666666667
-graph serf	1.0
+manifold regularization	1.2
+graph serve	1.0
 standard tikhonov	2.3333333333333335
-tikhonov regularization	1.1578947368421053
+tikhonov regularization	1.105263157894737
 regularization problem	1.0
 enforce smoothness	1.0
 intrinsic space	1.3333333333333333
 ambient input	2.0
 standard tikhonov regularization	2.3333333333333335
 tikhonov regularization problem	2.0
+problem become	1.0
+minimization problem become	2.0
 formula control	1.3333333333333333
 control smoothness	1.0
 space respectively	2.0
@@ -5373,7 +5365,6 @@ regularization term	1.3333333333333333
 intrinsic regularization term	2.0
 graph laplacian	1.0
 laplacian formula	1.0
-havethe laplacian	1.0
 laplacian can	2.0
 algorithm regularize	3.0
 regularize least	2.0
@@ -5442,32 +5433,39 @@ learning control	2.0
 control mlc	1.0
 learn intelligent	2.0
 intelligent control	1.0
-optimal control	1.5
+control theory	2.0
+solve optimal	2.0
+optimal control	2.0
 control problem	1.0
+optimal control problem	2.0
 key application	1.0
 complex nonlinear	2.0
+nonlinear system	1.0
 linear control	2.0
-control theory	2.0
 theory method	1.0
 four type	1.0
 mlc comprise	1.0
 instance neural	2.0
 network control	1.0
-control genetic	7.0
-genetic algorithm	1.263157894736842
-algorithm based	3.0
-based control	1.0
-genetic programming	1.1428571428571428
+genetic algorithm	1.2820512820512822
+base control	1.0
+genetic algorithm base	2.0
+genetic programming	1.2857142857142858
+programming control	1.0
 learn control	1.0
+datadriven control	1.0
+like artificial	2.0
 robot control	1.0
-control genetic algorithm	2.0
-control genetic programming	4.0
 mlc ha	2.0
 nonlinear control	1.0
+explore unknown	1.0
 example application	1.0
+application include	1.1666666666666667
+example application include	2.0
 general nonlinear	2.0
-guaranteed convergence	2.0
-convergence optimality	1.0
+nonlinear method	1.0
+mlc come	1.0
+guaranteed convergence	1.0
 learning automaton	1.0
 one type	1.0
 algorithm study	2.0
@@ -5510,10 +5508,10 @@ reinforcement learner	1.0
 learner policy	1.0
 iterators directly	2.0
 directly manipulate	1.0
-evolutionary algorithm	1.1428571428571428
+evolutionary algorithm	1.125
 formally narendra	1.0
 thathachar define	1.0
-stochastic automaton	5.0
+stochastic automaton	1.0
 confuse action	1.0
 automaton correspond	1.0
 markov process	1.0
@@ -5537,10 +5535,10 @@ finite input	1.5
 finite input set	2.0
 finite actionset	1.0
 actionset learn	1.0
-possible action	1.0
+possible action	1.5
 mathematical term	1.0
 statistical classification	1.2
-classification include	2.0
+classification include	2.6666666666666665
 include machine	1.0
 learn two	2.0
 two main	2.0
@@ -5606,13 +5604,13 @@ label y	2.0
 can compute	1.0
 directly without	4.0
 classifier one	2.0
-can estimate	3.0
+can estimate	2.0
 formula discriminative	1.0
 base classification	6.0
 formula generative	1.0
 one can compute	2.0
 classifier one can	3.0
-one can estimate	3.5
+one can estimate	2.75
 conditional probability formula	2.0
 increasingly indirect	1.0
 increasingly probabilistic	1.0
@@ -5672,21 +5670,21 @@ hence sum	1.0
 either conditional	2.0
 marginal distribution formula	2.0
 conditional distribution can	3.0
-one conditional	11.0
+one conditional	2.0
 estimate probability	1.5
 y denote	1.0
 denote formula	1.6666666666666667
-opposite conditional	4.0
+opposite conditional	2.0
 probability use	1.0
-example give	1.5
+estimate probability distribution	2.0
+one conditional probability	2.0
+conditional probability use	2.0
+formula one can estimate	3.0
+example give	1.0
 rule compute	1.0
 compute one	2.0
 probability compute	2.0
 compute conditional	2.0
-estimate probability distribution	2.0
-one conditional probability	11.0
-conditional probability use	2.0
-formula one can estimate	4.0
 generative algorithm	1.3333333333333333
 algorithm model	1.0
 data wa	2.0
@@ -5744,15 +5742,14 @@ follow data	2.0
 data estimate	1.0
 empirical measure	1.0
 measure will	4.0
-formula will	3.1333333333333333
-follow give	1.5
+joint probability distribution formula	3.0
+formula will	3.0
 english word	1.0
 word pair	7.0
 sentence begin	1.0
 proper english	1.0
 will increasingly	2.0
 increasingly approximate	1.0
-joint probability distribution formula	3.0
 english word pair	3.0
 dimensionality refer	2.0
 various phenomenon	1.0
@@ -5783,7 +5780,7 @@ statistical significance	1.0
 statistically sound	1.0
 reliable result	1.5
 data need	2.0
-result often	4.0
+result often	3.3333333333333335
 often grows	1.0
 grows exponentially	1.0
 also organizing	1.0
@@ -5810,7 +5807,7 @@ two complementary	2.0
 complementary influential	2.0
 influential principle	1.0
 highdimensional data analysis	2.0
-take one	1.3333333333333333
+take one	1.25
 several discrete	2.0
 discrete value	1.0
 variable can take	2.0
@@ -5866,7 +5863,7 @@ data sample	1.0
 value typically	3.0
 enormous amount	1.0
 several sample	1.0
-machine learn problem	2.2857142857142856
+machine learn problem	2.142857142857143
 typical rule	1.0
 least training	2.0
 fix number	1.0
@@ -5889,11 +5886,11 @@ highdimensional euclidean space	2.0
 hypersphere become	1.0
 volume relative	1.0
 can clearly	2.0
-formula go	2.0
+formula go	2.2
+dimension formula go	2.0
 increase without	2.0
 without bound	1.0
 fix r	1.0
-dimension formula go	2.0
 sense nearly	2.0
 another way	1.0
 highdimensional unit	1.0
@@ -5927,7 +5924,8 @@ data point p	5.0
 p become	1.0
 become indiscernible	1.0
 indiscernible compare	2.0
-often cite	1.0
+minimum distance	1.0
+often cited	1.0
 function lose	1.0
 nearestneighbor criterion	1.0
 however recent	3.0
@@ -5937,7 +5935,7 @@ onedimensional distribution	1.0
 research ha show	2.0
 correlated data	1.0
 become easier	1.0
-provide high	2.0
+provide high	2.5
 high distance	1.0
 distance contrast	3.0
 signaltonoise ratio	1.0
@@ -5970,14 +5968,14 @@ noise dimension	1.0
 dimension however	2.0
 however reduce	1.0
 manner described	3.0
-series analysis	1.3846153846153846
+series analysis	1.3076923076923077
 inherently highdimensional	2.0
 highdimensional distance	1.0
 function also	2.0
 also work	1.0
 work reliably	1.0
 high enough	1.0
-time series analysis	2.6153846153846154
+time series analysis	2.5384615384615383
 distance function also	2.0
 another effect	1.0
 high dimensionality	1.0
@@ -5996,12 +5994,12 @@ knn classifier	1.0
 classifier semisupervised	1.0
 also affect	1.0
 affect information	1.0
-information retrieval	1.5
+information retrieval	1.4666666666666666
 recent survey	2.0
 follow problem	1.0
-analyze specialize	2.0
+analyze specialize	1.0
 specialize method	1.0
-method tackle	1.0
+method tackle	2.0
 tackle one	1.0
 remain many	2.0
 many open	2.0
@@ -6027,7 +6025,7 @@ winnow hedge	1.0
 hedge optimization	1.0
 optimization solving	1.0
 solving linear	2.0
-linear program	3.5
+linear program	1.0
 program theoretical	2.0
 theoretical computer	1.0
 computer science	1.375
@@ -6048,7 +6046,7 @@ fictitious play	1.0
 randomize variant	1.0
 solve twoplayer	2.0
 twoplayer zerosum	1.5
-zerosum game	3.3333333333333335
+zerosum game	1.75
 game efficiently	2.0
 efficiently use	1.0
 weight algorithm	1.5
@@ -6067,7 +6065,7 @@ famous winnow	2.0
 winnow algorithm	1.0
 earlier perceptron	1.0
 perceptron learn	1.0
-machine learn littlestone	2.5
+machine learn littlestone	2.0
 weight update rule	2.0
 multiplicative weight update rule	3.0
 weight majority	2.090909090909091
@@ -6165,7 +6163,7 @@ vote among	2.5
 remaining expert	1.0
 majority vote among	3.0
 therefore every	3.0
-every time	2.0
+every time	1.6
 aggregator make	1.0
 least half	1.0
 therefore every time	3.0
@@ -6199,14 +6197,13 @@ mistake compare	1.0
 advice will	3.0
 will remain	1.0
 expert advice will	4.0
-formula increase	1.5
+formula increase	2.0
 will decrease	1.0
 researcher fix	1.0
 formula step	1.0
 step let	1.0
 algorithm ha	2.75
 ha make	1.0
-every formulain	2.0
 best expert	1.0
 expert will	2.0
 will give	1.0
@@ -6220,8 +6217,9 @@ expert predicting positive	2.5
 prediction make	1.0
 algorithm calculate	1.0
 random decision	1.4
-randomize weight	2.0
+computed fraction	1.0
 random decision base	4.0
+randomize weight	2.0
 underlying assumption	1.0
 learner make	1.0
 randomize algorithm	2.0
@@ -6251,7 +6249,6 @@ plan formula	2.3333333333333335
 column player	1.0
 formula us	1.0
 us plan	1.0
-formulaformula assuming	1.0
 assuming formula	1.0
 player formula use	2.0
 formula choose	1.0
@@ -6264,8 +6261,8 @@ formula player	1.0
 choose plan	1.5
 choose plan formula	2.0
 expect payoff	1.0
-john von	1.0
-von neumann	1.0
+john von	2.0
+von neumann	3.0
 row q	2.0
 j change	2.0
 common value	1.0
@@ -6279,6 +6276,7 @@ solving zerosum	1.5
 additive factor	1.0
 additional processing	2.0
 processing time	1.0
+per call	1.0
 solving zerosum game	2.0
 later freund	1.0
 schapire generalize	1.0
@@ -6291,8 +6289,8 @@ method wa	3.5
 first use	1.0
 method wa first	2.0
 wa first use	2.0
-give formula label	4.0
 formula label example	2.5
+formula label example formula	3.0
 find nonnegative	2.0
 nonnegative weight	1.0
 weighted combination	1.0
@@ -6302,6 +6300,7 @@ generality assume	1.0
 total weight	1.0
 notational convenience	2.0
 problem reduces	1.0
+follow lp	1.0
 general form	1.0
 exponential update	2.0
 generally used	1.0
@@ -6323,11 +6322,12 @@ using multiplicative	2.0
 current iteration using	3.0
 learn rate	1.2
 learn rate formula	2.0
+expert formula	1.0
+initialization fix	1.0
 expert associate	1.0
-algorithm maintain	2.0
+algorithm maintain	1.0
 iteration formula	1.0
 weak learner	2.0
-hypothesis formula	1.0625
 new hypothesis	3.0
 formula adaboost	1.0
 adaboost generates	1.0
@@ -6341,9 +6341,9 @@ t weak	2.0
 weak hypothesis	1.0
 hypothesis use	1.0
 weighted majority vote	2.0
+formula matrix formula	2.0
 oracle algorithm	1.0
 zerosum problem	1.0
-formula matrix formula	2.0
 error parameter formula	2.0
 linear system	1.0
 give vector	2.0
@@ -6353,7 +6353,7 @@ x satisfies	1.0
 also true	1.5
 oracle return	1.0
 feasible solution	1.0
-solution formula	5.0
+solution formula	1.0
 return ha	3.0
 ha bound	1.0
 bound width	1.0
@@ -6369,7 +6369,7 @@ le similar	1.0
 nearestneighbor nn	2.0
 nn search	2.0
 search problem	1.8571428571428572
-set s	1.1428571428571428
+set s	1.0
 space m	1.0
 query point	2.6363636363636362
 close point	1.0
@@ -6392,6 +6392,7 @@ one example	1.0
 asymmetric bregman	2.0
 inequality doe	2.0
 numerous field	1.0
+various solution	1.0
 nns problem	1.0
 time complexity	1.125
 space complexity	1.0
@@ -6413,7 +6414,7 @@ algorithm sometimes refer	2.0
 linear search	1.0
 complexity beyond	2.0
 naive search	1.0
-search can	2.3333333333333335
+search can	2.0
 average outperform	2.0
 outperform space	1.0
 space partition	1.0
@@ -6444,9 +6445,9 @@ query time	1.0
 time average	3.0
 average complexity	1.0
 randomly distributed	1.0
-distributed point	1.0
-point worst	1.0
-worst case	3.0
+distributed point	2.0
+point worst	2.0
+worst case	2.0
 case complexity	1.0
 structure wa	2.0
 wa design	1.0
@@ -6616,7 +6617,7 @@ approximate near neighbor search	2.0
 search identify	1.0
 top k	1.0
 k nearest	2.0
-predictive analytics	1.5714285714285714
+predictive analytics	1.4285714285714286
 point base	3.0
 neighbor graph	1.0
 good guess	1.0
@@ -6651,7 +6652,7 @@ give fix	2.0
 fix distance	1.0
 specified point	1.0
 fix however	1.0
-application e	3.0
+application e	1.6666666666666667
 n datapoints	1.0
 every one	1.0
 n point	1.3333333333333333
@@ -6769,6 +6770,7 @@ use newly	3.0
 newly promote	1.0
 promote pattern	2.5
 text corpus	1.0
+cpl extract	1.0
 maintain high	2.0
 high precision	1.0
 avoid extremely	3.0
@@ -6815,7 +6817,7 @@ logic learn	1.0
 learn machine	1.2
 machine llm	1.0
 intelligible rule	1.0
-machine learn method	2.6
+machine learn method	2.6363636363636362
 logic learn machine	2.25
 efficient implementation	1.0
 switch neural	2.25
@@ -6848,7 +6850,7 @@ good accuracy	1.0
 provide deep	2.0
 deep insight	1.0
 hand decision	2.0
-decision tree	1.2307692307692308
+decision tree	1.2666666666666666
 often lack	1.0
 lack accuracy	1.0
 network make	2.0
@@ -6873,14 +6875,14 @@ formula correspond	1.0
 give configuration	1.0
 output value formula	2.0
 value formula correspond	2.0
-formwhere consequence	1.0
-consequence contain	2.0
-value whereas	2.0
-whereas premise	1.0
-premise include	2.0
+consequence contain	1.0
+value whereas	1.0
+whereas premise	2.0
+premise include	1.0
 include one	2.0
 input type	1.0
 type condition	1.0
+different form	1.0
 possible rule	1.0
 output type	1.0
 type different	3.0
@@ -6939,7 +6941,7 @@ regularization along	2.0
 component regression	1.0
 regularization scheme	1.0
 scheme fall	1.0
-spectral regularization	2.0
+spectral regularization	1.5
 regularization regularization	1.0
 regularization characterize	1.0
 principal component regression	2.0
@@ -6960,16 +6962,14 @@ regularize nonparametric regression problem	2.0
 unknown probability	2.0
 probability measure	1.0
 measure formula	1.0
-give bywhere	2.0
-bywhere formula	1.6666666666666667
 regression function formula	2.0
 function formula give	3.0
 input space formula	2.0
 space formula output	3.0
 output space formula	2.0
 unknown probability measure	2.0
-give bywhere formula	2.6
 unknown probability measure formula	2.0
+regression function formula give	4.0
 common choice	1.0
 use function	1.0
 one common choice	2.0
@@ -6988,29 +6988,26 @@ iteration number	1.0
 compute prior	2.0
 solution process	1.0
 formula minimize	1.0
-functionalwhere formula	1.0
-expect risk	2.75
+expect risk	1.8333333333333333
 leastsquares loss	2.0
-since formula	1.9
+since formula	1.9166666666666667
 formula depends	1.0
 instead consider	1.0
+follow empirical risk	2.0
 descent apply	1.0
 risk respectively	1.0
 step size	1.25
 step size formula	2.6666666666666665
 formula form	6.0
-population iteration	3.5
+population iteration	3.0
 sample iteration	1.0
 usually converge	1.0
 overfitting solution	1.0
 minimum expected	2.0
-expected risk	4.6
-regression functionthis	16.0
-functionthis difference	1.0
-difference can	4.0
+expected risk	1.1666666666666667
+difference can	2.0
 two term	1.0
-functionthis equation	1.0
-equation present	3.0
+equation present	1.0
 optimal stopping	2.0
 may depend	1.0
 unknown probability distribution	2.2
@@ -7052,7 +7049,7 @@ ha begin	1.0
 commonly employ	1.0
 follow summary	1.0
 naive implementation	1.0
-sophisticate form	1.0
+sophisticated form	1.0
 form use	1.0
 multiple partition	1.0
 set instead	4.0
@@ -7160,7 +7157,8 @@ software product	1.0
 various license	2.0
 license model	1.0
 model available	1.0
-classification technique	1.6666666666666667
+classification technique	1.0
+document classification technique	2.0
 identification nli	2.0
 author native	2.0
 native language	1.0
@@ -7323,8 +7321,8 @@ fundamental design	2.0
 design goal	1.0
 abstract away	1.0
 concrete entity	1.0
-represent instead	3.0
-instead general	1.0
+represent instead	2.0
+instead general	2.0
 general principle	1.0
 universally applicable	1.0
 countless way	1.0
@@ -7343,7 +7341,7 @@ also informally	2.0
 informally refer	1.0
 array may	2.0
 decompose analyze	1.0
-mpca can	2.0
+mpca can	3.0
 tucker decomposition	1.0
 peter kroonenbergs	3.0
 kroonenbergs mmode	2.0
@@ -7376,14 +7374,16 @@ multimodal data	3.0
 tensor analysis	1.5
 data tensor analysis	2.5
 tensor framework	1.0
-analyze human	3.0
-human motion	8.0
+analyze human	2.0
+human motion	7.0
 motion joint	2.0
 joint angle	1.0
 angle facial	2.0
 facial image	1.0
 follow work	1.0
-work human	3.0
+work human	4.0
+motion signature	1.0
+cvpr etc	1.0
 computer graphic	1.0
 historically mpca	2.0
 mpca ha	2.0
@@ -7451,12 +7451,9 @@ visualization task	1.0
 mpca feature selection	5.0
 various extension	1.0
 follow outline	1.0
-machine learningmachine	15.0
-learningmachine learning	14.5
 learning subfield	1.0
 particularly soft	1.0
 soft compute	1.0
-machine learningmachine learning	15.5
 arthur samuel	1.0
 samuel define	2.0
 define machine	1.0
@@ -7477,12 +7474,27 @@ strictly static program	2.0
 static program instruction	2.0
 strictly static program instruction	3.0
 follow strictly static program instruction	4.5
-field involving	3.0
+field involving	2.0
 involving machine	1.0
-learning tool	2.0
+learn hardware	1.0
+learn tool	1.0
+tool list	3.0
+machine learn framework	2.0
+proprietary machine	1.0
 source machine	1.0
-learning library	2.0
-library machine	1.0
+learn library	1.0
+machine learn library	2.0
+method list	1.0
+ensemble learn	2.0
+meta learn	1.75
+tree algorithm	1.0
+association rule	2.142857142857143
+rule learn	1.5
+association rule learn	2.3333333333333335
+anomaly detection	1.0
+learn project	1.0
+machine learn project	2.5
+learn organization	1.0
 knowledge integration	1.6666666666666667
 synthesize multiple	2.0
 multiple knowledge	2.0
@@ -7524,7 +7536,6 @@ process involves	1.0
 involves determine	1.0
 knowledge interact	1.0
 existing knowledge	1.0
-learn agent	1.0
 actively investigate	1.0
 learn opportunity	1.0
 opportunity e	1.0
@@ -7589,7 +7600,7 @@ machine learn algorithm can	4.0
 improve classical method	2.0
 quantum machine learn algorithm can	4.0
 algorithm can use	3.0
-learn algorithm can	3.4
+learn algorithm can	3.6
 hand one	2.0
 can apply	1.0
 apply classical	2.0
@@ -7604,7 +7615,6 @@ fully quantum	1.0
 related branch	1.0
 structural similarity	2.0
 certain physical	2.0
-physical system	1.0
 particular neural	2.0
 ha reveal	1.0
 certain mathematical	2.0
@@ -7715,7 +7725,6 @@ often combine	1.0
 quantum walk	1.0
 enhance google	2.0
 simulation framework	1.0
-reinforcement learn agent	2.0
 third branch	1.0
 learning distinct	1.0
 also admit	1.0
@@ -7749,6 +7758,7 @@ relevant machine	1.0
 probabilistic model	1.0
 model define	1.0
 boltzmann distribution	2.6666666666666665
+probabilistic model define	2.0
 generic probabilistic	2.0
 hard algorithm	1.0
 algorithm relying	1.0
@@ -7802,7 +7812,6 @@ recently use	1.0
 special class	1.0
 can serve	1.0
 building block	1.0
-learn architecture	1.0
 deep learn architecture	2.0
 complementary work	1.0
 appear roughly	1.0
@@ -7951,7 +7960,7 @@ process device	1.0
 either classical	1.0
 learning discuss	1.0
 consider specific	2.0
-specific problem	1.25
+specific problem	1.2
 use quantum	2.0
 quantum protocol	1.0
 although quantum	3.0
@@ -7991,8 +8000,9 @@ exact learn	2.0
 quantum superposition	1.0
 exact learner	2.0
 classical learner	1.0
-learner us	1.0
-learn efficiently	2.0
+learner use	1.0
+learn efficiently	1.0
+quantum learner	1.0
 plausible complexitytheoretic	2.0
 complexitytheoretic assumption	1.0
 plausible complexitytheoretic assumption	2.0
@@ -8024,16 +8034,17 @@ agnostic model	1.0
 doesnt significantly	2.0
 significantly reduce	1.0
 example need	1.0
-every concept	4.0
+every concept	3.0
 class classical	1.0
+quantum sample	2.0
 constant factor	1.0
+fix distribution	2.0
 d quantum	1.0
-example can	3.0
-learn dnf	2.0
+example can	2.5
+learn dnf	1.0
 uniform distribution	1.0
 consider time	1.0
 exist concept	1.0
-quantum learner	1.0
 learner even	2.0
 classical example	1.0
 learn type	1.0
@@ -8091,9 +8102,9 @@ classification hamiltonian	1.0
 hamiltonian learn	1.0
 unknown unitary	2.0
 unitary transformation	1.0
+follow list	1.0
 classical machine learn technique	4.0
 additional application	1.0
-application includein	1.0
 learning device	1.0
 section give	1.0
 one class	1.0
@@ -8267,7 +8278,7 @@ case evaluated	4.0
 may seem	1.0
 seem obvious	1.0
 key metric	1.0
-model may	2.8
+model may	2.6
 predictive model may	3.0
 example predictive	2.0
 insurance fraud	2.0
@@ -8279,10 +8290,12 @@ sample data	2.0
 carefully check	1.0
 confusion assist	1.0
 assist analyze	1.0
-model m	1.8181818181818181
+model m	1.6923076923076923
+formula definition	1.0
+table table	1.0
 fraud model	2.0
 fraud model m	2.0
-formulaformula accuracy	1.0
+formula accuracy	1.0
 m appear	1.0
 perform fairly	2.0
 fairly well	1.0
@@ -8294,7 +8307,6 @@ always predict	1.0
 trivial always	3.0
 predict negative	2.0
 negative model	2.0
-table table	1.0
 inaccurate prediction	1.0
 apparent improvement	1.0
 new model	3.0
@@ -8353,7 +8365,7 @@ level feature	2.0
 feature engineering	1.3
 problem domainspecific	2.0
 domainspecific property	1.0
-exact inference	1.6
+exact inference	1.0
 level feature engineering	2.0
 learn perspective	1.0
 allow decouple	2.0
@@ -8417,21 +8429,21 @@ framework although	3.0
 linear programming ilp	2.0
 integer linear programming ilp	2.5
 feature function	2.75
-constraint formula	11.0
+constraint formula	2.5
 input structure	1.0
 structure formula	1.3333333333333333
 output structure	1.0
 constraint conditional	2.0
 two weight	2.0
 vector w	1.0
-boolean mapping	1.0
-mapping indicate	1.0
-joint assignment	1.0
-assignment formula	2.0
-formula violate	1.0
-penalty incur	1.0
 feature function formula	2.0
 constraint formula define	5.0
+boolean mapping	1.0
+mapping indicate	1.0
+joint assignment	2.0
+assignment formula	1.0
+formula violate	1.0
+penalty incur	1.0
 constraint assign	1.0
 infinite penalty	1.0
 hard constraint	1.0
@@ -8713,7 +8725,7 @@ limit progress	1.0
 ilp le	1.0
 less focus	1.0
 learning set	1.0
-relational data	2.5
+relational data	2.0
 machine learning set	3.0
 relational data mining	2.3333333333333335
 ilp koza	1.0
@@ -8737,7 +8749,7 @@ represent production	2.0
 production rule	1.0
 logic program can	4.0
 fact early	2.0
-inductive inference	2.25
+inductive inference	2.176470588235294
 inference consider	1.0
 consider grammar	2.0
 lisp program	1.0
@@ -8842,12 +8854,12 @@ regular language	2.0
 approach since	4.0
 problem since	3.3333333333333335
 grammatical inference ha	4.0
-contextfree grammar	3.6666666666666665
+contextfree grammar	2.5
 multiple contextfree	3.0
 parallel multiple	2.0
 multiple contextfree grammar	3.0
 contextual grammar	1.0
-pattern language	2.2
+pattern language	1.7272727272727273
 simple form	1.0
 algorithm merely	2.0
 merely receive	1.0
@@ -8974,17 +8986,18 @@ exist rule	1.0
 existing rule	1.0
 also several	2.0
 several greedy	2.0
-grammar generating	5.0
-generating algorithm	5.0
+grammar generating	2.0
+generating algorithm	1.0
 every read	2.0
+read symbol	1.0
+contextfree grammar generating	2.0
+generating algorithm make	2.0
+contextfree grammar generating algorithm	2.0
 algorithm first	2.0
 first read	1.0
 whole given	2.0
 recent approach	1.0
 distributional learn	1.0
-contextfree grammar generating	5.0
-generating algorithm make	2.0
-contextfree grammar generating algorithm	5.0
 learn contextfree	2.0
 large subclass	1.0
 angluin define	1.0
@@ -9014,7 +9027,7 @@ sophisticate argument	1.0
 word length	1.0
 state count	1.0
 count can	2.0
-drastically reduce	3.0
+drastically reduce	1.0
 pattern learn	1.0
 language class	3.5
 limited union	1.0
@@ -9033,7 +9046,7 @@ algebraic vocabulary	1.0
 statistical approach	1.0
 mathematical coverage	2.0
 coverage pattern	2.0
-theory span	1.0
+theory span	2.0
 span algebra	1.0
 local topological	1.0
 induction ha	2.3333333333333335
@@ -9060,7 +9073,7 @@ message length mml	2.6666666666666665
 minimum message length mml	3.6666666666666665
 minimum description length	3.6666666666666665
 language acquisition	1.0
-action model	3.6
+action model	2.8181818181818183
 model learning	1.0
 learning sometimes	2.0
 action learn	1.2
@@ -9170,6 +9183,7 @@ several different solution	2.0
 perceptron algorithm	3.5
 multi level	1.0
 level greedy	2.0
+possible action model	2.0
 old paper	1.0
 learning wa	2.3333333333333335
 wa study	1.0
@@ -9210,6 +9224,7 @@ credit opportunity	1.0
 opportunity act	1.0
 act regulation	2.0
 regulation b	1.0
+federal regulation	1.0
 x part	1.0
 action take	1.0
 certain circumstance	1.0
@@ -9226,15 +9241,13 @@ associate explanation	1.0
 explanation identify	1.0
 factor affect	2.0
 example might	2.0
-might bethe	1.0
-bethe european	1.0
 european union	1.0
 union general	2.0
-general data	3.3333333333333335
-data protection	3.7142857142857144
+general data	3.0
+data protection	3.5714285714285716
 protection regulation	1.0
 take effect	1.0
-effect extend	2.0
+effect extend	4.0
 automated decisionmaking	2.0
 decisionmaking right	1.0
 protection directive	1.0
@@ -9242,10 +9255,10 @@ legally dispute	1.0
 dispute form	1.0
 explanation state	1.0
 data subject	1.0
-general data protection	3.3333333333333335
+general data protection	3.0
 data protection regulation	2.0
 data protection directive	2.0
-general data protection regulation	3.3333333333333335
+general data protection regulation	3.0
 decision reach	1.0
 significant legal	2.0
 legal issue	1.0
@@ -9330,10 +9343,10 @@ decision often	2.0
 easily explain	1.0
 require machine	1.0
 high standard	1.0
-category utility	1.9444444444444444
+category utility	1.5
 category goodness	1.0
 goodness define	1.0
-attribute value	3.0
+attribute value	3.25
 different attribute	2.0
 wa intend	1.0
 limited measure	1.0
@@ -9360,7 +9373,7 @@ formulaary feature	1.0
 formula category	1.0
 formula designate	6.0
 question belongs	2.0
-category formula	4.4
+category formula	3.0
 value formula give	4.0
 term formula designate	8.0
 feature formula take	8.0
@@ -9378,17 +9391,17 @@ informationtheoretic definition	1.0
 sizeformula binary	3.0
 binary feature	1.0
 binary category	2.0
+feature set formula	2.0
 entity belong	1.0
 positive category	2.0
 feature information	1.25
 information formula	1.0
-entity belongs	8.0
+entity belongs	7.0
 category information	1.0
-feature set formula	2.0
-feature formula give	6.0
+feature formula give	9.0
 category formula formula	2.0
 feature information formula	2.0
-formula represent	1.2
+formula represent	1.1666666666666667
 optimally encoding	1.0
 transmitting feature	1.0
 describe belong	1.0
@@ -9400,7 +9413,7 @@ final term	1.0
 utility will	3.0
 simple demonstration	1.0
 u assume	2.0
-feature variable	3.3333333333333335
+feature variable	2.2857142857142856
 cardinality formula	1.0
 formula distinct	2.0
 distinct value	1.0
@@ -9427,24 +9440,23 @@ aggregate feature	1.5
 formula replaces	1.0
 replaces multiple	2.0
 multiple summation	1.0
-feature variable formula	5.5
+feature variable formula	2.3333333333333335
 aggregate feature variable formula	3.0
 assume also	2.0
 single category	3.0
-category variable	4.0
-category variable formula	7.5
+category variable	1.6666666666666667
+category variable formula	2.0
 case discuss	2.0
+mutual information formula	2.0
 adopt value	5.0
-formula simultaneously	3.0
-simultaneously adopt	2.0
+formula simultaneously	4.0
+simultaneously adopt	1.0
 respective value	1.0
 variable formula adopt	7.0
-mutual information formula	2.0
 adopt value formula	5.0
 value formula formula	3.0
 category variable formula adopt	4.0
 feature variable formula adopt	3.0
-define asif	4.0
 will rewrite	1.0
 original definition	1.0
 equation clearly	2.0
@@ -9541,8 +9553,8 @@ fashion thereby	2.0
 substantial predictive	2.0
 predictive leverage	1.0
 mill put	1.0
-base mill	3.0
-mill reach	2.0
+base mill	2.0
+mill reach	1.0
 follow conclusion	1.0
 much subsequent	1.0
 subsequent think	1.0
@@ -9568,7 +9580,7 @@ infer object class	2.0
 accurately infer object	7.0
 also compare	1.0
 concept describe	1.0
-formal concept	1.962962962962963
+formal concept	1.5862068965517242
 concept analysis	1.2
 formal concept analysis	2.1333333333333333
 one may also	2.0
@@ -9598,6 +9610,8 @@ hoc see	1.0
 utility wa	2.0
 sophisticated refinement	1.0
 rigorously quantify	1.0
+full inferential	2.0
+inferential power	1.0
 class structure	1.0
 certain view	1.0
 great overall	2.0
@@ -9743,7 +9757,7 @@ world article	1.0
 microsoft ceo	1.0
 random matrix	1.0
 matrix theory	5.0
-isotropic position	3.0
+isotropic position	1.6666666666666667
 vector space formula	2.0
 formula sample	2.0
 vector formula sample	2.0
@@ -9762,9 +9776,9 @@ particular instance	1.0
 countable set	1.5
 symbol disjoint	3.0
 finite nonempty	1.5
-countable set x	2.0
 finite nonempty string	2.0
-pattern p	2.7142857142857144
+countable set x	2.0
+pattern p	1.5
 p denote	1.0
 pattern contain	1.5
 contain exactly	3.0
@@ -9775,28 +9789,28 @@ occur several	2.0
 several time	1.0
 pattern contain exactly	3.5
 map f	2.0
-f p	2.0
-p p	1.0
-p q	3.5
+f p	1.0
+p p	2.0
+p q	2.4
 q p	1.5
 substitution f	4.0
 less general	1.25
 q write	2.0
-case necessarily	3.0
+pattern p q	3.0
+p q p	2.5
+pattern p q p	4.0
+case necessarily	2.0
 necessarily p	1.0
 q hold	1.0
-pattern p q	2.0
-p q p	2.5
-pattern p q p	2.0
 general pattern	1.0
 formally lp	2.0
 lp s	1.0
 s s	3.0
 s p	1.0
-x x	2.25
+x x	2.0
 y z	1.0
 variable x x	2.0
-x x y	2.5
+x x y	2.0
 pattern xxx	2.0
 xxx p	1.0
 xxy p	1.0
@@ -9805,28 +9819,30 @@ map x	1.0
 z respectively	1.0
 also instance	1.0
 pattern x	1.0
-bit string	1.5833333333333333
+bit string	1.4615384615384615
 odd binary	2.0
 binary number	1.0
 number respectively	2.0
+string obtainable	1.0
 decide whether	2.0
 whether s	2.0
 s lp	1.0
 arbitrary string	1.0
 string s	1.0
 npcomplete see	2.0
+see picture	1.0
 decide p	2.0
 arbitrary pattern	1.0
-equivalence hold	1.0
-equal length	1.0
+lp lq	2.0
 contain exactly one	4.0
 exactly one variable	2.0
+equivalence hold	1.0
+equal length	1.0
 different length	3.0
 example p	1.0
 p xxx	1.0
 q xxy	2.0
 xxy show	1.0
-lp lq	2.0
 lq may	2.0
 may hold	1.0
 hold without	2.0
@@ -9848,31 +9864,33 @@ language respectively	1.0
 explicitly shown	1.0
 pattern language class	2.0
 finite language	1.0
+contextfree language	1.0
 singleton language	1.0
 language generate	1.0
 pattern without	2.5
 without variable	1.0
-b c	7.0
+indexed grammar	1.0
+pattern language can	3.5
+b c	2.5
 x b	1.0
-b y	2.0
-y c	1.0
+b y	1.0
+y c	2.0
 c x	2.0
 y b	1.0
-symbol n	4.0
+symbol n	7.0
 n s	1.0
 s x	2.0
 x terminal	2.0
 symbol t	3.0
 t index	1.0
 index symbol	1.0
-symbol f	3.0
+symbol f	1.0
 c start	2.0
 start symbol	1.0
 symbol s	1.0
-follow production	3.0
-example derivation	1.0
-pattern language can	3.5
+follow production	2.0
 s s s	3.0
+example derivation	1.0
 index grammar	1.0
 sample set	1.0
 s lq	1.0
@@ -9900,7 +9918,7 @@ column represent	1.0
 actual class	1.0
 name stem	1.0
 confuse two	2.0
-contingency table	1.8333333333333333
+contingency table	1.7142857142857142
 two dimension	1.0
 dimension actual	2.0
 identical set	2.0
@@ -9910,8 +9928,8 @@ matrix will	2.0
 will summarize	1.0
 animal cat	2.0
 result confusion	2.0
-look like	2.1
-confusion sometimes	4.0
+look like	2.0
+confusion sometimes	3.0
 two row	1.3333333333333333
 two column	1.3333333333333333
 negative true	2.0
@@ -9941,7 +9959,6 @@ whereas informedness	1.0
 informedness remove	1.0
 guess cat	1.0
 corresponding table	1.0
-bethe final	3.0
 final table	1.0
 average value	1.0
 class combine	1.0
@@ -9987,6 +10004,7 @@ gambler face	1.0
 highest expected	1.0
 expected payoff	5.0
 also face	1.0
+reinforcement learning	1.8571428571428572
 practice multiarmed	2.0
 model problem	1.0
 manage research	2.0
@@ -10003,7 +10021,7 @@ constructed convergent	3.5
 convergent population	1.5
 population selection	1.0
 selection strategy	1.0
-sequential design	2.0
+sequential design	1.5
 population selection strategy	2.0
 convergent population selection	2.0
 constructed convergent population selection	3.5
@@ -10027,6 +10045,7 @@ total value	1.0
 time consider	1.0
 practical application	1.0
 bandit model	1.0
+many practical application	2.0
 practical example	1.0
 problem require	1.0
 reward maximization	1.0
@@ -10036,7 +10055,6 @@ already acquire	1.0
 attempt new	2.0
 new action	1.0
 increase knowledge	1.0
-many practical application	2.0
 exploration tradeoff	1.0
 control dynamic	2.0
 dynamic allocation	1.0
@@ -10261,14 +10279,11 @@ contextual multiarmed	2.0
 contextual multiarmed bandit	2.0
 contextual multiarmed bandit problem	2.0
 agent see	1.0
-ddimensional feature	2.0
+ddimensional feature	3.0
 vector context	2.0
-learner use	1.0
 context vector	1.0
 vector along	3.0
 arm play	1.0
-play inthe	2.0
-inthe current	2.0
 learner aim	1.0
 collect enough	2.0
 enough information	1.0
@@ -10295,6 +10310,7 @@ work focus	1.0
 computationally inefficient	1.0
 simple algorithm	1.2
 logarithmic regret	1.0
+another variant	1.0
 adversarial bandit	1.5
 bandit first	2.0
 first introduce	1.0
@@ -10320,7 +10336,7 @@ discount ucb	2.0
 another work	1.0
 weight least	2.0
 square thompson	2.0
-thompson sample	1.5
+thompson sample	1.0
 sample approach	2.0
 prove beneficial	1.0
 unknown nonstationary	3.0
@@ -10330,8 +10346,8 @@ alternative solution	1.0
 ucb name	1.0
 name adjust	1.0
 adjust upper	2.0
-upper confidence	2.3333333333333335
-confidence bound	3.3333333333333335
+upper confidence	2.0
+confidence bound	1.0
 stochastic model	1.0
 provide upperbounds	1.0
 upper confidence bound	2.3333333333333335
@@ -10357,11 +10373,11 @@ traditional mab	2.0
 bandit relative	1.0
 relative upper	2.0
 relative exponential	2.0
-exponential weighing	1.0
-bound ccb	2.0
-ccb relative	2.0
+exponential weighing	2.0
+bound ccb	1.0
+ccb relative	1.0
 relative minimum	2.0
-minimum empirical	3.0
+minimum empirical	2.0
 empirical divergence	1.0
 double thompson	3.0
 collaborative filtering	1.75
@@ -10429,7 +10445,6 @@ cmab setting	1.0
 general setting	1.0
 arbitrary set	1.0
 learning manifold	1.0
-manifold regularization	2.0
 many machine	1.0
 many machine learn	2.2
 many machine learn problem	3.0
@@ -10457,10 +10472,9 @@ can extend	1.0
 extend supervise	1.0
 transductive learning	2.0
 learning setting	1.0
-supervise learn algorithm	2.142857142857143
+supervise learn algorithm	2.0
 algorithm can extend	2.0
 technique ha	2.0
-application include	1.3333333333333333
 include medical	1.0
 medical image	1.0
 image geographical	2.0
@@ -10472,7 +10486,7 @@ particular manifold	2.0
 regularization extends	1.5
 space rkhss	4.0
 manifold regularization extends	3.0
-hypothesis space	2.6296296296296298
+hypothesis space	2.206896551724138
 learning algorithm attempt	2.0
 rkhs meaning	1.0
 every candidate	3.0
@@ -10485,12 +10499,12 @@ algorithm using	1.0
 using tikhonov	3.0
 regularization will	2.0
 will attempt	1.0
+learn algorithm using	2.0
+label training data formula	2.0
 will prefer	1.0
 prefer simple	2.0
-data better	6.0
-learn algorithm using	2.0
+data better	2.0
 prefer simple function	2.0
-label training data formula	2.0
 regularization add	1.0
 second regularization	1.0
 intrinsic regularizer	1.0
@@ -10521,7 +10535,7 @@ input point	1.0
 laplacian matrix	1.0
 graph can	3.0
 graph can help	3.0
-data include	1.5
+data include	1.3333333333333333
 include formula	3.0
 example pair	1.0
 input formula	1.0
@@ -10542,6 +10556,7 @@ intrinsic norm	1.0
 norm can	2.0
 empirical definition	1.0
 final expression	1.0
+solve become	4.0
 method formula	1.0
 infinitedimensional space	1.0
 regularization expression	1.0
@@ -10549,15 +10564,14 @@ solve explicitly	1.0
 representer theorem	1.1333333333333333
 theorem show	1.0
 certain condition	1.0
-optimal solution	5.333333333333333
+optimal solution	1.25
 formula must	2.5714285714285716
 kernel center	1.0
-weight formulausing	1.0
-finitedimensional space	1.0
-space define	1.0
 representer theorem show	2.0
 solution formula must	3.0
-optimal solution formula	14.0
+optimal solution formula	2.0
+finitedimensional space	1.0
+space define	1.0
 regularization can	2.8333333333333335
 express use	1.0
 use tikhonov	2.0
@@ -10580,6 +10594,7 @@ extended version	1.0
 call laplacian	1.0
 laplacian regularize	3.0
 square abbreviate	1.0
+abbreviate laprls	2.0
 laplacian support	2.0
 machine lapsvm	1.0
 lapsvm respectively	1.0
@@ -10604,11 +10619,16 @@ kernel matrix	1.0
 data label	1.0
 laplacian term	1.0
 regularization give	3.0
-laplacian rls	4.0
-formula block	2.0
+laplacian rls	1.0
+rls statement	1.0
+formula block	3.0
 block matrix	1.0
-problems including	2.0
-including sensor	3.0
+block matrix formula	2.0
+laprls ha	2.0
+problem include	2.0
+include sensor	2.0
+sensor network	1.0
+compress image	1.0
 machine svms	1.5
 algorithm often	3.0
 support vector machine svms	3.0
@@ -10616,15 +10636,14 @@ svm draw	1.0
 closest label	1.0
 directly express	1.0
 also equivalent	1.0
-expression give	5.0
-lapsvm problem	1.0
+expression give	3.0
+lapsvm problem	2.0
 theorem allow	1.0
 dual problem	1.0
-hinge loss function	2.0
-bewhere formula	1.0
-problem include	2.0
+lapsvm ha	2.0
 include geographical	2.0
-block matrix formula	2.0
+geographical image	1.0
+machine maintenance	1.0
 stochastic block	1.625
 block model	1.2
 random graph	1.0
@@ -10647,10 +10666,11 @@ recover community	2.0
 community structure	1.0
 graph data	1.0
 model take	1.0
+follow parameter	1.0
 edge set	1.0
 two vertex	2.5
 two vertex formula	2.0
-probability matrix	1.2
+probability matrix	1.1666666666666667
 erdsrnyi model	1.5
 erdsrnyi model formula	2.0
 community become	1.0
@@ -10670,12 +10690,12 @@ call dissortative	1.0
 general stochastic	3.0
 call strongly	2.0
 strongly assortative	1.0
-formula whenever	3.6666666666666665
-whenever formula	2.6666666666666665
+formula whenever	3.0
+whenever formula	2.3333333333333335
 diagonal entry	1.0
 entry dominate	1.0
 general stochastic block model	3.0
-formula whenever formula	3.6666666666666665
+formula whenever formula	3.0
 call weakly	2.0
 weakly assortative	1.0
 dissortative form	1.0
@@ -10690,7 +10710,7 @@ address three	2.0
 three statistical	2.0
 task detection	1.0
 detection partial	2.0
-partial recovery	1.0
+partial recovery	2.0
 exact recovery	1.2857142857142858
 detection algorithm	1.0
 determine given	2.0
@@ -10741,10 +10761,10 @@ average degree	1.0
 fix formula resulting	2.0
 two equalsized	2.0
 equalsized community	1.0
-estimator fails	1.0
-fails partial	3.0
-probability formula whenever	8.0
-probability formula whenever formula	8.0
+estimator fail	2.0
+fail partial	2.0
+probability formula whenever	6.0
+probability formula whenever formula	6.0
 whenever formula whereas	3.0
 logarithmic average	2.0
 similar threshold	1.0
@@ -10770,7 +10790,7 @@ algorithm perform	1.0
 average case	1.0
 performance guarantee	2.0
 recovery setting	1.0
-algorithm include	2.7777777777777777
+algorithm include	2.8
 include spectral	1.5
 spectral clustering	1.0
 vertex semidefinite	1.0
@@ -11087,21 +11107,20 @@ covariates predictor	1.0
 link formula	1.0
 usually nonnegative	1.0
 loss function usually	3.0
-risk formula	1.6
-bethe general	2.0
+risk formula	1.0
+expect risk formula	2.0
 general goal	1.0
-expected risk formula	2.0
 find solution	1.0
 finite sample	1.3333333333333333
 learning task can	3.0
 seek instead	1.0
+one usual	2.0
 usual algorithm	1.0
 condition give	2.0
 equation stronger	2.0
-isthe intuition	1.0
 strict requirement	1.0
 sequence formula	1.1428571428571428
-risk can	5.0
+risk can	4.0
 different formula	1.0
 sequence formula converges	2.0
 always unknown	1.0
@@ -11138,7 +11157,6 @@ often consider	1.0
 formula might	2.0
 tradeoff can	2.0
 mathematically express	1.0
-express asin	2.0
 decomposition part	1.0
 part formula	1.0
 part formula doe	3.0
@@ -11163,8 +11181,6 @@ finite positive	2.0
 empirical minimization	2.0
 minimization algorithm	1.0
 dual form	1.0
-problem isthis	1.0
-isthis wa	5.0
 solve illposed	2.0
 illposed problem	1.0
 wa first introduce	2.0
@@ -11186,6 +11202,7 @@ closely link	1.0
 empirical process	4.0
 process theory	1.0
 empirical risk formula	2.0
+stochastic convergence	1.0
 uniform glivenkocantelli	2.0
 glivenkocantelli class	1.0
 certain regularity	2.0
@@ -11197,7 +11214,7 @@ often know	1.0
 however note	1.0
 author give	1.0
 stochastic convex	2.0
-uniform convergence	1.4
+uniform convergence	1.5
 matthew correlation	1.8
 classification introduce	1.0
 matthew correlation coefficient	2.0
@@ -11254,7 +11271,6 @@ binary classifier	1.1428571428571428
 classifier prediction	1.0
 matrix context	1.0
 matthews correlation coefficient	2.0
-followsthe matthews	1.0
 coefficient ha	2.0
 multiclass case	1.0
 generalization wa	2.0
@@ -11262,11 +11278,11 @@ wa call	1.0
 formula statistic	1.0
 k different	2.0
 formula confusion	2.0
-matrix formulawhen	2.0
+confusion matrix formula	2.0
+k different class	2.0
 two label	1.0
 mcc will	2.0
 longer range	1.0
-k different class	2.0
 minimum value	1.0
 value will	3.0
 minimum value will	3.0
@@ -11373,7 +11389,7 @@ various bayesian	2.0
 selection model	1.0
 method require	1.0
 require model	2.0
-input variable	1.5
+input variable	1.1176470588235294
 model outcomes	2.0
 outcomes distribution	1.0
 y can	4.0
@@ -11394,7 +11410,7 @@ series forecasting	1.0
 forecasting nowcasting	1.0
 nowcasting infer	1.0
 structural time series	2.5
-time series model	3.0
+time series model	2.3333333333333335
 selection time series	2.0
 time series forecasting	2.0
 feature selection time series	3.0
@@ -11413,7 +11429,7 @@ solve multiple	2.0
 multiple problem	1.0
 deal successfully	3.0
 problem domain	1.0
-learn include	1.3333333333333333
+learn include	1.1666666666666667
 large space	1.6666666666666667
 space requirement	1.0
 entire train	2.0
@@ -11454,12 +11470,13 @@ robot observe	1.0
 person behavior	2.0
 behavior seem	1.0
 irl problem	1.0
+give measurement	1.0
 agent behaviour	1.0
 circumstance measurement	1.0
 physical environment	1.0
 environment include	2.0
 agent body	1.0
-body determine	6.0
+body determine	7.0
 irl researcher	1.0
 russell proposes	1.0
 irl might	2.0
@@ -11546,13 +11563,15 @@ adam coates	1.0
 ng autonomous	2.0
 autonomous helicopter	2.0
 helicopter aerobatics	1.0
+work wa develop	2.0
 system learns	1.0
 learns rule	1.0
 associate precondition	1.0
-work wa develop	2.0
 one demonstration	1.0
 generalize plan	1.0
 two demonstration	1.0
+repetitive ball	1.0
+collection task	1.0
 often explain	1.0
 software work	1.0
 human operator	1.0
@@ -11668,7 +11687,7 @@ expert poe	1.0
 several simple	2.0
 simple distribution	1.0
 hinton along	1.0
-combine several	2.0
+combine several	1.5
 several probability	2.0
 poe classification	1.0
 classification similar	1.0
@@ -11740,7 +11759,7 @@ human subject	1.0
 classification study	1.0
 classifier compare	2.0
 binary attribute	2.0
-attribute one	3.5
+attribute one	1.5
 standard method	1.0
 compare two method	3.0
 binary attribute one	2.0
@@ -11924,7 +11943,7 @@ mimic indicator	1.0
 become evident	1.0
 certain lag	2.0
 lag time	1.0
-follow example	1.5
+follow example	1.3333333333333333
 pregnancy test	1.0
 test will	3.0
 will make use	2.0
@@ -11967,13 +11986,14 @@ patient test result	2.0
 hand give	1.0
 disease despite	2.0
 various relationship	1.0
-prevalence sensitivity	8.0
-pair metric	1.0
-also single	2.0
-single metric	1.0
-predictive value can	8.0
-negative predictive value can	3.0
+prevalence sensitivity	1.0
+follow identity	1.0
+predictive value can	3.0
 positive predictive value can	3.0
+negative predictive value can	3.0
+paired metric	1.0
+also single	3.0
+single metric	1.0
 simple statistic	1.0
 fraction correct	2.0
 correct fc	1.0
@@ -12018,8 +12038,9 @@ relative weight	1.0
 balance fscore	4.0
 fscore f	3.5
 harmonic mean	1.0
-extraction evaluation	1.0
 fscore f score	4.0
+note however	1.0
+extraction evaluation	1.0
 instead measure	1.0
 coefficient matthew	4.0
 coefficient informedness	1.0
@@ -12094,7 +12115,9 @@ refine concept	1.0
 repeat presentation	1.0
 perceptual concept	2.0
 concept v	2.0
-v abstract	1.0
+v abstract	2.0
+abstract concept	1.0
+associated concept	3.0
 complex concept	1.0
 small concept	1.0
 person follow	1.0
@@ -12249,13 +12272,13 @@ memory rouder	1.0
 radiologist using	1.0
 using rulebased	1.0
 rulebased categorization	1.0
+whether specific	2.0
 specific property	1.0
 xray image	1.0
-image meet	2.0
+image meet	1.0
+meet certain	1.0
 extreme difference	1.0
 region relative	1.0
-decision isthen	1.0
-isthen base	2.0
 see rouder	1.0
 prototype view	1.0
 learn hold	1.0
@@ -12273,15 +12296,17 @@ inventory base	2.0
 semantic similarity	1.0
 illustrate imagine	1.0
 follow mental	2.0
-mental representation	2.5
+mental representation	1.0
+category sport	1.0
 first illustration	1.0
-illustration demonstrates	1.0
+illustration demonstrate	1.0
 competitive nature	1.0
 second illustration	1.0
+illustration demonstrates	1.0
 prototype theory	1.0
 theory hypothesize	1.0
-continuous less	3.0
-less discrete	1.0
+continuous le	3.0
+le discrete	1.0
 discrete way	1.0
 category definition	1.0
 prototype theory hypothesize	2.0
@@ -12377,7 +12402,7 @@ mental process	1.0
 process generalization	1.0
 particular theory	1.0
 relatively new	1.0
-bayes theorem	2.0
+bayes theorem	1.25
 powerful tool	1.0
 control data	1.0
 large view	1.0
@@ -12462,7 +12487,7 @@ major goal	1.0
 reduce three	2.0
 three common	2.0
 common error	1.0
-developmental robotics	1.4285714285714286
+developmental robotics	1.0
 robotics devrob	1.0
 devrob sometimes	2.0
 scientific field	1.0
@@ -12551,13 +12576,14 @@ functional modeling	1.0
 integrate architecture	1.0
 generally developmental	3.0
 follow three	2.0
+three feature	1.0
 robotics emerge	1.0
 several research	2.0
 research community	1.0
 community including	2.0
 including embodied	2.0
 embodied artificial	2.0
-system cognitive	2.0
+system cognitive	1.0
 science connectionism	1.0
 essential idea	1.0
 development happen	2.0
@@ -12622,13 +12648,13 @@ guide developmental	2.0
 developmental organism	1.0
 several important	2.0
 important family	1.0
-project strongly	2.0
+human development	1.3333333333333333
+project strongly	3.0
 strongly interact	1.0
-human development	1.5
 identify biological	2.0
 biological mechanism	1.0
 abstraction level	1.0
-model may vary	6.0
+model may vary	5.0
 project aim	1.0
 model precisely	2.0
 biological implementation	1.0
@@ -12821,10 +12847,11 @@ best class	1.6666666666666667
 class probabilistic	1.0
 highest probability	1.0
 numerous advantage	1.0
+nonprobabilistic classifier	1.0
 wa undertake	1.0
 problem lead	1.0
 discriminant function	1.0
-statistical classification wa	6.0
+statistical classification wa	4.0
 work assume	1.0
 normal distribution	1.0
 multivariate normal distribution	2.0
@@ -12908,14 +12935,12 @@ predicted category	1.0
 high score	1.3333333333333333
 score function	1.3333333333333333
 linear predictor	1.6666666666666667
-predictor function	3.0
+predictor function	1.0909090909090908
 follow general	2.0
-general formwhere	1.0
-formwhere x	2.0
+linear predictor function	2.0
 weight correspond	1.0
 score associated	1.0
 assign instance	1.0
-linear predictor function	2.0
 discrete choice	1.0
 choice theory	1.0
 instance represent	1.0
@@ -12926,15 +12951,15 @@ utility associate	1.0
 choosing category	2.0
 basic setup	1.0
 determine train	1.0
-classification algorithms	2.0
-performance depend	3.0
-depend greatly	1.0
+classification algorithm include	3.0
+classifier performance	4.0
+performance depend	1.0
+depend greatly	2.0
 work best	1.0
 give problem	1.0
 various empirical	2.0
 empirical test	1.0
 compare classifier	2.0
-classifier performance	7.0
 determine classifier	2.0
 given problem	1.0
 however still	2.0
@@ -12949,11 +12974,12 @@ operate characteristic roc	2.0
 receiver operate characteristic roc	3.0
 uncertainty coefficient	1.5
 simple accuracy	1.0
+simply rearrange	1.0
 mine procedure	1.0
 detail statistical	2.0
 statistical modeling	1.5
 evolutionary programming	1.1666666666666667
-four major	3.0
+four major	2.0
 major evolutionary	2.0
 algorithm paradigm	1.0
 numerical parameter	1.0
@@ -12992,7 +13018,6 @@ vector framework	1.0
 framework tikhonov	2.0
 stable solution	1.0
 matrix rather	1.0
-write aswhere	2.0
 vector norm	1.0
 norm enforce	1.0
 regularization penalty	1.0
@@ -13010,18 +13035,13 @@ multiple kernel learn	2.8
 input matrix	2.0
 general model	1.0
 output formula	1.0
-pose aswhere	2.0
+output formula can	3.5
 frobenius inner	2.0
 frobenius inner product	2.0
-output formula can	3.5
 different application	1.0
-different form	1.0
-infer formula	2.0
-aswhere formula	2.0
-formula defines	1.0
+infer formula	1.0
 matrix formula will	5.0
 matrix regularization penalty	2.0
-write aswhere formula	2.0
 typically chosen	1.0
 often select	1.0
 enforce sparsity	1.6666666666666667
@@ -13031,8 +13051,8 @@ formulanorms andor	2.0
 andor smoothness	2.0
 smoothness using	2.0
 finally formula	2.0
-canonical basis	1.0
 matrix formula take	2.0
+canonical basis	1.0
 select individual	2.0
 individual element	1.0
 reconstruct formula	1.0
@@ -13050,11 +13070,11 @@ familiar form	1.0
 norm use	1.0
 single variable	2.0
 variable regression	1.0
-regression can	4.0
+regression can	3.5
 multivariate case	1.0
 vector norm use	2.0
 squared frobenius	2.0
-frobenius norm	4.666666666666667
+frobenius norm	1.0
 formulanorm acting	1.0
 acting either	2.0
 either entrywise	1.0
@@ -13066,7 +13086,6 @@ multitask learning	1.0
 primary difference	1.0
 also index	1.0
 task column	1.0
-thenthe role	1.0
 setting can	3.0
 couple learning	2.0
 problem across	3.0
@@ -13076,7 +13095,7 @@ particular note	1.0
 solution correspond	1.0
 joint problem	1.0
 isolate regression	2.0
-formula model	5.0
+formula model	1.0
 scheme can	2.0
 enforce similarity	1.0
 solution across	2.0
@@ -13113,7 +13132,7 @@ reduced set	1.5
 coefficient matrix can	5.0
 rank coefficient matrix can	6.0
 sparse optimization	1.0
-optimization ha	3.25
+optimization ha	2.5
 ha become	1.0
 much research	2.0
 research interest	1.0
@@ -13135,8 +13154,7 @@ will find solution	2.0
 straightforward example	1.0
 structured sparsity	1.9090909090909092
 sparsity use	2.0
-formula norm	2.1818181818181817
-formulafor example	2.0
+formula norm	1.6
 group feature	1.0
 feature across	3.0
 give row	1.0
@@ -13146,10 +13164,10 @@ rowwise norm	1.0
 regularization result	1.0
 sparsity columnwise	1.0
 arbitrary group	1.0
+formula norm can	3.0
 index formula	1.0
 across group	1.0
 formula indicate	2.0
-formula norm can	3.0
 group sparsity	1.0
 sparsity problem	1.0
 problem extend	3.0
@@ -13158,12 +13176,13 @@ group lasso	1.2941176470588236
 implement via	2.0
 via match	1.0
 match pursuit	1.75
-proximal gradient	1.8
+proximal gradient	1.8181818181818181
 gradient method	1.0
 group lasso method	3.0
 proximal gradient method	2.0
 give coefficient	2.0
 coefficient formula	1.5
+soft threshold	1.0
 indicator function	1.0
 group norm	1.0
 group norm formula	3.0
@@ -13188,10 +13207,12 @@ different appropriate	2.0
 appropriate kernel	6.0
 two kernel	1.5
 correspond reproducing	2.0
-linear independence	2.5
+two space	1.0
 large space formula	2.0
 space formula can	3.5
 reproducing kernel hilbert space formula	2.0
+assume linear	1.0
+linear independence	2.0
 use kernel	1.0
 matrix regularization function	2.0
 nonlinear variable	2.5
@@ -13273,8 +13294,6 @@ important step	1.0
 mine process	1.0
 phrase garbage	1.0
 particularly applicable	1.0
-learn project	1.0
-machine learn project	2.6666666666666665
 often loosely	2.0
 loosely control	1.0
 control resulting	1.0
@@ -13317,7 +13336,7 @@ selection etc	6.0
 final training	2.0
 wellknown algorithm	1.0
 learning hyperparameter	2.0
-hyperparameter optimization	1.875
+hyperparameter optimization	1.3333333333333333
 optimal hyperparameters	1.0
 can require	1.0
 require different	2.0
@@ -13341,7 +13360,7 @@ associated loss	1.0
 objective function take	2.0
 generalization performance	1.0
 traditional way	1.0
-grid search	1.375
+grid search	1.3333333333333333
 manually specified	1.0
 specified subset	1.0
 hyperparameter space	1.0
@@ -13349,9 +13368,9 @@ hyperparameter optimization ha	5.0
 algorithm must	2.0
 metric typically	3.0
 typically measure	1.0
+grid search algorithm	2.0
 heldout validation	1.0
 heldout validation set	2.0
-grid search algorithm	2.0
 parameter space	1.3333333333333333
 may include	1.0
 include realvalued	2.0
@@ -13440,6 +13459,7 @@ optimization algorithm	1.0
 using automatic	2.0
 automatic differentiation	1.0
 iterative optimization algorithm	3.0
+optimization algorithm using	2.0
 evolutionary optimization	1.0
 optimization evolutionary	1.0
 optimization use	1.0
@@ -13456,6 +13476,7 @@ architecture search	1.0
 automate machine learn	2.0
 neural network architecture	2.5
 deep neural network architecture	3.0
+evolutionary optimization ha	3.0
 spectral approach	2.0
 user behavior	1.0
 behavior analytics	2.0
@@ -13651,16 +13672,15 @@ three main property	2.0
 reproduce property	1.0
 give name	1.0
 unified framework	1.0
-generalize linear	2.5
-generalize linear model	2.5
+generalize linear	2.0
+generalize linear model	2.0
 squared norm	1.0
 rkhs can	2.5
-write asand	3.5
-regularized functionalwhere	2.0
+regularized functional	1.0
 first term	1.0
-predict formula	1.8
+predict formula	2.0
 true value formula	2.0
-second term	2.5
+second term	1.2
 rkhs multiply	1.0
 regularizer determines	1.0
 penalize high	2.0
@@ -13672,12 +13692,9 @@ theorem state	1.0
 functional can	3.0
 representer theorem state	2.0
 coefficient formula can	4.0
-thatwe can	2.0
 can rewrite	1.0
-functional asthis	2.0
-asthis functional	1.0
 can find	1.0
-estimator state	6.0
+estimator state	5.0
 state previously	1.0
 kernel play	2.0
 crucial role	1.0
@@ -13702,49 +13719,47 @@ usually use	1.0
 priori distribution	1.0
 covariance matrix can	4.0
 formula follow	1.0
-mean function	1.0
-function formulain	2.0
-formulain term	1.0
+mean function	2.0
+kernel function formula	2.0
 underlie gaussian	2.0
-formula thenwhere	1.0
-thenwhere formula	3.0
-multivariate gaussian	2.3333333333333335
 finite set formula	2.0
+multivariate gaussian	2.3333333333333335
 multivariate gaussian distribution	2.0
 regression context	1.0
 usually assumed	1.0
-assumption corresponds	1.0
-zeromean gaussian	2.0
+distribute iid	1.0
+assumption correspond	1.0
+zeromean gaussian	3.0
 gaussian noise	1.0
+iid assumption	1.0
 assumption make	1.0
 noise formula	2.0
 compute analytically	1.0
 data point give	2.0
-test input	1.6666666666666667
+test input	1.5
+vector formula give	2.0
+covariance function formula	2.0
 regularization theory	1.0
 finite dimensional	2.0
 dimensional rkhs	1.0
-covariance function formula	2.0
-vector formula give	2.0
-bayesian theory can	4.0
+bayesian theory can	5.0
 assumption regularization	2.0
 process prediction	1.0
 dimensional case	1.0
 case every	3.0
 every rkhs	1.0
+kernel formula can	5.0
 now build	1.0
 assume formula	1.0
 zero mean	1.5
 identity covariance	1.0
 gaussian likelihood	1.0
-kernel formula can	4.0
-thatwe can now	2.0
 resulting posterior	2.0
 maximum posterior	3.0
 posterior map	1.0
 map estimate	1.0
-problem defining	2.0
-defining tikhonov	2.0
+problem defining	3.0
+defining tikhonov	1.0
 bayesian case	1.0
 noise variance	1.0
 philosophical perspective	1.0
@@ -13785,11 +13800,10 @@ machine learning model can	3.5
 type depend	2.0
 use case	1.0
 case look	2.0
-open human	5.0
-human labeled	1.0
+open human	2.0
+human labeled	2.0
 labeled datasets	1.0
-datasets open	3.0
-human label	2.0
+open human labeled	2.0
 active learning	1.3333333333333333
 information source	1.0
 new data point	2.25
@@ -13827,6 +13841,7 @@ interesting activity	1.0
 additional protein	1.0
 one might	2.0
 might want	1.0
+three subset	1.0
 current research	1.0
 best method	1.0
 active learn involves	3.0
@@ -13945,8 +13960,8 @@ detectable implication	1.0
 formula since	4.0
 since every	2.5
 one formula	1.0
-form formula since	5.0
 since every formula	2.5
+form formula since	5.0
 formula since every formula	4.5
 variable resolution	3.5
 resolution two	3.0
@@ -13980,7 +13995,6 @@ naively analyzing	1.0
 variable independently	1.5
 independently since	3.0
 variable discretization	1.0
-follow variable	3.0
 variable granulation	1.5
 reduce dimensionality	2.0
 dimensionality redundancy	2.0
@@ -14074,7 +14088,6 @@ thus partition	1.0
 natural division	1.0
 one practical	2.0
 successively choose	1.0
-two variable	1.0
 variable either	2.0
 previously agglomerate	1.0
 agglomerate variable	1.0
@@ -14098,7 +14111,7 @@ unique combination	1.0
 operation however	4.0
 merge redundant	2.0
 redundant variable	9.0
-way since	3.0
+way since	2.5
 another can	2.0
 database system	2.0
 system aggregation	1.0
@@ -14169,7 +14182,7 @@ variable will yield	5.0
 will yield different	3.0
 elementary rough	1.0
 set theory	1.0
-simple concept	6.0
+simple concept	3.5
 system onto	2.5
 onto different	2.0
 recognize alternative	2.0
@@ -14181,16 +14194,17 @@ full set	1.0
 attribute formula	1.0
 follow seven	3.0
 seven equivalence	1.0
-equivalence class	2.2857142857142856
+equivalence class	2.5
 primitive simple	2.0
+primitive simple concept	2.0
 object within	7.0
 first equivalence	2.0
-another base	6.0
-available attribute	6.0
+another base	5.0
+available attribute	7.0
 three object	1.0
 second equivalence	2.0
-one another base	7.0
-equivalence class formula	5.5
+one another base	5.0
+equivalence class formula	7.0
 two object within	3.0
 remain five	2.0
 five object	1.0
@@ -14218,17 +14232,17 @@ set let	2.0
 particular concept	2.0
 concept structure	1.0
 structure induce	1.0
-attribute set	2.7142857142857144
+attribute set	2.2222222222222223
 let formula represent	2.0
-attribute set formula	2.5
+attribute set formula	2.375
 formula consists	1.0
 structure formula will	3.0
 concept structure formula	2.0
 another attribute	2.0
+set formula formula	2.0
 low approximation	1.0
 approximation see	1.0
 see rough	2.0
-set formula formula	2.0
 positively identified	1.0
 target set	1.5
 set formula can	4.0
@@ -14254,9 +14268,6 @@ dependency among	2.0
 among attribute	1.0
 value table	1.0
 u consider	1.0
-set formulaon	1.5
-formulaon attribute	2.0
-attribute set formulaon	2.0
 correctly classify	1.0
 formula base	2.75
 definitively categorize	1.0
@@ -14266,7 +14277,7 @@ interesting dependency	1.0
 particular data	3.0
 mining application	1.0
 strong dependency	1.0
-smaller attribute	4.0
+smaller attribute	3.0
 see shortly	1.0
 class structure formula	2.0
 now large	1.0
@@ -14361,8 +14372,11 @@ technique described	1.0
 case call	1.0
 problem proaftn	2.0
 proaftn proceeds	1.0
+follow stage	1.0
 conceive use	1.0
 two follow	2.0
+follow step	1.0
+direct technique	1.0
 expert intervention	1.0
 indirect technique	1.0
 parameter without	3.0
@@ -14395,7 +14409,7 @@ medium platform	1.0
 platform privacy	2.0
 search engine result	2.0
 algorithmic bias ha	3.3333333333333335
-search result	2.0
+search result	1.0
 can create	1.0
 create result	1.0
 result reflect	1.0
@@ -14797,7 +14811,9 @@ first partner	2.0
 second partner	1.0
 partner rather	3.0
 placement preference	1.0
-additional emergent	2.0
+additional emergent	1.0
+bias include	1.0
+unpredictable correlation	1.0
 correlation can	2.0
 correlation can emerge	2.0
 data collect	1.0
@@ -14814,7 +14830,7 @@ orientation data	1.0
 case correlation	1.0
 reason beyond	2.0
 algorithm ability	1.0
-program give	3.0
+program give	2.5
 give low	2.0
 low priority	1.0
 high risk	1.6666666666666667
@@ -15010,9 +15026,12 @@ user show	2.0
 increase effect	1.0
 among user	2.0
 vote among user	3.0
+legal scholar	1.0
 ha warn	1.0
 professional networking	3.0
 networking site	1.0
+site linkedin	1.0
+linkedin wa	2.0
 recommend male	2.0
 male variation	1.0
 woman name	1.0
@@ -15029,7 +15048,7 @@ user interaction	1.0
 department store	1.0
 target wa	2.0
 wa cite	1.0
-gather data	2.5
+gather data	1.5
 woman customer	1.0
 pregnant even	3.0
 market partner	1.0
@@ -15368,17 +15387,19 @@ produce simple solution	2.0
 automated machine	1.0
 can target	1.0
 target various	2.0
-various stage	7.0
-tackle various	2.0
+various stage	1.0
+learn process	1.0
+machine learn process	2.0
 automated machine learning	2.0
 machine learning can	3.0
+software tackle	1.0
+tackle various	2.0
 similarity learning	1.0
 supervise machine	1.0
 supervise machine learn	2.3333333333333335
 similarity function	1.0
 relate two	3.0
 recommendation system	1.0
-system visual	2.0
 visual identity	1.0
 identity track	1.0
 track face	2.0
@@ -15391,7 +15412,7 @@ distance learn	4.0
 learn similarity	1.0
 bilinear form	1.0
 rank similarity	1.0
-similarity learn	2.0
+similarity learn	2.3333333333333335
 one aim	1.0
 matrix w	2.0
 similarity function formula	2.0
@@ -15440,14 +15461,13 @@ supervise approach	1.0
 approach like	2.0
 like knearest	2.0
 nearby object	1.0
-approach metric	1.0
+metric learning ha	3.5
 learn naively	2.0
 naively scale	1.0
 scale quadratically	1.0
 easily see	1.0
 learn metric	1.0
 bilinear form formula	2.0
-metric learning ha	3.5
 can easily see	2.0
 matrix model	1.0
 high dimension can	4.0
@@ -15494,7 +15514,7 @@ sparse binary	2.0
 vector employ	1.0
 twodimensional topographic	2.0
 topographic semantic	2.0
-semantic space	2.6666666666666665
+semantic space	1.0909090909090908
 distributional reference	2.0
 reference frame	1.0
 sparse binary vector	2.0
@@ -15532,21 +15552,23 @@ retrieval literature	1.0
 vector space model	2.2
 space implement	1.0
 wordvector can	5.0
-word y	7.0
-position x	2.0
+word y	1.5
+follow algorithm	1.0
+give word y	2.0
+position x	1.0
 semantic map	1.0
-x represents	1.0
-represents cartesian	2.0
-process will	6.0
+x represent	1.0
+represent cartesian	2.0
+cartesian coordinate	1.0
+process will	3.0
 wordvector contain	1.0
 y appears	1.0
 will therefore	2.0
-give word y	2.0
 resulting wordvector	1.0
 sparse distributed	2.0
 distributed representation	1.5
 sparse distributed representation	2.0
-computational semantics	2.0
+computational semantics	1.0
 language domain	1.0
 domain aim	1.0
 create representation	1.0
@@ -15741,7 +15763,6 @@ present theorem	1.0
 learning map	1.0
 formula map	1.0
 map formula map	2.0
-example formula onto	4.0
 function call	1.5
 call formula	1.0
 algorithm learns	1.0
@@ -15749,23 +15770,19 @@ learn map	2.0
 deterministic algorithm	1.0
 size m	1.0
 will build	1.0
-training set s	2.5
+training set s	2.0
 m modify	2.0
 modify training	2.0
-hypothesis stability	6.0
-function v	5.0
-follow holdsformulaan	8.0
-holdsformulaan algorithm	8.0
+modify training set	2.0
+hypothesis stability	1.0
+function v	1.0
+loss function v	2.0
 pointwise hypothesis	2.0
 error stability	1.0
-uniform stability	3.0
+uniform stability	1.0
 probabilistic version	1.0
 formula decrease	1.0
-modify training set	2.0
-loss function v	6.5
-holdsformulaan algorithm formula	8.0
-follow holdsformulaan algorithm formula	8.0
-cvloo stability	7.0
+cvloo stability	1.0
 formula stability	1.0
 symmetric learn	1.0
 bound loss	1.0
@@ -15825,6 +15842,7 @@ generation ha	3.0
 fitness level	1.0
 level ha	2.0
 typical genetic	3.0
+algorithm requires	1.0
 standard representation	1.0
 genetic representation	1.3333333333333333
 representation convenient	1.0
@@ -15966,17 +15984,18 @@ help prevent premature convergence	3.0
 termination condition	1.0
 condition ha	2.0
 common terminating	2.0
-terminating condition	2.0
+terminating condition	1.0
 algorithm frequently	2.0
 frequently succeed	1.0
 generating solution	1.0
 high fitness	1.0
 block hypothesis	1.0
-consensus regard	3.0
+building block hypothesis	2.0
+goldberg describe	1.0
+consensus regard	2.0
 buildingblock hypothesis	1.0
 consistently evaluate	1.0
-reference throughout	3.0
-building block hypothesis	2.0
+reference throughout	4.0
 many estimation	1.0
 although good	3.0
 generality andor	1.0
@@ -15984,8 +16003,7 @@ gas efficiency	1.0
 efficiency still	2.0
 still remain	1.0
 reasonable amount	1.0
-algorithm compare	3.0
-alternative optimization	3.0
+alternative optimization	2.0
 algorithm represents	1.0
 simple algorithm represents	2.0
 typically numeric	1.0
@@ -16176,7 +16194,7 @@ phenotypic interaction	1.0
 adaptively reduce	1.0
 reduce disruptive	2.0
 disruptive recombination	1.0
-approach include	1.25
+approach include	1.2
 particularly appropriate	1.0
 many scheduling	2.0
 scheduling software	2.0
@@ -16321,9 +16339,9 @@ perfect always	2.0
 always provide	1.0
 correct answer	1.0
 active learn also	2.0
-reality though	2.0
+reality though	1.0
 expert information	1.0
-information may	6.0
+information may	4.5
 oracle may	2.0
 finally active	1.0
 learn presumes	1.0
@@ -16378,7 +16396,7 @@ latter fisher	1.0
 fisher define	7.0
 give random	2.0
 fiducial distribution law	2.0
-gaussian variable	1.25
+gaussian variable	1.5
 assigned value	1.0
 sample observed	1.0
 parameter distribution	1.0
@@ -16409,6 +16427,7 @@ t distribution	2.0
 parameter degree	1.0
 freedom m	1.0
 obtain confidence	2.0
+sample specification	1.0
 statistic formula	1.0
 modeling perspective	1.0
 entire dispute	1.0
@@ -16485,9 +16504,10 @@ random property	1.0
 property suggest	3.0
 suggest inference	2.0
 inference procedure	1.0
+three step	1.0
 compatible distribution	1.0
 sample mechanism	1.0
-mechanism formula	3.0
+mechanism formula	1.0
 random parameter	1.0
 formula derive	1.0
 master equation	1.0
@@ -16496,10 +16516,6 @@ statistic s	1.0
 may find	1.0
 pareto parameter	1.0
 implementation example	1.0
-law formulaof	2.0
-statistic formulawhen	2.0
-formulawhen formulais	1.0
-formulais known	1.0
 cumulative distribution	2.0
 distribution function	1.0
 standard normal	2.25
@@ -16572,9 +16588,10 @@ valuable information	1.0
 imbalanced dataset	2.0
 dataset exhibit	1.0
 exhibit one	1.0
-regression give	2.0
+follow property	1.0
+regression give	1.5
 made accord	2.0
-logistic regression give	4.0
+logistic regression give	3.0
 sampling algorithm	1.0
 pilot model	1.0
 pilot model formula	2.0
@@ -16582,7 +16599,6 @@ logistic regression model	2.0
 acceptance probability	1.0
 sample formula define	2.0
 algorithm proceeds	1.0
-followsthe algorithm	1.0
 select sample	1.0
 naturally available	1.0
 apply directly	1.0
@@ -16618,7 +16634,6 @@ strategy applies	1.0
 sample desire	1.0
 convenient alternative	2.0
 large subsample	1.0
-follow property	1.0
 consistent even	2.0
 asymptotic variance	1.0
 full data	2.0
@@ -16653,7 +16668,8 @@ supervise feature	2.0
 label allow	1.0
 error term	1.0
 system fails	1.0
-learn develop	1.0
+dictionary learning	1.0
+learning develop	1.0
 set dictionary	1.0
 representative element	6.0
 data point can	3.0
@@ -16670,7 +16686,6 @@ dictionary learn	1.0
 learn exploit	1.0
 structure underlie	1.0
 supervise dictionary learn	2.0
-dictionary learning	1.0
 technique applied	2.0
 applied dictionary	1.0
 jointly optimize	1.0
@@ -16741,7 +16756,7 @@ jth centroid	1.0
 centroid learn	1.0
 feature perhaps	3.0
 radial basis	2.0
-basis function	1.75
+basis function	1.375
 train rbf	2.0
 radial basis function	2.0
 ng note	2.0
@@ -16830,7 +16845,7 @@ lowerdimensional point	1.0
 original data set	2.0
 highdimensional data use	3.0
 lle consists	1.0
-two major	2.25
+two major	2.0
 major step	1.0
 point xi	1.0
 neighbor data	2.0
@@ -16974,7 +16989,6 @@ give theoretical	2.0
 follow situation	1.0
 many supervised	2.0
 supervised learn problem	2.0
-two space	1.0
 formula often	2.0
 call hypothesis	1.0
 object formula give	2.0
@@ -16982,6 +16996,7 @@ m example	1.0
 corresponding response	1.0
 set consists	1.0
 formula instance	2.0
+formula drawn	1.0
 training set consists	2.0
 instance formula drawn	2.0
 model uncertainty	1.0
@@ -17001,19 +17016,17 @@ fixed class	1.0
 agnostic learn	1.0
 approximation call	1.0
 call empirical	2.0
-training setthe	2.0
-setthe empirical	2.0
+call empirical risk	2.0
 minimization principle	1.0
-principle state	5.0
+principle state	1.0
 algorithm define	1.0
 erm principle	2.0
 principle consists	1.0
-call empirical risk	2.0
 nphard problem	1.0
 problem even	3.0
 simple class	1.0
 minimal empirical	2.0
-linearly separable	1.6
+linearly separable	1.2727272727272727
 practice machine	1.0
 convex approximation	1.0
 function like	2.5
@@ -17060,9 +17073,11 @@ deep artificial	1.0
 scratch initially	3.0
 little success	1.0
 formally identify	1.0
+vanishing gradient	2.0
 feedforward network	1.0
 also recurrent	1.0
 recurrent network	1.0
+vanishing gradient problem	2.0
 deep feedforward	2.0
 new layer	1.0
 sequence process	1.0
@@ -17093,8 +17108,8 @@ supervise backpropagation	1.0
 classify labeled	2.0
 deep belief	1.6666666666666667
 belief network	1.0
-hinton et	3.5
-hinton et al	3.5
+hinton et	2.5
+hinton et al	2.5
 deep belief network	2.0
 belief network model	2.0
 involves learn	1.0
@@ -17216,7 +17231,7 @@ construct ensemble	1.0
 many short	2.0
 short network	1.0
 network together	3.0
-suffer le	2.0
+suffer le	1.0
 one direction	1.0
 neural abstraction	2.0
 solve problem	1.0
@@ -17348,7 +17363,7 @@ call standard	2.0
 standard mi	2.0
 mi assumption	1.1666666666666667
 standard mi assumption	2.25
-standard assumption	1.75
+standard assumption	1.0
 assumption take	1.0
 associated label formula	2.0
 instancelevel concept	2.25
@@ -17440,7 +17455,7 @@ foulds extend	1.0
 incorporate instance	2.0
 instance weight	1.0
 weight collective	2.0
-weight function	2.6666666666666665
+weight function	1.0
 major flavor	1.0
 term instancebased	1.0
 instancebased denote	2.0
@@ -17454,13 +17469,13 @@ bag label	1.0
 instead try	1.0
 metadatabased algorithm make	2.0
 modern mi	2.0
-mi algorithm	6.0
+mi algorithm	1.0
 see foulds	1.0
-earliest propose	1.0
+mi algorithm see	2.0
+earliest propose	2.0
 propose mi	2.0
 iterateddiscrimination algorithm	1.0
 algorithm develop	1.0
-mi algorithm see	2.0
 density developed	1.0
 algorithm consist	1.0
 first phase	1.0
@@ -17513,6 +17528,7 @@ positively label bag	2.0
 negatively label bag	2.0
 diverse density formula	2.0
 jth instance	1.0
+model give	3.0
 scaling vector	1.0
 every positive	2.0
 instance close	6.0
@@ -17532,6 +17548,7 @@ mil algorithm	1.0
 dd framework	1.0
 singleinstance algorithm	1.0
 multipleinstance context	1.0
+assumption include	1.0
 movement away	1.0
 assumption list	1.0
 new feature	1.25
@@ -17632,6 +17649,7 @@ predictor expert	1.0
 signal hence	2.0
 designation static	1.0
 category include	1.0
+follow method	1.0
 ensemble averaging	2.0
 averaging output	1.0
 different predictor	1.0
@@ -17646,6 +17664,7 @@ directly involve	1.0
 individual expert	1.0
 output hence	2.0
 designation dynamic	1.0
+dynamic structure	1.0
 individual response	1.0
 nonlinearly combine	1.0
 single gating	2.0
@@ -17740,6 +17759,7 @@ adaptive regression	3.0
 regression spline	1.0
 spline mar	1.0
 analysis introduce	1.0
+regression technique	1.0
 automatically model	1.0
 model nonlinearities	1.0
 term mar	1.0
@@ -17757,9 +17777,8 @@ one independent	2.0
 x matrix	1.0
 expect y	1.0
 given x	1.0
-data isthe	1.0
 formula indicates	1.0
-right show	3.0
+right show	2.0
 line give	1.0
 formula versus	1.5
 versus x	1.0
@@ -17776,10 +17795,9 @@ high value	1.0
 thus turn	1.0
 automatically build	1.0
 account nonlinearities	1.0
-mar software	1.0
-software construct	2.0
+mar software	1.5
+software construct	1.0
 give x	1.5
-followsthe figure	1.0
 predicted response	1.0
 original y	2.0
 y value	1.0
@@ -17787,7 +17805,7 @@ mar ha	2.0
 ha automatically	2.0
 automatically produce	1.0
 predict y	1.0
-hinge function	1.65
+hinge function	1.2272727272727273
 expression start	1.0
 formula else	1.0
 else formula	2.0
@@ -17795,50 +17813,49 @@ nonlinear relationship	1.0
 might perhaps	2.0
 perhaps guess	1.0
 y varies	1.0
-independent variablesand	1.0
 easily visible	1.0
 use mar	1.0
 example mar	2.0
 mar expression	1.0
 multiple variable	1.0
-variable isthis	2.0
-isthis expression	3.0
 expression model	1.0
-model air	2.0
+model air	1.0
+ozone level	1.0
 last term	1.0
-formulaand formula	1.0
+last line	1.0
 right plot	2.0
+formula vary	1.0
 variable fix	1.0
 median value	1.0
 wind doe	2.0
+level unless	2.0
 mar can	2.0
 build quite	3.0
 quite flexible	1.0
 flexible regression	2.0
+regression surface	1.0
 combine hinge	2.0
-mar model	2.0
-mar model building	4.0
+mar model	1.3333333333333333
+building procedure	1.0
+mar model building	2.0
+important others	1.0
 mar build	1.0
-build model	2.0
-formthe model	1.0
+build model	1.0
 constant coefficient	1.0
-one basis	1.0
+one basis	2.0
 three form	1.0
 ozone formula	1.0
 intercept term	1.0
 mar automatically	2.0
 automatically select	1.0
-select variablesand	2.0
-variablesand value	1.0
+basis function can	3.5
 middle three	2.0
 three line	1.0
-basis function can	3.5
 can model	1.0
 model interaction	1.0
-last line	1.0
 key part	1.0
-constant call	2.0
 hinge function take	2.0
+constant call	1.0
 mirrored pair	1.0
 disjoint region	1.0
 treat independently	1.0
@@ -17860,45 +17877,46 @@ formula mean	1.0
 mean take	1.0
 positive part	1.0
 backward pas	1.2
-recursive partitioning	3.0
+recursive partitioning	1.5
 partitioning tree	1.0
 mar start	1.0
 repeatedly add	1.0
 add basis	2.0
 maximum reduction	1.0
 two basis	2.0
-identical except	1.0
+identical except	2.0
 mirror hinge	2.0
-new basis	5.0
+new basis	2.0
+new basis function	2.0
+basis function consists	2.0
 term already	2.0
-model multiply	2.0
 new hinge	2.0
 new hinge function	2.0
-new basis function	5.0
-basis function consists	2.0
 function mar	1.0
-mar must	4.0
+mar must	3.0
 must search	1.0
-search overall	2.0
-overall combination	1.0
-follow existing	2.0
-existing term	1.0
+exist term	1.0
 term call	1.0
 call parent	2.0
 parent term	1.0
+mar apply	1.0
 add term	1.0
-term continues	2.0
+term continues	3.0
 building start	1.0
 brute force	1.0
+force fashion	1.0
 key aspect	1.0
+quickly use	1.0
 fast leastsquares	1.0
-leastsquares update	1.0
+leastsquares update	2.0
 update technique	1.0
 quite brute	1.0
+fast mar	1.0
 forward pas	1.0
 pas usually	2.0
 usually build	1.0
-pas prune	2.0
+generalization ability	1.0
+pas prune	1.0
 remove term	1.0
 term one	1.0
 least effective	1.0
@@ -17914,8 +17932,11 @@ pas typically	2.0
 typically discard	1.0
 discard one	2.0
 one side	1.0
+paired hinge	1.0
 hinge can	2.0
+first mar	1.0
 mar example	1.0
+first mar example	2.0
 complete pair	1.0
 pair retain	1.0
 ozone example	1.0
@@ -17927,13 +17948,8 @@ best subset	1.6666666666666667
 subset lower	2.0
 lower value	1.0
 generalize cross validation	2.5
-gcv iswhere	2.0
-iswhere r	1.0
-define inthe	2.0
-inthe mar	1.0
+residual sumofsquares	1.0
 mar context	1.0
-context aswhere	2.0
-aswhere penalty	2.0
 software allow	1.0
 formula penalize	1.0
 gcv formula	2.0
@@ -17947,26 +17963,26 @@ systematic structure	1.0
 leaveoneout validation	1.0
 one constraint	1.0
 constraint ha	2.0
+can specify	1.0
 two degree	1.0
-higher degree	1.0
 degree can	2.0
 maximum degree	1.0
-first mar	1.0
 additive model	1.0
-can specify	1.0
-certain input	2.0
 user can specify	2.0
+certain input	2.0
 regression modeling	2.0
 modeling technique	1.0
 compare mar	1.0
 also commonly	2.0
 commonly call	1.0
-call regression	1.3333333333333333
+call regression	1.6666666666666667
+regression tree	1.0
+call regression tree	2.0
 partitioning article	1.0
 several free	3.0
 commercial software	2.0
 universal portfolio	2.0
-portfolio selection	2.0
+portfolio selection algorithm	2.0
 learn adaptively	2.0
 growth rate	1.0
 long run	1.0
@@ -18052,6 +18068,7 @@ exist feature	1.0
 feature resulting	1.0
 operator include	2.0
 include check	1.0
+equality condition	1.0
 array operator	1.0
 min average	1.0
 sophisticated operator	1.0
@@ -18191,7 +18208,7 @@ ranking model purpose	2.0
 unseen list	1.0
 central part	1.0
 retrieval problem	1.0
-document retrieval	2.0
+document retrieval	1.0
 retrieval collaborative	2.0
 filtering sentiment	2.0
 many information retrieval	2.0
@@ -18250,26 +18267,28 @@ word model	1.0
 feature factor	1.0
 rank signal	2.0
 three group	1.5
+three group feature	2.0
 design good	2.0
 good feature	1.0
 important area	1.0
-feature engineer	3.0
-three group feature	2.0
+feature engineer	2.0
 several measure	1.0
 measure metric	1.0
 different mlr	2.0
 learningtorank problem	1.0
-rank quality	2.0
-normalize variant	1.0
+rank quality	1.0
+quality measure	1.0
+normalize variant	2.0
 usually prefer	1.0
 academic research	1.5
-propose several	3.0
+propose several	2.0
 several new	2.0
 new evaluation	2.0
 evaluation metric	1.0
 model user	2.0
 user satisfaction	1.0
 result good	1.0
+dcg metric	1.0
 stop look	1.0
 less relevant	1.0
 tieyan liu	1.0
@@ -18296,8 +18315,8 @@ benchmark data	2.0
 problem give	1.5
 single querydocument	2.5
 pair predict	1.0
-learningtorank problem can	3.0
 regression problem give	3.0
+learningtorank problem can	3.0
 single querydocument pair	2.5
 exist supervise	2.0
 readily use	1.0
@@ -18400,7 +18419,7 @@ analysis whereby	2.0
 analyst use	1.0
 use visual	2.0
 visual exploration	1.0
-traditional data	2.0
+traditional data	3.0
 data management	1.0
 management system	2.0
 characteristic can	2.0
@@ -18479,7 +18498,6 @@ traditional exploration	2.0
 bradleyterry model	1.0
 pairwise comparison	2.0
 comparison turn	1.0
-true aswhere	1.0
 positive realvalued	2.0
 realvalued score	1.0
 score assign	1.0
@@ -18513,13 +18531,11 @@ particular hit	1.0
 parameter per	2.0
 per observation	1.0
 observation lead	3.0
-another variant	1.0
 version consider	1.0
-terry us	1.0
-us exponential	3.0
-exponential score	3.0
-score function formula	2.0
-follow algorithm	1.0
+terry us	2.0
+us exponential	2.0
+exponential score	2.0
+score function formula	2.5
 basic version	1.0
 likelihood estimate	1.0
 algorithm date	1.0
@@ -18534,7 +18550,7 @@ algorithm iteratively	2.0
 iteratively perform	1.0
 new parameter	1.5
 estimation procedure	1.0
-procedure improves	1.0
+procedure improve	1.0
 eventually converge	1.0
 create feature	1.0
 make machine	2.0
@@ -18680,7 +18696,7 @@ target range	1.0
 range depend	1.0
 general formula	1.0
 normalized value	1.0
-original value formula	2.5
+original value formula	2.0
 student weight	2.5
 weight data	1.0
 weight span	3.0
@@ -18825,7 +18841,6 @@ phd thesis	1.0
 strictly define	1.0
 reinforcement lean	1.0
 lean paper	1.0
-problem become	1.0
 widely study	1.0
 book reinforcement	1.0
 year many	3.0
@@ -18898,14 +18913,14 @@ section will	2.0
 standard well	1.0
 define version	1.0
 twodimensional continuous	2.0
+onedimensional discrete	2.0
 discrete action space	2.0
-formulafor every	2.0
 many implementation	1.0
 implementation include	1.0
 include randomness	1.0
 show well	2.0
 well generalize	1.0
-generalize learning	5.0
+generalize learning	4.0
 vary include	1.5
 constant gravity	1.0
 specific tuning	1.0
@@ -19048,7 +19063,6 @@ vector whose element	2.0
 set data	1.0
 data data	1.0
 training set data	2.0
-bethe vector	2.0
 theory take	1.0
 product space formula	3.0
 inference problem consists	2.0
@@ -19056,13 +19070,12 @@ will search	1.0
 actual value	1.0
 predict value formula	2.0
 actual value formula	2.0
-bethe target	2.0
 best possible	1.8
-risk must	8.0
 possible function formula	2.5
 best possible function formula	2.0
 best possible function	2.0
-minimizesthe empirical	2.0
+proxy measure	1.0
+risk must	2.0
 call empirical risk minimization	2.0
 determining factor	1.0
 different loss	2.0
@@ -19076,15 +19089,12 @@ square regression	1.6666666666666667
 ordinary least square	2.6666666666666665
 least square regression	2.6666666666666665
 ordinary least square regression	3.6666666666666665
-form isthe	1.0
-isthe absolute	3.0
 absolute value	1.0
 value loss	1.0
 loss also	2.0
 also sometimes	2.0
 natural loss	2.0
 actual output	4.0
-iswhere formula	1.6666666666666667
 major problem	1.0
 closely fit	1.0
 find one	1.5
@@ -19109,7 +19119,7 @@ give empirical	3.0
 risk arbitrarily	1.0
 arbitrarily close	1.0
 give empirical risk	3.0
-positive parameter	1.0
+positive parameter	2.0
 regularization ensures	1.0
 ensures existence	2.0
 statistic random	4.0
@@ -19205,13 +19215,13 @@ first two row	2.0
 choose r	1.0
 r r	4.0
 orthogonal matrix	1.0
+gaussian distribution can	4.0
+much simple distribution	2.0
 database application	1.0
 use integer	2.0
 integer arithmetic	1.0
-gaussian distribution can	4.0
 perform use integer	3.0
 use integer arithmetic	2.0
-much simple distribution	2.0
 late shown	1.0
 distribution even	3.0
 even sparser	1.0
@@ -19314,23 +19324,29 @@ early development	1.0
 breimans notion	1.0
 wa influence	1.0
 random forest wa	5.0
+available decision	1.0
 subspace selection	1.0
 also influential	1.0
 variation among	2.0
 chosen subspace	1.0
+randomize node	2.0
 node optimization	1.0
+randomize procedure	1.0
 procedure rather	1.0
 deterministic optimization	1.0
-optimization wa	3.0
 forest proper	2.0
 proper wa	2.0
 first make	1.0
-tree use	2.0
+uncorrelated tree	1.0
+tree use	1.0
+cart like	2.0
 like procedure	1.0
 procedure combine	2.0
+randomized node	1.0
 paper combine	1.0
 previously known	1.0
-report also	3.0
+modern practice	1.0
+report also	2.0
 also offer	1.0
 first theoretical	2.0
 theoretical result	1.0
@@ -19358,14 +19374,13 @@ bag repeatedly	1.0
 repeatedly b	3.0
 b time	1.0
 time select	2.0
-fit tree	1.0
+fit tree	4.0
 training prediction	1.0
 unseen sample	1.3333333333333333
 individual regression	2.0
-regression tree	1.0
-classification tree	1.0
 individual regression tree	2.0
 unseen sample can	4.0
+classification tree	1.0
 procedure lead	1.0
 better model	2.0
 model performance	1.0
@@ -19402,7 +19417,6 @@ bagging algorithm	1.0
 forest differ	1.0
 modify tree	1.0
 candidate split	1.0
-learn process	1.0
 tree learn algorithm	2.0
 called feature	2.0
 feature bagging	1.0
@@ -19459,6 +19473,7 @@ include categorical	2.0
 categorical variable	1.0
 different number	1.0
 level random	2.0
+partial permutation	1.0
 grow unbiased	2.0
 data contain	1.0
 contain group	1.0
@@ -19474,20 +19489,20 @@ socalled weighted	2.0
 weighted neighborhood	2.0
 neighborhood scheme	1.0
 model built	1.0
-new point	3.0
+new point	1.0
 point formalize	1.0
+make prediction formula	2.0
 th training	3.0
 point relative	1.0
-make prediction formula	2.0
 must sum	1.0
 point formula must	4.0
-forest average	2.0
+forest average	1.0
 individual weight	2.0
+weight function formula	2.0
 whole forest	1.0
 weight neighborhood	2.0
-weight function formula	3.0
 formula share	1.0
-tree formula	1.5
+tree formula	1.0
 jeon show	1.0
 neighborhood use	1.0
 local importance	1.0
@@ -19560,7 +19575,7 @@ forest two	2.0
 two simplified	2.0
 simplified model	1.0
 center kerf	1.5
-uniform kerf	1.5
+uniform kerf	1.3333333333333333
 prove upper	2.0
 prove upper bound	2.0
 centered forest	1.0
@@ -19572,7 +19587,7 @@ original random forest	2.0
 breimans original random forest	2.0
 fully binary	1.0
 binary tree	1.0
-uniform forest	1.5
+uniform forest	1.0
 another simplified	2.0
 feature among	3.0
 perform split	1.0
@@ -19614,27 +19629,25 @@ average first	1.0
 target cell	1.0
 high density	1.0
 scornet define	1.0
-kerf bywhich	2.0
-formula fall	1.0
 random forest method	2.0
-connection function	5.5
+formula fall	1.0
+connection function	1.0
 formula finite	2.0
 cell share	1.0
+almost surely	1.0
 centered kerf	1.0
 center forest	1.0
-forest except	9.0
-correspond kernel	7.0
+forest except	2.0
+correspond kernel	2.0
+correspond kernel function	2.0
+uniform forest except	3.0
+prediction give	1.0
 exist sequence	1.0
-almost surelythen	1.0
-surelythen almost	2.5
-infinite random	2.0
-infinite kerf	2.0
-correspond kernel function	7.0
-tree formula go	3.0
 exist sequence formula	2.0
-almost surelythen almost	3.5
-uniform forest except	4.0
-centered gaussian	2.0
+infinite random	2.0
+infinite kerf	1.0
+tree formula go	3.0
+centered gaussian	3.0
 noise independent	1.0
 finite variance	1.0
 moreover formula	2.0
@@ -19693,7 +19706,8 @@ use machine learning	2.0
 library ha	2.0
 engineering energy	2.0
 logic statistical	2.0
-transductive inference	2.0
+transductive inference	1.0
+observe specific	2.0
 specific training	2.0
 training case	1.0
 specific test	2.0
@@ -19707,7 +19721,8 @@ inconsistent prediction	1.0
 transduction wa	2.0
 s motivate	1.0
 induction since	3.0
-since accord	2.0
+since accord	3.0
+induction requires	1.0
 problem infer	1.0
 problem compute	1.0
 compute output	1.0
@@ -19720,13 +19735,15 @@ shall reach	1.0
 greater approach	1.0
 argument purely	3.0
 purely inductive	1.0
-use deduction	3.0
 deduction russell	1.0
 input tend	1.0
 may help	1.0
 cluster thus	2.0
 provide useful	2.0
+useful information	1.0
+test input may	3.0
 classification label	1.0
+people may	2.0
 may call	1.0
 relate semisupervised	2.0
 since vapniks	3.0
@@ -19738,12 +19755,14 @@ possible motivation	1.0
 transduction arises	1.0
 computationally prohibitive	1.0
 prohibitive one	2.0
+least try	1.0
 make sure	1.0
-inthis case	2.0
-inthis category	1.0
+necessarily related	1.0
+algorithm fall	1.0
 bayesian committee	3.0
 problem contrast	1.0
 unique property	1.0
+follow example problem	2.0
 predict appropriate	2.0
 appropriate label	1.0
 unlabeled point	2.0
@@ -19878,7 +19897,6 @@ solving learning	2.0
 problem hence	2.0
 existing learn	2.0
 learn induce	1.0
-automatic learn can	2.0
 learn can become	2.0
 alternative term learn	2.0
 learn well	1.0
@@ -19908,7 +19926,6 @@ effectively solve	1.0
 give learn	2.0
 learn problem algorithm	2.0
 use different kind	2.0
-meta learn	2.0
 approach bear	2.0
 possibly related	1.0
 related problem	1.2
@@ -19921,12 +19938,14 @@ evolution learn	1.0
 procedure encode	2.0
 individual brain	5.0
 propose definition	1.0
-system combine	1.0
-combine three	3.0
+system combine	2.0
+combine three	2.0
+three requirement	1.0
+meta learn system	2.0
+bias refer	1.0
 explanatory hypothesis	1.0
 bias represent	1.0
 biasvariance dilemma	1.0
-meta learn system	3.0
 two aspect	1.0
 neural modeling	2.0
 modeling field	1.5
@@ -19952,7 +19971,7 @@ socalled topdown	2.0
 topdown signal	1.0
 signal interact	1.0
 input bottomup	1.4
-bottomup signal	1.625
+bottomup signal	1.0
 input bottomup signal	2.0
 dynamic equation	1.0
 drive conceptmodel	1.0
@@ -19978,20 +19997,21 @@ neuron enumerate	1.0
 index n	1.0
 neuron receive	1.0
 receive input	2.0
-signal xn	1.5714285714285714
+signal xn	1.5
 processing hierarchy	1.0
-bottomup signal xn	4.0
+bottomup signal xn	3.0
+input bottomup signal xn	4.0
 bottomup neuronal	2.0
 neuronal synaptic	2.0
 synaptic activation	1.0
 activation come	1.0
 lower level	2.0
-neuron activation	9.0
+neuron activation	1.0
 dimension necessary	1.5
 describe individual	2.0
 individual neuron	2.0
 priming signal	1.5
-conceptmodels msn	1.0
+conceptmodels msn	2.0
 parameter s	1.0
 neuron structure	1.0
 synaptic connection	1.0
@@ -20026,7 +20046,6 @@ basic interaction	2.0
 interaction dynamic	1.0
 everyday object	1.0
 complex abstract	2.0
-abstract concept	1.0
 mechanism described	1.0
 cognition involve	2.0
 involve conceptmodels	1.0
@@ -20039,10 +20058,11 @@ nmf theory	1.0
 topdown conceptmodel	2.0
 conceptmodel signal	1.0
 acknowledge two	2.0
-expression contain	3.0
-signal therefore	3.0
+two principle	1.0
+expression contain	1.0
+signal therefore	5.0
 every signal	1.0
-signal even	3.0
+signal even	5.0
 one term	1.0
 knowledge instinct	1.0
 first principle	1.0
@@ -20064,7 +20084,6 @@ probabilistic measure	1.0
 m actually	4.0
 overall similarity measure	2.0
 similarity measure l	4.0
-two principle	1.0
 principle note	1.0
 follow standard	2.0
 standard principle	1.0
@@ -20125,6 +20144,7 @@ alternatively old	3.0
 old concept	1.0
 model always	2.0
 always result	1.0
+well known	1.0
 known problem	1.0
 reduce similarity	1.0
 similarity l	1.5
@@ -20142,6 +20162,7 @@ information criterion	1.0
 criterion see	1.0
 see perlovsky	1.0
 process consists	1.0
+estimating model	2.0
 associate signal	1.0
 term resulting	1.0
 signal n	1.3333333333333333
@@ -20164,11 +20185,8 @@ likelihood fmn	2.0
 fmn become	1.0
 become bayesian	2.0
 signal n originate	3.0
-followsthe following	2.0
-following theorem	1.0
 theorem ha	2.0
-prove perlovsky	2.0
-perlovsky theorem	1.0
+prove perlovsky	1.0
 convergent dynamic	2.0
 dynamic nmf	1.0
 stationary state	1.0
@@ -20425,7 +20443,7 @@ preference model	1.0
 observe preference	2.0
 preference information	1.0
 learn preference	1.0
-preference learn	1.2
+preference learn	1.1666666666666667
 learn train	1.0
 preference toward	2.0
 toward label	1.0
@@ -20443,9 +20461,9 @@ preference learn concern	3.0
 information observe	1.0
 main problem	1.0
 book preference	2.0
+three main problem	2.0
 label rank	1.75
 instance space formula	2.5
-three main problem	2.0
 indicate instance	2.0
 formula show	1.0
 show preference	1.0
@@ -20657,12 +20675,10 @@ unknown density	1.5
 let x x	3.0
 x x x	2.0
 density estimator	1.75
-estimator iswhere	2.0
-iswhere k	1.0
+kernel density estimator	2.3333333333333335
 nonnegative function	1.0
 smoothing parameter	1.0
 parameter call	1.0
-kernel density estimator	2.3333333333333335
 scale kernel	1.0
 intuitively one	2.0
 choose h	1.0
@@ -20695,7 +20711,6 @@ construct discrete	2.0
 point cloud	1.0
 suitable kernel	1.0
 estimator use	4.0
-data pointsfor	3.0
 histogram first	2.0
 point fall	1.0
 fall inside	2.5
@@ -20733,19 +20748,23 @@ expect l	2.0
 l risk	2.0
 risk function	1.0
 mean integrate	1.0
-integrate squared	2.5
+integrate squared	2.0
+integrate squared error	2.0
+risk function also	3.0
+mean integrate squared error	3.0
 weak assumption	1.0
-generally unknown	1.0
-unknown real	3.0
+generally unknown	2.0
+unknown real	2.0
 real density	1.0
+mise h	1.0
 h amiseh	1.0
 little o	2.0
 o notation	1.0
-risk function also	3.0
-mean integrate squared	3.5
-two lead	3.0
+asymptotic mise	1.0
+two lead	2.0
+lead term	1.0
 function g	2.0
-g formulaand	1.0
+g formula	1.0
 second derivative	1.0
 h formula	1.0
 use directly	1.0
@@ -20781,8 +20800,6 @@ gaussian basis	2.0
 approximate univariate	2.0
 univariate data	1.0
 optimal choice	1.0
-error iswhere	2.0
-integrate squared error	2.0
 distribution approximation	1.0
 approximation gaussian	2.0
 gaussian approximation	2.0
@@ -20797,10 +20814,10 @@ two kernel density	2.0
 estimate base	1.0
 significantly oversmoothed	1.0
 matlab script	1.0
-use kde	1.0
+example us	1.0
+sample x x	3.0
 correspond probability	3.0
 transform formula	1.0
-sample x x	3.0
 one difficulty	1.0
 inversion formula	1.0
 diverge integral	1.0
@@ -20822,8 +20839,6 @@ effectively mean	1.0
 gaussian function	1.0
 function ha	2.0
 estimator will	2.0
-will bewhere	1.0
-bewhere k	2.0
 inversion formula may	3.0
 estimator coincide	1.0
 function density	1.0
@@ -20850,9 +20865,6 @@ recent advance	1.0
 learn feature representation	2.0
 main algorithm	1.0
 y r	2.0
-set formulaof	1.0
-formulaof size	2.0
-formulaand formula go	2.0
 s onto	4.0
 learning set s	2.0
 avoid complex	2.0
@@ -20878,8 +20890,7 @@ encompass many	2.0
 solution involving	1.0
 explain key	2.0
 key feature	1.0
-learn includethe	2.0
-includethe classical	2.0
+unsupervised learn include	2.0
 hebbian learn	1.0
 action potential	1.0
 two neuron	1.0
@@ -21122,7 +21133,8 @@ therefore may	2.0
 may support	1.0
 support rational	2.0
 rational communication	1.0
-background wille	1.0
+background wille	2.0
+wille defines	1.0
 semantic field	2.0
 field study	1.0
 systematically categorize	1.0
@@ -21161,30 +21173,32 @@ label reservoir	1.0
 intent stagnant	1.0
 extent puddle	3.0
 k g	2.0
-g m	3.0
+g m	2.5
 relation call	1.0
 call incidence	1.0
 subset b	4.0
-b m	1.0
-one defines	1.0
+b m	1.3333333333333333
+one defines	3.0
 defines two	2.0
 two derivation	2.0
 derivation operator	1.0
-followsa m	2.0
-m m	2.0
-m gim	4.0
+m m	1.0
+m gim	1.0
+m m gim	2.0
+b g	3.0
 g g	1.0
 g gim	1.0
 m b	1.0
-m m gim	2.0
 apply either	2.0
 either derivation	2.0
-two closure	1.0
-g extent	1.0
-extent closure	2.0
-b b	1.0
-m intent	3.0
+two closure	2.0
+closure operator	1.0
+g extent	2.0
+extent closure	1.0
+b b	1.5
+m intent	2.0
 intent closure	1.0
+b b b	2.0
 operator define	1.0
 galois connection	1.0
 de galois	2.0
@@ -21192,13 +21206,13 @@ galois galois	2.0
 galois lattice	1.0
 operator wille	2.0
 wille give	1.0
-pair ab	4.0
+pair ab	1.0
 context g	2.0
 g b	2.0
-intuitively ab	1.0
+intuitively ab	2.0
 concept precisely	2.0
 compute purpose	1.0
-context may	5.0
+context may	2.0
 naturally represent	1.0
 matrix k	1.0
 entry k	1.0
@@ -21226,6 +21240,7 @@ order every	3.0
 greatest common	2.0
 common subconcept	1.0
 extent consists	1.0
+dually every	3.0
 concept ha	2.0
 least common	1.0
 join operation	2.0
@@ -21262,7 +21277,9 @@ foundation make	1.0
 field versatile	1.0
 basic example	1.0
 arrow relation	1.0
+m let	4.0
 m n	2.0
+g m gim	2.0
 g h	2.0
 objectattribute pair	1.0
 pair can	2.0
@@ -21294,10 +21311,8 @@ context creation	1.0
 concept mining	1.0
 give formal	2.0
 correspond implication	2.0
-association rule	2.3333333333333335
 academic opensource	2.0
 opensource application	1.0
-asthe formal	2.0
 qualitative method	1.0
 early beginning	1.0
 fba research	2.0
@@ -21603,8 +21618,9 @@ n real	2.0
 formula satisfies	1.0
 satisfies formula	2.5
 formulath component	1.0
-point formula satisfy	2.0
+point formula satisfy	2.5
 point formula satisfies	3.0
+every point formula satisfy	2.0
 formula satisfies formula	3.5
 equivalently two	3.0
 separable precisely	2.0
@@ -21619,7 +21635,6 @@ following example	1.0
 need two	2.0
 two straight	2.0
 straight line	1.0
-separable notice	1.0
 three point	1.0
 n variable	1.0
 boolean hypercube	1.0
@@ -21657,7 +21672,7 @@ normal vector formula	2.0
 can select	1.0
 select two	2.0
 two hyperplanes	1.0
-rule induction	2.5
+rule induction	1.3333333333333333
 formal rule	1.0
 rule extract	1.0
 extract may	3.0
@@ -21708,7 +21723,6 @@ malicious insider	1.0
 insider work	1.0
 work towards	2.0
 breach optical	3.0
-example application include	2.0
 often overlap	1.0
 computational statistic	1.0
 also focus	1.0
@@ -21765,10 +21779,12 @@ typically classify	1.0
 category depend	3.0
 learn signal	1.0
 feedback available	2.0
+another categorization	1.0
 task arises	1.0
 one consider	1.0
 desire output	1.0
-learn learns	1.0
+machinelearned system	1.0
+learn learns	2.0
 bias base	3.0
 previous experience	1.0
 developmental learning	1.0
@@ -21921,7 +21937,7 @@ usually doe	2.0
 yield guarantee	1.0
 instead probabilistic	1.0
 quite common	1.0
-biasvariance decomposition	1.1666666666666667
+biasvariance decomposition	1.0
 quantify generalization	2.0
 function underlie	1.0
 less complex	1.0
@@ -21935,16 +21951,16 @@ computational learning theorist	2.0
 performance bound computational learning	5.0
 consider feasible	1.0
 complexity result	1.0
+time complexity result	2.0
 certain class	1.0
 positive result show	2.0
 negative result	1.0
+negative result show	2.0
 map observation	1.0
 item target	2.0
-rule learn	1.6666666666666667
 discover interesting	2.0
 interesting relation	1.0
 large database	1.0
-association rule learn	2.5
 call neural	4.0
 network nn	1.0
 learn algorithm usually	2.0
@@ -21971,6 +21987,7 @@ process light	1.0
 uniform representation	1.0
 input example	1.0
 example background	2.0
+rule learn use	3.0
 known background	2.0
 example represent	1.0
 logical database	1.0
@@ -22128,11 +22145,11 @@ either supervised	3.0
 learning reinforcement	1.0
 collectively store	1.0
 piecewise manner	1.0
-learn includein	2.0
+machine learn include	3.25
 online movie	3.0
 movie company	1.0
 company netflix	1.0
-netflix hold	3.0
+netflix hold	1.0
 first netflix	1.0
 netflix prize	2.0
 prize competition	1.0
@@ -22285,7 +22302,7 @@ biological evolution	1.0
 formula variable	1.0
 ideal function	2.25
 local search	1.0
-representation formula	2.8
+representation formula	2.6
 closely approximates	1.0
 approximates formula	2.0
 ideal function formula	2.6666666666666665
@@ -22307,7 +22324,7 @@ limit number	1.0
 determined exactly	1.0
 empirical performance	1.0
 independent selection	1.0
-formula accord	3.6666666666666665
+formula accord	4.0
 enough evidently	1.0
 evidently formula	3.0
 actual performance	2.0
@@ -22327,7 +22344,6 @@ next stage	1.0
 variable representing	1.0
 ha evolve	1.0
 formula generation	1.0
-least formulawhere	1.0
 generation size	1.0
 short conjunction	1.0
 disjunction respectively	4.0
@@ -22369,32 +22385,26 @@ prior assumption	1.0
 overlap group	1.8
 group nonoverlapping	1.0
 nonoverlapping group	1.4
-method include	4.0
+method include	3.5
 include face	1.0
 recognition magnetic	2.0
 resonance image	1.0
 image mri	1.0
 mri process	1.0
 genetic expression	1.0
-structured sparsity method include	5.0
+structured sparsity method include	4.5
 kernel regularize	2.0
-regularization penaltywhere	1.5
-penaltywhere formula	1.0
-norm define	1.25
-regularize empirical risk	3.75
-formula norm define	2.0
-regularize empirical risk minimization	4.333333333333333
+regularize empirical risk minimization	3.0
 empirical risk minimization problem	3.0
 regularize empirical risk minimization problem	3.0
-regularization penaltywhere formula	2.0
+norm define	1.0
+formula norm define	2.0
 small subset	1.0
 generally assume	1.0
 dictionary formula	1.0
-write asthe	2.0
-asthe formula	2.0
-nonzero component	1.0
-formula norm formula	2.5
 learning problem can	3.3333333333333335
+nonzero component	1.0
+formula norm formula	2.25
 regularization favor	1.0
 favor sparse	1.0
 sparse solution	2.0
@@ -22429,10 +22439,9 @@ nonoverlapping group case	2.0
 priori partition	1.0
 formula nonoverlapping	2.0
 coefficient vector formula	2.0
-norm aswhere	4.0
 jth component	1.0
-group formula norm	2.6666666666666665
-group formula norm formula	3.5
+group formula norm	2.3333333333333335
+group formula norm formula	3.0
 regularizer will	2.5
 will force	1.0
 force entire	2.0
@@ -22457,12 +22466,15 @@ group can	2.0
 nonoverlapping group can	2.0
 regularization approach	1.0
 model different	2.0
-complement approach	2.0
-positive coefficient	1.0
+variable relationship	1.0
 group sparsity regularization	3.0
 sparsity regularization approach	2.0
-minimization problemwhere	2.0
-problemwhere formula	1.0
+complement approach	1.0
+positive coefficient	1.0
+regularized empirical	2.0
+regularized empirical risk	3.0
+regularized empirical risk minimization	3.0
+regularized empirical risk minimization problem	3.0
 lasso regularizer	1.0
 will potentially	2.0
 potentially set	1.0
@@ -22495,10 +22507,10 @@ group approach	2.5
 latent group	2.0
 norm consider	1.0
 follow regularizer	1.0
-group g	1.0
-coefficients formula	1.0
 formula norm consider	2.0
 latent group lasso	2.0
+group g	1.0
+coefficients formula	1.0
 formula otherwise	1.0
 regularizer can	2.0
 effectively replicate	1.0
@@ -22545,12 +22557,14 @@ simple optimization	1.0
 maintain sparsity	1.0
 see submodular	2.0
 submodular set	2.0
+set function	1.0
 norm discuss	1.0
-include hierarchical	3.0
+include hierarchical	2.0
 hierarchical norm	1.0
 norm arise	1.0
 submodular function	1.0
-see unsupervised	3.0
+see unsupervised	1.0
+unsupervised learn method	2.0
 model hierarchy	1.0
 represent using	1.0
 using direct	2.0
@@ -22558,7 +22572,7 @@ natural structure	1.0
 several application	1.0
 application notably	3.0
 model text	2.0
-text document	3.25
+text document	1.0
 model using	1.0
 using bayesian	2.0
 bayesian nonparametric	2.0
@@ -22576,9 +22590,7 @@ convex shape	2.0
 overlap group can	3.0
 submodular function base	4.0
 naturally formulated	1.0
-framework aswhere	2.0
-aswhere formula denote	2.0
-input variable can	7.0
+input variable can	6.0
 formulation make	1.0
 computationally unfeasible	1.0
 exhaustive search	1.0
@@ -22591,6 +22603,8 @@ formulation approach	1.0
 gradient optimization	2.0
 natural approximation	1.0
 subset selection	1.0
+norm regularization	1.0
+formula norm regularization	2.5
 call basis	1.0
 basis pursuit	2.5
 convex nondifferentiable	2.0
@@ -22601,17 +22615,16 @@ optimization methods	1.0
 methods useful	1.0
 minimizing function	1.0
 differentiable component	1.0
-convex potentially	3.0
+convex potentially	2.5
 potentially nondifferentiable	1.0
 nondifferentiable component	1.0
 method also call	2.0
-convex potentially nondifferentiable	3.0
+convex potentially nondifferentiable	2.5
 solving sparsity	1.0
-follow form	1.0
+sparsity regularization problem	2.0
 differentiable loss	2.0
 quadratic loss	1.0
 nondifferentiable regularizer	1.0
-sparsity regularization problem	2.0
 structured sparsity regularization	2.5
 sparsity regularization can	3.0
 kernel learning	1.0
@@ -22670,11 +22683,12 @@ reason directly	2.0
 directly generalizes	1.0
 map inducing	2.0
 inducing infinite	2.0
+dimensional hypothesis	1.0
 consider sparse	3.0
-situation include	2.0
+situation include	3.0
+sparse multiple kernel learning	2.5
 data fusion	1.0
 kernel correspond	1.0
-sparse multiple kernel learning	2.5
 selection consider	1.0
 consider kernels	1.0
 kernels formula	1.0
@@ -22721,24 +22735,27 @@ announced caffe	1.0
 include new	2.0
 march caffe	1.0
 caffe wa	3.0
-unlike traditional	3.0
+unlike traditional	2.0
+traditional data mine	3.0
 single table	2.0
 table propositional	2.0
 propositional pattern	1.0
-pattern relational	2.0
 mining algorithm	1.0
 algorithm look	1.0
 pattern among	2.0
 among multiple	2.0
-traditional data mine	2.0
-correspond relational	2.0
+multiple table	1.0
 relational pattern	1.0
+correspond relational	2.0
 relational classification	4.0
 rule relational	3.0
 classification relational	2.0
 relational regression	2.0
 relational association	2.0
 relational classification rule	2.0
+relational data mine	2.0
+multirelation association	4.0
+rule multirelation	2.0
 rule mrar	3.0
 new class	2.4
 even multirelational	1.0
@@ -22749,6 +22766,7 @@ rule item	1.0
 item consists	1.0
 one entity	1.0
 several relation	1.0
+multirelation association rule	4.0
 relation indicate	1.0
 indicate indirect	2.0
 indirect relationship	1.0
@@ -22770,8 +22788,7 @@ document use	2.0
 use bagofwords	1.0
 two simple	2.0
 simple text	2.0
-document john	2.0
-john like	2.0
+john like	1.3333333333333333
 watch movie	1.0
 mary like	1.0
 like movie	1.0
@@ -22785,14 +22802,15 @@ john also like	2.0
 two text	1.0
 list constructed	1.0
 json object	1.5
-respective javascript	2.0
+respective javascript	1.0
+javascript variable	1.0
+bow johnalsolikestowatchfootballgames	1.0
 give text	2.0
 example codice	1.0
 also bow	1.0
 strict json	1.0
 object representation	1.0
 another document	1.0
-two john	1.0
 javascript representation	1.0
 representation will	2.0
 bag algebra	2.0
@@ -22809,7 +22827,7 @@ frequency namely	1.0
 term appears	1.0
 follow two	2.0
 two list	1.0
-distinct word	4.0
+distinct word	1.0
 list refer	2.0
 correspond entry	1.0
 histogram representation	1.0
@@ -23010,6 +23028,7 @@ just sparse	1.0
 cod problem	1.0
 optimal direction	1.0
 first method	1.0
+representation vector	1.0
 minimization problem subject	2.0
 mod alternate	1.0
 coding use	2.0
@@ -23029,6 +23048,7 @@ ha inspire	1.0
 performs svd	1.0
 dictionary one	4.0
 way identical	1.0
+mod approach	1.0
 algorithm essence	1.0
 first fix	1.0
 dictionary find	1.0
@@ -23037,7 +23057,8 @@ constraint using	3.0
 using orthogonal	2.0
 orthogonal matching	1.0
 matching pursuit	2.0
-include rank	2.0
+follow manner	1.0
+include rank	1.0
 rank approximation	1.0
 residual matrix	4.0
 formula updating	1.0
@@ -23051,9 +23072,12 @@ dictionary use	1.0
 order stochastic	3.0
 constraint set	2.0
 gradient step	1.0
+dual lagrangian	2.0
+lagrangian problem	1.0
 problem provides	1.0
 complication induce	1.0
 sparsity function	1.0
+follow lagrangian	1.0
 socalled dual	2.0
 dual variable	1.0
 variable form	1.0
@@ -23080,7 +23104,6 @@ learn rely	1.0
 whole input	3.0
 enough training dataset	2.0
 many common approach	2.0
-approach include many	3.0
 realworld scenario	1.0
 data might	4.0
 assumption can	2.0
@@ -23095,7 +23118,7 @@ new data point formula	3.0
 online manner	1.0
 gradually update	1.0
 help drastically	1.0
-memory need	1.0
+memory need	2.0
 huge size	1.0
 new data become	2.0
 sparse representation learn	2.0
@@ -23187,6 +23210,7 @@ comparative study	1.0
 different paradigm	7.0
 thorough review	1.0
 assumption use	1.0
+numerous researcher	1.0
 adapt classical	2.0
 classical classification	2.0
 work within	2.0
@@ -23544,7 +23568,6 @@ mining pattern	2.0
 cluster classification	2.0
 classification query	1.0
 content anomaly	3.0
-anomaly detection	1.0
 machine learn time	3.0
 clear way	1.0
 regular time	2.0
@@ -23568,10 +23591,10 @@ vertical ax	1.0
 ax allow	2.0
 two time	1.0
 one graphic	1.0
+curve fitting	1.0
 point possibly	3.0
 possibly subject	1.0
 data point possibly	4.0
-curve fitting	1.0
 can involve	1.0
 involve either	2.0
 either interpolation	1.0
@@ -23712,7 +23735,7 @@ predict signal	2.0
 certain point	1.0
 filter estimation	1.0
 estimation theory	1.0
-digital signal	1.0
+digital signal	2.0
 timeseries can	2.0
 individual segment	1.0
 characteristic property	1.0
@@ -23772,11 +23795,11 @@ nonlinear model	1.0
 nonlinear autoregressive	2.0
 autoregressive exogenous	2.0
 exogenous model	1.0
-nonlinear time	8.0
+nonlinear time	1.0
+nonlinear time series	2.5
+nonlinear time series analysis	5.0
 time heteroskedasticity	1.0
-nonlinear time series	8.0
-nonlinear time series analysis	6.0
-nonlinear time series model	5.0
+nonlinear time series model	3.0
 represent autoregressive	2.0
 autoregressive conditional	2.0
 conditional heteroskedasticity	2.0
@@ -23817,14 +23840,14 @@ dynamic bayesian	2.0
 hmm model	1.0
 different notation	1.0
 timeseries analysis	1.0
-common notation	3.0
+common notation	1.0
 notation specify	1.0
 series x	1.0
 natural number	1.0
-notation iswhere	2.0
-iswhere t	1.0
+another common	2.0
 index set	1.0
-stationarity must	5.0
+however ideas	2.0
+stationarity must	3.0
 consider two	2.0
 two important	2.0
 important idea	1.0
@@ -23843,24 +23866,24 @@ component change	1.0
 time can	5.0
 timefrequency analysis	1.0
 timefrequency representation	1.0
-investigate timeseries	2.0
-timeseries data	4.0
+timeseries data	1.0
 series metric	1.0
 series classification	1.0
-series can	7.0
+series can	2.0
 chart overlap	1.0
 overlap chart	1.0
 separate chart	1.0
 chart display	2.0
 chart present	1.0
 different layout	1.0
+comparison purpose	1.0
 relatively common	1.0
 analysis software	1.0
 many offering	1.0
 classification pattern	2.0
 recognition aim	1.0
 can determine	1.0
-input pattern	1.1111111111111112
+input pattern	1.3333333333333333
 procedure know	1.0
 training corresponds	1.0
 unknown decision	2.0
@@ -23894,18 +23917,16 @@ category classinvariance	1.0
 mostly use	1.0
 use transformation	1.0
 transformation use	1.0
-formula parametrized	2.0
-pattern formula	2.0
+formula parametrized	1.0
+pattern formula	1.0
 invariance can	2.0
 transformation center	1.0
-equation can	3.0
+equation can	2.5
 consider classinvariance	1.0
 space instead	4.0
-problem becomes	2.0
-thatwhere formula	1.0
+problem becomes find	2.0
 membership class	1.0
 region formula	1.0
-becomes find formula	2.0
 classinvariance found	1.0
 structured input	1.0
 classifier invariant	1.0
@@ -24088,7 +24109,6 @@ requires linear	2.0
 node yielding	2.0
 complexity formula	1.0
 time complexity formula	2.0
-isan important	3.0
 k point	1.0
 metric e	1.0
 simple search	2.0
@@ -24105,8 +24125,10 @@ tree nearestneighbor	2.0
 algorithm examine	1.0
 examine node	1.0
 order start	2.0
+priority queue	1.0
+queue often	2.0
 often implement	1.0
-heap denote	4.0
+heap denote	1.0
 denote q	1.0
 k near point	2.0
 node b	1.0
@@ -24116,12 +24138,10 @@ finally return	1.0
 update version	1.0
 recursive search	1.0
 order describe	2.0
-increase likelihood	4.0
+increase likelihood	1.0
 child will	2.0
-prune entirely	2.0
-isin comparison	1.0
 structure ball	2.0
-problem particularly	3.0
+problem particularly	1.0
 dimension grows	2.0
 nearestneighbor search problem	2.0
 best nearestneighbor	2.0
@@ -24162,7 +24182,8 @@ variation include	2.0
 timevarying influence	1.0
 synthetic control	1.0
 model consists	1.0
-model seem	2.0
+main part	1.0
+model seem	1.0
 relatively complicate	1.0
 complicate mathematical	2.0
 difficult implementation	1.0
@@ -24239,7 +24260,8 @@ google brain	2.0
 brain publish	1.0
 security property	1.0
 setting one	1.0
-follow main	3.0
+follow main	2.0
+main issue	1.0
 process amount	1.0
 proactive arm	2.0
 arm race	1.0
@@ -24250,7 +24272,7 @@ designer try	1.0
 understand whether	2.0
 potential vulnerability	1.0
 additional feature	1.0
-different learn	2.0
+different learn	1.0
 however proactive	3.0
 proactive approach	1.0
 necessarily superior	1.0
@@ -24342,10 +24364,10 @@ preliminary work	1.0
 work report	1.0
 defense mechanism	1.0
 privacy attack	1.0
+adversarial machine learn	2.0
 available mainly	1.0
 testing purpose	1.0
-adversarial machine learn	4.0
-hierarchical deep	1.75
+hierarchical deep	1.8
 hierarchical label	1.5
 hierarchical deep learn	2.0
 hierarchical label data	2.0
@@ -24356,7 +24378,6 @@ provide specialized	2.0
 specialized understand	1.0
 data hierarchy	1.0
 deep learn employ	3.0
-includethe primary	3.0
 primary contribution	1.0
 traditional multiclass	3.0
 can work	1.0
@@ -24392,7 +24413,7 @@ text hdltex	1.0
 hdltex architecture	1.0
 social network	1.0
 deep learn can	3.0
-savi technology	1.5
+savi technology	1.6666666666666667
 technology wa found	2.0
 savi provide	1.0
 complete sensor	3.0
@@ -24459,6 +24480,7 @@ retail life	2.0
 life science	1.0
 manufacture industry	1.0
 savi company	1.0
+company website	1.0
 subspace learning	1.0
 multilinear subspace learning	2.0
 dimensionality reduction can	3.0
@@ -24515,9 +24537,10 @@ traditional linear	2.5
 subspace model	1.0
 common domain	1.0
 naturally somewhat	2.0
+traditional linear subspace	2.5
+however msl	1.0
 msl algorithm	7.0
 doe converge	1.0
-traditional linear subspace	2.5
 msl algorithm doe	3.0
 contrast traditional	2.0
 subspace modeling	2.0
@@ -24540,6 +24563,7 @@ jmlr say	1.0
 author retain	1.0
 publishing policy	1.0
 allow author	1.0
+design strategy	1.0
 doesnt require	1.0
 require derivative	1.0
 generally attribute	1.0
@@ -24549,15 +24573,16 @@ prior capture	1.0
 function evaluation	1.0
 acquisition function	1.0
 function often	2.0
-often also	3.0
+often also	2.0
 sample criterion	1.0
 next query	2.0
 function include	2.0
 include probability	1.0
-improvement bayesian	1.0
+expect improvement	2.0
+improvement bayesian	2.0
 bayesian expect	2.0
 loss upper	2.0
-bound ucb	1.0
+bound ucb	2.0
 ucb thompson	2.0
 tradeoff exploration	1.0
 function query	1.0
@@ -24566,7 +24591,6 @@ rank interactive	3.0
 interactive animation	1.0
 animation robotics	1.0
 robotics sensor	3.0
-sensor network	1.0
 network automatic	3.0
 automatic algorithm	2.0
 algorithm configuration	1.0
@@ -24590,7 +24614,7 @@ study algorithm	1.0
 convex regularization	2.0
 penalty may	2.0
 regularization also	2.0
-method offer	3.0
+method offer	1.0
 solve regularization	2.0
 problem application	1.0
 induce certain	2.0
@@ -24610,19 +24634,16 @@ minimizes formula	1.0
 convex differentiable	2.5
 differentiable setting	1.0
 now replace	1.0
-replace bywhere	2.0
 realvalued convex	3.0
 convex function	1.0
 convex function formula	2.0
-bywhere formula denote	2.0
 important operator	1.0
-proximity operator	3.2142857142857144
-define bywhich	1.0
-proximity operator formula	2.5
+proximity operator	2.0625
+proximity operator formula	2.0
 proximity operator can	3.0
-problem formula	1.8
+one important	2.0
 important technique	1.0
-technique relate	1.0
+technique related	1.0
 moreau decomposition	1.0
 identity operator	1.0
 two proximity	2.0
@@ -24631,7 +24652,7 @@ low semicontinuous	3.0
 semicontinuous convex	1.0
 conjugate formula	1.0
 decomposition state	1.0
-formula implies	3.5
+formula implies	1.3333333333333333
 decomposition can	2.0
 usual orthogonal	2.0
 orthogonal decomposition	1.0
@@ -24646,8 +24667,7 @@ absolute shrinkage	1.0
 formula regularization problem	2.0
 induce sparse	3.0
 lasso can	2.0
-nonconvex problemwhere	1.0
-problemwhere formula denote	2.0
+nonconvex problem	1.0
 important factor	1.0
 sparse solution can	3.0
 solution can identify	2.0
@@ -24657,16 +24677,16 @@ u compute	1.0
 alternative characterization	1.0
 compute formula	1.0
 formulath entry	1.0
-operator give	2.0
+operator give	3.0
 define entrywise	1.0
-entrywise bywhich	3.0
 soft thresholding	2.6666666666666665
 thresholding operator	1.0
 finally solve	1.0
 lasso problem	1.0
-fixed point	3.0
+fixed point	1.6666666666666667
 point equation	1.0
-equation shown	2.0
+equation shown	1.0
+shown earlier	1.0
 operator explicitly	3.0
 standard fixed	3.0
 point iteration	1.5
@@ -24704,8 +24724,10 @@ greatly improve	1.0
 improve practical	2.0
 practical algorithmic	2.0
 algorithmic performance	1.0
+iteration scheme	1.0
 allow variable	2.0
 variable step	1.0
+one can allow	2.0
 size formula instead	5.0
 numerous adaptive	2.0
 adaptive step	3.0
@@ -24730,12 +24752,9 @@ loss function need	3.0
 often avoid	1.0
 additional strictly	3.0
 convex term	1.0
-norm regularization	1.0
-problemwhere formulafor	2.0
-formulafor formula	1.0
+example one can	2.0
 now strictly	2.0
 now admit	1.0
-example one can	2.0
 minimization problem now	3.0
 additional penalty	2.0
 formula act	1.0
@@ -24803,14 +24822,20 @@ specifically crfs	1.0
 crfs find	1.0
 find application	1.0
 tag shallow	2.0
+shallow parsing	1.0
+name entity	1.0
+entity recognition	2.0
+gene finding	1.0
 critical functional	3.0
 functional region	1.0
+region finding	1.0
 relate hide	2.0
 vision crfs	1.0
-followslet formula	2.0
+random variables	1.0
+variables formula	1.0
 formula condition	1.0
 formula obey	3.0
-markov property	2.0
+markov property	1.0
 undirected graphical	2.0
 model whose	3.0
 whose node	1.0
@@ -24819,7 +24844,7 @@ variable respectively	2.0
 disjoint set formula	2.0
 general graph	1.0
 argument hold	2.0
-exist special	3.0
+exist special	2.0
 impossible several	3.0
 several algorithm	1.0
 obtain approximate	2.0
@@ -24836,7 +24861,7 @@ observe variable formula	2.0
 variable formula represent	3.0
 simple interpretation	1.0
 layout admits	1.0
-admits efficient	3.0
+admits efficient	2.0
 conditional dependency	1.0
 fix set	1.0
 can informally	2.0
@@ -24885,7 +24910,6 @@ advance ha	2.0
 ha manage	1.0
 leverage concept	1.0
 crfinfinity approach	1.0
-approach constitute	1.0
 learn infinitelylong	2.0
 infinitelylong temporal	2.0
 temporal dynamic	1.0
@@ -24898,7 +24922,6 @@ sequential observation	1.0
 novel potential function	2.0
 model computationally	2.0
 crfinfinity employ	1.0
-postulate novel	2.0
 devise efficient	2.0
 efficient approximate	2.0
 approximate training	1.0
@@ -24928,9 +24951,6 @@ ordinary linearchain	2.0
 linearchain crf	1.0
 variable h	3.0
 y use	3.0
-probabilitythis allows	1.0
-allows capture	1.0
-capture latent	2.0
 latent structure	1.0
 train using	1.3333333333333333
 using quasinewton	2.0
@@ -24941,7 +24961,6 @@ well base	4.0
 structure perceptron	2.0
 model find	1.0
 vision specifically	2.0
-shallow parsing	1.0
 implement generic	2.0
 generic crf	2.0
 crf tool	1.0
@@ -24951,7 +24970,7 @@ major discovery	2.0
 major event	1.0
 highway network	1.0
 optimize network	1.0
-use learn	2.0
+use learn	1.5
 learn gating	2.0
 gating mechanism	1.0
 regulate information	1.0
@@ -24973,10 +24992,10 @@ typically example	1.0
 possible element	1.0
 statistical asymptotic	2.0
 asymptotic theory	1.0
-empirical frequency	4.4
+empirical frequency	1.1666666666666667
 certain eventfamily	2.0
 eventfamily converge	1.0
-theoretical probability	5.75
+theoretical probability	1.0
 number say	2.0
 single event	1.0
 independent trial	1.0
@@ -24985,16 +25004,13 @@ whole family	1.0
 every event	1.0
 family converge	3.0
 probability simultaneously	2.0
-convergence theorem	1.2
+convergence theorem	1.0
 theorem give	1.0
-uniform convergence theorem	2.2
+uniform convergence theorem	2.0
 sufficiently simple	1.0
 convergence hold	1.0
 predicate formula	1.0
-formula isthe	2.0
-isthe theoretical	2.0
-formulathe uniform	3.0
-state roughly	8.0
+state roughly	2.0
 draw sample	1.0
 sample independently	2.0
 frequency will	2.0
@@ -25010,15 +25026,14 @@ chervonenkis use	3.0
 wa first prove	2.0
 formulavalued function	1.0
 positive integer	1.0
-havethe maximum	1.0
 exist since	2.0
 random permutation	1.0
 permutation can	3.0
 lemma base	1.0
-u define formula	2.0
+previous lemma	1.0
 formula iff	1.6666666666666667
 union bound	1.5
-permutation formula	1.0
+permutation formula	3.0
 equal formula	1.0
 equally likely	1.0
 finally combine	1.0
@@ -25027,14 +25042,14 @@ theory occam	1.0
 occam learning	1.0
 algorithmic learn	1.0
 receive training	2.0
-occam learnability	7.0
+occam learnability	4.0
 learnability implies	4.0
 implies pac	1.3333333333333333
 true pac	2.0
 implies occam	2.0
 implies pac learn	2.0
 pac learnability implies	3.0
-occam learnability implies	2.0
+occam learnability implies	2.5
 learnability implies pac learn	3.0
 occam learn	1.4
 principle stating	1.0
@@ -25042,7 +25057,7 @@ shorter explanation	1.0
 lengthy explanation	1.0
 mathematical justification	2.0
 first show	1.0
-blumer et	1.5
+blumer et	2.0
 blumer et al	2.0
 learn implies	1.0
 word parsimony	1.0
@@ -25052,25 +25067,24 @@ implies predictive	2.0
 short bit	1.0
 represent formula	1.0
 concept class formula	2.0
+can represent formula	2.0
 learning algorithm output	2.0
 class contain	1.0
 contain target	2.0
 hypothesis respectively	5.0
 formulaoccam algorithm	1.0
-formula using	1.5
+formula using	1.25
 iff give	1.0
-maximum length	1.0
-concept formula formula	2.0
-formula using formula	2.0
+formula using formula	3.3333333333333335
 using formula iff	4.0
+concept formula formula	2.0
 formula sample label	3.0
+maximum length	1.0
 occam algorithm	2.6666666666666665
 call efficient	1.0
 time polynomial	1.0
 occam learnable	1.0
 efficient occam	2.0
-using formulaoccam	3.0
-formulaoccam learnability	1.0
 hypothesis class formula	2.0
 implies pac learnability	2.0
 efficient formulaoccam	2.0
@@ -25079,6 +25093,7 @@ distribution formula give	3.0
 algorithm formula will	3.0
 formula will output	2.0
 give formula sample	2.0
+formula sample draw	2.0
 give formula sample draw	2.0
 pac learner	1.0
 using hypothesis	2.0
@@ -25131,7 +25146,7 @@ error probabilistic	4.0
 probabilistic concepts	2.0
 concepts function	1.0
 function learn	1.0
-concept drift	1.5833333333333333
+concept drift	1.5384615384615385
 drift mean	2.0
 predict change	1.0
 cause problem	1.0
@@ -25211,6 +25226,7 @@ biological process	1.0
 experience concept	2.0
 group home	2.0
 home page	1.0
+many paper	1.0
 publish describing	2.0
 describing algorithm	1.0
 drift detection	1.0
@@ -25242,8 +25258,8 @@ single learning	2.0
 problem see	1.0
 supervise learning problem	2.0
 major issue	1.0
+four major issue	2.0
 first issue	1.0
-four major issue	4.0
 available several	2.0
 equally good	1.0
 good train	2.0
@@ -25345,12 +25361,12 @@ spend extra	2.0
 extra time	1.0
 time tune	2.0
 additional training data	2.0
-ith example	1.0
 use learn algorithm	2.0
+ith example	1.0
 algorithm seek	1.5
 learning algorithm seek	2.5
 formula usually	2.0
-sometimes convenient	2.0
+sometimes convenient	1.0
 formula value	1.0
 score formula	1.0
 although formula	2.0
@@ -25375,8 +25391,6 @@ distribute pair	2.0
 train set consists	2.0
 function fit	1.0
 train example formula	2.0
-data asin	1.0
-asin empirical	2.0
 supervise learning algorithm seek	2.0
 supervised learning algorithm	2.0
 supervised learning algorithm can	3.0
@@ -25403,7 +25417,6 @@ norm include	1.0
 nonzero formula	1.0
 penalty will	2.0
 learning optimization	2.0
-minimizesthe parameter	2.0
 parameter formula control	2.0
 give empirical risk minimization	2.0
 choose empirically	2.0
@@ -25459,10 +25472,10 @@ group headquarter	2.0
 support commercially	1.0
 startup skymind	1.0
 tensorflow kera	1.3333333333333333
-learn library	1.0
 enterprise distribution	1.0
 skymind intelligence	2.0
 intelligence layer	1.0
+deep learn library	2.0
 skymind intelligence layer	2.0
 deeplearningj wa	2.0
 wa contribute	1.0
@@ -25659,7 +25672,6 @@ formula modulo	1.0
 density function formula	2.0
 every formula denote	2.0
 lwe consider	1.0
-formulathe lwe	2.0
 problem described	1.0
 search version	1.3333333333333333
 decision version	1.0
@@ -25747,7 +25759,6 @@ discrete gaussian distribution	2.0
 gaussian sample	1.0
 formuladimensional lattice	2.0
 efficient quantum	2.0
-integer formula	1.0
 formula give access	3.0
 peikert prove	1.0
 probabilistic polynomial	3.0
@@ -25771,10 +25782,9 @@ publickey cryptosystem	1.0
 cryptosystem base	3.0
 completely classical	1.0
 parameter use	1.0
-security isthe	2.0
-isthe cryptosystem	1.0
-correctness follow	2.0
+correctness follows	1.0
 probability analysis	1.0
+peikert propose	1.0
 secure even	2.0
 use lwe	1.0
 ring lwe	1.0
@@ -25800,8 +25810,8 @@ peikerts scheme	1.0
 call conditional	3.0
 unobserved target	2.0
 observed variable	1.0
-model also call	2.0
 target variable formula	2.0
+model also call	2.0
 probabilistic framework	1.0
 predicting formula	1.0
 distribution discriminative	1.0
@@ -25817,7 +25827,6 @@ support unsupervised	2.0
 detail ultimately	2.0
 discriminative versus	2.0
 versus generative	2.0
-machine learn include	4.0
 discriminative model use	2.0
 model whereby	2.0
 whereby model	1.0
@@ -25829,7 +25838,6 @@ simultaneously minimize	1.0
 two source	1.0
 prevent supervise	1.0
 generalize beyond	2.0
-setthe biasvariance	2.0
 algorithm expected	2.0
 expected generalization	2.0
 three term	1.0
@@ -25889,9 +25897,10 @@ countless algorithm	1.0
 training set can	3.0
 can decompose	1.0
 expect error	1.0
+unseen sample formula	2.0
 expectation range	1.0
 different choice	1.0
-unseen sample formula	2.0
+term represent	1.0
 will capture	1.0
 however complexity	1.0
 complexity will	2.0
@@ -25900,9 +25909,11 @@ error proceeds	1.0
 convenience abbreviate	2.0
 abbreviate formula	1.0
 first recall	1.0
-getsince formula	2.0
+given formula	3.0
 implies formula	1.0
-also since	3.0
+also since	2.0
+thus since	3.0
+can write	1.0
 decomposition form	1.0
 conceptual basis	1.0
 regression regularization	1.0
@@ -25944,9 +25955,8 @@ introduce additional	2.0
 additional variance	1.0
 tunable parameter	1.0
 control bias	1.0
-use mixture	2.0
-ensemble learn	5.0
 learn algorithm typically	3.0
+use mixture	2.0
 example boost	2.0
 boost combine	1.0
 combine many	2.0
@@ -26069,33 +26079,38 @@ hilbert space can	6.0
 regularize empirical risk function	2.0
 follow representer	2.0
 schlkopf herbrich	1.0
+theorem let	1.0
 nonempty set	1.0
 positivedefinite realvalued	1.5
 realvalued kernel	1.0
+theorem let formula	3.0
 positivedefinite realvalued kernel	2.0
 strictly monotonically	1.5
 monotonically increasing	2.0
 increasing realvalued	1.0
-arbitrary empirical	2.5
+arbitrary empirical	3.0
 realvalued function formula	2.0
 risk function formula	2.0
-arbitrary empirical risk	2.5
-empirical risk function formula	2.0
-arbitrary empirical risk function formula	2.5
-kernel thenwhere	2.0
+arbitrary empirical risk	3.0
+empirical risk function formula	2.5
+arbitrary empirical risk function formula	3.0
+formula admits	1.0
 use orthogonal	2.0
 orthogonal projection	1.0
 function one	1.0
 one lie	1.0
+orthogonal complement	1.0
 formula one can use	2.0
-property together	2.0
+property together	3.0
 together show	1.0
 apply formula	1.0
-training point formula	2.0
+training point formula	3.0
+point formula produce	2.0
 likewise independent	1.0
 term since	2.0
 strictly monotonic	1.0
-set formula doe	5.0
+therefore setting	2.0
+setting formula	1.0
 desired result	1.0
 collectively refer	1.0
 describe several	2.0
@@ -26162,9 +26177,7 @@ include empirical	2.0
 minimization without	1.0
 square loss formula	2.0
 given distribution	2.0
-formula isin	2.5
 drawn independently	1.0
-function formula isin	3.0
 call consistent	1.0
 formula probabilistically	1.0
 probabilistically converge	1.0
@@ -26198,9 +26211,10 @@ without restriction	1.0
 always exist	1.0
 exist bad	2.0
 bad distribution	1.0
-make statement	2.0
+make statement	1.0
+must either	1.0
 latter approach	1.0
-approach lead	2.0
+approach lead	1.0
 small hypothesis	2.0
 inference process	1.0
 process meaning	1.0
@@ -26225,7 +26239,6 @@ particular finite	1.0
 paclearnable class	1.0
 binary function	1.0
 function function	1.0
-sizeformulawhere formula	1.0
 setting sample	3.0
 include active	2.0
 specifically choose	1.0
@@ -26250,6 +26263,8 @@ long history	1.0
 psychological literature	1.0
 although formal	2.0
 formal tie	1.0
+earliest cited	2.0
+cited work	1.0
 learning publish	1.0
 special issue	1.0
 issue devote	1.0
@@ -26258,6 +26273,7 @@ learn along	1.0
 formal analysis	1.0
 journal machine learning	2.0
 journal connection	1.0
+connection science	1.0
 notably scientist	2.0
 develop algorithm	1.0
 transfer learning	1.0
@@ -26288,7 +26304,6 @@ across data	1.0
 data span	2.0
 span cultural	2.0
 cultural domain	1.0
-domain include	3.0
 include music	2.0
 music film	3.0
 film television	1.0
@@ -26394,6 +26409,7 @@ sample come	1.0
 two domain	1.0
 little error	1.0
 target domain	1.0
+target domain formula	2.0
 correctly label data	2.0
 label data come	2.0
 information consider	1.0
@@ -26401,6 +26417,7 @@ source label	1.0
 label sample	1.0
 target sample	1.0
 error measure	1.0
+measure consider	2.0
 adapt consists	1.0
 target example	1.0
 need target	2.0
@@ -26430,8 +26447,8 @@ multisequence alignment	1.0
 first cluster	1.0
 cluster similar	2.0
 similar sentence	1.0
-sentence together	2.0
-together use	1.0
+sentence together	1.0
+together use	2.0
 use ngram	2.0
 ngram overlap	1.0
 recur pattern	1.0
@@ -26648,6 +26665,7 @@ context require	1.0
 qualitative property	1.0
 specify characteristic	1.0
 typical binary	2.0
+binary classification include	5.0
 practical binary	3.0
 symmetric rather	1.0
 relative proportion	1.0
@@ -26659,9 +26677,9 @@ categorize new	2.0
 new probabilistic	2.0
 probabilistic observation	1.0
 statistical binary	2.0
-select domain	1.0
-domain base	3.0
 method commonly use	2.0
+select domain	1.0
+domain base	2.0
 example random	1.0
 forest perform	1.0
 d point	2.0
@@ -26795,11 +26813,14 @@ previously labeled	1.0
 assign label	1.0
 sample include	2.0
 include sample	1.0
+previously see	1.0
 theory study	1.0
 bound computational learning theory	3.0
-often rely	1.0
+often rely	2.0
 commonly believe	1.0
+negative result often	3.0
 several different approach	2.0
+inference principle	1.0
 principle use	1.0
 limited data	1.0
 include different	2.0
@@ -26807,11 +26828,10 @@ probability see	1.0
 see frequency	3.0
 frequency probability	1.0
 probability bayesian	2.0
-include computational	3.0
+different approach include	2.0
 several practical	2.0
 practical algorithm	1.0
 computational learning theory ha	3.0
-different approach include	2.0
 example pac	2.0
 pac theory	1.0
 theory inspired	1.0
@@ -26892,8 +26912,10 @@ appears different	1.0
 length principle	1.0
 closer inspection	1.0
 event b	1.0
-b happen	3.0
+b happen	2.0
 firstly event	1.0
+length l	1.5
+message length l	2.0
 give describe	1.0
 raw probability	1.0
 information describing	4.0
@@ -26929,8 +26951,6 @@ short computer	2.0
 program may	2.0
 computer program may	3.0
 program k	1.0
-probability isthe	2.0
-isthe length	1.0
 short program	1.3333333333333333
 kolmogorov complexity	1.0
 halting problem	1.0
@@ -27083,7 +27103,7 @@ reason prior	3.0
 probability rather	1.0
 full theoretical	2.0
 theoretical treatment	1.0
-probability combine	2.0
+probability combine	1.0
 combine two	2.0
 two different approach	2.0
 approach give	1.0
@@ -27107,13 +27127,13 @@ statement probability	1.0
 probability associate	2.0
 extra bit	1.0
 bit halve	1.0
-conclusion thatwhere	1.0
 bit formula	1.0
 bit need	1.0
 also information	2.0
 two statement	1.0
 statement formula	1.0
 separate encoding	1.0
+two statement formula	2.0
 short method	1.0
 encoding formula	1.0
 probability law	1.0
@@ -27135,10 +27155,10 @@ total probability	1.0
 various scenario	1.0
 will usually	2.0
 accurate probability	2.0
-huffman code	1.0
-code must	3.0
-must distinguish	1.0
 sub expression	1.0
+huffman code	1.0
+code must	2.0
+must distinguish	1.0
 initially constant	2.0
 later constant	2.0
 constant may	2.0
@@ -27166,8 +27186,7 @@ statement may	2.0
 boolean statement	2.0
 statement b	1.0
 outcome define	1.0
-outcome beach	1.0
-beach probability	1.0
+outcome b	4.0
 always associated	1.0
 particular point	1.0
 probability depend	1.0
@@ -27176,13 +27195,15 @@ fact limit	1.0
 outcome consistent	1.0
 true give	1.0
 sense conditional	1.0
-approach probability	1.0
-outcome within	2.0
+approach probability	2.0
+outcome within	3.0
 possible world model	2.0
 world divide	1.0
+use symmetry	1.0
 equation may	3.0
 information bayes	1.0
-isthen bayes	2.0
+theorem becomes	4.0
+bay theorem	2.0
 theorem reduces	1.0
 exclusive possibility	1.0
 possibility formula	1.0
@@ -27190,20 +27211,19 @@ posterior probability must	7.0
 mutually exclusive possibility	2.0
 substitute using	2.0
 using bayes	1.0
-total probabilitythis	2.0
-probabilitythis result	1.0
-extend form	1.3333333333333333
-usual form	1.0
-theorem use	2.0
 bayes theorem give	2.0
+extend form	1.2
+usual form	1.0
+theorem use	1.0
 probability add	1.0
+follow equation	1.0
 theorem may	2.3333333333333335
 theory h	2.5
 h give	1.0
-fact f	5.0
-statement f	3.0
+fact f	2.0
+bayes theorem may	2.6666666666666665
+statement f	4.0
 f may	2.0
-formulaformula represent	1.0
 represent f	1.0
 f without	3.0
 fact ha	3.0
@@ -27221,22 +27241,19 @@ proper estimate	1.0
 estimate may	2.0
 mutually exclusive hypothesis	2.5
 give evidence	1.0
+exclusive hypothesis formula	2.0
 hypothesis r	1.0
-true thenin	2.0
-thenin term	1.0
 good approximation	1.0
+mean formula give	2.0
+abductive inference	1.0
 inference start	1.0
 statement boolean	2.0
-exclusive hypothesis formula	2.0
 abductive reasoning	1.0
-formthe theory	1.0
-theory t	1.3333333333333333
+theory t	1.0
 t also	2.0
-condition f	3.5
+condition f	2.0
 apple fall	1.0
-formin term	1.0
-abductive inference	1.0
-class c	6.0
+class c	7.0
 property p	6.0
 observed condition	1.0
 common usage	1.0
@@ -27277,9 +27294,11 @@ use inductive	2.0
 inductive argument	1.0
 replace apple	1.0
 two body	1.0
+body system	1.0
 theory explain	1.0
 object fall	2.0
 strong evidence	1.0
+second observation	1.0
 acceleration follow	1.0
 inverse square	2.0
 square law	1.0
@@ -27288,61 +27307,62 @@ will follow	1.0
 inverse square law	2.0
 induction give	1.0
 object drop	1.0
-vector towards	3.0
+vector towards	2.0
 use newton	1.0
-newton third	3.0
+newton third	4.0
 third law	1.0
-determines condition	1.0
-condition probability	3.0
+law formula	1.0
+implication determines	2.0
+determines condition	2.0
+condition probability	1.5
 probability give	1.0
 bayesian hypothesis	2.0
-single theory	3.0
+single theory	2.0
 h t	1.0
-t andor	1.0
-theory formula	1.0
-program formula	3.0
+theory formula	2.0
+program formula	1.0
 distinct infinite	2.0
 infinite string	1.0
 short program formula	2.0
 program formula give	3.0
-extended form	1.0
 form relies	1.0
 distinct possibility	1.0
 different infinite	2.0
 condition formula must	4.0
 one program	1.0
-formula thenthe	2.0
-x provide	4.0
-isa model	2.0
+x provide	5.0
 word represent	1.0
 string c	1.0
 string identical	2.0
 condition x	1.0
 simple condition	1.0
 implies c	3.0
+call t	1.0
 follow must	2.0
 must hold	1.0
 hold formula	1.0
 event space	1.0
-bayes theorem may	3.5
 apply bayes theorem	3.0
 string n	3.0
 may belong	2.0
 two theory	1.0
+secondly prove	1.0
 t include	1.0
 outcomes consistent	1.0
-c hold	1.0
+specified give	1.0
 condition probability law	3.0
+event satisfy	1.0
+c hold	1.0
 less probable	1.0
 theory without	2.0
 without predictive	2.0
 c write	1.0
-formulathe probability	1.0
 condition wa	3.0
 string give	1.0
 well included	1.0
 random case	1.0
 new definition	1.0
+use f	1.0
 improve version	1.0
 ray solomonoffs	3.0
 universal inductive	2.0
@@ -27356,8 +27376,9 @@ computable probability	2.0
 mathematical formalization	1.0
 multiple explanation	1.0
 completely bayesian	1.0
-priori probability	3.0
+priori probability	2.0
 hypothesis will	2.0
+bay rule	2.0
 causation can	3.0
 particular computable	2.0
 computable sequence	1.0
@@ -27381,7 +27402,6 @@ roughly decrease	1.0
 program otherwise	4.0
 otherwise s	1.0
 s will	4.0
-length l	2.0
 long program	1.0
 fundamental ingredient	1.0
 sequence x	1.0
@@ -27404,6 +27424,7 @@ mathematical limit	1.0
 another direction	1.0
 develop since	2.0
 general scenario	1.0
+follow give	2.0
 class s	1.0
 computable function	1.0
 fn output	1.0
@@ -27552,6 +27573,7 @@ machine always	2.0
 always informs	1.0
 computer always	2.0
 case whether	4.0
+computed result	1.0
 continue computation	1.0
 indeed everyday	2.0
 everyday desktop	4.0
@@ -27601,7 +27623,6 @@ identity information	1.0
 implement mixture	2.0
 model involve	3.0
 involve step	1.0
-attribute postulate	2.0
 weight towards	2.0
 cluster procedure	1.0
 inference procedure involve	2.0
@@ -27620,9 +27641,10 @@ mixture model can	3.0
 typical finitedimensional	3.0
 finitedimensional mixture	1.0
 model consisting	1.0
-bayesian set	2.0
+follow component	1.0
+bayesian set	1.0
 mixture weight	1.0
-parameter will	2.5
+parameter will	4.0
 distribution will	2.0
 typically view	1.0
 kdimensional random	1.0
@@ -27631,13 +27653,11 @@ dirichlet distribution	1.0
 respective conjugate	2.0
 basic parametric	3.0
 parametric mixture	2.0
-followsthis characterization	2.0
-characterization us	1.0
-us f	3.0
-describe arbitrary	2.0
-parameter respectively	4.0
 parametric mixture model	2.3333333333333335
 parametric mixture model can	4.0
+characterization use	1.0
+describe arbitrary	2.0
+parameter respectively	4.0
 typically h	2.0
 h will	2.0
 gaussian aka	1.0
@@ -27645,15 +27665,12 @@ aka normal	1.0
 realvalued observation	1.0
 discrete observation	1.0
 common possibility	1.0
-mixture component	1.3333333333333333
-component area	1.0
-area typical	5.0
-typical nonbayesian	2.5
-nonbayesian gaussian	2.0
+mixture component	1.0
+typical nonbayesian	3.5
+nonbayesian gaussian	1.0
 model look	1.0
 bayesian version	1.0
-followsa bayesian	2.0
-bayesian gaussian	2.0
+bayesian gaussian	3.0
 commonly extended	1.0
 parameter denote	1.0
 multivariate distribution	1.0
@@ -27661,19 +27678,18 @@ may model	1.0
 several observation	1.0
 patch within	4.0
 image use	1.0
-model prior	10.0
-vector component	2.0
+model prior	3.0
 n random variable	2.0
 random variable one	3.0
+vector component	1.0
 covariance matrix formula	3.0
-estimate give bywhere	2.0
 weight formula mean	3.0
 bayesian estimation	1.0
 known distribution	1.0
 formula conditioned	1.0
+posterior distribution formula	2.0
 update use	1.0
 em algorithm	1.0
-posterior distribution formula	2.0
 new parameter formula	2.0
 image representation	1.0
 gaussian may	2.0
@@ -27694,24 +27710,18 @@ accurately model	1.0
 give image	2.0
 image distribution	1.0
 nonbayesian mixture	1.0
-categorical observation	7.0
-observation look	5.0
-like thisthe	4.0
-thisthe random	4.0
+categorical observation	1.0
+observation look	2.0
+observation look like	4.0
+categorical observation look like	5.0
 typical bayesian	2.0
 bayesian mixture	2.0
-return often	2.0
+financial return	1.0
+return often	1.0
 often behave	1.0
 behave differently	1.0
 normal situation	1.0
 crisis time	1.0
-observation look like	5.0
-look like thisthe	4.0
-observation look like thisthe	5.0
-look like thisthe random	4.0
-categorical observation look like thisthe	7.0
-observation look like thisthe random	5.0
-categorical observation look like thisthe random	7.0
 data seem	2.0
 seem reasonable	1.0
 two normal	1.6666666666666667
@@ -27773,7 +27783,7 @@ constant compute	2.0
 new image	1.0
 possible digit	1.0
 trivial calculation	1.0
-model apply	2.0
+model apply	1.0
 direct multiple	2.0
 multiple projectile	9.0
 air land	1.0
@@ -27826,6 +27836,7 @@ local volatility	2.0
 volatility model	1.0
 mixture modelbased	2.0
 modelbased clustering	1.0
+predictive maintenance	1.0
 density plot	1.0
 dimensional feature	1.0
 multimodel density	1.0
@@ -28013,10 +28024,10 @@ calculate expectation	2.0
 expectation value	1.0
 membership variable	1.0
 membership value	1.0
-membership plugin	2.0
+membership value y	2.0
+membership plugin	1.0
 plugin estimate	1.0
 distribution parameter	1.0
-membership value y	2.0
 mixing coefficient	1.0
 component model	2.0
 also calculate	1.0
@@ -28093,14 +28104,15 @@ contain data point	2.0
 learn mixture model	2.0
 k singular	2.0
 subspace span	1.0
-vector group	5.0
+vector group	1.0
 point originate	1.0
 far apart	1.0
 one distinctive	2.0
+distribution satisfy	1.0
 satisfy certain	2.0
 certain separation	2.0
 separation condition	1.0
-condition e	5.0
+condition e	3.0
 estimate mixture	1.0
 mixture will	2.0
 true one	1.0
@@ -28123,18 +28135,19 @@ can even	2.0
 even probably	2.0
 probably learn	1.0
 distribution include	2.0
+infinite variance	1.0
 variance see	1.0
 see link	1.0
 set em	1.0
 em base	3.0
-diverge due	2.0
+diverge due	3.0
 size n	2.0
 distribution f	5.0
-probability p	3.0
+probability p	2.0
 setting additional	3.0
 additional level	1.0
 level can	2.0
-model defining	1.0
+graphical model define	2.0
 common latent	2.0
 allocation topic	1.0
 word drawn	1.0
@@ -28304,6 +28317,7 @@ tuple uncertainty	1.0
 relevant relation	1.0
 example assume	1.0
 follow tuple	1.0
+probabilistic database	1.0
 learning mtl	1.0
 difference across	3.0
 multiple learning task	2.0
@@ -28311,8 +28325,8 @@ improve learn	1.0
 learn efficiency	1.0
 taskspecific model	1.0
 model separately	2.0
-widely cite	1.0
-cite paper	3.0
+widely cited	1.0
+cited paper	3.0
 paper rich	1.0
 domain information	1.0
 information contain	1.0
@@ -28486,7 +28500,7 @@ ciliberto et al	2.0
 formula index	2.0
 index task	1.0
 consistent input	2.0
-regularize machine	1.0
+regularized machine	1.0
 vector value	1.0
 value reproduce	1.0
 component formula	1.5
@@ -28502,7 +28516,6 @@ relate scalar	2.0
 scalar component	2.0
 vector valued	3.0
 valued function	1.0
-can write	1.0
 write formula	1.0
 scalar reproducing	2.0
 semidefinite formula	2.0
@@ -28524,16 +28537,15 @@ row formula	1.0
 formula empirical kernel	2.0
 empirical kernel matrix	2.0
 kernel equation	1.0
-rewrite aswhere	2.0
-weighted average	1.0
 formula applied	1.0
 applied entrywise	1.0
 missing observation	1.0
+formula reproduce	2.0
 three largely	3.0
 largely equivalent	1.0
 equivalent ways	1.0
 represent task	2.0
-output metric	1.0
+output metric	2.0
 output mapping	1.0
 rkhs base	2.0
 scalar kernel	2.0
@@ -28555,14 +28567,14 @@ structure easily	3.0
 one can represent	2.0
 admit learning	1.0
 task matrix	1.0
-learn matrix	1.0
-give type	1.0
 learning task matrix	2.0
+given type	1.0
 see special	2.0
 convex loss	1.0
 penalty ciliberto	1.0
 convex jointly	1.0
 convex set	1.0
+equivalent problem	1.0
 perturbation via	2.0
 barrier formula	1.0
 formula force	1.0
@@ -28841,7 +28853,6 @@ biological knowledge	1.0
 biological data collection	2.0
 extraction task	1.0
 task using	2.0
-useful information	1.0
 learning capable	1.0
 extract feature	1.0
 clinical narrative	2.0
@@ -28872,7 +28883,7 @@ dna region	1.0
 region give	1.0
 give sufficient	2.0
 sufficient reference	2.0
-catastrophic interference	1.3333333333333333
+catastrophic interference	1.1363636363636365
 interference also	2.0
 catastrophic forgetting	1.3333333333333333
 forget previously	2.0
@@ -29024,17 +29035,19 @@ manipulation satisfactorily	1.0
 satisfactorily reduce	1.0
 interference exhibit	1.0
 overall mccloskey	1.0
-cohen conclude	1.0
+cohen conclude	2.0
 ratcliff use	1.0
 multiple set	1.0
 standard recognition	3.0
 recognition memory	1.0
 memory procedure	1.0
 sequentially learn	1.0
-backpropagation model apply	4.0
+backpropagation model apply	2.0
 recognition performance	1.0
 performance model	1.0
 find two	2.0
+two major problem	2.0
+even one	1.0
 information result	1.0
 significant loss	1.0
 old information	3.5
@@ -29119,19 +29132,20 @@ study find	1.0
 empirical support	1.0
 successfully reduce	1.0
 reduce catastrophic	2.0
+reduce catastrophic interference	2.0
+french propose	1.0
 interference arises	1.0
 feedforward backpropagation	2.0
 network due	3.0
 node activation	1.0
 activation overlap	2.4285714285714284
-reduce catastrophic interference	2.0
 average share	2.0
 share activation	1.0
 layer calculate	1.0
 low activation	1.3333333333333333
 use binary	2.0
 input row	1.0
-activation value	1.3333333333333333
+activation value	1.0
 indicate full	2.0
 full activation	2.0
 activation value will	5.0
@@ -29140,7 +29154,7 @@ show catastrophic interference	2.0
 pattern will	2.0
 will create	1.0
 layer representation	1.0
-one node	5.5
+one node	5.0
 differ input	1.0
 distributed network	1.0
 semidistributed representation	1.0
@@ -29163,11 +29177,11 @@ layer weight	1.0
 activation change	1.0
 change similar	2.0
 error backpropagation	1.0
-node backpropagation	2.0
+node backpropagation	1.0
 node wa	2.0
 wa sharpened	1.0
 sharpened french	1.0
-french find	5.0
+french find	4.0
 sharpening paradigm	1.0
 network take	1.0
 one fourth	1.0
@@ -29236,10 +29250,10 @@ second layer	3.0
 layer hidden	1.0
 output unit	1.0
 modify delta	2.0
-vector replace	4.0
+vector replace	3.0
 value sum	1.0
 lessen forgetting	2.0
-presented sequentially	1.0
+present sequentially	1.0
 target response	1.0
 hetherington argue	2.0
 human unlike	2.0
@@ -29311,7 +29325,6 @@ create internal	2.0
 thus pretraining	1.0
 simple way	1.0
 reduce catastrophic forgetting	2.0
-french propose	1.0
 pseudorecurrent backpropagation	2.0
 interference see	1.0
 interact subnetworks	1.0
@@ -29331,7 +29344,7 @@ long term memory storage	3.0
 store can	3.0
 bring back	1.0
 renew activation	1.0
-pseudorecurrent network	2.6666666666666665
+pseudorecurrent network	1.0
 network one	1.0
 subnetworks act	1.0
 early process	1.25
@@ -29358,7 +29371,6 @@ integrate new	2.0
 information without	4.0
 without disruption	1.0
 teacher value	1.0
-followswhen test	1.0
 sequential learning	1.3333333333333333
 world pattern	1.0
 pattern categorization	1.0
@@ -29565,27 +29577,26 @@ perceptrons support	1.0
 basic form	1.0
 p explanatory	2.0
 predictor function formula	2.0
-n iswhere	1.0
 coefficient regression	3.0
 coefficient weight	1.0
-weight etc	1.0
+weight etc	2.0
 relative effect	1.0
 particular explanatory	2.0
 compact form	1.0
-followsthis make	1.0
 equivalent form	3.0
 form using	1.0
 using matrix	2.0
-pby column	12.0
+pby column	9.0
 column vectors	1.0
 matrix transpose	1.0
-byp row	6.0
-row vector	6.0
+byp row	5.0
+row vector	5.0
 indicates matrix	2.0
 column vector	1.0
-byp row vector	6.0
+byp row vector	5.0
 continuous outcome	2.0
 outcome y	1.0
+relationship write	1.0
 error variable	2.0
 unobserved random	1.0
 add noise	1.0
@@ -29602,7 +29613,6 @@ square use	1.0
 simple matrix	2.0
 matrix operation	1.0
 square can	4.0
-followsthe matrix	2.0
 optimal coefficient formula	2.0
 matrix inverse	1.0
 full rank	1.0
@@ -29644,7 +29654,7 @@ particular need	1.0
 matter although	4.0
 kdimensional output	2.0
 k separate	2.0
-function rbfs	2.0
+function rbfs	1.0
 transform version	1.0
 c increase	2.0
 possible usage	1.0
@@ -29704,7 +29714,6 @@ give value	6.0
 ab o	2.0
 separate twoway	3.0
 twoway dummy	1.0
-variable isa	1.0
 separate regression	2.0
 k category	1.0
 k dummy	2.0
@@ -29721,3 +29730,14 @@ andor introduce	1.0
 regularization constraint	1.0
 powerful typically	3.0
 typically iterative	1.0
+inferential theory	1.0
+learn itl	1.0
+describe inferential	2.0
+inferential process	1.0
+process perform	1.0
+itl ha	2.0
+itl learning	2.0
+search inference	1.0
+space guide	1.0
+specific goal	1.0
+learn need	1.0
